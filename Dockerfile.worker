@@ -1,0 +1,16 @@
+# AI worker image for Fly / local container runs.
+# Uses full npm ci so tsx (devDependency) is available to run TypeScript.
+FROM node:20-alpine
+
+WORKDIR /app
+
+COPY package.json package-lock.json ./
+RUN npm ci
+
+COPY . .
+
+ENV NODE_ENV=production
+ENV TOLADOT_ENV=pilot
+
+# Secrets via host (fly secrets / -e). Never bake credentials into the image.
+CMD ["npx", "tsx", "scripts/ai-worker/index.ts"]

@@ -1,0 +1,32 @@
+# Toladot AI worker — Pilot Internet (placeholder app name).
+# Set secrets with: fly secrets set KEY=value
+# Required runtime secrets (never service-role):
+#   NEXT_PUBLIC_SUPABASE_URL, NEXT_PUBLIC_SUPABASE_ANON_KEY,
+#   AI_WORKER_EMAIL, AI_WORKER_PASSWORD, AI_WORKER_SECRET,
+#   AI_LLM_PROVIDER, OPENAI_API_KEY (when openai)
+
+app = "toladot-ai-worker-pilot"
+primary_region = "ord"
+
+[build]
+  dockerfile = "Dockerfile.worker"
+
+[env]
+  TOLADOT_ENV = "pilot"
+  NODE_ENV = "production"
+
+[processes]
+  worker = "npx tsx scripts/ai-worker/index.ts"
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = false
+  auto_start_machines = true
+  min_machines_running = 1
+  processes = ["worker"]
+
+[[vm]]
+  size = "shared-cpu-1x"
+  memory = "512mb"
+  processes = ["worker"]

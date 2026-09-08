@@ -1,0 +1,14 @@
+# Toladot Phase 0 — remote non-production Supabase project.
+# Local Docker is not required for Phase 0.
+
+[project]
+id = "toladot-phase0"
+
+[api]
+enabled = true
+
+[db]
+major_version = 15
+
+[auth]
+enabled = true

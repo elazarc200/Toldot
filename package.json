@@ -1,0 +1,53 @@
+{
+  "name": "toladot",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "test:rls": "vitest run --config vitest.rls.config.ts",
+    "bootstrap:editor": "tsx scripts/bootstrap-editor.ts",
+    "bootstrap:ai-worker": "tsx scripts/bootstrap-ai-worker.ts",
+    "ai-worker": "tsx scripts/ai-worker/index.ts"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.12.6",
+    "@supabase/supabase-js": "^2.115.0",
+    "graphology": "^0.26.0",
+    "maplibre-gl": "^6.7.0",
+    "next": "^15.5.25",
+    "pino": "^10.3.1",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "server-only": "^0.0.1",
+    "sigma": "^3.0.3",
+    "zod": "^4.5.4"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.7",
+    "@playwright/test": "^1.63.0",
+    "@testing-library/jest-dom": "^7.0.1",
+    "@testing-library/react": "^16.3.3",
+    "@testing-library/user-event": "^14.6.7",
+    "@types/node": "^26.4.1",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "dotenv": "^17.4.2",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^15.5.25",
+    "jsdom": "^29.1.1",
+    "tsx": "^4.23.13",
+    "typescript": "^5.9.2",
+    "vitest": "^5.0.0"
+  }
+}

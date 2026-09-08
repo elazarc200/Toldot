@@ -1,0 +1,89 @@
+# MVP CI — no RLS/e2e here (those need secrets; run locally or in a secrets-backed job).
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Unit tests
+        run: npm test
+
+      - name: Build
+        run: npm run build
+        env:
+          NEXT_PUBLIC_SUPABASE_URL: https://example.supabase.co
+          NEXT_PUBLIC_SUPABASE_ANON_KEY: anon-ci-placeholder
+          TOLADOT_ENV: local
+          NEXT_PUBLIC_TOLADOT_ENV: local
+
+      - name: Secret scan
+        run: |
+          set -euo pipefail
+          # Fail if sensitive files somehow appear in the tree as tracked paths
+          if git ls-files | grep -E '(^|/)\.env\.local$|\.pem$|\.msi$'; then
+            echo "Forbidden secret-like path is tracked by git"
+            exit 1
+          fi
+          # Fail if service_role patterns appear under src (exclude redaction lists
+          # and comments that only prohibit / document absence of the key).
+          if grep -RInE 'service[_-]?role|SERVICE_ROLE' src \
+            --exclude-dir=node_modules \
+            | grep -vE 'redact|blockedKeys|\[redacted\]|sanitize|logger\.ts' \
+            | grep -vE 'Never |never |Must NOT|No service-role|no service-role|must not require'; then
+            echo "Possible service_role leak pattern under src/"
+            exit 1
+          fi
+          echo "Secret scan OK"
+
+      - name: Migration integrity
+        run: |
+          set -euo pipefail
+          # Intentional gap: no 20260908120500_* migration (between 120400 and 120600).
+          mapfile -t files < <(ls -1 supabase/migrations/*.sql | xargs -n1 basename | sort)
+          if [ "${#files[@]}" -eq 0 ]; then
+            echo "No migrations found"
+            exit 1
+          fi
+          prev=""
+          for f in "${files[@]}"; do
+            ts="${f%%_*}"
+            if ! [[ "$ts" =~ ^[0-9]{14}$ ]]; then
+              echo "Migration missing 14-digit timestamp prefix: $f"
+              exit 1
+            fi
+            if [ -n "$prev" ] && [[ "$ts" < "$prev" ]]; then
+              echo "Migrations not sorted by timestamp: $prev then $ts ($f)"
+              exit 1
+            fi
+            if [ "$ts" = "$prev" ]; then
+              echo "Duplicate migration timestamp: $ts"
+              exit 1
+            fi
+            prev="$ts"
+          done
+          # Confirm intentional gap 120500 is absent
+          if ls supabase/migrations/20260908120500_*.sql 1>/dev/null 2>&1; then
+            echo "Unexpected migration at intentional gap 120500"
+            exit 1
+          fi
+          echo "Migration integrity OK (${#files[@]} files; intentional gap 120500 noted)"
