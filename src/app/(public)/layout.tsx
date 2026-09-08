@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import { PublicHeader } from "@/components/public-ui";
+import { DesignHeader } from "@/components/design-header";
+import "@/styles/design-system.css";
 import { shouldDisallowSearchIndexing } from "@/lib/toladot-env";
 
 const disallowIndex = shouldDisallowSearchIndexing();
@@ -19,11 +20,11 @@ export const metadata: Metadata = {
 export default function PublicLayout({ children }: { children: React.ReactNode }) {
   return (
     <>
-      <a className="sr-only" href="#main">
+      <a className="td-skip-link" href="#main">
         דלג לתוכן
       </a>
-      <PublicHeader />
-      <div id="main">{children}</div>
+      <DesignHeader />
+      <div id="main" tabIndex={-1}>{children}</div>
     </>
   );
 }
