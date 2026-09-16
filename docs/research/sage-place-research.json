@@ -1,0 +1,5422 @@
+{
+  "generatedAt": "2026-09-16",
+  "method": "Primary rabbinic sources preferred; Sefaria links; secondary for discovery only; no invented links",
+  "newPlaces": [
+    {
+      "slug": "antipatris",
+      "nameHe": "אנטיפטריס",
+      "todayHe": "תל אפק / ראש העין",
+      "overviewHe": "תחנה בדרך בין ירושלים לקיסרין; נזכרת במסורות על שמעון הצדיק ואלכסנדר מוקדון.",
+      "identification": "identified",
+      "identificationNoteHe": "מזוהה עם תל אפק (אנטיפטריס) סמוך לראש העין.",
+      "locations": [
+        {
+          "id": "antipatris",
+          "lng": 34.9305,
+          "lat": 32.1048,
+          "label": "אנטיפטריס",
+          "disputed": false
+        }
+      ],
+      "sourceIds": []
+    },
+    {
+      "slug": "alexandria",
+      "nameHe": "אלכסנדריה",
+      "todayHe": "אלכסנדריה, מצרים",
+      "overviewHe": "מרכז יהודי גדול במצרים; נזכרת בבריחות ובמסעות של חכמים.",
+      "identification": "identified",
+      "identificationNoteHe": "העיר ההלניסטית־רומית במצרים; נקודה עירונית כללית.",
+      "locations": [
+        {
+          "id": "alexandria",
+          "lng": 29.9187,
+          "lat": 31.2001,
+          "label": "אלכסנדריה",
+          "disputed": false
+        }
+      ],
+      "sourceIds": []
+    },
+    {
+      "slug": "arbel",
+      "nameHe": "ארבל",
+      "todayHe": "הר ארבל / כפר ארבל",
+      "overviewHe": "יישוב בגליל התחתון הקשור למסורות על ניטאי הארבלי.",
+      "identification": "identified",
+      "identificationNoteHe": "מזוהה עם אזור ארבל ממערב לכנרת.",
+      "locations": [
+        {
+          "id": "arbel",
+          "lng": 35.501,
+          "lat": 32.824,
+          "label": "ארבל",
+          "disputed": false
+        }
+      ],
+      "sourceIds": []
+    },
+    {
+      "slug": "ashkelon",
+      "nameHe": "אשקלון",
+      "todayHe": "אשקלון",
+      "overviewHe": "עיר חוף פלשתית־רומית המופיעה בהקשרים תנאיים ואמוראיים.",
+      "identification": "identified",
+      "identificationNoteHe": "נקודה באזור אשקלון העתיקה.",
+      "locations": [
+        {
+          "id": "ashkelon",
+          "lng": 34.5715,
+          "lat": 31.6693,
+          "label": "אשקלון",
+          "disputed": false
+        }
+      ],
+      "sourceIds": []
+    },
+    {
+      "slug": "arav",
+      "nameHe": "ערב",
+      "todayHe": "עראבה שבגליל",
+      "overviewHe": "יישוב בגליל המזוהה עם חנינא בן דוסא ועם פעילות רבן יוחנן בן זכאי.",
+      "identification": "identified",
+      "identificationNoteHe": "זיהוי מקובל עם עראבה בגליל התחתון; אינו ודאי לחלוטין.",
+      "locations": [
+        {
+          "id": "arav",
+          "lng": 35.3386,
+          "lat": 32.8508,
+          "label": "ערב / עראבה",
+          "disputed": false
+        }
+      ],
+      "sourceIds": []
+    },
+    {
+      "slug": "modiim",
+      "nameHe": "מודיעים",
+      "todayHe": "אזור מודיעין",
+      "overviewHe": "מקום מוצא המיוחס לאלעזר המודעי על פי כינויו.",
+      "identification": "identified",
+      "identificationNoteHe": "זיהוי כללי באזור מודיעין העתיקה; מיקום מדויק אינו ודאי.",
+      "locations": [
+        {
+          "id": "modiim",
+          "lng": 35.013,
+          "lat": 31.89,
+          "label": "מודיעים",
+          "disputed": false
+        }
+      ],
+      "sourceIds": []
+    },
+    {
+      "slug": "beitar",
+      "nameHe": "ביתר",
+      "todayHe": "בתיר / ח׳רבת אל־יהוד",
+      "overviewHe": "מעוז המרד בבר כוכבא; קשורה לאלעזר המודעי במסורות המצור.",
+      "identification": "identified",
+      "identificationNoteHe": "מזוהה עם חורבת ביתר ממערב לירושלים.",
+      "locations": [
+        {
+          "id": "beitar",
+          "lng": 35.1435,
+          "lat": 31.7292,
+          "label": "ביתר",
+          "disputed": false
+        }
+      ],
+      "sourceIds": []
+    },
+    {
+      "slug": "gamzu",
+      "nameHe": "גמזו",
+      "todayHe": "גמזו",
+      "overviewHe": "יישוב המיוחס לנחום איש גמזו על פי כינויו.",
+      "identification": "identified",
+      "identificationNoteHe": "זיהוי מקובל עם גמזו שבשפלת יהודה.",
+      "locations": [
+        {
+          "id": "gamzu",
+          "lng": 34.942,
+          "lat": 31.928,
+          "label": "גמזו",
+          "disputed": false
+        }
+      ],
+      "sourceIds": []
+    },
+    {
+      "slug": "kfar-hanania",
+      "nameHe": "כפר חנניה",
+      "todayHe": "כפר חנניה",
+      "overviewHe": "יישוב בגבול הגליל, מיוחס ליוסי בן קיסמא / חנניה על פי כינוי מקומי.",
+      "identification": "identified",
+      "identificationNoteHe": "מזוהה עם כפר חנניה שבין הגליל העליון לתחתון.",
+      "locations": [
+        {
+          "id": "kfar-hanania",
+          "lng": 35.423,
+          "lat": 32.917,
+          "label": "כפר חנניה",
+          "disputed": false
+        }
+      ],
+      "sourceIds": []
+    },
+    {
+      "slug": "usha",
+      "nameHe": "אושא",
+      "todayHe": "חורבת אושא ליד קריית אתא",
+      "overviewHe": "מושב סנהדרין ומקום הסמכה בדור שאחרי מרד בר כוכבא.",
+      "identification": "identified",
+      "identificationNoteHe": "מזוהה עם חורבת אושא בגליל המערבי.",
+      "locations": [
+        {
+          "id": "usha",
+          "lng": 35.147,
+          "lat": 32.799,
+          "label": "אושא",
+          "disputed": false
+        }
+      ],
+      "sourceIds": []
+    },
+    {
+      "slug": "kfar-aziz",
+      "nameHe": "כפר עזיז",
+      "todayHe": "זיהוי לא ודאי בדרום יהודה",
+      "overviewHe": "מקום מגורים והוראה המיוחס לרבי ישמעאל בכפר עזיז.",
+      "identification": "identified",
+      "identificationNoteHe": "הזיהוי המדויק שנוי במחלוקת; הנקודה משוערת בדרום יהודה.",
+      "locations": [
+        {
+          "id": "kfar-aziz",
+          "lng": 35.05,
+          "lat": 31.45,
+          "label": "כפר עזיז (משוער)",
+          "disputed": true
+        }
+      ],
+      "sourceIds": []
+    },
+    {
+      "slug": "sura",
+      "nameHe": "סורא",
+      "todayHe": "אזור סורא בבבל (עיראק)",
+      "overviewHe": "מרכז ישיבה בבבל המיוחס לרב.",
+      "identification": "identified",
+      "identificationNoteHe": "נקודה אזורית משוערת לישיבת סורא; המיקום הארכאולוגי אינו מדויק במפה זו.",
+      "locations": [
+        {
+          "id": "sura",
+          "lng": 44.65,
+          "lat": 31.88,
+          "label": "סורא",
+          "disputed": false
+        }
+      ],
+      "sourceIds": []
+    },
+    {
+      "slug": "nehardea",
+      "nameHe": "נהרדעא",
+      "todayHe": "אזור נהרדעא בבבל (עיראק)",
+      "overviewHe": "מרכז תורה בבבל המיוחס לשמואל ולפעילות רבנים בבליים.",
+      "identification": "identified",
+      "identificationNoteHe": "נקודה אזורית משוערת לנהרדעא.",
+      "locations": [
+        {
+          "id": "nehardea",
+          "lng": 44.35,
+          "lat": 33.35,
+          "label": "נהרדעא",
+          "disputed": false
+        }
+      ],
+      "sourceIds": []
+    },
+    {
+      "slug": "caesarea",
+      "nameHe": "קיסרין",
+      "todayHe": "קיסריה",
+      "overviewHe": "עיר נמל רומית־ביזנטית ומושב חכמים בארץ ישראל.",
+      "identification": "identified",
+      "identificationNoteHe": "מזוהה עם קיסריה שלחוף הים התיכון.",
+      "locations": [
+        {
+          "id": "caesarea",
+          "lng": 34.892,
+          "lat": 32.503,
+          "label": "קיסרין",
+          "disputed": false
+        }
+      ],
+      "sourceIds": []
+    },
+    {
+      "slug": "akhbara",
+      "nameHe": "עכברא",
+      "todayHe": "עכברה ליד צפת",
+      "overviewHe": "יישוב בגליל העליון המיוחס לינאי / לחכמים מקומיים.",
+      "identification": "identified",
+      "identificationNoteHe": "מזוהה עם עכברה מדרום לצפת.",
+      "locations": [
+        {
+          "id": "akhbara",
+          "lng": 35.495,
+          "lat": 32.94,
+          "label": "עכברא",
+          "disputed": false
+        }
+      ],
+      "sourceIds": []
+    },
+    {
+      "slug": "sidon",
+      "nameHe": "צידן",
+      "todayHe": "צידון, לבנון",
+      "overviewHe": "עיר חוף בפיניקיה המופיעה במסעות ובמעשים של חכמים.",
+      "identification": "identified",
+      "identificationNoteHe": "מזוהה עם צידון.",
+      "locations": [
+        {
+          "id": "sidon",
+          "lng": 35.372,
+          "lat": 33.563,
+          "label": "צידן",
+          "disputed": false
+        }
+      ],
+      "sourceIds": []
+    },
+    {
+      "slug": "babylon",
+      "nameHe": "בבל",
+      "todayHe": "אזור מסופוטמיה / עיראק",
+      "overviewHe": "מרחב גלות בבל כמוצא או זירת פעילות כללית של חכמים.",
+      "identification": "identified",
+      "identificationNoteHe": "נקודה אזורית מייצגת בלבד (בבל הקדומה), לא עיר ספציפית.",
+      "locations": [
+        {
+          "id": "babylon",
+          "lng": 44.4209,
+          "lat": 32.5422,
+          "label": "בבל (אזור)",
+          "disputed": false
+        }
+      ],
+      "sourceIds": []
+    },
+    {
+      "slug": "horbat-dabura",
+      "nameHe": "חורבת דבורה",
+      "todayHe": "דבוריה / חורבת דבורה ברמת הגולן",
+      "overviewHe": "אתר ובו כתובת משקוף המייחסת בית מדרש לרבי אליעזר הקפר.",
+      "identification": "identified",
+      "identificationNoteHe": "עדות ארכאולוגית (כתובת); הזיהוי מקובל אך נידון במחקר.",
+      "locations": [
+        {
+          "id": "horbat-dabura",
+          "lng": 35.717,
+          "lat": 33.017,
+          "label": "חורבת דבורה",
+          "disputed": false
+        }
+      ],
+      "sourceIds": []
+    },
+    {
+      "slug": "socho",
+      "nameHe": "סוכו",
+      "todayHe": "זיהוי לא מוכרע",
+      "overviewHe": "מקום המיוחס ליוסי בן יועזר איש צרדה / איש סוכו במסורת הזוגות.",
+      "identification": "unresolved",
+      "identificationNoteHe": "קיימים מועמדים ביהודה; אין הכרעה מפה אחת בפיילוט.",
+      "locations": [],
+      "sourceIds": []
+    },
+    {
+      "slug": "tzeredah",
+      "nameHe": "צרדה",
+      "todayHe": "זיהוי לא מוכרע",
+      "overviewHe": "מקום המיוחס ליוסי בן יועזר איש צרדה.",
+      "identification": "unresolved",
+      "identificationNoteHe": "זיהוי מדויק אינו מוכרע; נשמר כמקום ללא נקודה.",
+      "locations": [],
+      "sourceIds": []
+    },
+    {
+      "slug": "bartota",
+      "nameHe": "ברתותא",
+      "todayHe": "זיהוי לא מוכרע",
+      "overviewHe": "מקום המיוחס לאלעזר איש ברתותא על פי כינויו.",
+      "identification": "unresolved",
+      "identificationNoteHe": "אין זיהוי ודאי; נשמר ללא נקודה במפה.",
+      "locations": [],
+      "sourceIds": []
+    },
+    {
+      "slug": "kfar-ha-bavli",
+      "nameHe": "כפר הבבלי",
+      "todayHe": "זיהוי לא מוכרע",
+      "overviewHe": "יישוב המיוחס ליוסי בן יהודה איש כפר הבבלי.",
+      "identification": "unresolved",
+      "identificationNoteHe": "מיקום גאוגרפי אינו מוכרע בפיילוט.",
+      "locations": [],
+      "sourceIds": []
+    },
+    {
+      "slug": "asia",
+      "nameHe": "אסיא",
+      "todayHe": "זיהוי לא מוכרע",
+      "overviewHe": "מקום פטירתו של רבי מאיר לפי מסורת חז״ל; זיהויו הגאוגרפי שנוי במחלוקת.",
+      "identification": "unresolved",
+      "identificationNoteHe": "אסיא יכולה להצביע על אסיה הקטנה או מקום אחר; אין נקודה במפה.",
+      "locations": [],
+      "sourceIds": []
+    },
+    {
+      "slug": "tekoa",
+      "nameHe": "תקוע",
+      "todayHe": "זיהוי שנוי במחלוקת",
+      "overviewHe": "מקום הוראה המיוחס לרשב״י במסורות; יש מועמדים ביהודה ובגליל.",
+      "identification": "unresolved",
+      "identificationNoteHe": "תקוע יהודה מול מועמדים בגליל; נשמר ללא נקודה מועדפת.",
+      "locations": [],
+      "sourceIds": []
+    },
+    {
+      "slug": "emmaus",
+      "nameHe": "אמאוס",
+      "todayHe": "מועמדים: אמאוס־ניקופוליס ואחרים",
+      "overviewHe": "מקום המים היפים / דיומסת במסורות על אלעזר בן ערך ונהוניא איש אמהום.",
+      "identification": "identified",
+      "identificationNoteHe": "זיהוי שנוי במחלוקת; מוצגים מועמדים חלופיים כנקודות שנויות במחלוקת.",
+      "locations": [
+        {
+          "id": "emmaus-nicopolis",
+          "lng": 34.987,
+          "lat": 31.839,
+          "label": "אמאוס־ניקופוליס (עמוואס)",
+          "disputed": true
+        },
+        {
+          "id": "emmaus-qubeibeh",
+          "lng": 35.118,
+          "lat": 31.84,
+          "label": "אמאוס אל־קביבה (מועמד)",
+          "disputed": true
+        }
+      ],
+      "sourceIds": []
+    }
+  ],
+  "relationships": [
+    {
+      "personSlug": "shimon-tzadik",
+      "placeSlug": "jerusalem",
+      "relationshipType": "served",
+      "activityHe": "כהן גדול / הגנה על בית המקדש",
+      "importance": "central",
+      "noteHe": "מסופר ככהן גדול הפועל בהקשר בית המקדש בירושלים: יוצא בבגדי כהונה להגן על בית אלהינו מפני גזירת כותים. אין לשייך אוטומטית רק משום שהוא קדום באבות; כאן יש תיעוד מפורש של מקדש/ירושלים.",
+      "periodIds": [
+        "shimon"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "מסורת חז״ל על שלהי הפרסים / ראשית היוונים; אין תיארוך שנתי במקור.",
+      "importanceNoteHe": "פעילות כהונה ומקדש היא ליבת דמותו במקורות.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "יומא סט ע״א — מפגש עם אלכסנדרוס והצלת בית אלהינו",
+          "url": "https://www.sefaria.org/Yoma.69a",
+          "ref": "Yoma 69a",
+          "kind": "primary_rabbinic",
+          "text": "באו והודיעו את שמעון הצדיק… לבש בגדי כהונה… אפשר בית שמתפללים בו עליך… להחריבו"
+        },
+        {
+          "labelHe": "אבות א:ב — משיירי כנסת הגדולה",
+          "url": "https://www.sefaria.org/Pirkei_Avot.1.2",
+          "ref": "Pirkei Avot 1:2",
+          "kind": "primary_rabbinic",
+          "text": "שמעון הצדיק היה משיירי כנסת הגדולה; אינו מציין מקום גאוגרפי במפורש."
+        }
+      ],
+      "uncertainty": "זיהוי היסטורי של 'שמעון הצדיק' עם דמויות יוספוס/כהנים שונים שנוי במחלוקת; הקישור לירושלים נשען על מסורת חז״ל על כהונה גדולה ומקדש."
+    },
+    {
+      "personSlug": "shimon-tzadik",
+      "placeSlug": "antipatris",
+      "relationshipType": "event",
+      "activityHe": "מפגש עם אלכסנדרוס מוקדון",
+      "importance": "meaningful",
+      "noteHe": "מקום חדש מוצע לפיילוט. ביומא סט ע״א המפגש באנטיפטרס (לא בירושלים עצמה). זיהוי מקובל עם תל אפק / ראש העין (~32.105, 34.933) — סביר אך מאוחר יחסית לזיהוי המסורתי.",
+      "periodIds": [
+        "shimon"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "אירוע חד־פעמי במסורת; ללא תיארוך שנתי במקור.",
+      "importanceNoteHe": "אירוע מכונן במסורת, אך אינו מקום מושב קבע.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "יומא סט ע״א — כיון שהגיע לאנטיפטרס",
+          "url": "https://www.sefaria.org/Yoma.69a",
+          "ref": "Yoma 69a",
+          "kind": "primary_rabbinic",
+          "text": "כיון שהגיע לאנטיפטרס זרחה חמה ופגעו זה בזה"
+        }
+      ],
+      "uncertainty": "אנטיפטרס כיישוב בשם זה מאוחרת לימי אלכסנדר; ייתכן אנכרוניזם גאוגרפי במסורת."
+    },
+    {
+      "personSlug": "antigonos",
+      "placeSlug": "socho",
+      "relationshipType": "lived",
+      "activityHe": "שיוך מוצא/מגורים לפי הכינוי 'איש סוכו'",
+      "importance": "central",
+      "noteHe": "מקום חדש מוצע (מודל disputed). הכינוי באבות א:ג הוא העדות הישירה; אין תיאור נרטיבי נוסף של ישיבה במקום. זיהוי האתר אינו חד־משמעי (שוכה שפלה / דרום הר חברון / אפשרויות נוספות) — אין לקבוע נקודת מפה יחידה בביטחון.",
+      "periodIds": [
+        "antigonos"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "לפני הזוגות לפי שרשרת אבות; ללא תיארוך שנתי.",
+      "importanceNoteHe": "הכינוי הוא סימן השיוך המרכזי במקורות הראשוניים שנבדקו.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "אבות א:ג — אנטיגנוס איש סוכו",
+          "url": "https://www.sefaria.org/Pirkei_Avot.1.3",
+          "ref": "Pirkei Avot 1:3",
+          "kind": "primary_rabbinic",
+          "text": "אנטיגנוס איש סוכו קבל משמעון הצדיק"
+        }
+      ],
+      "uncertainty": "זיהוי גאוגרפי של סוכו/שוכה שנוי במחלוקת; אין קואורדינטה יחידה מספיק מבוססת."
+    },
+    {
+      "personSlug": "yose-yoezer",
+      "placeSlug": "tzeredah",
+      "relationshipType": "lived",
+      "activityHe": "שיוך מוצא/מגורים לפי הכינוי 'איש צרדה'",
+      "importance": "central",
+      "noteHe": "מקום חדש מוצע (מודל disputed). הכינוי באבות א:ד ובמקבילות (סוטה ט:ט ועוד) הוא העדות העיקרית. זיהוי צרדה המקראית/החכמית אינו מוכרע (הצעות בשומרון ואחרות) — אין לקבע נקודה יחידה בביטחון גבוה.",
+      "periodIds": [
+        "zug1"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "זוג ראשון; ללא תיארוך שנתי במקורות שנבדקו.",
+      "importanceNoteHe": "הכינוי הוא סימן השיוך המרכזי.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "אבות א:ד — יוסי בן יועזר איש צרדה",
+          "url": "https://www.sefaria.org/Pirkei_Avot.1.4",
+          "ref": "Pirkei Avot 1:4",
+          "kind": "primary_rabbinic",
+          "text": "יוסי בן יועזר איש צרדה ויוסי בן יוחנן איש ירושלים קבלו מהם"
+        },
+        {
+          "labelHe": "משנה סוטה ט:ט — בטלו האשכולות",
+          "url": "https://www.sefaria.org/Mishnah_Sotah.9.9",
+          "ref": "Mishnah Sotah 9:9",
+          "kind": "primary_rabbinic",
+          "text": "משמת יוסי בן יועזר איש צרידה ויוסי בן יוחנן איש ירושלים בטלו האשכולות"
+        }
+      ],
+      "uncertainty": "זיהוי האתר שנוי במחלוקת; אין קואורדינטה מספיק מבוססת."
+    },
+    {
+      "personSlug": "yose-yochanan",
+      "placeSlug": "jerusalem",
+      "relationshipType": "lived",
+      "activityHe": "שיוך לירושלים לפי הכינוי 'איש ירושלים'",
+      "importance": "central",
+      "noteHe": "הכינוי באבות א:ד (ובמקבילות) הוא עדות תקפה לשיוך לירושלים בהקשר שרשרת אבות/זוגות. אין נרטיב נוסף שנבדק המפרט פעילות נקודתית בעיר מעבר לכינוי ולמעמד הזוג.",
+      "periodIds": [
+        "zug1"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "זוג ראשון; ללא תיארוך שנתי.",
+      "importanceNoteHe": "הכינוי מציין שיוך זהותי מרכזי למקום.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "אבות א:ד — איש ירושלים",
+          "url": "https://www.sefaria.org/Pirkei_Avot.1.4",
+          "ref": "Pirkei Avot 1:4",
+          "kind": "primary_rabbinic",
+          "text": "יוסי בן יוחנן איש ירושלים"
+        },
+        {
+          "labelHe": "משנה סוטה ט:ט",
+          "url": "https://www.sefaria.org/Mishnah_Sotah.9.9",
+          "ref": "Mishnah Sotah 9:9",
+          "kind": "primary_rabbinic",
+          "text": "יוסי בן יוחנן איש ירושלים"
+        }
+      ],
+      "uncertainty": "הכינוי מעיד על שיוך; אינו מפרט מגורים מול פעילות/מוצא."
+    },
+    {
+      "personSlug": "yehoshua-perachya",
+      "placeSlug": "alexandria",
+      "relationshipType": "visited",
+      "activityHe": "בריחה לאלכסנדריה בימי רדיפת חכמים",
+      "importance": "meaningful",
+      "noteHe": "מקום חדש מוצע. מסורת בבלי (סוטה מז ע״א; סנהדרין קז ע״ב — לעיתים חסרה בדפוסים מצונזרים) מספרת שברח לאלכסנדריה. בירושלמי מופיע סיפור מקביל על יהודה בן טבאי — יש לציין את הפער המסורתי. קואורדינטה משוערת לאלכסנדריה העתיקה ~31.20, 29.90.",
+      "periodIds": [
+        "zug2"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "מסורת קושרת לינאי/רדיפת חכמים; כרונולוגיה פנימית בעייתית ביחס לדמות התלמיד בגרסאות מסוימות.",
+      "importanceNoteHe": "שהות משמעותית במסורת, אך לא בהכרח מושב קבע.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "סוטה מז ע״א — ערק לאלכסנדריא של מצרים",
+          "url": "https://www.sefaria.org/Sotah.47a",
+          "ref": "Sotah 47a",
+          "kind": "primary_rabbinic",
+          "text": "ר' יהושע בן פרחיה אזל ערק לאלכסנדריא של מצרים… שלח ליה שמעון בן שטח מני ירושלים…"
+        },
+        {
+          "labelHe": "סנהדרין קז ע״ב — מקבילה (לעיתים מצונזרת)",
+          "url": "https://www.sefaria.org/Sanhedrin.107b",
+          "ref": "Sanhedrin 107b",
+          "kind": "primary_rabbinic",
+          "text": "אזל יהושע בן פרחיה… לאלכסנדריא של מצרים"
+        }
+      ],
+      "uncertainty": "מסורת בבלי; מקבילה ירושלמית מייחסת בריחה דומה ליהודה בן טבאי. זיהוי התלמיד ופרטי הצנזורה מוסיפים אי־ודאות לסיפור המלא, אך יעד אלכסנדריה מתועד במסורת הבבלית."
+    },
+    {
+      "personSlug": "yehoshua-perachya",
+      "placeSlug": "jerusalem",
+      "relationshipType": "documented_presence",
+      "activityHe": "זימון לשוב לירושלים / מוקד ההנהגה",
+      "importance": "meaningful",
+      "noteHe": "באיגרת שמעון בן שטח: 'מני ירושלים עיר הקודש… ואני יושבת שוממה' — מניחה זיקה של החכם לירושלים כמקום שאליו הוא נקרא לשוב. אין זו הוכחה עצמאית למגורים שוטפים מחוץ להקשר הסיפור.",
+      "periodIds": [
+        "zug2"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "בהקשר אותה מסורת בריחה/שיבה.",
+      "importanceNoteHe": "תיעוד נוכחות/ציפיית שיבה, לא תיאור מגורים מפורט.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "סוטה מז ע״א — איגרת מירושלים",
+          "url": "https://www.sefaria.org/Sotah.47a",
+          "ref": "Sotah 47a",
+          "kind": "primary_rabbinic",
+          "text": "מני ירושלים עיר הקודש לך אלכסנדריא של מצרים"
+        },
+        {
+          "labelHe": "אבות א:ו — בשרשרת הזוגות",
+          "url": "https://www.sefaria.org/Pirkei_Avot.1.6",
+          "ref": "Pirkei Avot 1:6",
+          "kind": "primary_rabbinic",
+          "text": "יהושע בן פרחיה ונתאי הארבלי קבלו מהם"
+        }
+      ],
+      "uncertainty": "השיוך לירושלים נשען על מסורת האיגרת ועל מעמד הזוג/נשיאות, לא על תיאור מגורים עצמאי."
+    },
+    {
+      "personSlug": "nittai",
+      "placeSlug": "arbel",
+      "relationshipType": "lived",
+      "activityHe": "שיוך לארבל לפי הכינוי 'הארבלי'",
+      "importance": "central",
+      "noteHe": "מקום חדש מוצע. הכינוי באבות א:ו–ז הוא העדות הראשונית. זיהוי ארבל הגלילית (מעל הכנרת, סמוך לטבריה) מבוסס יחסית ליישוב יהודי קדום; קואורדינטה משוערת ~32.824, 35.501. מסורות קבורה בימי הביניים הן משניות.",
+      "periodIds": [
+        "zug2"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "זוג שני; ללא תיארוך שנתי.",
+      "importanceNoteHe": "הכינוי הוא סימן השיוך המרכזי.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "אבות א:ו–ז — נתאי הארבלי",
+          "url": "https://www.sefaria.org/Pirkei_Avot.1.6",
+          "ref": "Pirkei Avot 1:6–7",
+          "kind": "primary_rabbinic",
+          "text": "יהושע בן פרחיה ונתאי הארבלי קבלו מהם… נתאי הארבלי אומר"
+        }
+      ],
+      "uncertainty": "הכינוי מעיד על שיוך לארבל; פרטי מגורים/קבורה מעבר לכך אינם במקורות תנאיים ראשוניים שנבדקו."
+    },
+    {
+      "personSlug": "yehuda-tabbai",
+      "placeSlug": "jerusalem",
+      "relationshipType": "served",
+      "activityHe": "מינוי לנשיא / שיבה לירושלים",
+      "importance": "central",
+      "noteHe": "בירושלמי חגיגה ב:ב מסופר שבני ירושלים ביקשו למנותו נשיא בירושלים, ברח, ואחר כך נקרא לשוב ('מירושלם הגדולה לאלכסנדריאה הקטנה').",
+      "periodIds": [
+        "zug3"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "זוג שלישי; ללא תיארוך שנתי מדויק במקור.",
+      "importanceNoteHe": "המקור ממקם במפורש את מוקד המינוי והשיבה בירושלים.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "ירושלמי חגיגה ב:ב — מינוי נשיא בירושלים",
+          "url": "https://www.sefaria.org/Jerusalem_Talmud_Chagigah.2.2",
+          "ref": "Jerusalem Talmud Chagigah 2:2",
+          "kind": "primary_rabbinic",
+          "text": "יהודה בן טבאי… בעון ממניתיה נשיא בירושלם… מירושלם הגדולה לאלכסנדריאה הקטנה"
+        },
+        {
+          "labelHe": "אבות א:ח — בשרשרת הזוגות",
+          "url": "https://www.sefaria.org/Pirkei_Avot.1.8",
+          "ref": "Pirkei Avot 1:8",
+          "kind": "primary_rabbinic",
+          "text": "יהודה בן טבאי ושמעון בן שטח קבלו מהם"
+        }
+      ],
+      "uncertainty": "מחלוקת מי היה נשיא ומי אב בית דין (חגיגה ב:ב / בבלי חגיגה טז ע״ב)."
+    },
+    {
+      "personSlug": "yehuda-tabbai",
+      "placeSlug": "alexandria",
+      "relationshipType": "visited",
+      "activityHe": "בריחה לאלכסנדריה",
+      "importance": "meaningful",
+      "noteHe": "מקום חדש מוצע (~31.20, 29.90). מסורת ירושלמית מייחסת את הבריחה ליהודה בן טבאי; בבלי מייחס מסורת דומה ליהושע בן פרחיה — אין לאחד אוטומטית.",
+      "periodIds": [
+        "zug3"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "אירוע במסורת הירושלמית; ללא תיארוך שנתי.",
+      "importanceNoteHe": "שהות מתועדת במסורת, לא בהכרח מושב קבע.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "ירושלמי חגיגה ב:ב — ערק לאלכסנדריאה",
+          "url": "https://www.sefaria.org/Jerusalem_Talmud_Chagigah.2.2",
+          "ref": "Jerusalem Talmud Chagigah 2:2",
+          "kind": "primary_rabbinic",
+          "text": "ערק ואזל ליה לאלכסנדריאה"
+        }
+      ],
+      "uncertainty": "מסורת ירושלמית מול מסורת בבלית מקבילה על חכם אחר."
+    },
+    {
+      "personSlug": "shimon-shetach",
+      "placeSlug": "jerusalem",
+      "relationshipType": "served",
+      "activityHe": "הנהגה / איגרת מירושלים / סביבת סנהדרין",
+      "importance": "central",
+      "noteHe": "במסורת הבבלי הוא שולח איגרת 'מני ירושלים עיר הקודש'. בירושלמי יש מסורות על נזירים שעלו לירושלים בימיו ועל מאבקים מול ינאי בסביבת החצר/סנהדרין. אין לייחס ירושלים רק מ'הנחה כללית' — יש אזכורים מפורשים.",
+      "periodIds": [
+        "zug3"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "ימי ינאי/שלומציון לפי המסורות; ללא תיארוך שנתי מדויק.",
+      "importanceNoteHe": "מקורות מציבים אותו כמוקד הנהגה הקשור לירושלים.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "סוטה מז ע״א — מני ירושלים עיר הקודש",
+          "url": "https://www.sefaria.org/Sotah.47a",
+          "ref": "Sotah 47a",
+          "kind": "primary_rabbinic",
+          "text": "שלח ליה שמעון בן שטח: מני ירושלים עיר הקודש…"
+        },
+        {
+          "labelHe": "אבות א:ח–ט",
+          "url": "https://www.sefaria.org/Pirkei_Avot.1.8",
+          "ref": "Pirkei Avot 1:8–9",
+          "kind": "primary_rabbinic",
+          "text": "שמעון בן שטח בשרשרת הזוגות ובמאמרו על חקירת העדים"
+        },
+        {
+          "labelHe": "חגיגה טז ע״ב — מחלוקת נשיא/אב בית דין",
+          "url": "https://www.sefaria.org/Chagigah.16b",
+          "ref": "Chagigah 16b",
+          "kind": "primary_rabbinic",
+          "text": "לדעת חכמים: שמעון בן שטח נשיא"
+        }
+      ],
+      "uncertainty": "מחלוקת אם נשיא או אב בית דין; פרטי סיפורי ינאי דורשים זהירות היסטורית."
+    },
+    {
+      "personSlug": "shimon-shetach",
+      "placeSlug": "ashkelon",
+      "relationshipType": "event",
+      "activityHe": "מעשה שמונים מכשפות",
+      "importance": "meaningful",
+      "noteHe": "מקום חדש מוצע (~31.67, 34.57). בירושלמי חגיגה ב:ב מסופר על הוצאת שמונים מכשפות באשקלון כהוראת שעה — אירוע נקודתי, לא מושב קבע.",
+      "periodIds": [
+        "zug3"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "אירוע חד־פעמי במסורת.",
+      "importanceNoteHe": "אירוע מפורסם אך משני למקום ההנהגה בירושלים.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "ירושלמי חגיגה ב:ב — מכשפות באשקלון",
+          "url": "https://www.sefaria.org/Jerusalem_Talmud_Chagigah.2.2",
+          "ref": "Jerusalem Talmud Chagigah 2:2",
+          "kind": "primary_rabbinic",
+          "text": "אית תמנין נשיין חרשיין יהיבין גו מערתא דאשקלון"
+        }
+      ],
+      "uncertainty": "אופי אגדי/הוראת שעה; אשקלון כזירת אירוע בלבד."
+    },
+    {
+      "personSlug": "shemaya",
+      "placeSlug": "jerusalem",
+      "relationshipType": "taught",
+      "activityHe": "נוכחות ליד המקדש / הנהגת הדור",
+      "importance": "central",
+      "noteHe": "יומא עא ע״ב מתאר מעשה עם כהן גדול היוצא מבית המקדש והעם הולך אחרי שמעיה ואבטליון — תיעוד מפורש בסביבת המקדש בירושלים, לא הנחת סנהדרין בלבד. פסחים סו ע״א מציג אותם כגדולי הדור בארץ ישראל ששימש אצלם הלל.",
+      "periodIds": [
+        "zug4"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "זוג רביעי; ללא תיארוך שנתי מדויק.",
+      "importanceNoteHe": "מקור ראשוני מקשר ישירות למקדש/ירושלים.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "יומא עא ע״ב — יציאת כהן גדול ומקדש",
+          "url": "https://www.sefaria.org/Yoma.71b",
+          "ref": "Yoma 71b",
+          "kind": "primary_rabbinic",
+          "text": "מעשה בכהן גדול אחד שיצא מבית המקדש… כיון שראו לשמעיה ואבטליון"
+        },
+        {
+          "labelHe": "פסחים סו ע״א — גדולי הדור ששימש הלל",
+          "url": "https://www.sefaria.org/Pesachim.66a",
+          "ref": "Pesachim 66a",
+          "kind": "primary_rabbinic",
+          "text": "לא שימשתם את שני גדולי הדור שמעיה ואבטליון"
+        },
+        {
+          "labelHe": "אבות א:י",
+          "url": "https://www.sefaria.org/Pirkei_Avot.1.10",
+          "ref": "Pirkei Avot 1:10",
+          "kind": "primary_rabbinic",
+          "text": "שמעיה ואבטליון קבלו מהם"
+        }
+      ],
+      "uncertainty": "מסורות על מוצא גֵרים (גיטין נז ע״ב וכד') אינן ממקמות מגורים מחוץ לירושלים."
+    },
+    {
+      "personSlug": "avtalyon",
+      "placeSlug": "jerusalem",
+      "relationshipType": "taught",
+      "activityHe": "נוכחות ליד המקדש / הנהגת הדור עם שמעיה",
+      "importance": "central",
+      "noteHe": "אותו מעשה ביומא עא ע״ב קושר גם את אבטליון לסביבת בית המקדש בירושלים. פסחים סו ויומא לה מציגים את בית מדרשם כמקום הוראה מרכזי להלל.",
+      "periodIds": [
+        "zug4"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "זוג רביעי; ללא תיארוך שנתי מדויק.",
+      "importanceNoteHe": "תיעוד משותף עם שמעיה במקדש/ירושלים.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "יומא עא ע״ב",
+          "url": "https://www.sefaria.org/Yoma.71b",
+          "ref": "Yoma 71b",
+          "kind": "primary_rabbinic",
+          "text": "שמעיה ואבטליון ליד יציאת הכהן הגדול מבית המקדש"
+        },
+        {
+          "labelHe": "יומא לה ע״ב — הלל על ארובת בית מדרשם",
+          "url": "https://www.sefaria.org/Yoma.35b",
+          "ref": "Yoma 35b",
+          "kind": "primary_rabbinic",
+          "text": "הלל… לשמוע דברי אלהים חיים מפי שמעיה ואבטליון"
+        },
+        {
+          "labelHe": "אבות א:י–יא",
+          "url": "https://www.sefaria.org/Pirkei_Avot.1.10",
+          "ref": "Pirkei Avot 1:10–11",
+          "kind": "primary_rabbinic",
+          "text": "אבטליון בשרשרת הזוגות ובמאמרו"
+        }
+      ],
+      "uncertainty": "כשמעיה: מסורות מוצא אינן מחליפות את תיעוד המקדש."
+    },
+    {
+      "personSlug": "hillel",
+      "placeSlug": "babylon",
+      "relationshipType": "lived",
+      "activityHe": "מוצא / עלייה מבבל",
+      "importance": "central",
+      "noteHe": "מקום חדש מוצע כמרחב/ארץ מוצא (לא בהכרח עיר בבל העתיקה בלבד). פסחים סו ע״א: 'עולה מבבל… הלל הבבלי'; סוכה כ ע״א: 'הלל הבבלי עלה ויסדה'. קואורדינטה לייצוג אזורי אפשרית ~32.54, 44.42 (חורבות בבל) או להשאיר כאזור ללא נקודה עירונית.",
+      "periodIds": [
+        "zug5"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "לפני עלייתו לירושלים לפי המסורות; ללא שנת עלייה מדויקת.",
+      "importanceNoteHe": "המקורות מדגישים במפורש מוצא בבלי.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "פסחים סו ע״א — הלל הבבלי בירושלים",
+          "url": "https://www.sefaria.org/Pesachim.66a",
+          "ref": "Pesachim 66a",
+          "kind": "primary_rabbinic",
+          "text": "אדם אחד יש כאן שעלה מבבל והלל הבבלי שמו"
+        },
+        {
+          "labelHe": "סוכה כ ע״א — הלל הבבלי עלה ויסדה",
+          "url": "https://www.sefaria.org/Sukkah.20a",
+          "ref": "Sukkah 20a",
+          "kind": "primary_rabbinic",
+          "text": "שכחוה… הלל הבבלי עלה ויסדה"
+        }
+      ],
+      "uncertainty": "בבל כמרחב מוצא; אין פירוט עיר מדויקת במקורות אלה."
+    },
+    {
+      "personSlug": "hillel",
+      "placeSlug": "jerusalem",
+      "relationshipType": "taught",
+      "activityHe": "עלייה לירושלים, הוראה ומינוי לנשיא",
+      "importance": "central",
+      "noteHe": "פסחים סו ע״א ממקם במפורש את הלל בירושלים בעת שאלת בני בתירה על פסח שחל בשבת, וממנה למעשה מינויו. שבת טו ע״א מונה נשיאותו לפני הבית.",
+      "periodIds": [
+        "zug5"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "שבת טו ע״א: נשיאות הלל–שמעון–גמליאל–שמעון לפני הבית כמאה שנה — מסגרת רחבה בלבד.",
+      "importanceNoteHe": "מוקד הפעילות המתועדת בארץ ישראל.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "פסחים סו ע״א",
+          "url": "https://www.sefaria.org/Pesachim.66a",
+          "ref": "Pesachim 66a",
+          "kind": "primary_rabbinic",
+          "text": "יש כאן… שעלה מבבל… בירושלים; הושיבוהו בראש ומינוהו נשיא"
+        },
+        {
+          "labelHe": "שבת טו ע״א — נשיאות לפני הבית",
+          "url": "https://www.sefaria.org/Shabbat.15a",
+          "ref": "Shabbat 15a",
+          "kind": "primary_rabbinic",
+          "text": "הלל ושמעון גמליאל ושמעון נהגו נשיאותן לפני הבית מאה שנה"
+        },
+        {
+          "labelHe": "אבות א:יב–יד",
+          "url": "https://www.sefaria.org/Pirkei_Avot.1.12",
+          "ref": "Pirkei Avot 1:12–14",
+          "kind": "primary_rabbinic",
+          "text": "הלל ושמאי קבלו מהם; מאמרי הלל"
+        }
+      ],
+      "uncertainty": "סיפורי שבת לא–לא אינם מציינים מקום במפורש; ירושלים נשענת בעיקר על פסחים סו ושבת טו."
+    },
+    {
+      "personSlug": "shammai",
+      "placeSlug": "jerusalem",
+      "relationshipType": "served",
+      "activityHe": "אב בית דין בזוג עם הלל (הקשר ירושלים מוסק בזהירות)",
+      "importance": "meaningful",
+      "noteHe": "אין במקורות שנבדקו משפט מהצורה 'שמאי בירושלים'. השיוך נשען על: (1) היותו בן־זוגו/מחליף מנחם כאב בית דין לצד הלל (חגיגה ב:ב); (2) תיעוד מפורש של הלל בירושלים (פסחים סו). יש לטפל כאומדן מבוקר — לא כעובדה ישירה.",
+      "periodIds": [
+        "zug5"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "זוג חמישי / שלהי הבית; ללא תיארוך שנתי מדויק.",
+      "importanceNoteHe": "חשיבות מוסדית גבוהה, אך עוצמת הראיה הגאוגרפית בינונית.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "משנה חגיגה ב:ב — יצא מנחם ונכנס שמאי",
+          "url": "https://www.sefaria.org/Mishnah_Chagigah.2.2",
+          "ref": "Mishnah Chagigah 2:2",
+          "kind": "primary_rabbinic",
+          "text": "הלל ומנחם לא נחלקו; יצא מנחם ונכנס שמאי"
+        },
+        {
+          "labelHe": "פסחים סו ע״א — הלל בירושלים (ראיה עקיפה לבן הזוג)",
+          "url": "https://www.sefaria.org/Pesachim.66a",
+          "ref": "Pesachim 66a",
+          "kind": "primary_rabbinic",
+          "text": "הלל מתועד בירושלים; שמאי אינו נזכר שם בשמו"
+        },
+        {
+          "labelHe": "אבות א:יב, טו",
+          "url": "https://www.sefaria.org/Pirkei_Avot.1.15",
+          "ref": "Pirkei Avot 1:12, 1:15",
+          "kind": "primary_rabbinic",
+          "text": "הלל ושמאי כזוג; מאמר שמאי"
+        }
+      ],
+      "uncertainty": "גבוה יחסית: ירושלים מוסקת ממעמד הזוג + מקום הלל, לא מאזכור ישיר על שמאי."
+    },
+    {
+      "personSlug": "gamliel-avot1",
+      "placeSlug": "jerusalem",
+      "relationshipType": "served",
+      "activityHe": "נשיאות / לשכת הגזית / בית יעזק / הר הבית",
+      "importance": "central",
+      "noteHe": "מזוהה במסורת עם רבן גמליאל הזקן. משנה פאה ב:ו — עלייה ללשכת הגזית; ראש השנה ב:ה — חצר בית יעזק בירושלים ותקנתו; שבת טו ע״א — נשיאות לפני הבית. אלה ראיות ראשוניות חזקות לירושלים.",
+      "periodIds": [
+        "early"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "לפני החורבן; שבת טו ע״א נותן מסגרת נשיאות של השושלת לפני הבית.",
+      "importanceNoteHe": "מקורות מציינים במפורש מוסדות בירושלים/מקדש.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "משנה פאה ב:ו — לשכת הגזית",
+          "url": "https://www.sefaria.org/Mishnah_Peah.2.6",
+          "ref": "Mishnah Peah 2:6",
+          "kind": "primary_rabbinic",
+          "text": "מעשה… לפני רבן גמליאל ועלו ללשכת הגזית ושאלו"
+        },
+        {
+          "labelHe": "משנה ראש השנה ב:ה — בית יעזק בירושלים",
+          "url": "https://www.sefaria.org/Mishnah_Rosh_Hashanah.2.5",
+          "ref": "Mishnah Rosh Hashanah 2:5",
+          "kind": "primary_rabbinic",
+          "text": "חצר גדולה היתה בירושלים ובית יעזק היתה נקראת… התקין רבן גמליאל הזקן"
+        },
+        {
+          "labelHe": "שבת טו ע״א — נשיאות לפני הבית",
+          "url": "https://www.sefaria.org/Shabbat.15a",
+          "ref": "Shabbat 15a",
+          "kind": "primary_rabbinic",
+          "text": "הלל ושמעון גמליאל ושמעון נהגו נשיאותן לפני הבית מאה שנה"
+        },
+        {
+          "labelHe": "אבות א:טז",
+          "url": "https://www.sefaria.org/Pirkei_Avot.1.16",
+          "ref": "Pirkei Avot 1:16",
+          "kind": "primary_rabbinic",
+          "text": "רבן גמליאל אומר — ללא מקום במשנה עצמה"
+        }
+      ],
+      "uncertainty": "זיהוי מדויק של 'רבן גמליאל' באבות א:טז עם הזקן מקובל במסורת הפרשנית; אין לבלבל עם רבן גמליאל דיבנה."
+    },
+    {
+      "personSlug": "shimon-son-gamliel",
+      "placeSlug": "jerusalem",
+      "relationshipType": "served",
+      "activityHe": "נשיאות לפני הבית (כחלק משושלת הלל)",
+      "importance": "meaningful",
+      "noteHe": "במסורת מזוהה עם רבן שמעון בן גמליאל הראשון (בנו של רבן גמליאל הזקן). אבות א:יז עצמו אינו מציין מקום. שבת טו ע״א מונה 'שמעון' בשרשרת הנשיאים לפני הבית — ראיה ראשונית חזקה להקשר ירושלים/בית המקדש, אך לא תיאור מגורים מפורט.",
+      "periodIds": [
+        "early"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "שלהי הבית לפי שבת טו ע״א; ללא שנים מדויקות.",
+      "importanceNoteHe": "ראיה מוסדית (נשיאות לפני הבית) ולא נרטיב מקומי עשיר בחז״ל.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "אבות א:יז — שמעון בנו",
+          "url": "https://www.sefaria.org/Pirkei_Avot.1.17",
+          "ref": "Pirkei Avot 1:17",
+          "kind": "primary_rabbinic",
+          "text": "שמעון בנו אומר… — ללא מקום"
+        },
+        {
+          "labelHe": "שבת טו ע״א",
+          "url": "https://www.sefaria.org/Shabbat.15a",
+          "ref": "Shabbat 15a",
+          "kind": "primary_rabbinic",
+          "text": "הלל ושמעון גמליאל ושמעון נהגו נשיאותן לפני הבית מאה שנה"
+        }
+      ],
+      "uncertainty": "זיהוי 'שמעון בנו' עם רשב״ג הראשון מקובל אך אינו היחיד בהיסטוריוגרפיה; יוספוס מתאר פעילות בירושלים בימי המרד — מקור חיצוני, לא נשען עליו לבדו."
+    },
+    {
+      "personSlug": "rashbag-avot1",
+      "placeSlug": "jerusalem",
+      "relationshipType": "documented_presence",
+      "activityHe": "נשיאות לפני הבית — אם מזוהה עם רשב״ג הראשון",
+      "importance": "meaningful",
+      "noteHe": "אבות א:יח אינו מציין מקום. בפרשנות המסורתית (למשל ברטנורא) לעיתים מזוהה עם 'שמעון בנו' דלעיל שנתכנה רבן; אז חל עליו שבת טו ע״א (נשיאות לפני הבית). אם מזוהה עם רשב״ג מאוחר יותר (דור אושא) — ייתכן שיוך אחר (אושא/יבנה) ויש לפצל זהויות.",
+      "periodIds": [
+        "early"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "תלוי בזיהוי הדמות; לפני הבית רק בזיהוי עם רשב״ג הראשון.",
+      "importanceNoteHe": "חשיבות מותנית בזיהוי הפרשני.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "אבות א:יח",
+          "url": "https://www.sefaria.org/Pirkei_Avot.1.18",
+          "ref": "Pirkei Avot 1:18",
+          "kind": "primary_rabbinic",
+          "text": "רבן שמעון בן גמליאל אומר: על שלשה דברים העולם קיים… — ללא מקום"
+        },
+        {
+          "labelHe": "שבת טו ע״א — רלוונטי רק בזיהוי עם רשב״ג הראשון",
+          "url": "https://www.sefaria.org/Shabbat.15a",
+          "ref": "Shabbat 15a",
+          "kind": "primary_rabbinic",
+          "text": "…גמליאל ושמעון נהגו נשיאותן לפני הבית"
+        }
+      ],
+      "uncertainty": "גבוה: זהות הדובר באבות א:יח שנויה במחלוקת פרשנית/היסטורית (רשב״ג I מול דמות מאוחרת)."
+    },
+    {
+      "personSlug": "rebbi",
+      "placeSlug": "bet-shearim",
+      "relationshipType": "lived",
+      "activityHe": "מושב הוראה ודין; מקום מוכן לקבורה",
+      "importance": "central",
+      "noteHe": "ברייתא: 'הלך אחר רבי לבית שערים'; ו'רבי בבית שערים הוה'. קבורה לבית שריי/בית שערים בירושלמי.",
+      "periodIds": [
+        "rebbi"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "עיקר מושבו לפני העברה לציפורי מחמת חולשה",
+      "importanceNoteHe": "מרכז נשיאות והוראה בברייתא ובסיפור הפטירה",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי כתובות קג ע״ב",
+          "url": "https://www.sefaria.org/Ketubot.103b?lang=bi",
+          "ref": "Ketubot 103b",
+          "kind": "primary_rabbinic",
+          "text": "רבי מוטל בציפורי ומקום מוכן לו בבית שערים… רבי בבית שערים הוה אלא כיון דחלש אמטיוהי לציפורי"
+        },
+        {
+          "labelHe": "בבלי סנהדרין לב ע״ב",
+          "url": "https://www.sefaria.org/Sanhedrin.32b?lang=bi",
+          "ref": "Sanhedrin 32b",
+          "kind": "primary_rabbinic",
+          "text": "צדק צדק תרדף — הלך אחר רבי לבית שערים"
+        },
+        {
+          "labelHe": "ירושלמי כלאים ט ג",
+          "url": "https://www.sefaria.org/Jerusalem_Talmud_Kilayim.9.3?lang=bi",
+          "ref": "Jerusalem Talmud Kilayim 9:3",
+          "kind": "primary_rabbinic",
+          "text": "הספד והעברה לבית שריי ביום הפטירה"
+        }
+      ],
+      "uncertainty": "null"
+    },
+    {
+      "personSlug": "rebbi",
+      "placeSlug": "zippori",
+      "relationshipType": "lived",
+      "activityHe": "שנותיו האחרונות; פטירה",
+      "importance": "central",
+      "noteHe": "הועבר לציפורי מחמת חולשה (אוויר גבוה). ירושלמי: ישב בציפורין 17 שנה. פטירה בציפורי וקבורה בבית שערים לפי חז״ל; זיהוי קבר בציפורי מסורת מאוחרת/שנויה.",
+      "periodIds": [
+        "rebbi"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "סוף ימיו; מסורת 17 שנים בציפורי",
+      "importanceNoteHe": "מקום הפטירה והישיבה האחרונה",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי כתובות קג ע״ב",
+          "url": "https://www.sefaria.org/Ketubot.103b?lang=bi",
+          "ref": "Ketubot 103b",
+          "kind": "primary_rabbinic",
+          "text": "כיון דחלש אמטיוהי לציפורי דמדליא ובסים אוירא"
+        },
+        {
+          "labelHe": "ירושלמי כלאים ט ג",
+          "url": "https://www.sefaria.org/Jerusalem_Talmud_Kilayim.9.3?lang=bi",
+          "ref": "Jerusalem Talmud Kilayim 9:3",
+          "kind": "primary_rabbinic",
+          "text": "רבי הוה יתיב ליה בציפורין שבע עשרה שנין… ויחי יהודה בציפורין שבע עשרה שנה"
+        },
+        {
+          "labelHe": "בבלי ראש השנה לא ע״ב",
+          "url": "https://www.sefaria.org/Rosh_Hashanah.31b?lang=bi",
+          "ref": "Rosh Hashanah 31b",
+          "kind": "primary_rabbinic",
+          "text": "גלות סנהדרין: …מבית שערים לצפורי ומציפורי לטבריא — מסלול מוסדי, לא עדות מגורים אישית בטבריה"
+        }
+      ],
+      "uncertainty": "מסורת קבורה בציפורי מול קבורה בבית שערים בחז״ל — לא להכריע לקבר ציפורי כמקור ראשוני"
+    },
+    {
+      "personSlug": "gamliel-rebbi",
+      "placeSlug": "zippori",
+      "relationshipType": "documented_presence",
+      "activityHe": "מינוי לנשיאות בצוואת אביו בהקשר חולי/פטירת רבי",
+      "importance": "meaningful",
+      "noteHe": "בכתובות קג נמסרת לו הנשיאות ('גמליאל בני נשיא') במסגרת סיפור פטירת רבי שמושבו האחרון בציפורי. אין מימרה מפורשת 'ישב בציפורי'.",
+      "periodIds": [
+        "transition"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור מעבר אחרי רבי",
+      "importanceNoteHe": "המשכיות נשיאות במרחב אביו",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי כתובות קג ע״ב",
+          "url": "https://www.sefaria.org/Ketubot.103b?lang=bi",
+          "ref": "Ketubot 103b",
+          "kind": "primary_rabbinic",
+          "text": "שמעון בני חכם, גמליאל בני נשיא… מסר לו סדרי נשיאות"
+        }
+      ],
+      "uncertainty": "נוכחות נגזרת מהקשר סיפור הפטירה, לא אמירה גאוגרפית עצמאית"
+    },
+    {
+      "personSlug": "yochanan-zakkai",
+      "placeSlug": "jerusalem",
+      "relationshipType": "served",
+      "activityHe": "הנהגה בירושלים הנצורה ויציאה ממנה",
+      "importance": "central",
+      "noteHe": "מסורת גיטין: פעילות בירושלים בזמן המצור, יציאה לאספסיאנוס ובקשות הצלה.",
+      "periodIds": [
+        "early"
+      ],
+      "start": 66,
+      "end": 70,
+      "timeNoteHe": "סביב חורבן הבית; אין תיארוך שנתי מדויק במקור.",
+      "importanceNoteHe": "זירת הפעולה המרכזית לפני ואגב החורבן במסורת זו.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי גיטין נ״ו ע״א–ע״ב",
+          "url": "https://www.sefaria.org/Gittin.56b?lang=bi",
+          "ref": "Gittin 56a-56b",
+          "kind": "primary_rabbinic",
+          "text": "יציאה מירושלים; בקשת יבנה וחכמיה, שושלת רבן גמליאל ורפואת רבי צדוק."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "yochanan-zakkai",
+      "placeSlug": "yavne",
+      "relationshipType": "served",
+      "activityHe": "בקשת יבנה וחכמיה / ייסוד מרכז לאחר החורבן",
+      "importance": "central",
+      "noteHe": "בקשה מפורשת: ״תן לי יבנה וחכמיה״. קשר מסורתי מרכזי; דיון מחקרי על היסטוריוגרפיה אינו מבטל את עדות המקור.",
+      "periodIds": [
+        "early",
+        "yavne"
+      ],
+      "start": 70,
+      "end": 90,
+      "timeNoteHe": "לאחר החורבן; טווח משוער לסינון.",
+      "importanceNoteHe": "המקור מציב את יבנה כמטרת ההצלה והמשכיות החכמים.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי גיטין נ״ו ע״ב",
+          "url": "https://www.sefaria.org/Gittin.56b?lang=bi",
+          "ref": "Gittin 56b",
+          "kind": "primary_rabbinic",
+          "text": "תן לי יבנה וחכמיה ושושילתא דרבן גמליאל ואסוותא… לרבי צדוק."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "yochanan-zakkai",
+      "placeSlug": "brur-hayil",
+      "relationshipType": "taught",
+      "activityHe": "הוראה / מושב חכם",
+      "importance": "central",
+      "noteHe": "ברייתא: ״אחר רבן יוחנן בן זכאי לברור חיל״. זיהוי נקודת המפה נפרד מעצם הקשר הטקסטואלי.",
+      "periodIds": [
+        "early",
+        "yavne"
+      ],
+      "start": 70,
+      "end": 100,
+      "timeNoteHe": "מקובל כשלב מאוחר יותר מיבנה; המקור אינו מתארך.",
+      "importanceNoteHe": "מוצג כמקום שאליו הולכים אחר החכם.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי סנהדרין ל״ב ע״ב",
+          "url": "https://www.sefaria.org/Sanhedrin.32b?lang=bi",
+          "ref": "Sanhedrin 32b",
+          "kind": "primary_rabbinic",
+          "text": "צדק צדק תרדף… אחר רבן יוחנן בן זכאי לברור חיל."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "yochanan-zakkai",
+      "placeSlug": "arav",
+      "relationshipType": "lived",
+      "activityHe": "מגורים והוראה בגליל",
+      "importance": "meaningful",
+      "noteHe": "ירושלמי: שהה בערב שמונה־עשרה שנה; מעשה בא לפניו בערב. זיהוי עם עראבה מקובל אך נקודת קואורדינטה נפרדת.",
+      "periodIds": [
+        "early"
+      ],
+      "start": 40,
+      "end": 70,
+      "timeNoteHe": "מסורת של 18 שנים לפני/סביב שלהי הבית; אין שנים מדויקות.",
+      "importanceNoteHe": "מגורים ממושכים המתועדים במפורש, לא רק ביקור.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "ירושלמי שבת ט״ז:ח׳",
+          "url": "https://www.sefaria.org/Jerusalem_Talmud_Shabbat.16.8?lang=bi",
+          "ref": "Jerusalem Talmud Shabbat 16:8",
+          "kind": "primary_rabbinic",
+          "text": "מעשה בא לפני ריב״ז בערב; שמונה עשר שנין… בהדא ערב."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "eliezer-hyrcanus",
+      "placeSlug": "lod",
+      "relationshipType": "taught",
+      "activityHe": "הוראה ומושב חכם",
+      "importance": "central",
+      "noteHe": "ברייתא: ״אחר רבי אליעזר ללוד״. אין מקור ראשוני חזק למושב קבע נוסף מלבד לוד.",
+      "periodIds": [
+        "yavne"
+      ],
+      "start": 70,
+      "end": 120,
+      "timeNoteHe": "טווח פעילות משוער; המקור אינו מתארך.",
+      "importanceNoteHe": "מקום הפנייה המפורש לחכם.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי סנהדרין ל״ב ע״ב",
+          "url": "https://www.sefaria.org/Sanhedrin.32b?lang=bi",
+          "ref": "Sanhedrin 32b",
+          "kind": "primary_rabbinic",
+          "text": "אחר רבי אליעזר ללוד."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "yehoshua-hananya",
+      "placeSlug": "pekiin",
+      "relationshipType": "taught",
+      "activityHe": "הוראה / מושב חכם",
+      "importance": "central",
+      "noteHe": "ברייתא: ״אחר רבי יהושע לפקיעין״. זיהוי האתר ההיסטורי נתון לדיון; הקשר הטקסטואלי ברור.",
+      "periodIds": [
+        "yavne"
+      ],
+      "start": 70,
+      "end": 135,
+      "timeNoteHe": "טווח משוער; המקור אינו מתארך.",
+      "importanceNoteHe": "מקום הפנייה המפורש לחכם.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי סנהדרין ל״ב ע״ב",
+          "url": "https://www.sefaria.org/Sanhedrin.32b?lang=bi",
+          "ref": "Sanhedrin 32b",
+          "kind": "primary_rabbinic",
+          "text": "אחר רבי יהושע לפקיעין."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "yehoshua-hananya",
+      "placeSlug": "yavne",
+      "relationshipType": "documented_presence",
+      "activityHe": "פעילות במרכז חכמי יבנה",
+      "importance": "meaningful",
+      "noteHe": "דמות מרכזית במעשי יבנה (למשל פרשת הדחת רבן גמליאל). סנהדרין ל״ב מייחדת את פקיעין כמושב הפנייה, לא את יבנה.",
+      "periodIds": [
+        "yavne"
+      ],
+      "start": 70,
+      "end": 120,
+      "timeNoteHe": "דור יבנה; ללא תאריך מדויק.",
+      "importanceNoteHe": "מרכז פעילות משמעותי, לא מושב יחיד לפי הברייתא.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי ברכות כ״ז ע״ב–כ״ח ע״א",
+          "url": "https://www.sefaria.org/Berakhot.28a?lang=bi",
+          "ref": "Berakhot 27b-28a",
+          "kind": "primary_rabbinic",
+          "text": "מחלוקת עם רבן גמליאל והדחה/פיוס בבית המדרש ביבנה."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "yehoshua-hananya",
+      "placeSlug": "rome",
+      "relationshipType": "visited",
+      "activityHe": "מסע בסביבת רומי",
+      "importance": "minor",
+      "noteHe": "נמנה עם החכמים ששמעו את המונה של רומי מרחוק. אינו מוכיח מגורים.",
+      "periodIds": [
+        "yavne"
+      ],
+      "start": 70,
+      "end": 135,
+      "timeNoteHe": "לא מתוארך.",
+      "importanceNoteHe": "ביקור/מסע חד־פעמי במסורת.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי מכות כ״ד",
+          "url": "https://www.sefaria.org/Makkot.24b?lang=bi",
+          "ref": "Makkot 24a-24b",
+          "kind": "primary_rabbinic",
+          "text": "רבי יהושע עם חברים בדרך; מונה של רומי."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "yehoshua-hananya",
+      "placeSlug": "jerusalem",
+      "relationshipType": "visited",
+      "activityHe": "ביקור במקום המקדש החרב",
+      "importance": "meaningful",
+      "noteHe": "עלייה עם חברים וראיית שועל במקדש.",
+      "periodIds": [
+        "yavne"
+      ],
+      "start": 70,
+      "end": 135,
+      "timeNoteHe": "לאחר החורבן; לא מתוארך.",
+      "importanceNoteHe": "ביקור מתועד, לא מושב.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי מכות כ״ד ע״ב",
+          "url": "https://www.sefaria.org/Makkot.24b?lang=bi",
+          "ref": "Makkot 24b",
+          "kind": "primary_rabbinic",
+          "text": "עלו לירושלים… שועל יוצא מבית קדשי הקדשים."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "yose-kohen",
+      "placeSlug": "yavne",
+      "relationshipType": "lived",
+      "activityHe": "הליכה ליבנה עם חבריו לאחר פטירת ריב״ז",
+      "importance": "meaningful",
+      "noteHe": "מסורת קהלת רבה/אדר״נ: חמשת התלמידים ישבו לפני ריב״ז; כשנפטר הלכו ליבנה (אלעזר בן ערך יוצא דופן). אין מושב אישי נפרד בסנהדרין ל״ב.",
+      "periodIds": [
+        "yavne"
+      ],
+      "start": 70,
+      "end": 110,
+      "timeNoteHe": "לאחר פטירת ריב״ז; לא מתוארך.",
+      "importanceNoteHe": "שיוך קבוצתי מתועד, לא תיאור מושב הוראה עצמאי.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "אבות דרבי נתן י״ד",
+          "url": "https://www.sefaria.org/Avot_DeRabbi_Natan.14.6?lang=bi",
+          "ref": "Avot DeRabbi Natan 14:6",
+          "kind": "primary_rabbinic",
+          "text": "כשנפטר הלכו ליבנה… והוא לדמסית."
+        },
+        {
+          "labelHe": "קהלת רבה ז׳",
+          "url": "https://www.sefaria.org/Kohelet_Rabbah.7.7?lang=bi",
+          "ref": "Kohelet Rabbah 7:7",
+          "kind": "primary_rabbinic",
+          "text": "מקבילה: חברים ליבנה; בן ערך למקום מים יפים."
+        }
+      ],
+      "uncertainty": "true"
+    },
+    {
+      "personSlug": "shimon-netanel",
+      "placeSlug": "yavne",
+      "relationshipType": "lived",
+      "activityHe": "הליכה ליבנה עם חבריו לאחר פטירת ריב״ז",
+      "importance": "meaningful",
+      "noteHe": "אותה מסורת קבוצתית כמו יוסי הכהן. אין מושב אישי נוסף במקורות שנבדקו.",
+      "periodIds": [
+        "yavne"
+      ],
+      "start": 70,
+      "end": 110,
+      "timeNoteHe": "לאחר פטירת ריב״ז; לא מתוארך.",
+      "importanceNoteHe": "שיוך קבוצתי בלבד.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "אבות דרבי נתן י״ד",
+          "url": "https://www.sefaria.org/Avot_DeRabbi_Natan.14.6?lang=bi",
+          "ref": "Avot DeRabbi Natan 14:6",
+          "kind": "primary_rabbinic",
+          "text": "התלמידים הלכו ליבנה לאחר פטירת ריב״ז."
+        }
+      ],
+      "uncertainty": "true"
+    },
+    {
+      "personSlug": "elazar-arakh",
+      "placeSlug": "emmaus",
+      "relationshipType": "lived",
+      "activityHe": "ישיבה במקום מים יפים ושכחת תלמוד",
+      "importance": "central",
+      "noteHe": "בבלי: דיומסת; אדר״נ: דמסית; קהלת רבה: אמאוס. זיהוי דיומסת=אמאוס מקובל במסורת ובמחקר, אך אינו זהה מילולית בכל הגרסאות.",
+      "periodIds": [
+        "yavne"
+      ],
+      "start": 70,
+      "end": 100,
+      "timeNoteHe": "לאחר פטירת ריב״ז לפי המדרשים; לא מתוארך.",
+      "importanceNoteHe": "מקום המגורים המפורש במקום חבריו ביבנה.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי שבת קמ״ז ע״ב",
+          "url": "https://www.sefaria.org/Shabbat.147b?lang=bi",
+          "ref": "Shabbat 147b",
+          "kind": "primary_rabbinic",
+          "text": "רבי אלעזר בן ערך איקלע להתם (דיומסת)… איעקר תלמודיה."
+        },
+        {
+          "labelHe": "אבות דרבי נתן י״ד",
+          "url": "https://www.sefaria.org/Avot_DeRabbi_Natan.14.6?lang=bi",
+          "ref": "Avot DeRabbi Natan 14:6",
+          "kind": "primary_rabbinic",
+          "text": "הוא שהלך לדמסית למקום יפה ומים יפים; חברים ליבנה."
+        },
+        {
+          "labelHe": "קהלת רבה ז׳",
+          "url": "https://www.sefaria.org/Kohelet_Rabbah.7.7?lang=bi",
+          "ref": "Kohelet Rabbah 7:7",
+          "kind": "primary_rabbinic",
+          "text": "גרסת אמאוס במסורת המדרשית."
+        }
+      ],
+      "uncertainty": "true"
+    },
+    {
+      "personSlug": "tarfon",
+      "placeSlug": "lod",
+      "relationshipType": "taught",
+      "activityHe": "הוראה, הכרעה והנהגה בלוד",
+      "importance": "central",
+      "noteHe": "שלושה מקורות ראשוניים עצמאיים: עליית בית נתזה; הוראה לתגרי לוד; מעשה תענית גשמים בלוד. תענית כ״א אינה מקור טרפון–לוד (שם נחום איש גם זו).",
+      "periodIds": [
+        "yavne",
+        "akiva"
+      ],
+      "start": 70,
+      "end": 135,
+      "timeNoteHe": "דור יבנה/עקיבא; ללא תאריך מדויק.",
+      "importanceNoteHe": "ריכוז עדויות מפורשות הופך את לוד למושב מרכזי.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי קידושין מ׳ ע״ב",
+          "url": "https://www.sefaria.org/Kiddushin.40b?lang=bi",
+          "ref": "Kiddushin 40b",
+          "kind": "primary_rabbinic",
+          "text": "וכבר היה רבי טרפון וזקנים מסובין בעלית בית נתזה בלוד… תלמוד גדול או מעשה גדול."
+        },
+        {
+          "labelHe": "משנה בבא מציעא ד׳:ג׳ / בבלי ב״מ מ״ט ע״ב",
+          "url": "https://www.sefaria.org/Bava_Metzia.49b?lang=bi",
+          "ref": "Mishnah Bava Metzia 4:3 / Bava Metzia 49b",
+          "kind": "primary_rabbinic",
+          "text": "הורה רבי טרפון בלוד… ושמחו תגרי לוד."
+        },
+        {
+          "labelHe": "משנה תענית ג׳:ט׳ (נדפסת בבבלי תענית י״ט ע״א)",
+          "url": "https://www.sefaria.org/Mishnah_Taanit.3.9?lang=bi",
+          "ref": "Mishnah Ta'anit 3:9 (Bavli Ta'anit 19a)",
+          "kind": "primary_rabbinic",
+          "text": "מעשה שגזרו תענית בלוד… אמר להם רבי טרפון צאו ואכלו."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "akavya",
+      "placeSlug": "jerusalem",
+      "relationshipType": "visited",
+      "activityHe": "נוכחות בהקשר עזרה/מקדש",
+      "importance": "minor",
+      "noteHe": "משנה עדיות: שפחה בירושלים; ו״אין עזרה ננעלת… כעקביא״ — מעיד על נוכחות בעזרה בערב פסח, לא על מושב הוראה.",
+      "periodIds": [
+        "zug5",
+        "early"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור מוקדם (הלל/שמאי לפי הקשר); ללא תאריכים.",
+      "importanceNoteHe": "אזכור מקדשי נקודתי בלבד.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "משנה עדיות ה׳:ו׳–ז׳",
+          "url": "https://www.sefaria.org/Mishnah_Eduyot.5.6?lang=bi",
+          "ref": "Mishnah Eduyot 5:6-7",
+          "kind": "primary_rabbinic",
+          "text": "מעשה בכרכמית שפחה… בירושלים; אין עזרה ננעלת… כעקביא בן מהללאל."
+        }
+      ],
+      "uncertainty": "true"
+    },
+    {
+      "personSlug": "hanina-sgan",
+      "placeSlug": "jerusalem",
+      "relationshipType": "served",
+      "activityHe": "כהונה / סגן במקדש ועדויות על העבודה",
+      "importance": "central",
+      "noteHe": "התואר והעדויות על עבודת המקדש ממקמים אותו בירושלים של סוף הבית. אין מושב חלופי מתועד.",
+      "periodIds": [
+        "early"
+      ],
+      "start": 30,
+      "end": 70,
+      "timeNoteHe": "סוף בית שני / חורבן; ללא תאריך מדויק.",
+      "importanceNoteHe": "זהותו הכהנית קשורה ישירות למקדש בירושלים.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "משנה אבות ג׳:ב׳",
+          "url": "https://www.sefaria.org/Pirkei_Avot.3.2?lang=bi",
+          "ref": "Avot 3:2",
+          "kind": "primary_rabbinic",
+          "text": "רבי חנינא סגן הכהנים אומר…"
+        },
+        {
+          "labelHe": "בבלי סוטה מ״ב ע״א",
+          "url": "https://www.sefaria.org/Sotah.42a?lang=bi",
+          "ref": "Sotah 42a",
+          "kind": "primary_rabbinic",
+          "text": "למה סגן ממונה? שאם אירע פסול בכהן גדול…"
+        },
+        {
+          "labelHe": "בבלי פסחים י״ד ע״א",
+          "url": "https://www.sefaria.org/Pesachim.14a?lang=bi",
+          "ref": "Pesachim 14a",
+          "kind": "primary_rabbinic",
+          "text": "עדות על מנהגי כהנים בטומאה/שריפת בשר."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "hanina-teradyon",
+      "placeSlug": "sikhnin",
+      "relationshipType": "taught",
+      "activityHe": "הוראה / מושב חכם",
+      "importance": "central",
+      "noteHe": "ברייתא: ״אחר רבי חנניה בן תרדיון לסיכני״. כבר ממופה בפיילוט.",
+      "periodIds": [
+        "akiva"
+      ],
+      "start": 100,
+      "end": 135,
+      "timeNoteHe": "דור עקיבא / שמד; ללא תאריך מדויק.",
+      "importanceNoteHe": "מקום הפנייה המפורש.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי סנהדרין ל״ב ע״ב",
+          "url": "https://www.sefaria.org/Sanhedrin.32b?lang=bi",
+          "ref": "Sanhedrin 32b",
+          "kind": "primary_rabbinic",
+          "text": "אחר רבי חנניא בן תרדיון לסיכני."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "shimon-yohai",
+      "placeSlug": "tekoa",
+      "relationshipType": "taught",
+      "activityHe": "לימוד תורה עם תלמידים (ובהם רבי)",
+      "importance": "central",
+      "noteHe": "רבי: 'כשהיינו לומדין תורה אצל רבי שמעון בתקוע'. זיהוי תקוע יהודה מול תקוע גלילית (פקיעין/חורבת שמע) שנוי.",
+      "periodIds": [
+        "usha"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "לאחר תקופת המערה/דור תלמידי ר״ע",
+      "importanceNoteHe": "עדות מפורשת לבית מדרש במקום בשם תקוע",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי שבת קמז ע״ב",
+          "url": "https://www.sefaria.org/Shabbat.147b?lang=bi",
+          "ref": "Shabbat 147b",
+          "kind": "primary_rabbinic",
+          "text": "אמר רבי: כשהיינו לומדין תורה אצל רבי שמעון בתקוע…"
+        }
+      ],
+      "uncertainty": "זיהוי גאוגרפי של 'תקוע' (יהודה/גליל) אינו מוכרע במקור עצמו"
+    },
+    {
+      "personSlug": "shimon-yohai",
+      "placeSlug": "tiberias",
+      "relationshipType": "event",
+      "activityHe": "טיהור ספק טומאה/בית קברות אחרי יציאה מהמערה",
+      "importance": "meaningful",
+      "noteHe": "בבבלי שבת לג–לד הסיפור אינו מנקב 'טבריה' בשם; זיהוי טבריה נשען על מקבילות מדרשיות/ירושלמי. לא לזהות כמקום מגורים קבוע.",
+      "periodIds": [
+        "usha"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "סמוך ליציאה מהמערה",
+      "importanceNoteHe": "מעשה חד־פעמי של תיקון",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי שבת לג ע״ב–לד ע״א",
+          "url": "https://www.sefaria.org/Shabbat.33b?lang=bi",
+          "ref": "Shabbat 33b–34a",
+          "kind": "primary_rabbinic",
+          "text": "איזיל אתקין מילתא… טיהר בן יוחי בית הקברות — בלי שם עיר בגרסת הבבלי שנבדקה"
+        }
+      ],
+      "uncertainty": "שם העיר 'טבריה' אינו מפורש בסוגיית הבבלי; יש לאמת במקבילה לפני סימון central"
+    },
+    {
+      "personSlug": "shimon-yohai",
+      "placeSlug": "yavne",
+      "relationshipType": "visited",
+      "activityHe": "נוכחות ב'כרם ביבנה' עם חכמים",
+      "importance": "minor",
+      "noteHe": "שבת לג: כשנכנסו רבותינו לכרם ביבנה היה שם רבי יהודה, רבי אלעזר ברבי יוסי ורבי שמעון",
+      "periodIds": [
+        "usha"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "",
+      "importanceNoteHe": "ביקור/מושב דיון חד־פעמי בסוגיה",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי שבת לג ע״ב",
+          "url": "https://www.sefaria.org/Shabbat.33b?lang=bi",
+          "ref": "Shabbat 33b",
+          "kind": "primary_rabbinic",
+          "text": "כשנכנסו רבותינו לכרם ביבנה היה שם רבי יהודה ורבי אלעזר ברבי יוסי ורבי שמעון"
+        }
+      ],
+      "uncertainty": "null"
+    },
+    {
+      "personSlug": "nehunya",
+      "placeSlug": "emmaus",
+      "relationshipType": "other",
+      "activityHe": "כינוי ״איש אמהום״",
+      "importance": "meaningful",
+      "noteHe": "מדרש תנאים לדברים כו:יג מכנהו ״איש אמהום״ (=אמאוס). המדרש משוחזר חלקית ממכילתא לדברים — עדות תנאית מיוחסת אך עם אי־ודאות טקסטואלית.",
+      "periodIds": [
+        "early",
+        "yavne"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור ריב״ז/תלמידיו; ללא תאריכים.",
+      "importanceNoteHe": "כינוי מוצא; לא תיאור פעילות מפורט במקום.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "מדרש תנאים לדברים כ״ו:י״ג",
+          "url": "https://www.sefaria.org/Midrash_Tannaim_on_Deuteronomy.26.13?lang=bi",
+          "ref": "Midrash Tannaim on Deuteronomy 26:13",
+          "kind": "primary_rabbinic",
+          "text": "שאל תלמיד… את ר׳ נחוניה בן הקנה איש אמהום."
+        }
+      ],
+      "uncertainty": "true"
+    },
+    {
+      "personSlug": "halafta-dosa",
+      "placeSlug": "kfar-hanania",
+      "relationshipType": "lived",
+      "activityHe": "כינוי מוצא/מושב במשנה",
+      "importance": "central",
+      "noteHe": "האפיתט עצמו הוא העדות. כפר חנניה נזכר גם כגבול גליל עליון/תחתון (שביעית ט ב). אין לערבב אוטומטית עם אבא חלפתא דציפורי אבי רבי יוסי.",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "זהות/דור טעונים בירור בפילוט",
+      "importanceNoteHe": "המקום טמון בשם החכם",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "משנה אבות ג ו",
+          "url": "https://www.sefaria.org/Pirkei_Avot.3.6?lang=bi",
+          "ref": "Pirkei Avot 3:6",
+          "kind": "primary_rabbinic",
+          "text": "רבי חלפתא בן דוסא איש כפר חנניה אומר…"
+        },
+        {
+          "labelHe": "משנה שביעית ט ב",
+          "url": "https://www.sefaria.org/Mishnah_Sheviit.9.2?lang=bi",
+          "ref": "Mishnah Sheviit 9:2",
+          "kind": "primary_rabbinic",
+          "text": "מכפר חנניה ולמעלן… גליל העליון"
+        }
+      ],
+      "uncertainty": "ייתכן חכם נפרד מאבא חלפתא מציפורי"
+    },
+    {
+      "personSlug": "elazar-bartota",
+      "placeSlug": "bartota",
+      "relationshipType": "lived",
+      "activityHe": "כינוי מוצא במשנה",
+      "importance": "central",
+      "noteHe": "האפיתט הוא העדות היחידה שנבדקה. זיהוי האתר בשטח אינו מוכרע ברמת דיוק גבוהה.",
+      "periodIds": [
+        "akiva"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "",
+      "importanceNoteHe": "מקום מוצפן בשם",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "משנה אבות ג ז",
+          "url": "https://www.sefaria.org/Pirkei_Avot.3.7?lang=bi",
+          "ref": "Pirkei Avot 3:7",
+          "kind": "primary_rabbinic",
+          "text": "רבי אלעזר איש ברתותא אומר…"
+        }
+      ],
+      "uncertainty": "מיקום גאוגרפי מדויק של ברתותא לא הוכרע כאן; coords רק אם יש זיהוי מוצק במחקר"
+    },
+    {
+      "personSlug": "meir",
+      "placeSlug": "asia",
+      "relationshipType": "event",
+      "activityHe": "פטירה באסיא; צוואה להניח ערש על שפת הים",
+      "importance": "central",
+      "noteHe": "ירושלמי כלאים: 'רבי מאיר הוה אידמך ליה באסייא'. זיהוי אסיא (פרובינציה באסיה הקטנה / יישוב חופי קרוב) שנוי במחקר.",
+      "periodIds": [
+        "usha"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "סוף ימיו",
+      "importanceNoteHe": "העדות הראשונית הישירה לפטירה מחוץ למרכז הגליל",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "ירושלמי כלאים ט ג",
+          "url": "https://www.sefaria.org/Jerusalem_Talmud_Kilayim.9.3?lang=bi",
+          "ref": "Jerusalem Talmud Kilayim 9:3",
+          "kind": "primary_rabbinic",
+          "text": "רבי מאיר הוה אידמך ליה באסייא… יהבי ערסי על גיף ימא"
+        },
+        {
+          "labelHe": "ירושלמי כתובות יב ג (מקבילה)",
+          "url": "https://www.sefaria.org/Jerusalem_Talmud_Ketubot.12.3?lang=bi",
+          "ref": "Jerusalem Talmud Ketubot 12:3",
+          "kind": "primary_rabbinic",
+          "text": "מקבילת צוואת רבי מאיר באסיא"
+        }
+      ],
+      "uncertainty": "מיקום 'אסיא' עצמו שנוי; אין לזהות אוטומטית עם טבריה"
+    },
+    {
+      "personSlug": "meir",
+      "placeSlug": "usha",
+      "relationshipType": "event",
+      "activityHe": "נסמך בין אושא לשפרעם",
+      "importance": "meaningful",
+      "noteHe": "סנהדרין יד: יהודה בן בבא סמך חמישה ובהם רבי מאיר בין אושא לשפרעם. זו עדות אירוע סמיכה, לא בהכרח מגורים.",
+      "periodIds": [
+        "usha"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "לאחר גזירות / דור תלמידי ר״ע",
+      "importanceNoteHe": "קישור מוסדי למרחב אושא",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי סנהדרין יד ע״א",
+          "url": "https://www.sefaria.org/Sanhedrin.14a?lang=bi",
+          "ref": "Sanhedrin 14a",
+          "kind": "primary_rabbinic",
+          "text": "בין אושא לשפרעם וסמך שם חמישה זקנים… רבי מאיר ורבי יהודה ורבי שמעון ורבי יוסי ורבי אלעזר בן שמוע"
+        }
+      ],
+      "uncertainty": "אין בסוגיה זו 'ישב באושא' מפורש לר״מ"
+    },
+    {
+      "personSlug": "hanina-dosa",
+      "placeSlug": "arav",
+      "relationshipType": "lived",
+      "activityHe": "מגורים בעירו ערב שבגליל",
+      "importance": "central",
+      "noteHe": "ירושלמי: אנשים שעלהו מערב לציפורי אמרו שכבר שבת רבי חנינא בן דוסא בעירו. זיהוי עם עראבה מקובל.",
+      "periodIds": [
+        "early"
+      ],
+      "start": 40,
+      "end": 100,
+      "timeNoteHe": "דור ריב״ז; ללא תאריכים מדויקים.",
+      "importanceNoteHe": "״בעירו״ — מגורים מפורשים.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "ירושלמי ברכות ד׳:א׳",
+          "url": "https://www.sefaria.org/Jerusalem_Talmud_Berakhot.4.1?lang=bi",
+          "ref": "Jerusalem Talmud Berakhot 4:1",
+          "kind": "primary_rabbinic",
+          "text": "דסלקון חומרייא מן ערב לציפורין ואמרין כבר שבת רבי חנינא בן דוסא בעירו."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "elazar-modai",
+      "placeSlug": "modiim",
+      "relationshipType": "other",
+      "activityHe": "כינוי המודעי = מוצא ממודיעין",
+      "importance": "meaningful",
+      "noteHe": "הכינוי עצמו הוא העדות העיקרית למוצא. אין תיאור פעילות מפורט במודיעין במקורות שנבדקו.",
+      "periodIds": [
+        "akiva"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור עקיבא; ללא תאריכי מגורים.",
+      "importanceNoteHe": "כינוי מוצא יציב; לא מושב הוראה מתועד.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "משנה אבות ג׳:י״א",
+          "url": "https://www.sefaria.org/Pirkei_Avot.3.11?lang=bi",
+          "ref": "Avot 3:11",
+          "kind": "primary_rabbinic",
+          "text": "רבי אלעזר המודעי אומר…"
+        },
+        {
+          "labelHe": "בבלי שבת נ״ה ע״ב",
+          "url": "https://www.sefaria.org/Shabbat.55b?lang=bi",
+          "ref": "Shabbat 55b",
+          "kind": "primary_rabbinic",
+          "text": "עדיין אנו צריכים למודעי — שימוש בכינוי המקום."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "elazar-modai",
+      "placeSlug": "beitar",
+      "relationshipType": "served",
+      "activityHe": "תפילה והנהגה רוחנית במצור ביתר",
+      "importance": "central",
+      "noteHe": "ירושלמי: ישב על השק והאפר בביתר בימי בן כוזיבא עד שנהרג. שלב מאוחר מדור עקיבא/המרד.",
+      "periodIds": [
+        "akiva"
+      ],
+      "start": 132,
+      "end": 135,
+      "timeNoteHe": "מצור ביתר / מרד בר כוכבא לפי המסורת.",
+      "importanceNoteHe": "נוכחות מפורשת ומכרעת בנרטיב נפילת ביתר.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "ירושלמי תענית ד׳:ה׳",
+          "url": "https://www.sefaria.org/Jerusalem_Talmud_Taanit.4.5?lang=bi",
+          "ref": "Jerusalem Talmud Ta'anit 4:5",
+          "kind": "primary_rabbinic",
+          "text": "והוה רבי אלעזר המודעי יושב… בביתתר… יהב ליה חד בעוט וקטליה."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "yishmael",
+      "placeSlug": "kfar-aziz",
+      "relationshipType": "lived",
+      "activityHe": "מגורים והוראה בכפר עזיז",
+      "importance": "central",
+      "noteHe": "משנה: רבי יהושע הלך אצל רבי ישמעאל לכפר עזיז. מזוהה עם ח׳רבת אל־עזיז בדרום הר חברון; זיהוי סביר אך לא ודאי לחלוטין.",
+      "periodIds": [
+        "yavne",
+        "akiva"
+      ],
+      "start": 70,
+      "end": 135,
+      "timeNoteHe": "דור יהושע/עקיבא; ללא תאריך מדויק.",
+      "importanceNoteHe": "מקום שאליו הולכים אליו — מושב.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "משנה כלאים ו׳:ד׳",
+          "url": "https://www.sefaria.org/Mishnah_Kilayim.6.4?lang=bi",
+          "ref": "Mishnah Kilayim 6:4",
+          "kind": "primary_rabbinic",
+          "text": "מעשה שהלך רבי יהושע אצל רבי ישמעאל לכפר עזיז."
+        },
+        {
+          "labelHe": "משנה כתובות ה׳:ח׳",
+          "url": "https://www.sefaria.org/Mishnah_Ketubot.5.8?lang=bi",
+          "ref": "Mishnah Ketubot 5:8",
+          "kind": "primary_rabbinic",
+          "text": "רבי ישמעאל אומר: סמוך לאדום — תואם לדרום יהודה."
+        }
+      ],
+      "uncertainty": "true"
+    },
+    {
+      "personSlug": "akiva",
+      "placeSlug": "bnei-brak",
+      "relationshipType": "taught",
+      "activityHe": "הוראה / מושב חכם",
+      "importance": "central",
+      "noteHe": "ברייתא: ״אחר רבי עקיבא לבני ברק״.",
+      "periodIds": [
+        "akiva"
+      ],
+      "start": 70,
+      "end": 135,
+      "timeNoteHe": "טווח משוער; המקור אינו מתארך.",
+      "importanceNoteHe": "מקום הפנייה המפורש.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי סנהדרין ל״ב ע״ב",
+          "url": "https://www.sefaria.org/Sanhedrin.32b?lang=bi",
+          "ref": "Sanhedrin 32b",
+          "kind": "primary_rabbinic",
+          "text": "אחר רבי עקיבא לבני ברק."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "akiva",
+      "placeSlug": "lod",
+      "relationshipType": "documented_presence",
+      "activityHe": "השתתפות בדיון בעלית בית נתזה",
+      "importance": "meaningful",
+      "noteHe": "נוכח עם טרפון וזקנים בלוד בשאלת תלמוד/מעשה. אינו מוכיח מושב קבע בלוד.",
+      "periodIds": [
+        "akiva"
+      ],
+      "start": 70,
+      "end": 135,
+      "timeNoteHe": "לא מתוארך.",
+      "importanceNoteHe": "נוכחות בדיון מרכזי, לא הוראה כמקומי.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי קידושין מ׳ ע״ב",
+          "url": "https://www.sefaria.org/Kiddushin.40b?lang=bi",
+          "ref": "Kiddushin 40b",
+          "kind": "primary_rabbinic",
+          "text": "נענה ר״ע ואמר תלמוד גדול — בעלית בית נתזה בלוד."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "akiva",
+      "placeSlug": "jerusalem",
+      "relationshipType": "visited",
+      "activityHe": "ביקור במקום המקדש החרב",
+      "importance": "meaningful",
+      "noteHe": "עלייה עם חברים וראיית שועל.",
+      "periodIds": [
+        "akiva"
+      ],
+      "start": 70,
+      "end": 135,
+      "timeNoteHe": "לאחר החורבן; לא מתוארך.",
+      "importanceNoteHe": "ביקור מתועד.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי מכות כ״ד ע״ב",
+          "url": "https://www.sefaria.org/Makkot.24b?lang=bi",
+          "ref": "Makkot 24b",
+          "kind": "primary_rabbinic",
+          "text": "עלו לירושלים…"
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "akiva",
+      "placeSlug": "rome",
+      "relationshipType": "visited",
+      "activityHe": "מסע בסביבת רומי",
+      "importance": "minor",
+      "noteHe": "נמנה עם השומעים את המונה מרחוק. אינו מגורים.",
+      "periodIds": [
+        "akiva"
+      ],
+      "start": 70,
+      "end": 135,
+      "timeNoteHe": "לא מתוארך.",
+      "importanceNoteHe": "מסע/ביקור.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי מכות כ״ד",
+          "url": "https://www.sefaria.org/Makkot.24b?lang=bi",
+          "ref": "Makkot 24a-24b",
+          "kind": "primary_rabbinic",
+          "text": "רבי עקיבא עם חברים; מונה של רומי."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "elazar-azarya",
+      "placeSlug": "yavne",
+      "relationshipType": "served",
+      "activityHe": "נשיאות / ראשות בבית המדרש ביבנה",
+      "importance": "central",
+      "noteHe": "מונה במקום רבן גמליאל, פתח שערי בית המדרש, ואחר כך חלק עמו בהנהגה.",
+      "periodIds": [
+        "yavne",
+        "akiva"
+      ],
+      "start": 80,
+      "end": 120,
+      "timeNoteHe": "דור יבנה; גיל המינוי במסורת 16–18 — סמלי/אגדי.",
+      "importanceNoteHe": "זירת ההנהגה המפורשת.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי ברכות כ״ז ע״ב–כ״ח ע״א",
+          "url": "https://www.sefaria.org/Berakhot.28a?lang=bi",
+          "ref": "Berakhot 27b-28a",
+          "kind": "primary_rabbinic",
+          "text": "מינוי ראב״ע; פתיחת הדלתות; חלוקת שבתות הדרשה עם רבן גמליאל."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "eliezer-hisma",
+      "placeSlug": "pekiin",
+      "relationshipType": "visited",
+      "activityHe": "הלך עם רבי יוחנן בן ברוקא להקביל פני רבי יהושע בפקיעין",
+      "importance": "minor",
+      "noteHe": "ביקור חד־פעמי מתועד; אין מקור ראשוני למגורים בפקיעין",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור יבנה / תלמידי רבי יהושע",
+      "importanceNoteHe": "אירוע מתועד אך לא מושב קבוע",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "תוספתא: מיבנה ללוד והקבילו פני ר' יהושע בפקיעין",
+          "url": "https://www.sefaria.org/Tosefta_Sotah.7.9",
+          "ref": "תוספתא סוטה ז,ט",
+          "kind": "primary_rabbinic",
+          "text": "מעשה בר' יוחנן בן ברוקה ור' לעזר חסמא שבאו מיבנה ללוד והקבילו פני ר' יהושע בפקיעין"
+        },
+        {
+          "labelHe": "ברייתא מקבילה על הביקור בפקיעין",
+          "url": "https://www.sefaria.org/Chagigah.3a",
+          "ref": "בבלי חגיגה ג ע\"א",
+          "kind": "primary_rabbinic",
+          "text": "מעשה ברבי יוחנן בן ברוקה ורבי אלעזר (בן) חסמא שהלכו להקביל פני רבי יהושע בפקיעין"
+        }
+      ],
+      "uncertainty": "שם/נוסח: אלעזר/אליעזר חסמא; אין עדות למגורים"
+    },
+    {
+      "personSlug": "eliezer-hisma",
+      "placeSlug": "yavne",
+      "relationshipType": "studied",
+      "activityHe": "יצאו מבית המדרש ביבנה (שבת של ר' אלעזר בן עזריה) בדרכם לפקיעין",
+      "importance": "meaningful",
+      "noteHe": "התוספתא מציינת במפורש שבאו מיבנה; אינה מוכיחה מגורים",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "תקופת יבנה",
+      "importanceNoteHe": "קשר לבית המדרש ביבנה באותו יום",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "שבאו מיבנה… שבת של ר' אלעזר בן עזריה",
+          "url": "https://www.sefaria.org/Tosefta_Sotah.7.9",
+          "ref": "תוספתא סוטה ז,ט",
+          "kind": "primary_rabbinic",
+          "text": "שבאו מיבנה ללוד… שבת של מי היתה? של ר' לעזר בן עזריה"
+        }
+      ],
+      "uncertainty": "נוכחות בבית המדרש מתועדת; לא מגורי קבע"
+    },
+    {
+      "personSlug": "ben-zoma",
+      "placeSlug": "jerusalem",
+      "relationshipType": "event",
+      "activityHe": "נראה על ידי רבי יהושע על מעלה בהר הבית כשהיה שקוע במעשה בראשית",
+      "importance": "meaningful",
+      "noteHe": "נוכחות בהר הבית מתועדת; לא מושב",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור תלמידי רבי יהושע / לפני או סביב מרד בר כוכבא",
+      "importanceNoteHe": "האירוע המקומי היחיד ברור במקור ראשוני",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "מעשה בהר הבית",
+          "url": "https://www.sefaria.org/Chagigah.15a",
+          "ref": "בבלי חגיגה טו ע\"א",
+          "kind": "primary_rabbinic",
+          "text": "מעשה ברבי יהושע… שהיה עומד על גב מעלה בהר הבית וראהו בן זומא"
+        }
+      ],
+      "uncertainty": "null"
+    },
+    {
+      "personSlug": "ben-azzai",
+      "placeSlug": "tiberias",
+      "relationshipType": "taught",
+      "activityHe": "מסורת תלמודית שהוא היה דורש/ידוע בשוקי טבריה",
+      "importance": "meaningful",
+      "noteHe": "הביטוי 'הריני כבן עזאי בשוקי טבריא' בידי אביי/רבא משקף מסורת על פעילותו בטבריה; אין תיאור ביוגרפי עצמאי",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור שלישי לתנאים",
+      "importanceNoteHe": "הקישור המקומי החזק ביותר במקורות",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "הריני כבן עזאי בשוקי טבריא",
+          "url": "https://www.sefaria.org/Eruvin.29a",
+          "ref": "בבלי עירובין כט ע\"א",
+          "kind": "primary_rabbinic",
+          "text": "אמר רבא: הריני כבן עזאי בשוקי טבריא"
+        },
+        {
+          "labelHe": "רש\"י: שהיה דורש בשוקי טבריא",
+          "url": "https://www.sefaria.org/Rashi_on_Eruvin.29a.4",
+          "ref": "רש\"י עירובין כט ע\"א",
+          "kind": "secondary",
+          "text": "כבן עזאי שהיה דורש בשוקי טבריא"
+        }
+      ],
+      "uncertainty": "המסורת נמסרת כפתגם מאוחר; לא סיפור ביוגרפי ישיר"
+    },
+    {
+      "personSlug": "ben-azzai",
+      "placeSlug": "yavne",
+      "relationshipType": "studied",
+      "activityHe": "נמנה בין חכמי יבנה שידעו שבעים לשון (ירושלמי)",
+      "importance": "minor",
+      "noteHe": "שיוך לבית מדרש יבנה, לא הוכחת מגורים",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "תקופת יבנה",
+      "importanceNoteHe": "נוכחות מוסדית, לא גאוגרפיה פרטית",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "ארבעה ביבנה שידעו שבעים לשון",
+          "url": "https://www.sefaria.org/Jerusalem_Talmud_Shekalim.5.1",
+          "ref": "ירושלמי שקלים ה,א",
+          "kind": "primary_rabbinic",
+          "text": "בן עזאי בן זומא… (נוסח ירושלמי)"
+        }
+      ],
+      "uncertainty": "רשימת חכמים ביבנה; לא 'גר ביבנה'"
+    },
+    {
+      "personSlug": "levitas",
+      "placeSlug": "yavne",
+      "relationshipType": "other",
+      "activityHe": "כינוי ״איש יבנה״",
+      "importance": "meaningful",
+      "noteHe": "העדות העיקרית היא הכינוי במשנה. אין תיאור פעילות נרחב נוסף במקום.",
+      "periodIds": [
+        "yavne",
+        "akiva"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "זמן מדויק אינו ידוע.",
+      "importanceNoteHe": "כינוי מוצא/שיוך מקום בלבד.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "משנה אבות ד׳:ד׳",
+          "url": "https://www.sefaria.org/Pirkei_Avot.4.4?lang=bi",
+          "ref": "Avot 4:4",
+          "kind": "primary_rabbinic",
+          "text": "רבי לויטס איש יבנה אומר…"
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "yochanan-beroka",
+      "placeSlug": "pekiin",
+      "relationshipType": "visited",
+      "activityHe": "הלך עם רבי אלעזר חסמא להקביל פני רבי יהושע בפקיעין",
+      "importance": "minor",
+      "noteHe": "כבר מתועד במקורות; ביקור, לא מושב",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור תלמידי רבי יהושע",
+      "importanceNoteHe": "אירוע מתועד",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "ביקור בפקיעין",
+          "url": "https://www.sefaria.org/Tosefta_Sotah.7.9",
+          "ref": "תוספתא סוטה ז,ט",
+          "kind": "primary_rabbinic",
+          "text": "שבאו מיבנה ללוד והקבילו פני ר' יהושע בפקיעין"
+        },
+        {
+          "labelHe": "מקבילה בבבלי",
+          "url": "https://www.sefaria.org/Chagigah.3a",
+          "ref": "בבלי חגיגה ג ע\"א",
+          "kind": "primary_rabbinic",
+          "text": "שהלכו להקביל פני רבי יהושע בפקיעין"
+        }
+      ],
+      "uncertainty": "null"
+    },
+    {
+      "personSlug": "yochanan-beroka",
+      "placeSlug": "yavne",
+      "relationshipType": "studied",
+      "activityHe": "יצא מבית המדרש ביבנה באותו מעשה",
+      "importance": "meaningful",
+      "noteHe": "מתועד בתוספתא",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "תקופת יבנה",
+      "importanceNoteHe": "",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "שבאו מיבנה",
+          "url": "https://www.sefaria.org/Tosefta_Sotah.7.9",
+          "ref": "תוספתא סוטה ז,ט",
+          "kind": "primary_rabbinic",
+          "text": "שבאו מיבנה ללוד"
+        }
+      ],
+      "uncertainty": "null"
+    },
+    {
+      "personSlug": "yochanan-beroka",
+      "placeSlug": "bet-shearim",
+      "relationshipType": "visited",
+      "activityHe": "הלך אצל רבי יוחנן בן נורי לבית שערים",
+      "importance": "meaningful",
+      "noteHe": "ביקור לימודי/הלכתי מתועד; לא בהכרח מגורים",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור שלישי לתנאים",
+      "importanceNoteHe": "מקור ראשוני מפורש",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "הלך… לבית שערים",
+          "url": "https://www.sefaria.org/Tosefta_Terumot.7.14",
+          "ref": "תוספתא תרומות ז,יד",
+          "kind": "primary_rabbinic",
+          "text": "מעשה שהלך ר' יוחנן בן ברוקה אצל ר' יוחנן בן נורי לבית שערים"
+        }
+      ],
+      "uncertainty": "null"
+    },
+    {
+      "personSlug": "yishmael-beroka",
+      "placeSlug": "yavne",
+      "relationshipType": "studied",
+      "activityHe": "נזכר בהקשר של חכמי יבנה",
+      "importance": "minor",
+      "noteHe": "בבלי יבמות מ\"ב ע\"ב מקשר אותו לחכמי יבנה; אין תיאור מגורים",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור חמישי לתנאים",
+      "importanceNoteHe": "שיוך מוסדי חלש יחסית",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "קשר לחכמי יבנה",
+          "url": "https://www.sefaria.org/Yevamot.42b",
+          "ref": "בבלי יבמות מב ע\"ב",
+          "kind": "primary_rabbinic",
+          "text": "הקשר לחכמי יבנה בשמועותיו"
+        }
+      ],
+      "uncertainty": "אין תיאור נוכחות פיזית מפורשת ביבנה"
+    },
+    {
+      "personSlug": "tzadok",
+      "placeSlug": "jerusalem",
+      "relationshipType": "lived",
+      "activityHe": "שהייה ותענית על ירושלים",
+      "importance": "meaningful",
+      "noteHe": "ישב ארבעים שנה בתענית שלא תחרב ירושלים — מעיד על זיקה חזקה לירושלים לפני/אגב החורבן.",
+      "periodIds": [
+        "early"
+      ],
+      "start": 30,
+      "end": 70,
+      "timeNoteHe": "מסורת 40 שנות תענית — טווח ספרותי, לא כרונולוגיה מדויקת.",
+      "importanceNoteHe": "זיקה מפורשת לירושלים; אופי המגורים נלמד בעקיפין.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי גיטין נ״ו ע״א",
+          "url": "https://www.sefaria.org/Gittin.56a?lang=bi",
+          "ref": "Gittin 56a",
+          "kind": "primary_rabbinic",
+          "text": "דרבי צדוק יתיב ארבעין שנין בתעניתא דלא ליחרב ירושלים."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "tzadok",
+      "placeSlug": "yavne",
+      "relationshipType": "event",
+      "activityHe": "בקשת רפואה במסגרת הצלה ליבנה",
+      "importance": "meaningful",
+      "noteHe": "ריב״ז ביקש רופאים לרבי צדוק יחד עם יבנה וחכמיה — מקשר אותו למעבר ההצלה ליבנה, לא בהכרח למושב הוראה שם.",
+      "periodIds": [
+        "early",
+        "yavne"
+      ],
+      "start": 70,
+      "end": 90,
+      "timeNoteHe": "סביב החורבן במסורת גיטין.",
+      "importanceNoteHe": "קשר הצלה/רפואה ליבנה, לא תיאור הוראה.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי גיטין נ״ו ע״ב",
+          "url": "https://www.sefaria.org/Gittin.56b?lang=bi",
+          "ref": "Gittin 56b",
+          "kind": "primary_rabbinic",
+          "text": "ואסוותא דמסיין ליה לרבי צדוק."
+        }
+      ],
+      "uncertainty": "true"
+    },
+    {
+      "personSlug": "yose-avot4",
+      "placeSlug": "zippori",
+      "relationshipType": "lived",
+      "activityHe": "מרכז הוראה; גלות לציפורי בגזירת מלכות",
+      "importance": "central",
+      "noteHe": "סנהדרין לב: 'אחר רבי יוסי לציפורי'. שבת לג: 'יוסי ששתק — יגלה לציפורי'.",
+      "periodIds": [
+        "usha"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "",
+      "importanceNoteHe": "שיוך מפורש בברייתת 'הלך אחר חכמים'",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי סנהדרין לב ע״ב",
+          "url": "https://www.sefaria.org/Sanhedrin.32b?lang=bi",
+          "ref": "Sanhedrin 32b",
+          "kind": "primary_rabbinic",
+          "text": "הלך אחר… רבי יוסי לציפורי"
+        },
+        {
+          "labelHe": "בבלי שבת לג ע״ב",
+          "url": "https://www.sefaria.org/Shabbat.33b?lang=bi",
+          "ref": "Shabbat 33b",
+          "kind": "primary_rabbinic",
+          "text": "יוסי ששתק — יגלה לציפורי"
+        },
+        {
+          "labelHe": "בבלי סנהדרין יד ע״א",
+          "url": "https://www.sefaria.org/Sanhedrin.14a?lang=bi",
+          "ref": "Sanhedrin 14a",
+          "kind": "primary_rabbinic",
+          "text": "נסמך בין אושא לשפרעם"
+        }
+      ],
+      "uncertainty": "null"
+    },
+    {
+      "personSlug": "yishmael-yose",
+      "placeSlug": "zippori",
+      "relationshipType": "documented_presence",
+      "activityHe": "פעילות במרחב אביו רבי יוסי דציפורי ובמעגל רבי",
+      "importance": "meaningful",
+      "noteHe": "כבן רבי יוסי המזוהה עם ציפורי, וחבר למעגל רבי. יש סוגיות ירושלמי על הוראה בציפורי — לא סוכמו כאן בפסוק בודד; דיוק נוסף מומלץ לפני central.",
+      "periodIds": [
+        "rebbi"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור רבי",
+      "importanceNoteHe": "המשכיות מקומית סבירה אך חלקית־מוסקת",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי סנהדרין לב ע״ב",
+          "url": "https://www.sefaria.org/Sanhedrin.32b?lang=bi",
+          "ref": "Sanhedrin 32b",
+          "kind": "primary_rabbinic",
+          "text": "אביו רבי יוסי משויך לציפורי בברייתא"
+        },
+        {
+          "labelHe": "בבלי כתובות קג ע״ב",
+          "url": "https://www.sefaria.org/Ketubot.103b?lang=bi",
+          "ref": "Ketubot 103b",
+          "kind": "primary_rabbinic",
+          "text": "רבי ישמעאל ברבי יוסי במעגל רבי סביב סיפור הפטירה"
+        }
+      ],
+      "uncertainty": "חסרה כאן ציטטה חד־משמעית 'ישב בציפורי' עליו עצמו"
+    },
+    {
+      "personSlug": "yochanan-sandlar",
+      "placeSlug": "alexandria",
+      "relationshipType": "lived",
+      "activityHe": "מכונה אלכסנדרי",
+      "importance": "meaningful",
+      "noteHe": "ירושלמי חגיגה: 'רבי יוחנן הסנדלר אלכסנדרי'. לא ברור אם מוצא בלבד או מגורים.",
+      "periodIds": [
+        "usha"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "",
+      "importanceNoteHe": "השיוך המפורש היחיד למקום חוץ־לארץ בשמו",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "ירושלמי חגיגה ג א",
+          "url": "https://www.sefaria.org/Jerusalem_Talmud_Hagigah.3.1?lang=bi",
+          "ref": "Jerusalem Talmud Hagigah 3:1",
+          "kind": "primary_rabbinic",
+          "text": "רבי יוחנן הסנדלר אלכסנדרי"
+        }
+      ],
+      "uncertainty": "מוצא מול מגורים פעילים"
+    },
+    {
+      "personSlug": "yochanan-sandlar",
+      "placeSlug": "sidon",
+      "relationshipType": "visited",
+      "activityHe": "הגיע לצידן בדרך לנציבין וחזר לארץ",
+      "importance": "minor",
+      "noteHe": "ספרי דברים: עם רבי אלעזר בן שמוע הגיעו לצידן ושבו. צידן/צידון זיהוי אפשרי כפול.",
+      "periodIds": [
+        "usha"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "בימי גזירות",
+      "importanceNoteHe": "תחנת מסע",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "ספרי דברים פסקה פ",
+          "url": "https://www.sefaria.org/Sifrei_Devarim.80?lang=bi",
+          "ref": "Sifrei Devarim 80",
+          "kind": "primary_rabbinic",
+          "text": "רבי אלעזר בן שמוע ורבי יוחנן הסנדלר… הגיעו לצידן… חזרו"
+        }
+      ],
+      "uncertainty": "צידן = צידון או בית צידה?"
+    },
+    {
+      "personSlug": "elazar-shamua",
+      "placeSlug": "usha",
+      "relationshipType": "event",
+      "activityHe": "נסמך בין אושא לשפרעם",
+      "importance": "meaningful",
+      "noteHe": "סנהדרין יד — אירוע סמיכה במרחב אושא–שפרעם",
+      "periodIds": [
+        "usha"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "",
+      "importanceNoteHe": "קישור מוסדי למרחב",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי סנהדרין יד ע״א",
+          "url": "https://www.sefaria.org/Sanhedrin.14a?lang=bi",
+          "ref": "Sanhedrin 14a",
+          "kind": "primary_rabbinic",
+          "text": "בין אושא לשפרעם… ורבי אלעזר בן שמוע"
+        }
+      ],
+      "uncertainty": "לא עדות מגורים"
+    },
+    {
+      "personSlug": "elazar-shamua",
+      "placeSlug": "sidon",
+      "relationshipType": "visited",
+      "activityHe": "מסע עם רבי יוחנן הסנדלר",
+      "importance": "minor",
+      "noteHe": "ספרי דברים פ",
+      "periodIds": [
+        "usha"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "",
+      "importanceNoteHe": "",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "ספרי דברים פסקה פ",
+          "url": "https://www.sefaria.org/Sifrei_Devarim.80?lang=bi",
+          "ref": "Sifrei Devarim 80",
+          "kind": "primary_rabbinic",
+          "text": "מעשה ברבי אלעזר בן שמוע ורבי יוחנן הסנדלר… צידן"
+        }
+      ],
+      "uncertainty": "זיהוי צידן"
+    },
+    {
+      "personSlug": "yehuda-avot4",
+      "placeSlug": "usha",
+      "relationshipType": "documented_presence",
+      "activityHe": "קריאת מגילה באושא בנוכחות זקנים; מרחב סמיכה",
+      "importance": "central",
+      "noteHe": "תוספתא מגילה: רבי מעיד שקרא לפני רבי יהודה באושא. סנהדרין יד: נסמך בין אושא לשפרעם. מקורות משניים מציינים מושב באושא.",
+      "periodIds": [
+        "usha"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "",
+      "importanceNoteHe": "העדות התנאית הישירה ביותר לאושא",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "תוספתא מגילה ב ד",
+          "url": "https://www.sefaria.org/Tosefta_Megillah.2.4?lang=bi",
+          "ref": "Tosefta Megillah 2:4",
+          "kind": "primary_rabbinic",
+          "text": "אמר רבי… קטן הייתי וקריתיה לפני רבי יהודה באושא והיו שם זקנים"
+        },
+        {
+          "labelHe": "בבלי סנהדרין יד ע״א",
+          "url": "https://www.sefaria.org/Sanhedrin.14a?lang=bi",
+          "ref": "Sanhedrin 14a",
+          "kind": "primary_rabbinic",
+          "text": "נסמך בין אושא לשפרעם"
+        }
+      ],
+      "uncertainty": "null"
+    },
+    {
+      "personSlug": "yehuda-avot4",
+      "placeSlug": "lod",
+      "relationshipType": "studied",
+      "activityHe": "קריאת מגילה בילדות לפני רבי טרפון בלוד",
+      "importance": "meaningful",
+      "noteHe": "אותה תוספתא: 'קטן הייתי וקריתי לפני רבי טרפון בלוד'",
+      "periodIds": [
+        "usha"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "ילדות",
+      "importanceNoteHe": "לימוד אצל ר״ט",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "תוספתא מגילה ב ד",
+          "url": "https://www.sefaria.org/Tosefta_Megillah.2.4?lang=bi",
+          "ref": "Tosefta Megillah 2:4",
+          "kind": "primary_rabbinic",
+          "text": "אמר רבי יהודה קטן הייתי וקריתי לפני רבי טרפון בלוד"
+        }
+      ],
+      "uncertainty": "null"
+    },
+    {
+      "personSlug": "matya",
+      "placeSlug": "rome",
+      "relationshipType": "taught",
+      "activityHe": "הוראה ברומי לפי ברייתת 'הלך אחר חכמים'",
+      "importance": "central",
+      "noteHe": "סנהדרין לב: 'אחר רבי מתיא לרומי' — כבר בפילוט",
+      "periodIds": [
+        "akiva"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "",
+      "importanceNoteHe": "השיוך המפורש בברייתא",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי סנהדרין לב ע״ב",
+          "url": "https://www.sefaria.org/Sanhedrin.32b?lang=bi",
+          "ref": "Sanhedrin 32b",
+          "kind": "primary_rabbinic",
+          "text": "הלך אחר… רבי מתיא לרומי"
+        }
+      ],
+      "uncertainty": "null"
+    },
+    {
+      "personSlug": "shmuel-katan",
+      "placeSlug": "yavne",
+      "relationshipType": "documented_presence",
+      "activityHe": "תיקון ברכת המינים ונוכחות בעלייה ביבנה",
+      "importance": "central",
+      "noteHe": "סידור שמונה עשרה ביבנה ותיקון ברכת המינים; גם בת קול בעלייה ביבנה (סוטה).",
+      "periodIds": [
+        "yavne"
+      ],
+      "start": 80,
+      "end": 120,
+      "timeNoteHe": "ימי רבן גמליאל דיבנה; ללא תאריך מדויק.",
+      "importanceNoteHe": "פעילות מפורשת ביבנה.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי ברכות כ״ח ע״ב",
+          "url": "https://www.sefaria.org/Berakhot.28b?lang=bi",
+          "ref": "Berakhot 28b",
+          "kind": "primary_rabbinic",
+          "text": "שמעון הפקולי… ביבנה… עמד שמואל הקטן ותיקנה."
+        },
+        {
+          "labelHe": "בבלי סוטה מ״ח ע״ב",
+          "url": "https://www.sefaria.org/Sotah.48b?lang=bi",
+          "ref": "Sotah 48b",
+          "kind": "primary_rabbinic",
+          "text": "היו מסובין בעלייה ביבנה… נתנו עיניהם בשמואל הקטן."
+        }
+      ],
+      "uncertainty": null
+    },
+    {
+      "personSlug": "yose-yehuda-bavli",
+      "placeSlug": "kfar-ha-bavli",
+      "relationshipType": "lived",
+      "activityHe": "כינוי מוצא במשנה",
+      "importance": "central",
+      "noteHe": "נזכר רק באבות ד כ. זיהוי היישוב וזיהוי החכם (מול רבי יוסי בר יהודה / איסי בן יהודה) שנויים.",
+      "periodIds": [
+        "rebbi"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "",
+      "importanceNoteHe": "המקום טמון באפיתט בלבד",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "משנה אבות ד כ",
+          "url": "https://www.sefaria.org/Pirkei_Avot.4.20?lang=bi",
+          "ref": "Pirkei Avot 4:20",
+          "kind": "primary_rabbinic",
+          "text": "רבי יוסי בן יהודה איש כפר הבבלי אומר…"
+        }
+      ],
+      "uncertainty": "מיקום כפר הבבלי וזהות החכם אינם מוכרעים; בלי coords"
+    },
+    {
+      "personSlug": "elazar-kappar",
+      "placeSlug": "horbat-dabura",
+      "relationshipType": "taught",
+      "activityHe": "משקוף בית מדרש עם כתובת שמו",
+      "importance": "meaningful",
+      "noteHe": "עדות ארכאולוגית ישירה (כתובת), לא טקסט חז״ל. חשובה אך אינה 'מקור רבני' קלאסי.",
+      "periodIds": [
+        "rebbi"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "סוף תנאים / מעבר",
+      "importanceNoteHe": "נדיר: שיוך מקום כתובתי",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "כתובת משקוף חורבת דבורה",
+          "url": "https://www.sefaria.org/topics/rabbi-elazar-ha-kappar",
+          "ref": "Inscription Horbat Dabura (R. Eliezer ha-Qappar)",
+          "kind": "secondary",
+          "text": "זה בית מדרשו של רבי אליעזר הקפר — עדות ארכאולוגית"
+        }
+      ],
+      "uncertainty": "זיהוי מדויק של האתר והיחס לבר קפרא נדונים במחקר"
+    },
+    {
+      "personSlug": "yehoshua-levi",
+      "placeSlug": "lod",
+      "relationshipType": "lived",
+      "activityHe": "ריש מתיבתא / מרכז פעילות בדרום",
+      "importance": "central",
+      "noteHe": "מסורת ומקורות ירושלמי מקשרים אותו ללוד (לימוד אצל אלעזר הקפר/בר קפרא; ישיבה בדרום). נדרש ציטוט מדויק נוסף בירושלמי שבת/תענית לחיזוק editorial.",
+      "periodIds": [
+        "transition"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "עיקר פעילות מוקדמת בדרום",
+      "importanceNoteHe": "המקום המרכזי המקובל במחקר ובמסורות הירושלמי",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "ירושלמי תענית ג ד",
+          "url": "https://www.sefaria.org/Jerusalem_Talmud_Taanit.3.4?lang=bi",
+          "ref": "Jerusalem Talmud Taanit 3:4",
+          "kind": "primary_rabbinic",
+          "text": "הקשר דרום/לוד מול ציפורי — לאמת ניסוח מלא בעריכה"
+        },
+        {
+          "labelHe": "משנה אבות ו ב",
+          "url": "https://www.sefaria.org/Pirkei_Avot.6.2?lang=bi",
+          "ref": "Pirkei Avot 6:2",
+          "kind": "primary_rabbinic",
+          "text": "מימרת רבי יהושע בן לוי — בלי מקום"
+        }
+      ],
+      "uncertainty": "לחזק בציטוט מלא מירושלמי לפני פרסום סופי"
+    },
+    {
+      "personSlug": "yehoshua-levi",
+      "placeSlug": "tiberias",
+      "relationshipType": "taught",
+      "activityHe": "ישיבה בסוף ימיו לפי מסורות ירושלמי",
+      "importance": "meaningful",
+      "noteHe": "מקורות משניים מצטטים ירושלמי שבת על העברת ישיבה לטבריה בסוף ימיו — לאמת בפסוק לפני central.",
+      "periodIds": [
+        "transition"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "סוף ימיו",
+      "importanceNoteHe": "שלב מאוחר בפעילות",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "ירושלמי שבת א ב (לאימות)",
+          "url": "https://www.sefaria.org/Jerusalem_Talmud_Shabbat.1.2?lang=bi",
+          "ref": "Jerusalem Talmud Shabbat 1:2",
+          "kind": "primary_rabbinic",
+          "text": "מצוטט במחקר לישיבה בטבריה — לאמת במקור"
+        }
+      ],
+      "uncertainty": "דורש אימות ציטוט מלא"
+    },
+    {
+      "personSlug": "yose-kisma",
+      "placeSlug": "tiberias",
+      "relationshipType": "documented_presence",
+      "activityHe": "נוכחות במעשה בית הכנסת בטבריה",
+      "importance": "meaningful",
+      "noteHe": "יבמות צו: מעשה בבית הכנסת של טבריה; היה שם רבי יוסי בן קיסמא. באבות וט אומר 'מעיר גדולה של חכמים' בלי שם.",
+      "periodIds": [
+        "akiva"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "",
+      "importanceNoteHe": "עדות נוכחות מפורשת; לא בהכרח 'עיר גדולה' = טבריה",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי יבמות צו ע״ב",
+          "url": "https://www.sefaria.org/Yevamot.96b?lang=bi",
+          "ref": "Yevamot 96b",
+          "kind": "primary_rabbinic",
+          "text": "לא כך היה המעשה בבית הכנסת של טבריא… והיה שם רבי יוסי בן קיסמא"
+        },
+        {
+          "labelHe": "משנה אבות ו ט",
+          "url": "https://www.sefaria.org/Pirkei_Avot.6.9?lang=bi",
+          "ref": "Pirkei Avot 6:9",
+          "kind": "primary_rabbinic",
+          "text": "מעיר גדולה של חכמים ושל סופרים אני — בלי שם עיר"
+        }
+      ],
+      "uncertainty": "אין לזהות אוטומטית את 'העיר הגדולה' עם טבריה"
+    },
+    {
+      "personSlug": "ilai",
+      "placeSlug": "lod",
+      "relationshipType": "visited",
+      "activityHe": "הלך להקביל פני רבי אליעזר רבו ברגל בלוד",
+      "importance": "meaningful",
+      "noteHe": "כבר מתועד; ביקור רגל, לא הוכחת מגורים בלוד",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור שלישי לתנאים",
+      "importanceNoteHe": "מקור ראשוני מפורש",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "ביקור בלוד אצל רבי אליעזר",
+          "url": "https://www.sefaria.org/Sukkah.27b",
+          "ref": "בבלי סוכה כז ע\"ב",
+          "kind": "primary_rabbinic",
+          "text": "מעשה ברבי אלעאי שהלך להקביל פני רבי אליעזר רבו ברגל בלוד"
+        }
+      ],
+      "uncertainty": "null"
+    },
+    {
+      "personSlug": "yosef-bavli",
+      "placeSlug": "babylon",
+      "relationshipType": "lived",
+      "activityHe": "כינוי 'הבבלי'; במסורת הזיהוי עם איסי בן יהודה — מוצא מהוצל שבבבל",
+      "importance": "meaningful",
+      "noteHe": "הכינוי במנחות י\"ח ראשוני; הזיהוי עם איסי איש הוצל מפסחים קי\"ג משני/מסורתי",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור חמישי לתנאים",
+      "importanceNoteHe": "מוצא בבלי משתמע מהכינוי",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "יוסף הבבלי יושב לפני ר' אלעזר בן שמוע",
+          "url": "https://www.sefaria.org/Menachot.18a",
+          "ref": "בבלי מנחות יח ע\"א",
+          "kind": "primary_rabbinic",
+          "text": "מצאתי יוסף הבבלי יושב לפניו והיה חביב לו ביותר"
+        },
+        {
+          "labelHe": "זיהוי: יוסף הבבלי = איסי איש הוצל",
+          "url": "https://www.sefaria.org/Pesachim.113b",
+          "ref": "בבלי פסחים קיג ע\"ב",
+          "kind": "primary_rabbinic",
+          "text": "הוא יוסף איש הוצל הוא יוסף הבבלי הוא איסי בן יהודה"
+        }
+      ],
+      "uncertainty": "הוצל ספציפית תלוי בזיהוי עם איסי; 'בבל' מהכינוי ודאי יותר"
+    },
+    {
+      "personSlug": "berurya",
+      "placeSlug": "lod",
+      "relationshipType": "documented_presence",
+      "activityHe": "נפגשה בדרך עם רבי יוסי הגלילי ששאל על הדרך ללוד",
+      "importance": "minor",
+      "noteHe": "יודעת את הדרך ללוד; אין הוכחה שגרה בלוד",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור רביעי לתנאים",
+      "importanceNoteHe": "נוכחות באזור הדרך ללוד בלבד",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "באיזו דרך נלך ללוד",
+          "url": "https://www.sefaria.org/Eruvin.53b",
+          "ref": "בבלי עירובין נג ע\"ב",
+          "kind": "primary_rabbinic",
+          "text": "רבי יוסי הגלילי… אשכחה לברוריה אמר לה באיזו דרך נלך ללוד"
+        }
+      ],
+      "uncertainty": "גבוהה — מפגש בדרך, לא מגורים"
+    },
+    {
+      "personSlug": "hyrcanus-father",
+      "placeSlug": "jerusalem",
+      "relationshipType": "visited",
+      "activityHe": "עלה לירושלים להדיר את בנו מנכסיו, ושמע אותו דורש לפני רבן יוחנן בן זכאי",
+      "importance": "meaningful",
+      "noteHe": "ביקור מתועד באדר\"נ; מקום החווה/השדה אינו נקוב",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "לפני החורבן / דור רבן יוחנן בן זכאי",
+      "importanceNoteHe": "המקום היחיד המפורש עליו",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "עליית הורקנוס לירושלים",
+          "url": "https://www.sefaria.org/Avot_DeRabbi_Natan.6",
+          "ref": "אבות דרבי נתן א ו",
+          "kind": "primary_rabbinic",
+          "text": "בא לנדותו מנכסיו… שמע את רבי אליעזר דורש בירושלים"
+        }
+      ],
+      "uncertainty": "מקום מושבו הקבוע אינו ידוע"
+    },
+    {
+      "personSlug": "hyrcanus-son",
+      "placeSlug": "lod",
+      "relationshipType": "documented_presence",
+      "activityHe": "נכנס אצל אביו החולה (סנהדרין סח); מושב אביו בלוד (סנהדרין לב)",
+      "importance": "minor",
+      "noteHe": "הסוגיה בסנהדרין סח אינה נוקבת 'לוד' במפורש; השיוך ללוד נשען על מושב רבי אליעזר",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "סוף ימי רבי אליעזר",
+      "importanceNoteHe": "נוכחות משפחתית בהקשר פטירת האב",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "הורקנוס נכנס אצל אביו החולה",
+          "url": "https://www.sefaria.org/Sanhedrin.68a",
+          "ref": "בבלי סנהדרין סח ע\"א",
+          "kind": "primary_rabbinic",
+          "text": "כשחלה רבי אליעזר… נכנס הורקנוס בנו לחלץ תפיליו"
+        },
+        {
+          "labelHe": "אחר רבי אליעזר ללוד",
+          "url": "https://www.sefaria.org/Sanhedrin.32b",
+          "ref": "בבלי סנהדרין לב ע\"ב",
+          "kind": "primary_rabbinic",
+          "text": "הולך אחר חכמה ללוד אחר רבי אליעזר"
+        }
+      ],
+      "uncertainty": "בינונית–גבוהה: לוד מוסק ממושב האב ולא נאמר במפורש במעשה הבן"
+    },
+    {
+      "personSlug": "ima-shalom",
+      "placeSlug": "lod",
+      "relationshipType": "lived",
+      "activityHe": "אשתו של רבי אליעזר בתקופת הנידוי; מונעת ממנו נפילת אפיים; מושב בעלה בלוד",
+      "importance": "meaningful",
+      "noteHe": "ב\"מ נט מתאר חיים משותפים אחרי הנידוי; לוד ממושב ר\"א (סנהדרין לב)",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור שני לתנאים / אחרי תנור עכנאי",
+      "importanceNoteHe": "הקשר החזק ביותר, עם תלות במושב הבעל",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "אימא שלום ואפיים אחרי הנידוי",
+          "url": "https://www.sefaria.org/Bava_Metzia.59b",
+          "ref": "בבלי בבא מציעא נט ע\"ב",
+          "kind": "primary_rabbinic",
+          "text": "ולא שביקא ליה אימא שלום למיפל על אפיה"
+        },
+        {
+          "labelHe": "רבי אליעזר בלוד",
+          "url": "https://www.sefaria.org/Sanhedrin.32b",
+          "ref": "בבלי סנהדרין לב ע\"ב",
+          "kind": "primary_rabbinic",
+          "text": "הולך אחר חכמה ללוד אחר רבי אליעזר"
+        }
+      ],
+      "uncertainty": "לוד אינה נאמרת במפורש במעשה ב\"מ נט"
+    },
+    {
+      "personSlug": "elazar-shimon",
+      "placeSlug": "tiberias",
+      "relationshipType": "visited",
+      "activityHe": "לאחר היציאה מהמערה — רחץ בחמי טבריה (מסורת ארץ־ישראלית)",
+      "importance": "meaningful",
+      "noteHe": "בירושלמי/מדרשים; בבבלי שבת ל\"ג הנוסח שונה",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור חמישי לתנאים",
+      "importanceNoteHe": "נוכחות מפורשת בטבריה במסורת א\"י",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "יציאה מהמערה וחמי טבריה",
+          "url": "https://www.sefaria.org/Jerusalem_Talmud_Sheviit.9.1",
+          "ref": "ירושלמי שביעית ט,א",
+          "kind": "primary_rabbinic",
+          "text": "רשב\"י ובנו יוצאים ומתרפאים בחמי טבריה"
+        }
+      ],
+      "uncertainty": "נוסחים מקבילים שונים (בבלי מול ירושלמי)"
+    },
+    {
+      "personSlug": "elazar-shimon",
+      "placeSlug": "akhbara",
+      "relationshipType": "event",
+      "activityHe": "לפי בבלי ב\"מ — גופו הונח תחילה בעכברא לפני העברה",
+      "importance": "minor",
+      "noteHe": "סיפור קבורה אגדי; מקום פעילות בחייו אינו מבוסס מכאן",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "לאחר פטירתו (מסורת הבבלי)",
+      "importanceNoteHe": "אירוע שלאחר המוות",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "קבורה זמנית בעכברא",
+          "url": "https://www.sefaria.org/Bava_Metzia.84b",
+          "ref": "בבלי בבא מציעא פד ע\"ב",
+          "kind": "primary_rabbinic",
+          "text": "אשכחוה דמנחא בעכברא"
+        }
+      ],
+      "uncertainty": "מסורת אגדית; מקבילות מדרשיות ממקמות אחרת (גוש חלב/מירון)"
+    },
+    {
+      "personSlug": "shimon-rebbi",
+      "placeSlug": "zippori",
+      "relationshipType": "studied",
+      "activityHe": "למד ושימש בבית אביו; רבי מוטל בציפורי",
+      "importance": "meaningful",
+      "noteHe": "נוכחותו נלמדת מבית רבי בציפורי (כתובות קג) ומיחסי אב־בן בלימוד",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "סוף תקופת התנאים / דור מעבר",
+      "importanceNoteHe": "מרכז פעילות אביו באחרית ימיו",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "רבי מוטל בציפורי; מסר סדרי חכמה לשמעון בנו",
+          "url": "https://www.sefaria.org/Ketubot.103b",
+          "ref": "בבלי כתובות קג ע\"ב",
+          "kind": "primary_rabbinic",
+          "text": "רבי מוטל בציפורי… לבני קטן… נכנס ר' שמעון"
+        }
+      ],
+      "uncertainty": "אין משפט 'שמעון גר בציפורי' מפורש"
+    },
+    {
+      "personSlug": "shimon-rebbi",
+      "placeSlug": "bet-shearim",
+      "relationshipType": "other",
+      "activityHe": "מקום מוכן לקבורת רבי; מסורת ארכיאולוגית לקבר 'רבי שמעון' במערת הנשיא",
+      "importance": "minor",
+      "noteHe": "הספרות מציינת בית שערים לקבורת רבי; זיהוי בנו ארכיאולוגי/מסורתי",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "אחרי פטירת רבי",
+      "importanceNoteHe": "קבורה/משפחה, לא פעילות לימוד מפורשת",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "מקום מוכן לו בבית שערים",
+          "url": "https://www.sefaria.org/Ketubot.103b",
+          "ref": "בבלי כתובות קג ע\"ב",
+          "kind": "primary_rabbinic",
+          "text": "רבי מוטל בציפורי ומקום מוכן לו בבית שערים"
+        }
+      ],
+      "uncertainty": "זיהוי מצבת 'רבי שמעון' אינו טקסט חז\"לי"
+    },
+    {
+      "personSlug": "nahum-gamzu",
+      "placeSlug": "gamzu",
+      "relationshipType": "other",
+      "activityHe": "כינוי איש גמזו / גם זו",
+      "importance": "meaningful",
+      "noteHe": "בבלי מסביר את השם כ״גם זו לטובה״. ר׳ חננאל והערוך מפרשים כעיר גמזו (ליד לוד; נזכרת בדה״ב כח:יח). לכן הקשר המקומי סביר אך שנוי במחלוקת פרשנית מול האטימולוגיה התלמודית.",
+      "periodIds": [
+        "yavne",
+        "akiva"
+      ],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "רבו של עקיבא לפי מסורות; ללא תאריכים.",
+      "importanceNoteHe": "כינוי; ודאות המקום אינה מלאה.",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בבלי תענית כ״א ע״א",
+          "url": "https://www.sefaria.org/Taanit.21a?lang=bi",
+          "ref": "Ta'anit 21a",
+          "kind": "primary_rabbinic",
+          "text": "ואמאי קרו ליה נחום איש גם זו? דכל מילתא… אמר גם זו לטובה."
+        },
+        {
+          "labelHe": "דברי הימים ב׳ כ״ח:י״ח",
+          "url": "https://www.sefaria.org/II_Chronicles.28.18?lang=bi",
+          "ref": "II Chronicles 28:18",
+          "kind": "primary_rabbinic",
+          "text": "גמזו כעיר בשפלה — בסיס לזיהוי הפרשנים (ר׳ חננאל/ערוך)."
+        }
+      ],
+      "uncertainty": "true"
+    },
+    {
+      "personSlug": "abba-halafta",
+      "placeSlug": "zippori",
+      "relationshipType": "served",
+      "activityHe": "הנהיג סדרי תענית ציבור בציפורי",
+      "importance": "central",
+      "noteHe": "מפורש: 'כך היה נוהג ר' חלפתא בציפורי'",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור שלישי לתנאים",
+      "importanceNoteHe": "מושב והנהגה מקומית",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "נוהג ר' חלפתא בציפורי",
+          "url": "https://www.sefaria.org/Taanit.16b",
+          "ref": "בבלי תענית טז ע\"ב",
+          "kind": "primary_rabbinic",
+          "text": "כך היה נוהג רבי חלפתא בציפורי ורבי חנניה בן תרדיון בסכנין"
+        }
+      ],
+      "uncertainty": "הבחנה אפשרית מול 'חלפתא איש כפר חנניה'"
+    },
+    {
+      "personSlug": "abba-halafta",
+      "placeSlug": "tiberias",
+      "relationshipType": "visited",
+      "activityHe": "הלך אצל רבן גמליאל בריבי בטבריה (עדות בנו רבי יוסי)",
+      "importance": "minor",
+      "noteHe": "ביקור מתועד",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "ימי רבן גמליאל הזקן / דורו",
+      "importanceNoteHe": "",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "אבא חלפתא בטבריה",
+          "url": "https://www.sefaria.org/Shabbat.115a",
+          "ref": "בבלי שבת קטו ע\"א",
+          "kind": "primary_rabbinic",
+          "text": "מעשה באבא חלפתא שהלך אצל רבן גמליאל בריבי לטבריא"
+        }
+      ],
+      "uncertainty": "null"
+    },
+    {
+      "personSlug": "hanina-hama",
+      "placeSlug": "zippori",
+      "relationshipType": "taught",
+      "activityHe": "יועד ואחר כך שימש בראשות הישיבה אחרי רבי אפס בציפורי",
+      "importance": "central",
+      "noteHe": "כתובות קג: רבי ציווה למנותו; סירב עד פטירת אפס; ישיבת רבי בציפורי",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור ראשון לאמוראי א\"י (~מאה 3)",
+      "importanceNoteHe": "ראש ישיבה גלילית",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "חנינא בר חמא ישב בראש; אפס לפניו",
+          "url": "https://www.sefaria.org/Ketubot.103b",
+          "ref": "בבלי כתובות קג ע\"ב",
+          "kind": "primary_rabbinic",
+          "text": "חנינא בר חמא ישב בראש… לא קיבל… מפני רבי אפס"
+        }
+      ],
+      "uncertainty": "null"
+    },
+    {
+      "personSlug": "afes",
+      "placeSlug": "zippori",
+      "relationshipType": "taught",
+      "activityHe": "ראש ישיבה אחרי רבי, לפני רבי חנינא",
+      "importance": "central",
+      "noteHe": "כהונה בישיבת רבי שבציפורי",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור ראשון לאמוראים",
+      "importanceNoteHe": "ממלא מקום בפועל בראשות",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "רבי אפס בראש לפני חנינא",
+          "url": "https://www.sefaria.org/Ketubot.103b",
+          "ref": "בבלי כתובות קג ע\"ב",
+          "kind": "primary_rabbinic",
+          "text": "מנו את רבי אפס ברישא"
+        }
+      ],
+      "uncertainty": "null"
+    },
+    {
+      "personSlug": "yanai-rebbi",
+      "placeSlug": "akhbara",
+      "relationshipType": "taught",
+      "activityHe": "בית מדרש 'דבי רבי ינאי' / בי רבי ינאי מיוחס לעכברא",
+      "importance": "central",
+      "noteHe": "זיהוי פתוח של הדמות כפי שצוין; בית המדרש בעכברא מקובל במחקר ובמסורות, אך יש לציין אי־ודאות בזיהוי",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור ראשון לאמוראי א\"י",
+      "importanceNoteHe": "מרכז לימודי עצמאי",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "הכרזת רבי ינאי בשביעית (הקשר פעילותו)",
+          "url": "https://www.sefaria.org/Sanhedrin.26a",
+          "ref": "בבלי סנהדרין כו ע\"א",
+          "kind": "primary_rabbinic",
+          "text": "רבי ינאי הכריז: פוקו וזרעו בשביעית משום ארנונא"
+        },
+        {
+          "labelHe": "מושב בעכברא וייסוד בי רבי ינאי",
+          "url": "https://www.daat.ac.il/encyclopedia/value.asp?id1=2844",
+          "ref": "אנציקלופדיה דעת / מחקר מסורתי",
+          "kind": "secondary",
+          "text": "מקום מושבו בעכברא; בי רבי ינאי"
+        }
+      ],
+      "uncertainty": "גבוהה יחסית לזיהוי הדמות ולמיקום המדויק של 'בי רבי ינאי'"
+    },
+    {
+      "personSlug": "chiyya",
+      "placeSlug": "babylon",
+      "relationshipType": "lived",
+      "activityHe": "מוצאו מבבל; עלה לארץ ישראל ללמוד אצל רבי",
+      "importance": "meaningful",
+      "noteHe": "מסורת ביוגרפית רווחת; משפחתו הבבלית מתועדת בהקשרים שונים",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור מעבר תנאים–אמוראים",
+      "importanceNoteHe": "מוצא",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "ייחוס משפחת רבי חייא",
+          "url": "https://www.sefaria.org/Ketubot.62b",
+          "ref": "בבלי כתובות סב ע\"ב",
+          "kind": "primary_rabbinic",
+          "text": "דיון בייחוס משפחות רבי ורבי חייא"
+        }
+      ],
+      "uncertainty": "עיר מוצא מדויקת בבבל אינה תמיד מפורשת"
+    },
+    {
+      "personSlug": "chiyya",
+      "placeSlug": "zippori",
+      "relationshipType": "studied",
+      "activityHe": "סמוך על שולחן רבי / פעילות בחצר הנשיא באחרית ימי רבי בציפורי",
+      "importance": "meaningful",
+      "noteHe": "קשר הדוק לרבי; רבי באחרית ימיו בציפורי",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "ימי רבי בציפורי",
+      "importanceNoteHe": "",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "מעשי חייא בהקשר בית רבי",
+          "url": "https://www.sefaria.org/Ketubot.103b",
+          "ref": "בבלי כתובות קג ע\"ב",
+          "kind": "primary_rabbinic",
+          "text": "כמה גדולים מעשה חייא"
+        }
+      ],
+      "uncertainty": "נוכחות בחצר רבי משתמעת; לא תמיד נאמרת 'ציפורי' בצמוד לשמו"
+    },
+    {
+      "personSlug": "chiyya",
+      "placeSlug": "tiberias",
+      "relationshipType": "lived",
+      "activityHe": "מסורת שהוא התגורר/פעל בטבריה",
+      "importance": "minor",
+      "noteHe": "מופיע במקורות משניים ובמסורות; דורש אימות ירושלמי נוסף",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור מעבר",
+      "importanceNoteHe": "פחות מבוסס מציפורי/בבל",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "מסורת קישור לטבריה",
+          "url": "https://www.sefaria.org/Jerusalem_Talmud_Taanit.4.2",
+          "ref": "ירושלמי תענית ד,ב (לפי מסורות)",
+          "kind": "primary_rabbinic",
+          "text": "נזקק לאימות נקודתי בנוסח"
+        }
+      ],
+      "uncertainty": "גבוהה יחסית — לבדוק נוסח מדויק לפני סימון central"
+    },
+    {
+      "personSlug": "oshaya",
+      "placeSlug": "caesarea",
+      "relationshipType": "taught",
+      "activityHe": "בית מדרש בקיסריה מיוחס לו במסורת המחקר/אנציקלופדיות",
+      "importance": "meaningful",
+      "noteHe": "שכיח במקורות משניים; יש להבחין מר' אושעיא בר שמאי המאוחר שגר בקיסרין במפורש בירושלמי",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור ראשון לאמוראי א\"י",
+      "importanceNoteHe": "מרכז פעילות מקובל אך דורש זהירות בזיהוי",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בי רבי חייא ובי רבי אושעיא",
+          "url": "https://www.sefaria.org/Chullin.141b",
+          "ref": "בבלי חולין קמא ע\"ב",
+          "kind": "primary_rabbinic",
+          "text": "כל מתניתא דלא תניא בי רבי חייא ובי רבי אושעיא משבשתא היא"
+        },
+        {
+          "labelHe": "בית מדרש בקיסריה",
+          "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%90%D7%95%D7%A9%D7%A2%D7%99%D7%90",
+          "ref": "ויקיפדיה / מסורת מחקרית",
+          "kind": "secondary",
+          "text": "בית מדרשו של רבי אושעיא היה בקיסריה"
+        }
+      ],
+      "uncertainty": "גבוהה: עירוב אפשרי עם אמורא מאוחר בקיסרין"
+    },
+    {
+      "personSlug": "bar-kappara",
+      "placeSlug": "zippori",
+      "relationshipType": "studied",
+      "activityHe": "פעל בחוג רבי / סביבת הנשיאות בציפורי",
+      "importance": "meaningful",
+      "noteHe": "קשר הדוק לבית רבי; ציפורי כמרכז",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור מעבר תנאים–אמוראים",
+      "importanceNoteHe": "",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "בר קפרא בחצר רבי (מסורות)",
+          "url": "https://www.sefaria.org/Nedarim.51a",
+          "ref": "בבלי נדרים נא ע\"א",
+          "kind": "primary_rabbinic",
+          "text": "מעשי בדחנות בחצר רבי"
+        }
+      ],
+      "uncertainty": "מושב מדויק לעומת ביקורים בחצר"
+    },
+    {
+      "personSlug": "levi",
+      "placeSlug": "zippori",
+      "relationshipType": "studied",
+      "activityHe": "ישב עם רבי חנינא מחוץ לבית מדרש אפס אחרי רבי",
+      "importance": "meaningful",
+      "noteHe": "הקשר לישיבת רבי/אפס בציפורי",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "דור מעבר / אחרי רבי",
+      "importanceNoteHe": "",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "לוי עם חנינא באבראי",
+          "url": "https://www.sefaria.org/Ketubot.103b",
+          "ref": "בבלי כתובות קג ע\"ב",
+          "kind": "primary_rabbinic",
+          "text": "ויתיב לוי גביה"
+        },
+        {
+          "labelHe": "לוי לאפס מיכף הוה כייף",
+          "url": "https://www.sefaria.org/Shabbat.59b",
+          "ref": "בבלי שבת נט ע\"ב",
+          "kind": "primary_rabbinic",
+          "text": "לוי לרבי אפס מיכף הוה כייף ליה"
+        }
+      ],
+      "uncertainty": "null"
+    },
+    {
+      "personSlug": "levi",
+      "placeSlug": "nehardea",
+      "relationshipType": "studied",
+      "activityHe": "ירד לבבל; למד בבית הכנסת שף ויתיב בנהרדעא",
+      "importance": "meaningful",
+      "noteHe": "אחרי פטירת אפס, כשחנינא בראש",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "ראשית האמוראים בבבל",
+      "importanceNoteHe": "",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "לוי יורד לבבל",
+          "url": "https://www.sefaria.org/Ketubot.103b",
+          "ref": "בבלי כתובות קג ע\"ב",
+          "kind": "primary_rabbinic",
+          "text": "הקשר לירידת לוי לבבל אחרי שנשאר יחידי"
+        }
+      ],
+      "uncertainty": "פרטי 'שף ויתיב' מופיעים במסורות על לוי/אבוה דשמואל"
+    },
+    {
+      "personSlug": "rav",
+      "placeSlug": "sura",
+      "relationshipType": "taught",
+      "activityHe": "ייסד ועמד בראש ישיבת סורא",
+      "importance": "central",
+      "noteHe": "מסורת גאונית/תלמודית מרכזית על אתריה דרב",
+      "periodIds": [],
+      "start": 219,
+      "end": 247,
+      "timeNoteHe": "בערך 219–247 לסה\"נ (מסורות כרונולוגיות)",
+      "importanceNoteHe": "מרכז פעילותו העיקרי בבבל",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "יסוד ישיבת סורא בידי רב",
+          "url": "https://he.wikipedia.org/wiki/%D7%99%D7%A9%D7%99%D7%91%D7%AA_%D7%A1%D7%95%D7%A8%D7%90",
+          "ref": "אגרת רב שרירא גאון",
+          "kind": "secondary",
+          "text": "מסורת הגאונים על ייסוד סורא"
+        },
+        {
+          "labelHe": "אתרא דרב",
+          "url": "https://www.sefaria.org/Gittin.6a",
+          "ref": "בבלי גיטין ו ע\"א (אתרא דרב)",
+          "kind": "primary_rabbinic",
+          "text": "הבחנה בין אתרא דרב לאתרא דשמואל"
+        }
+      ],
+      "uncertainty": "תאריכים מדויקים ממסורת שרירא"
+    },
+    {
+      "personSlug": "rav",
+      "placeSlug": "nehardea",
+      "relationshipType": "visited",
+      "activityHe": "שהה תחילה בנהרדעא לפני שעבר לסורא",
+      "importance": "minor",
+      "noteHe": "לא רצה לדחוק את שמואל",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "לפני ייסוד סורא",
+      "importanceNoteHe": "",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "נהרדעא ואז סורא",
+          "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%91_(%D7%90%D7%9E%D7%95%D7%A8%D7%90)",
+          "ref": "מסורות על בואו לבבל",
+          "kind": "secondary",
+          "text": "סיפור המעבר מנהרדעא לסורא"
+        }
+      ],
+      "uncertainty": "פרטי הסיפור במקורות מאוחרים יחסית"
+    },
+    {
+      "personSlug": "rav",
+      "placeSlug": "zippori",
+      "relationshipType": "studied",
+      "activityHe": "למד אצל רבי בארץ ישראל לפני שובו לבבל",
+      "importance": "meaningful",
+      "noteHe": "תלמיד רבי; מרכז רבי באחרית ימיו בציפורי",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "לפני ~219",
+      "importanceNoteHe": "",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "סמיכת רב / רשות מרבי",
+          "url": "https://www.sefaria.org/Sanhedrin.5a",
+          "ref": "בבלי סנהדרין ה ע\"א",
+          "kind": "primary_rabbinic",
+          "text": "רב קיבל רשות מרבי"
+        }
+      ],
+      "uncertainty": "ציפורי משתמעת ממושב רבי"
+    },
+    {
+      "personSlug": "shmuel",
+      "placeSlug": "nehardea",
+      "relationshipType": "taught",
+      "activityHe": "ראש המרכז בנהרדעא; אתרא דשמואל",
+      "importance": "central",
+      "noteHe": "מקום פעילותו העיקרי בבבל",
+      "periodIds": [],
+      "start": null,
+      "end": 254,
+      "timeNoteHe": "דור ראשון לאמוראי בבל; נפטר ~254 לפי מסורות",
+      "importanceNoteHe": "מרכז בלעדי כמעט",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "שמואל ונהרדעא (מסורות)",
+          "url": "https://www.sefaria.org/Bava_Kamma.80a",
+          "ref": "בבלי בבא קמא פ ע\"א",
+          "kind": "primary_rabbinic",
+          "text": "קשרי שמואל לנהרדעא"
+        },
+        {
+          "labelHe": "אתרא דשמואל",
+          "url": "https://www.sefaria.org/Gittin.6a",
+          "ref": "בבלי גיטין ו ע\"א",
+          "kind": "primary_rabbinic",
+          "text": "הבחנה אתרא דרב / אתרא דשמואל"
+        }
+      ],
+      "uncertainty": "null"
+    },
+    {
+      "personSlug": "yochanan-amora",
+      "placeSlug": "tiberias",
+      "relationshipType": "taught",
+      "activityHe": "ראש ישיבת טבריה עשרות שנים; מרכז תורני של אמוראי א\"י",
+      "importance": "central",
+      "noteHe": "המקום המרכזי והמבוסס ביותר",
+      "periodIds": [],
+      "start": null,
+      "end": 279,
+      "timeNoteHe": "דור שני לאמוראי א\"י; נפטר ~279 לפי מסורות",
+      "importanceNoteHe": "מרכז פעילות עיקרי",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "גלות סנהדרין לטבריה",
+          "url": "https://www.sefaria.org/Rosh_Hashanah.31a",
+          "ref": "בבלי ראש השנה לא ע\"א",
+          "kind": "primary_rabbinic",
+          "text": "מסורת עשר גלויות עד טבריה"
+        }
+      ],
+      "uncertainty": "null"
+    },
+    {
+      "personSlug": "yochanan-amora",
+      "placeSlug": "zippori",
+      "relationshipType": "studied",
+      "activityHe": "פעל בציפורי ואחר כך עבר לטבריה אחרי מחלוקת עם רבי חנינא",
+      "importance": "meaningful",
+      "noteHe": "שלב מוקדם יחסית",
+      "periodIds": [],
+      "start": null,
+      "end": null,
+      "timeNoteHe": "לפני קביעת המרכז בטבריה",
+      "importanceNoteHe": "",
+      "state": "known",
+      "sources": [
+        {
+          "labelHe": "מעבר מציפורי לטבריה",
+          "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%97%D7%A0%D7%9F",
+          "ref": "ירושלמי (מסורות מעבר מציפורי לטבריה)",
+          "kind": "secondary",
+          "text": "בעקבות מחלוקת עם רבי חנינא בר חמא"
+        }
+      ],
+      "uncertainty": "פרטי המעבר במקורות מקבילים"
+    }
+  ],
+  "audit": [
+    {
+      "slug": "shimon-tzadik",
+      "name": "שמעון הצדיק",
+      "reviewed": true,
+      "placesFound": [
+        "ירושלים",
+        "אנטיפטריס"
+      ],
+      "relationshipsAdded": 2,
+      "primarySourcesChecked": [
+        "Pirkei Avot 1:2",
+        "Yoma 69a",
+        "Yoma 39a–b (נסים בכהונתו — מקדש)"
+      ],
+      "unresolved": [
+        "קבר 'מערת שמעון הצדיק' בירושלים הוא מסורת מאוחרת — לא נסמך כאן כראיה ראשונית למקום פעילות."
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "antigonos",
+      "name": "אנטיגנוס איש סוכו",
+      "reviewed": true,
+      "placesFound": [
+        "סוכו"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Pirkei Avot 1:3",
+        "Mishnah Chagigah 2:2 (שרשרת הזוגות — ללא מקום לסוכו)"
+      ],
+      "unresolved": [
+        "אין מקור ראשוני הממקם אותו בירושלים; אין לייחס ירושלים כברירת מחדל."
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "yose-yoezer",
+      "name": "יוסי בן יועזר איש צרדה",
+      "reviewed": true,
+      "placesFound": [
+        "צרדה / צרידה"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Pirkei Avot 1:4",
+        "Mishnah Sotah 9:9",
+        "Bereishit Rabbah 65:22 (צליבה — בלא שם מקום)"
+      ],
+      "unresolved": [
+        "בראשית רבה סה:כב מתאר צליבה אך אינו ממקם את האירוע ביישוב נקוב — לא יוחס כאן מקום לאירוע.",
+        "אין ראיה ראשונית מספקת לירושלים כמקום מגורים (בניגוד לבן־זוגו 'איש ירושלים')."
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "yose-yochanan",
+      "name": "יוסי בן יוחנן איש ירושלים",
+      "reviewed": true,
+      "placesFound": [
+        "ירושלים"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Pirkei Avot 1:4–5",
+        "Mishnah Sotah 9:9",
+        "Mishnah Chagigah 2:2"
+      ],
+      "unresolved": [],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "yehoshua-perachya",
+      "name": "יהושע בן פרחיה",
+      "reviewed": true,
+      "placesFound": [
+        "אלכסנדריה של מצרים",
+        "ירושלים"
+      ],
+      "relationshipsAdded": 2,
+      "primarySourcesChecked": [
+        "Pirkei Avot 1:6",
+        "Sotah 47a",
+        "Sanhedrin 107b",
+        "Jerusalem Talmud Chagigah 2:2 (מקבילת יהודה בן טבאי)"
+      ],
+      "unresolved": [
+        "אין כינוי מקומי בדומה ל'איש…'; מוצא אישי מעבר למסורות הבריחה אינו מתועד היטב במקורות שנבדקו."
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "nittai",
+      "name": "נתאי הארבלי",
+      "reviewed": true,
+      "placesFound": [
+        "ארבל"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Pirkei Avot 1:6–7",
+        "Mishnah Chagigah 2:2"
+      ],
+      "unresolved": [
+        "אין תיעוד ראשוני מפורש לירושלים לנתאי מעבר למעמד הזוגות הכללי — לא יוחס."
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "yehuda-tabbai",
+      "name": "יהודה בן טבאי",
+      "reviewed": true,
+      "placesFound": [
+        "ירושלים",
+        "אלכסנדריה"
+      ],
+      "relationshipsAdded": 2,
+      "primarySourcesChecked": [
+        "Pirkei Avot 1:8",
+        "Jerusalem Talmud Chagigah 2:2",
+        "Chagigah 16b",
+        "Sotah 47a (מסורת מקבילה על יהושע)"
+      ],
+      "unresolved": [],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "shimon-shetach",
+      "name": "שמעון בן שטח",
+      "reviewed": true,
+      "placesFound": [
+        "ירושלים",
+        "אשקלון"
+      ],
+      "relationshipsAdded": 2,
+      "primarySourcesChecked": [
+        "Pirkei Avot 1:8–9",
+        "Sotah 47a",
+        "Sanhedrin 107b",
+        "Jerusalem Talmud Chagigah 2:2",
+        "Mishnah Taanit 3:8 (חוני — ללא מקום גאוגרפי מפורט)"
+      ],
+      "unresolved": [],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "shemaya",
+      "name": "שמעיה",
+      "reviewed": true,
+      "placesFound": [
+        "ירושלים"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Pirkei Avot 1:10",
+        "Yoma 71b",
+        "Yoma 35b (בית מדרשם — בלא שם עיר)",
+        "Pesachim 66a",
+        "Gittin 57b"
+      ],
+      "unresolved": [
+        "מסורת קבורה מאוחרת בגוש חלב אינה ראיה ראשונית למקום פעילות — לא נכללה."
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "avtalyon",
+      "name": "אבטליון",
+      "reviewed": true,
+      "placesFound": [
+        "ירושלים"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Pirkei Avot 1:10–11",
+        "Yoma 71b",
+        "Yoma 35b",
+        "Pesachim 66a"
+      ],
+      "unresolved": [
+        "קברי מסורת מאוחרים (גוש חלב) לא נכללו."
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "hillel",
+      "name": "הלל",
+      "reviewed": true,
+      "placesFound": [
+        "בבל",
+        "ירושלים"
+      ],
+      "relationshipsAdded": 2,
+      "primarySourcesChecked": [
+        "Pirkei Avot 1:12–14",
+        "Pesachim 66a",
+        "Sukkah 20a",
+        "Yoma 35b",
+        "Shabbat 15a",
+        "Shabbat 30b–31a"
+      ],
+      "unresolved": [
+        "מסורות קבורה מאוחרות במירון אינן ראיה ראשונית לפעילות בגליל — לא נכללו."
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "shammai",
+      "name": "שמאי",
+      "reviewed": true,
+      "placesFound": [
+        "ירושלים"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Pirkei Avot 1:12, 1:15",
+        "Mishnah Chagigah 2:2",
+        "Shabbat 30b–31a",
+        "Pesachim 66a"
+      ],
+      "unresolved": [
+        "לא נמצא אזכור ראשוני מפורש של שמאי בעיר נקובה אחרת.",
+        "מסורות קבורה מאוחרות (מירון/דלתון) לא נכללו."
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "gamliel-avot1",
+      "name": "רבן גמליאל (אבות א:טז)",
+      "reviewed": true,
+      "placesFound": [
+        "ירושלים"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Pirkei Avot 1:16",
+        "Mishnah Peah 2:6",
+        "Mishnah Rosh Hashanah 2:5",
+        "Shabbat 15a",
+        "Shabbat 115a (מעלה בהר הבית — מסורות על ר״ג)"
+      ],
+      "unresolved": [],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "shimon-son-gamliel",
+      "name": "שמעון בנו (אבות א:יז)",
+      "reviewed": true,
+      "placesFound": [
+        "ירושלים"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Pirkei Avot 1:17",
+        "Shabbat 15a",
+        "Avot de-Rabbi Natan A 38 (מסורות הריגה — בלא מקום גאוגרפי חד־משמעי במקור שנבדק)"
+      ],
+      "unresolved": [
+        "תיאורי יוספוס על שמעון בן גמליאל בירושלת המרד הם משניים לפיילוט הרבני — לא נכללו כראיה עיקרית."
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "rashbag-avot1",
+      "name": "רבן שמעון בן גמליאל (אבות א:יח)",
+      "reviewed": true,
+      "placesFound": [
+        "ירושלים"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Pirkei Avot 1:17–18",
+        "Shabbat 15a",
+        "traditional commentaries on Avot 1:18 (identity of speaker)"
+      ],
+      "unresolved": [
+        "אם אבות א:יח = רשב״ג מאוחר (אושא) — יש לבדוק מחדש אושא/יבנה במקורות מתאימים; לא יוחס כאן אושא בלי הכרעת זהות.",
+        "אין אזכור מקום במשנה א:יח עצמה."
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "rebbi",
+      "name": "רבי יהודה הנשיא",
+      "reviewed": true,
+      "placesFound": [
+        "בית שערים",
+        "ציפורי"
+      ],
+      "relationshipsAdded": 2,
+      "primarySourcesChecked": [
+        "Ketubot 103b",
+        "Sanhedrin 32b",
+        "Rosh Hashanah 31a–31b",
+        "Jerusalem Talmud Kilayim 9:3"
+      ],
+      "unresolved": [
+        "אין מקור ראשוני מוצק לישיבת רבי עצמו בטבריה; המעבר לטבריה ברה״ש הוא של הסנהדרין אחרי ציפורי",
+        "זיהוי קבר ציפורי עממי/ימי־ביניים מול בית שערים בחז״ל"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "gamliel-rebbi",
+      "name": "רבן גמליאל בנו של רבי",
+      "reviewed": true,
+      "placesFound": [
+        "ציפורי"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Ketubot 103b",
+        "Pirkei Avot 2:2–2:4"
+      ],
+      "unresolved": [
+        "אין תיעוד ראשוני מפורש למושב קבוע בטבריה/בית שערים מעבר להקשר משפחת הנשיאים",
+        "מצבת בית שערים משפחתית — ארכאולוגיה/מסורת, לא פסוק חז״ל מפורש עליו"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "yochanan-zakkai",
+      "name": "רבן יוחנן בן זכאי",
+      "reviewed": true,
+      "placesFound": [
+        "ירושלים",
+        "יבנה",
+        "ברור חיל",
+        "ערב"
+      ],
+      "relationshipsAdded": 4,
+      "primarySourcesChecked": [
+        "Gittin 56a-56b",
+        "Sanhedrin 32b",
+        "Jerusalem Talmud Shabbat 16:8",
+        "Avot 2:8-9"
+      ],
+      "unresolved": [
+        "קברי מסורת מאוחרים (טבריה/ירושלים) — לא כמקומות פעילות ראשוניים"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "eliezer-hyrcanus",
+      "name": "רבי אליעזר בן הורקנוס",
+      "reviewed": true,
+      "placesFound": [
+        "לוד"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Sanhedrin 32b",
+        "Avot 2:8",
+        "Bava Metzia 59b"
+      ],
+      "unresolved": [
+        "השתתפות ביבנה מתועדת בהקשרים סיפוריים/מחלוקות, אך אינה מוצגת כמושב קבע כמו לוד"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "yehoshua-hananya",
+      "name": "רבי יהושע בן חנניה",
+      "reviewed": true,
+      "placesFound": [
+        "פקיעין",
+        "יבנה",
+        "רומי",
+        "ירושלים"
+      ],
+      "relationshipsAdded": 4,
+      "primarySourcesChecked": [
+        "Sanhedrin 32b",
+        "Berakhot 27b-28a",
+        "Makkot 24a-24b",
+        "Mishnah Kilayim 6:4"
+      ],
+      "unresolved": [],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "yose-kohen",
+      "name": "רבי יוסי הכהן",
+      "reviewed": true,
+      "placesFound": [
+        "יבנה"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Avot 2:8-9",
+        "Avot DeRabbi Natan 14",
+        "Kohelet Rabbah 7:7",
+        "Sanhedrin 32b"
+      ],
+      "unresolved": [
+        "אין מושב אישי מפורש מעבר לשיוך הקבוצתי ליבנה",
+        "מסורות קבורה מאוחרות (עלמה) — לא פעילות"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "shimon-netanel",
+      "name": "רבי שמעון בן נתנאל",
+      "reviewed": true,
+      "placesFound": [
+        "יבנה"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Avot 2:8-9",
+        "Avot DeRabbi Natan 14",
+        "Sanhedrin 32b"
+      ],
+      "unresolved": [
+        "אין אזכור מקום אישי עצמאי במקורות התנאיים/תלמודיים שנבדקו"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "elazar-arakh",
+      "name": "רבי אלעזר בן ערך",
+      "reviewed": true,
+      "placesFound": [
+        "אמאוס / דיומסת / דמסית"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Shabbat 147b",
+        "Avot DeRabbi Natan 14",
+        "Kohelet Rabbah 7:7",
+        "Avot 2:8-9"
+      ],
+      "unresolved": [
+        "האם דיומסת ודמסית ואמאוס הם תמיד אותו אתר — סביר אך לא זהה בכל נוסח"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "abba-shaul",
+      "name": "אבא שאול",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "Avot 3:1 context / related teachings",
+        "Niddah 24b",
+        "Yevamot 24a",
+        "Sanhedrin 10:1"
+      ],
+      "unresolved": [
+        "מסורות רבות על עבודת המקדש — מעידות על ידע/זיכרון מקדשי, לא בהכרח על מקום מגורים מתועד",
+        "אין אזכור מושב (לוד/יבנה/ירושלים) מפורש במקורות שנבדקו"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "tarfon",
+      "name": "רבי טרפון",
+      "reviewed": true,
+      "placesFound": [
+        "לוד"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Kiddushin 40b",
+        "Mishnah Bava Metzia 4:3",
+        "Bava Metzia 49b",
+        "Mishnah Ta'anit 3:9",
+        "Ta'anit 19a",
+        "Ta'anit 21a"
+      ],
+      "unresolved": [],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "akavya",
+      "name": "עקביא בן מהללאל",
+      "reviewed": true,
+      "placesFound": [
+        "ירושלים"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Mishnah Eduyot 5:6-7",
+        "Avot 3:1",
+        "Berakhot 19a"
+      ],
+      "unresolved": [
+        "אין מושב עיר מפורש מעבר להקשר ירושלים/עזרה"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "hanina-sgan",
+      "name": "רבי חנינא סגן הכהנים",
+      "reviewed": true,
+      "placesFound": [
+        "ירושלים"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Avot 3:2",
+        "Sotah 42a",
+        "Pesachim 14a",
+        "Yoma 21b"
+      ],
+      "unresolved": [],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "hanina-teradyon",
+      "name": "רבי חנינא בן תרדיון",
+      "reviewed": true,
+      "placesFound": [
+        "סיכנין"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Sanhedrin 32b",
+        "Avot 3:2",
+        "Avodah Zarah 18a"
+      ],
+      "unresolved": [],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "shimon-yohai",
+      "name": "רבי שמעון בן יוחאי",
+      "reviewed": true,
+      "placesFound": [
+        "תקוע",
+        "טבריה",
+        "יבנה"
+      ],
+      "relationshipsAdded": 3,
+      "primarySourcesChecked": [
+        "Shabbat 33b–34a",
+        "Shabbat 147b",
+        "Jerusalem Talmud Sheviit 9:1",
+        "Sanhedrin 14a"
+      ],
+      "unresolved": [
+        "מיקום המערה בחז״ל",
+        "זיהוי תקוע",
+        "מירון כמקום קבורה — מסורות מדרשיות על מערת האב בהקשר קבורת ר״א ברשב״י; לא סימון מגורים ראשוני",
+        "אין לכלול פקיעין כעובדה ראשונית"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "hanina-hakhinai",
+      "name": "רבי חנינא בן חכינאי",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "Pirkei Avot 3:4",
+        "Ketubot 62b"
+      ],
+      "unresolved": [
+        "אין שיוך מקום ראשוני בחז״ל; מסורת קבר בצפת (מערת שם ועבר) מימי הביניים בלבד"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "nehunya",
+      "name": "רבי נחוניא בן הקנה",
+      "reviewed": true,
+      "placesFound": [
+        "אמאוס (אמהום)"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Avot 3:5",
+        "Berakhot 28b",
+        "Bava Batra 10b",
+        "Midrash Tannaim Deuteronomy 26:13"
+      ],
+      "unresolved": [
+        "מסורת קבר מאוחרת בנחל עמוד — אינה מקור פעילות",
+        "שחזור מדרש תנאים חלקי"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "halafta-dosa",
+      "name": "רבי חלפתא בן דוסא איש כפר חנניה",
+      "reviewed": true,
+      "placesFound": [
+        "כפר חנניה"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Pirkei Avot 3:6",
+        "Mishnah Sheviit 9:2"
+      ],
+      "unresolved": [
+        "זיהוי/הבחנה מול רבי חלפתא דציפורי"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "elazar-bartota",
+      "name": "רבי אלעזר איש ברתותא",
+      "reviewed": true,
+      "placesFound": [
+        "ברתותא"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Pirkei Avot 3:7"
+      ],
+      "unresolved": [
+        "זיהוי בשטח של ברתותא"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "dostai-yanai",
+      "name": "רבי דוסתאי ברבי ינאי",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "Pirkei Avot 3:8"
+      ],
+      "unresolved": [
+        "לא נמצא שיוך מקום ראשוני מפורש בבדיקה זו"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "meir",
+      "name": "רבי מאיר",
+      "reviewed": true,
+      "placesFound": [
+        "אסיא",
+        "אושא"
+      ],
+      "relationshipsAdded": 2,
+      "primarySourcesChecked": [
+        "Jerusalem Talmud Kilayim 9:3",
+        "Sanhedrin 14a",
+        "Sanhedrin 32b"
+      ],
+      "unresolved": [
+        "זיהוי אסיא",
+        "מושב קבוע בטבריה/טבעין/ערדסקין — דורש מקורות ראשוניים נוספים לפני סימון"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "hanina-dosa",
+      "name": "רבי חנינא בן דוסא",
+      "reviewed": true,
+      "placesFound": [
+        "ערב"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Jerusalem Talmud Berakhot 4:1",
+        "Berakhot 34b",
+        "Avot 3:9-10",
+        "Ta'anit 24b-25a"
+      ],
+      "unresolved": [
+        "מעשי נסים רבים ללא שם מקום",
+        "עליית אבן לירושלים (ילקוט) — מדרש מאוחר יחסית, לא נכלל כקשר מרכזי"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "dosa-harkinas",
+      "name": "רבי דוסא בן הרכינס",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "Yevamot 16a",
+        "Avot 3:10",
+        "Rosh Hashanah 25a"
+      ],
+      "unresolved": [
+        "חכמי יבנה באו לביתו (יבמות ט״ז) — מיקום הבית אינו נקוב",
+        "מסורת קבר צפת מאוחרת — אינה מקור פעילות"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "elazar-modai",
+      "name": "רבי אלעזר המודעי",
+      "reviewed": true,
+      "placesFound": [
+        "מודיעין",
+        "ביתר"
+      ],
+      "relationshipsAdded": 2,
+      "primarySourcesChecked": [
+        "Avot 3:11",
+        "Shabbat 55b",
+        "Jerusalem Talmud Ta'anit 4:5",
+        "Mekhilta contexts (aggadah with R. Yehoshua)"
+      ],
+      "unresolved": [],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "yishmael",
+      "name": "רבי ישמעאל",
+      "reviewed": true,
+      "placesFound": [
+        "כפר עזיז"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Avot 3:12",
+        "Mishnah Kilayim 6:4",
+        "Mishnah Ketubot 5:8"
+      ],
+      "unresolved": [
+        "הבחנה אפשרית בין רבי ישמעאל סתם לרבי ישמעאל בן אלישע כהן גדול — כאן נבדק רבי ישמעאל של אבות ג:יב / חבר עקיבא"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "akiva",
+      "name": "רבי עקיבא",
+      "reviewed": true,
+      "placesFound": [
+        "בני ברק",
+        "לוד",
+        "ירושלים",
+        "רומי"
+      ],
+      "relationshipsAdded": 4,
+      "primarySourcesChecked": [
+        "Sanhedrin 32b",
+        "Kiddushin 40b",
+        "Makkot 24a-24b",
+        "Berakhot 61b"
+      ],
+      "unresolved": [],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "elazar-azarya",
+      "name": "רבי אלעזר בן עזריה",
+      "reviewed": true,
+      "placesFound": [
+        "יבנה"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Berakhot 27b-28a",
+        "Avot 3:17",
+        "Sanhedrin 32b"
+      ],
+      "unresolved": [],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "eliezer-hisma",
+      "name": "רבי אליעזר בן חסמא",
+      "reviewed": true,
+      "placesFound": [
+        "פקיעין",
+        "יבנה"
+      ],
+      "relationshipsAdded": 2,
+      "primarySourcesChecked": [
+        "תוספתא סוטה ז,ט",
+        "בבלי חגיגה ג ע\"א",
+        "בבלי גיטין סז ע\"א"
+      ],
+      "unresolved": [
+        "מקום מגורים קבוע לא מתועד"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "ben-zoma",
+      "name": "שמעון בן זומא",
+      "reviewed": true,
+      "placesFound": [
+        "ירושלים"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "בבלי חגיגה יד–טו",
+        "תוספתא חגיגה ב",
+        "הוריות ב ע\"ב",
+        "ירושלמי שקלים ה,א"
+      ],
+      "unresolved": [
+        "אין מקור ראשוני מפורש למגורים ביבנה; שיוך ליבנה הוא מסקנה משנית מתלמידות לחכמי יבנה"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "ben-azzai",
+      "name": "שמעון בן עזאי",
+      "reviewed": true,
+      "placesFound": [
+        "טבריה",
+        "יבנה"
+      ],
+      "relationshipsAdded": 2,
+      "primarySourcesChecked": [
+        "בבלי עירובין כט ע\"א",
+        "בבלי קידושין כ ע\"א",
+        "בבלי סוטה מה ע\"א",
+        "ירושלמי שקלים ה,א"
+      ],
+      "unresolved": [
+        "קבר בצפת — מסורת מאוחרת (~1300), לא נכלל"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "levitas",
+      "name": "רבי לויטס איש יבנה",
+      "reviewed": true,
+      "placesFound": [
+        "יבנה"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Avot 4:4",
+        "Avot DeRabbi Natan 34"
+      ],
+      "unresolved": [],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "yochanan-beroka",
+      "name": "רבי יוחנן בן ברוקא",
+      "reviewed": true,
+      "placesFound": [
+        "פקיעין",
+        "יבנה",
+        "בית שערים"
+      ],
+      "relationshipsAdded": 3,
+      "primarySourcesChecked": [
+        "תוספתא סוטה ז,ט",
+        "תוספתא תרומות ז,יד",
+        "בבלי חגיגה ג ע\"א",
+        "ירושלמי תרומות ח,ג"
+      ],
+      "unresolved": [
+        "קבר ליד עין זיתים — מסורת אר\"י/ויטאל מאוחרת, לא נכלל; אין מקור ראשוני למגורים בלוד"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "yishmael-beroka",
+      "name": "רבי ישמעאל בנו של רבי יוחנן בן ברוקא",
+      "reviewed": true,
+      "placesFound": [
+        "יבנה"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "משנה אבות ד,ה",
+        "משנה בבא קמא י,ב",
+        "בבלי יבמות מב ע\"ב",
+        "בבלי בבא בתרא קל ע\"א",
+        "תוספתא תרומות ז,יד"
+      ],
+      "unresolved": [
+        "אין להסיק פקיעין/בית שערים מאביו; בתוספתא הוא מוסר מעשה על אביו ולא על עצמו"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "tzadok",
+      "name": "רבי צדוק",
+      "reviewed": true,
+      "placesFound": [
+        "ירושלים",
+        "יבנה"
+      ],
+      "relationshipsAdded": 2,
+      "primarySourcesChecked": [
+        "Gittin 56a-56b",
+        "Avot 4:5"
+      ],
+      "unresolved": [
+        "הבחנה אפשרית בין רבי צדוק לרבי אלעזר בר צדוק בדורות שונים — כאן לפי מסורת גיטין"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "yose-avot4",
+      "name": "רבי יוסי — אבות ד:ו",
+      "reviewed": true,
+      "placesFound": [
+        "ציפורי"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Sanhedrin 32b",
+        "Shabbat 33b",
+        "Sanhedrin 14a",
+        "Pirkei Avot 4:6"
+      ],
+      "unresolved": [],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "yishmael-yose",
+      "name": "רבי ישמעאל בנו של רבי יוסי",
+      "reviewed": true,
+      "placesFound": [
+        "ציפורי"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Ketubot 103b",
+        "Sanhedrin 32b"
+      ],
+      "unresolved": [
+        "לאמת סוגיית הוראה מפורשת בציפורי בירושלמי לפני העלאת importance ל-central"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "yonatan",
+      "name": "רבי יונתן — אבות ד:ט",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "Pirkei Avot 4:9"
+      ],
+      "unresolved": [
+        "זהות רבי יונתן באבות דט מול יונתנים אחרים אינה מוכרעת; אין שיוך מקום ראשוני בבדיקה"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "eliezer-yaakov",
+      "name": "רבי אליעזר בן יעקב",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "Pirkei Avot 4:11"
+      ],
+      "unresolved": [
+        "שניים (או יותר) ראב״י; אין מקום ראשוני יציב לדמות אבות ד בלי הכרעת זהות"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "yochanan-sandlar",
+      "name": "רבי יוחנן הסנדלר",
+      "reviewed": true,
+      "placesFound": [
+        "אלכסנדריה",
+        "צידן"
+      ],
+      "relationshipsAdded": 2,
+      "primarySourcesChecked": [
+        "Jerusalem Talmud Hagigah 3:1",
+        "Sifrei Devarim 80",
+        "Pirkei Avot 4:11"
+      ],
+      "unresolved": [
+        "מסורת קבר מירון מאוחרת — לא ראשונית"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "elazar-shamua",
+      "name": "רבי אלעזר בן שמוע",
+      "reviewed": true,
+      "placesFound": [
+        "אושא",
+        "צידן"
+      ],
+      "relationshipsAdded": 2,
+      "primarySourcesChecked": [
+        "Sanhedrin 14a",
+        "Sifrei Devarim 80",
+        "Pirkei Avot 4:12"
+      ],
+      "unresolved": [
+        "מושב קבוע לא אותר בבדיקה זו"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "yehuda-avot4",
+      "name": "רבי יהודה — אבות ד:יג",
+      "reviewed": true,
+      "placesFound": [
+        "אושא",
+        "לוד"
+      ],
+      "relationshipsAdded": 2,
+      "primarySourcesChecked": [
+        "Tosefta Megillah 2:4",
+        "Sanhedrin 14a",
+        "Shabbat 33b",
+        "Pirkei Avot 4:13"
+      ],
+      "unresolved": [
+        "מסורות קבר מרובות ומאוחרות — לא ראשוניות"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "nehorai",
+      "name": "רבי נהוראי",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "Pirkei Avot 4:14",
+        "Shabbat 147b"
+      ],
+      "unresolved": [
+        "זהות שנויה (נהוראי/נחמיה/אלעזר בן ערך לפי שבת קמז); אין מקום ראשוני לדמות אבות ד"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "yanai",
+      "name": "רבי ינאי — אבות ד:טו",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "Pirkei Avot 4:15"
+      ],
+      "unresolved": [
+        "זהות מול רבי ינאי האמורא (עכברה/ציפורי) אינה מוכרעת; אין לשייך מקומות האמורא לתנא באבות בלי הכרעה"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "matya",
+      "name": "רבי מתיא בן חרש",
+      "reviewed": true,
+      "placesFound": [
+        "רומי"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Sanhedrin 32b",
+        "Pirkei Avot 4:15"
+      ],
+      "unresolved": [],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "yaakov",
+      "name": "רבי יעקב — אבות ד:טז",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "Pirkei Avot 4:16"
+      ],
+      "unresolved": [
+        "זהות מול יעקבים אחרים; אין מקום ראשוני בבדיקה"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "shimon-elazar",
+      "name": "רבי שמעון בן אלעזר",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "Pirkei Avot 4:18"
+      ],
+      "unresolved": [
+        "לא אותר שיוך מקום ראשוני יציב בבדיקה זו"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "shmuel-katan",
+      "name": "שמואל הקטן",
+      "reviewed": true,
+      "placesFound": [
+        "יבנה"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Berakhot 28b",
+        "Sotah 48b",
+        "Avot 4:19",
+        "Sanhedrin 11a"
+      ],
+      "unresolved": [
+        "כרונולוגיה מול נבואת מיתה בסוטה — מחלוקת יישוב; אינו מבטל את עדות יבנה לברכת המינים"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "elisha",
+      "name": "אלישע בן אבויה",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "Pirkei Avot 4:20",
+        "Hagigah 14b–15b"
+      ],
+      "unresolved": [
+        "מסורות ירושלים/טבריה וכו' דורשות ציטוט ראשוני מפורש לפני סימון; לא הומצא כאן שיוך"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "yose-yehuda-bavli",
+      "name": "רבי יוסי בר יהודה איש כפר הבבלי",
+      "reviewed": true,
+      "placesFound": [
+        "כפר הבבלי"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Pirkei Avot 4:20"
+      ],
+      "unresolved": [
+        "זיהוי כפר הבבלי",
+        "זיהוי עם יוסי בר יהודה / איסי"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "elazar-kappar",
+      "name": "רבי אלעזר הקפר",
+      "reviewed": true,
+      "placesFound": [
+        "חורבת דבורה"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Pirkei Avot 4:21–4:22"
+      ],
+      "unresolved": [
+        "יחס לבר קפרא",
+        "לוד כמקום פעילות ישיר"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "yehuda-tema",
+      "name": "יהודה בן תימא",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "Pirkei Avot 5:20"
+      ],
+      "unresolved": [
+        "אין שיוך מקום ראשוני בבדיקה"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "ben-bagbag",
+      "name": "בן בג בג",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "Pirkei Avot 5:22"
+      ],
+      "unresolved": [
+        "אין שיוך מקום ראשוני"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "ben-haha",
+      "name": "בן הא הא",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "Pirkei Avot 5:23"
+      ],
+      "unresolved": [
+        "אין שיוך מקום ראשוני"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "yehoshua-levi",
+      "name": "רבי יהושע בן לוי",
+      "reviewed": true,
+      "placesFound": [
+        "לוד",
+        "טבריה"
+      ],
+      "relationshipsAdded": 2,
+      "primarySourcesChecked": [
+        "Pirkei Avot 6:2",
+        "Jerusalem Talmud Taanit 3:4",
+        "Jerusalem Talmud Shabbat 1:2"
+      ],
+      "unresolved": [
+        "אימות מלא של סוגיות לוד/טבריה בירושלמי לפני העלאת certainty"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "shimon-yehuda",
+      "name": "רבי שמעון בן יהודה",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "Pirkei Avot 6:8"
+      ],
+      "unresolved": [
+        "אין שיוך מקום ראשוני בבדיקה"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "shimon-menasya",
+      "name": "רבי שמעון בן מנסיא",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "Pirkei Avot 6:8"
+      ],
+      "unresolved": [
+        "אין שיוך מקום ראשוני בבדיקה"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "yose-kisma",
+      "name": "רבי יוסי בן קסמא",
+      "reviewed": true,
+      "placesFound": [
+        "טבריה"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Yevamot 96b",
+        "Pirkei Avot 6:9",
+        "Avodah Zarah 18a"
+      ],
+      "unresolved": [
+        "זהות 'העיר הגדולה'",
+        "מסורות קבר מירון מאוחרות"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "hananya-akashya",
+      "name": "רבי חנניא בן עקשיא",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "Mishnah Uktzin 3:12",
+        "Pirkei Avot 6:11"
+      ],
+      "unresolved": [
+        "אין שיוך מקום ראשוני; מסורות קבר ליד כפר חנניה מאוחרות"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "yonatan-uziel",
+      "name": "יונתן בן עוזיאל",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "בבלי מגילה ג ע\"א",
+        "בבלי בבא בתרא קלד ע\"א",
+        "ירושלמי נדרים ה,ו",
+        "אדר\"נ א יד"
+      ],
+      "unresolved": [
+        "אין מקום פעילות בספרות חז\"ל; קבר עמוקה/דלתון — מסורות ימי־ביניים (מגילת אביתר, מסעות)"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "yonatan-harkinas",
+      "name": "יונתן בן הרכינס",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "בבלי יבמות טז ע\"א",
+        "ירושלמי יבמות א"
+      ],
+      "unresolved": [
+        "מופיע רק בסוגיית צרת הבת; אין מקום פעילות; קבר בין נבוריה לעין זיתים — מסורת מאה 16"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "sumkhos",
+      "name": "סומכוס",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "בבלי עירובין יג ע\"ב",
+        "בבלי קידושין נב ע\"ב",
+        "בבלי בבא קמא מו ע\"א"
+      ],
+      "unresolved": [
+        "תלמיד רבי מאיר בלי מקום מפורש; אין להסיק מטבריה של רבו; קבר טבריה — מסורת 1897"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "ilai",
+      "name": "רבי אלעאי",
+      "reviewed": true,
+      "placesFound": [
+        "לוד"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "בבלי סוכה כז ע\"ב",
+        "בבלי מנחות יח ע\"א",
+        "משנה עירובין ב,ו",
+        "ירושלמי פאה ו,ב"
+      ],
+      "unresolved": [
+        "מקום מגוריו הקבוע (אושא? גליל?) אינו מפורש דיו במקור ראשוני עליו עצמו"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "yosef-bavli",
+      "name": "יוסף הבבלי",
+      "reviewed": true,
+      "placesFound": [
+        "בבל"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "בבלי מנחות יח ע\"א",
+        "בבלי פסחים קיג ע\"ב",
+        "בבלי נדרים פא ע\"א"
+      ],
+      "unresolved": [
+        "מקום בית מדרשו של ר' אלעזר בן שמוע בארץ ישראל אינו מפורש במעשה; ביקורי ציפורי תלויים בזיהוי עם איסי"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "nehemya",
+      "name": "רבי נחמיה",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "משנה (אזכורים הלכתיים)",
+        "בבלי סנהדרין יד ע\"א (סמיכת תלמידי ר\"ע)"
+      ],
+      "unresolved": [
+        "תלמיד רבי עקיבא בלי מקום פעילות מפורש; אין להסיק מבני ברק/לוד של הרב"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "berurya",
+      "name": "ברוריא",
+      "reviewed": true,
+      "placesFound": [
+        "לוד"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "בבלי עירובין נג ע\"ב",
+        "בבלי פסחים סב ע\"ב",
+        "בבלי עבודה זרה יח ע\"א–ב"
+      ],
+      "unresolved": [
+        "אין להסיק סיכנין מאביה ר' חנינא בן תרדיון; אין מקום מגורים מפורש עם רבי מאיר"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "rachel",
+      "name": "רחל אשת רבי עקיבא",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "בבלי כתובות סב ע\"ב–סג ע\"א",
+        "בבלי נדרים נ ע\"א",
+        "אדר\"נ א ו"
+      ],
+      "unresolved": [
+        "סיפורי הנישואין/החזרה הביתה אינם מציינים מקום; אין להסיק בני ברק מבעלה; קבר טבריה — מסורת מאוחרת"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "yehoshua-akiva",
+      "name": "רבי יהושע בנו של רבי עקיבא",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "בבלי פסחים קיב ע\"א",
+        "תוספתא כתובות (שאלות לאביו)"
+      ],
+      "unresolved": [
+        "אין מקום במקורות; אין להסיק מבני ברק; זיהוי עם ר' יהושע בן קרחה שנוי במחלוקת"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "hyrcanus-father",
+      "name": "הורקנוס אביו של רבי אליעזר",
+      "reviewed": true,
+      "placesFound": [
+        "ירושלים"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "אדר\"נ א ו",
+        "פרקי דרבי אליעזר א–ב (מסורות מקבילות)"
+      ],
+      "unresolved": [
+        "אין שם יישוב לחוותו; אין לקשור ללוד של הבן"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "hyrcanus-son",
+      "name": "הורקנוס בנו של רבי אליעזר",
+      "reviewed": true,
+      "placesFound": [
+        "לוד"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "בבלי סנהדרין סח ע\"א",
+        "בבלי סנהדרין לב ע\"ב"
+      ],
+      "unresolved": [
+        "אין עדות עצמאית למגוריו"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "ima-shalom",
+      "name": "אימא שלום",
+      "reviewed": true,
+      "placesFound": [
+        "לוד"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "בבלי בבא מציעא נט ע\"ב",
+        "בבלי שבת קטז ע\"א",
+        "בבלי נדרים כ ע\"א",
+        "בבלי סנהדרין לב ע\"ב"
+      ],
+      "unresolved": [
+        "אין להסיק יבנה מאחיה רבן גמליאל כמקום מגוריה"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "azarya",
+      "name": "עזריה אביו של רבי אלעזר בן עזריה",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "בבלי ברכות כז ע\"ב–כח ע\"א (הקשר הבן)",
+        "אזכורים ייחוסיים"
+      ],
+      "unresolved": [
+        "אין מקום עליו במקורות ראשוניים; קבר עלמה — מסורת עולי רגל; אין להסיק יבנה/ציפורי מהבן"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "elazar-shimon",
+      "name": "רבי אלעזר בנו של רבי שמעון בן יוחאי",
+      "reviewed": true,
+      "placesFound": [
+        "טבריה",
+        "עכברא"
+      ],
+      "relationshipsAdded": 2,
+      "primarySourcesChecked": [
+        "בבלי שבת לג ע\"ב",
+        "בבלי בבא מציעא פג–פה",
+        "ירושלמי שביעית ט,א"
+      ],
+      "unresolved": [
+        "מקום מגורים קבוע בחייו אינו ברור; מסורות קבר מירון/טבריה מאוחרות"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "shimon-rebbi",
+      "name": "רבי שמעון בנו של רבי",
+      "reviewed": true,
+      "placesFound": [
+        "ציפורי",
+        "בית שערים"
+      ],
+      "relationshipsAdded": 2,
+      "primarySourcesChecked": [
+        "בבלי כתובות קג ע\"א–ב",
+        "בבלי בבא מציעא מד ע\"א",
+        "משנה מכות ג,טו"
+      ],
+      "unresolved": [
+        "אין תיאור עצמאי של מושב מלבד בית אביו"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "nahum-gamzu",
+      "name": "נחום איש גם זו",
+      "reviewed": true,
+      "placesFound": [
+        "גמזו"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "Ta'anit 21a",
+        "Pesachim 22b"
+      ],
+      "unresolved": [
+        "מסע עם דורון לקיסר (תענית כ״א) — יעד קיסרותי כללי, לא מקום מושב",
+        "זיהוי עם נחמיה העמסוני — השערה מחקרית, לא נקבעה כאן"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "abba-halafta",
+      "name": "אבא חלפתא",
+      "reviewed": true,
+      "placesFound": [
+        "ציפורי",
+        "טבריה"
+      ],
+      "relationshipsAdded": 2,
+      "primarySourcesChecked": [
+        "בבלי תענית טז ע\"ב",
+        "בבלי ראש השנה כז ע\"א",
+        "בבלי שבת קטו ע\"א",
+        "תוספתא תענית א"
+      ],
+      "unresolved": [
+        "יחס ל'רבי חלפתא איש כפר חנניה' — שנוי במחלוקת"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "yishmael-hananya-variant",
+      "name": "ישמעאל בן חנניה (נוסח אדר\"נ)",
+      "reviewed": true,
+      "placesFound": [],
+      "relationshipsAdded": 0,
+      "primarySourcesChecked": [
+        "אדר\"נ א יד",
+        "משנה אבות ב,ח (נוסח רגיל: יהושע בן חנניה)"
+      ],
+      "unresolved": [
+        "כנראה נוסח חלופי/שיבוש ליהושע בן חנניה; אין דמות עצמאית עם מקום"
+      ],
+      "noDocumentedPlace": true
+    },
+    {
+      "slug": "hanina-hama",
+      "name": "רבי חנינא בר חמא",
+      "reviewed": true,
+      "placesFound": [
+        "ציפורי"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "בבלי כתובות קג ע\"ב",
+        "בבלי שבת נט ע\"ב",
+        "ירושלמי (אזכורי ציפורי)"
+      ],
+      "unresolved": [
+        "קבר בית שערים — זיהוי ארכיאולוגי/מסורתי; מוצא בבלי מסורתי"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "afes",
+      "name": "רבי אפס",
+      "reviewed": true,
+      "placesFound": [
+        "ציפורי"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "בבלי כתובות קג ע\"ב",
+        "בבלי שבת נט ע\"ב",
+        "בבלי עירובין סה ע\"ב",
+        "בראשית רבה עה,ה"
+      ],
+      "unresolved": [
+        "כינוי 'רבותינו שבדרום' — ייתכן קשר ללוד/דרום, אך אינו מזהה מושב יחיד בוודאות"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "yanai-rebbi",
+      "name": "רבי ינאי תלמיד רבי",
+      "reviewed": true,
+      "placesFound": [
+        "עכברא"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "בבלי סנהדרין כו ע\"א",
+        "בבלי בבא בתרא יד ע\"א",
+        "ירושלמי דמאי"
+      ],
+      "unresolved": [
+        "זיהוי פתוח: האם כל 'רבי ינאי' הוא אותו תלמיד רבי; ציפורי כדיין — מסורת משנית"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "chiyya",
+      "name": "רבי חייא",
+      "reviewed": true,
+      "placesFound": [
+        "בבל",
+        "ציפורי",
+        "טבריה"
+      ],
+      "relationshipsAdded": 3,
+      "primarySourcesChecked": [
+        "בבלי כתובות קג ע\"ב",
+        "בבלי בבא מציעא פה ע\"ב",
+        "בבלי ראש השנה כה ע\"א",
+        "בבלי חולין קמא ע\"ב"
+      ],
+      "unresolved": [
+        "עין טב לקידוש החודש — מקום נוסף מחוץ לרשימה; קברי ציפורי/טבריה מאוחרים"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "oshaya",
+      "name": "רבי אושעיא",
+      "reviewed": true,
+      "placesFound": [
+        "קיסרין"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "בבלי חולין קמא ע\"ב",
+        "בבלי עירובין נג ע\"א",
+        "ירושלמי (אזכורי הושעיה רבה)"
+      ],
+      "unresolved": [
+        "מקום בית המדרש של הושעיה רבה דורש מקור ראשוני חד־משמעי יותר"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "bar-kappara",
+      "name": "בר קפרא",
+      "reviewed": true,
+      "placesFound": [
+        "ציפורי"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "בבלי נדרים נ–נא",
+        "בבלי מועד קטן טז",
+        "משנת בר קפרא (אזכורים)"
+      ],
+      "unresolved": [
+        "קבר קפרא/קברה — מסורת מאה 17"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "levi",
+      "name": "לוי (תלמיד רבי)",
+      "reviewed": true,
+      "placesFound": [
+        "ציפורי",
+        "נהרדעא"
+      ],
+      "relationshipsAdded": 2,
+      "primarySourcesChecked": [
+        "בבלי כתובות קג ע\"ב",
+        "בבלי שבת נט ע\"ב"
+      ],
+      "unresolved": [
+        "קבר סאסא — מסורת עולי רגל"
+      ],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "rav",
+      "name": "רב",
+      "reviewed": true,
+      "placesFound": [
+        "סורא",
+        "נהרדעא",
+        "ציפורי"
+      ],
+      "relationshipsAdded": 3,
+      "primarySourcesChecked": [
+        "בבלי סנהדרין ה ע\"א",
+        "בבלי גיטין ו ע\"א",
+        "בבלי שבת קח ע\"א",
+        "אגרת שרירא גאון"
+      ],
+      "unresolved": [],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "shmuel",
+      "name": "שמואל (האמורא)",
+      "reviewed": true,
+      "placesFound": [
+        "נהרדעא"
+      ],
+      "relationshipsAdded": 1,
+      "primarySourcesChecked": [
+        "בבלי גיטין ו ע\"א",
+        "בבלי בבא מציעא פה ע\"ב",
+        "בבלי שבת קכט ע\"א"
+      ],
+      "unresolved": [],
+      "noDocumentedPlace": false
+    },
+    {
+      "slug": "yochanan-amora",
+      "name": "רבי יוחנן (האמורא)",
+      "reviewed": true,
+      "placesFound": [
+        "טבריה",
+        "ציפורי"
+      ],
+      "relationshipsAdded": 2,
+      "primarySourcesChecked": [
+        "בבלי ראש השנה לא ע\"א",
+        "בבלי חולין קלז ע\"א",
+        "ירושלמי ביצה (ועוד)"
+      ],
+      "unresolved": [],
+      "noDocumentedPlace": false
+    }
+  ]
+}

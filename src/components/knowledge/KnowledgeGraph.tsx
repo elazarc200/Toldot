@@ -5,6 +5,7 @@ import './knowledge.css';
 import {straightLayout} from './straight-layout';
 import preparedLayouts from './layouts.json';
 import {PlacesOfActivity} from '@/components/map/PlacesOfActivity';
+import {CitationPreview} from '@/components/citations/CitationPreview';
 const names:Record<string,string>={teacher_student:'מסירת תורה / רב ותלמיד',parent_child:'הורה וילד',spouse:'בני זוג',sibling:'אחים',bar_plugta:'חברותא'};
 const colors:Record<string,string>={teacher_student:'#53665a',parent_child:'#8c9086',spouse:'#a58379',sibling:'#92917a',bar_plugta:'#c09b4f'};
 type Point={x:number;y:number};
@@ -40,7 +41,7 @@ export default function KnowledgeGraph(){
  useEffect(()=>{if(initialFocus.current)return;initialFocus.current=true;const id=new URLSearchParams(window.location.search).get('person');if(!id||!data.people.some(p=>p.id===id))return;const p=positions.get(id);setSelected(id);if(p)setView(v=>({...v,x:-p.x*v.z,y:-p.y*v.z}));},[positions]);
  function jump(period:string){const band=graph.bands.find(b=>b.id===period);if(!band)return;clear();setView({x:0,y:-(band.y+80)-270,z:1});}
  function fit(){setLocal(false);setSelected(null);setEdgeId(null);const z=Math.min(1,1100/graph.width,740/graph.height);setView({x:0,y:-(graph.height/2-80)*z,z});}
- function sourceList(refs:string[]){return [...new Set(refs)].map(id=>{const c=data.citations.find(c=>c.id===id);return c?<details key={id} className="kg-source"><summary>{c.label}</summary>{c.text?<p>{c.text}</p>:<p>אפשר לעיין במקור ובהקשר המלא בקישור.</p>}<small>{c.edition} · {c.license}</small><a href={c.url} target="_blank" rel="noopener noreferrer">פתיחת המקור ↗</a></details>:null;});}
+ function sourceList(refs:string[]){return <CitationPreview ids={refs} variant="knowledge"/>;}
  function relationList(rows:typeof data.edges,empty:string){return rows.length?rows.map(e=><div className="kg-relation" key={e.id}><button onClick={()=>choose(e.a===selected?e.b:e.a)}>{data.people.find(p=>p.id===(e.a===selected?e.b:e.a))?.name}</button><button onClick={()=>setEdgeId(e.id)}><small>{e.state==='known'?'מבוסס במקור':'לבירור'} · מקורות ←</small></button></div>):<p className="kg-muted">{empty}</p>;}
  function zoom(f:number){setView(v=>{const z=Math.max(.08,Math.min(4,v.z*f));return{x:v.x*z/v.z,y:v.y*z/v.z,z};});}
  return <section className={fullscreen?"kg kg-fullscreen":"kg"} dir="rtl"><div className="kg-top"><div><span className="kg-eyebrow">תולדות / פרקי אבות א–ו</span><h1>עץ מסירת התורה</h1></div><div className="kg-count"><b>{visible.length}</b> רשומות <span>·</span> <b>{edges.length}</b> קשרים</div>{selected&&<button onClick={clear}>ביטול בחירה ×</button>}<button aria-pressed={fullscreen} onClick={()=>setFullscreen(v=>!v)}>{fullscreen?"יציאה ממסך מלא ✕":"מסך מלא ⛶"}</button><button onClick={fit}>התאמה למסך ↗</button></div><div className="kg-notice">טיוטת מחקר · כל חכמי הפיילוט מוצגים לפי תקופה, גם כשאין להם קשר מסירה מתועד. הסדר האנכי נקבע לפי תקופות מתועדות; החצים מציגים מי קיבל ממי. תקופות פעילות עשויות לחפוף. גודל העיגול משקף מספר מקורות מתועדים. קו מסירה רציף: קשר לימוד מבוסס במקור רבני. קו מסירה מקווקו: חסר ביסוס ישיר או שנותרה שאלת זיהוי / מקורות חלוקים. סימון הקשרים האחרים נקבע לפי סוגם. עיגול מקווקו: זהות או תקופה לבירור.</div>

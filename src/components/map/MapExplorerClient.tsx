@@ -15,8 +15,8 @@ import type {
   MapPersonPlaceDto,
 } from "@/domain/visualization";
 
-const STYLE_URL =
-  "https://basemaps.cartocdn.com/gl/positron-gl-style/style.json";
+/** OpenFreeMap Liberty — no API-key watermark (replaces Carto Positron). */
+const STYLE_URL = "https://tiles.openfreemap.org/styles/liberty";
 
 const MOBILE_MQ = "(max-width: 720px)";
 

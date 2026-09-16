@@ -1,0 +1,248 @@
+{
+  "type": "FeatureCollection",
+  "name": "toladot-historical-territories",
+  "note": "Schematic political geography for Toladot pilot. Geometries are approximate reconstructions for atlas context — NOT cadastral or treaty borders. Confidence and sources are required for every feature.",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ptolemaic-coele-syria",
+      "properties": {
+        "nameHe": "שלטון תלמי (קוילה־סוריה / א״י)",
+        "entityType": "imperial_administration",
+        "politicalController": "Ptolemaic Kingdom",
+        "parentEntity": "Ptolemaic Egypt",
+        "startYear": -301,
+        "endYear": -200,
+        "periodIds": ["shimon", "antigonos", "zug1"],
+        "geometryConfidence": "approximate",
+        "sourceIds": [],
+        "sourceNotes": [
+          "Avi-Yonah / standard Hellenistic atlases: Ptolemaic control of Coele-Syria until ~200 BCE (Panium).",
+          "Barrington Atlas Hellenistic maps — schematic provincial extents."
+        ],
+        "notes": "תיחום סכמטי של שליטה תלמית באזור; הגבול הצפוני והמזרחי משוערים."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [34.2, 33.5], [35.9, 33.6], [36.4, 32.8], [36.2, 31.2],
+          [35.2, 30.8], [34.3, 31.0], [34.1, 32.2], [34.2, 33.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seleucid-coele-syria",
+      "properties": {
+        "nameHe": "שלטון סלאוקי (קוילה־סוריה)",
+        "entityType": "imperial_administration",
+        "politicalController": "Seleucid Empire",
+        "parentEntity": "Seleucid Empire",
+        "startYear": -200,
+        "endYear": -141,
+        "periodIds": ["zug1", "zug2", "zug3"],
+        "geometryConfidence": "approximate",
+        "sourceIds": [],
+        "sourceNotes": [
+          "After Panium (~200 BCE) Seleucid control of Coele-Syria until Hasmonean expansion.",
+          "Tcherikover, Hellenistic Civilization and the Jews — administrative overview."
+        ],
+        "notes": "שליטה סלאוקית סכמטית עד התרחבות החשמונאים."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [34.15, 33.55], [36.1, 33.7], [36.5, 32.9], [36.3, 31.1],
+          [35.3, 30.75], [34.25, 30.95], [34.05, 32.3], [34.15, 33.55]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hasmonean-kingdom",
+      "properties": {
+        "nameHe": "הממלכה החשמונאית",
+        "entityType": "kingdom",
+        "politicalController": "Hasmonean dynasty",
+        "parentEntity": null,
+        "startYear": -140,
+        "endYear": -63,
+        "periodIds": ["zug3", "zug4", "zug5"],
+        "geometryConfidence": "approximate",
+        "sourceIds": [],
+        "sourceNotes": [
+          "Josephus, Antiquities books 13–14 — expansion under John Hyrcanus / Alexander Jannaeus.",
+          "Avi-Yonah, The Holy Land from the Persian to the Arab Conquests — Hasmonean map reconstructions.",
+          "Schürer, History of the Jewish People — territorial surveys."
+        ],
+        "notes": "היקף משוער בשיא ההתרחבות (לא קו מדויק לכל שנה). כולל יהודה, חלקי שומרון, אדומיאה, חלקי הגליל ועבר הירדן לפי שחזורים מקובלים."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [34.55, 33.15], [35.55, 33.25], [35.85, 32.95], [35.95, 32.4],
+          [35.85, 31.7], [35.55, 31.15], [34.95, 31.05], [34.55, 31.35],
+          [34.45, 32.0], [34.50, 32.7], [34.55, 33.15]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "herodian-kingdom",
+      "properties": {
+        "nameHe": "ממלכת הורדוס",
+        "entityType": "client_kingdom",
+        "politicalController": "Herod the Great",
+        "parentEntity": "Roman sphere",
+        "startYear": -37,
+        "endYear": -4,
+        "periodIds": ["zug5", "early"],
+        "geometryConfidence": "approximate",
+        "sourceIds": [],
+        "sourceNotes": [
+          "Josephus, Antiquities 15–17; War 1 — Herodian domains.",
+          "Avi-Yonah atlas plates for Herodian kingdom."
+        ],
+        "notes": "ממלכת חסות רומית; תיחום סכמטי של יהודה, שומרון, הגליל, פראיה ואזורים נלווים."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [34.45, 33.2], [35.7, 33.3], [36.0, 32.85], [36.05, 32.2],
+          [35.9, 31.4], [35.5, 30.95], [34.85, 30.9], [34.4, 31.4],
+          [34.35, 32.2], [34.4, 32.9], [34.45, 33.2]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "roman-judea",
+      "properties": {
+        "nameHe": "פרובינקיה יודיאה / שלטון רומי",
+        "entityType": "roman_province",
+        "politicalController": "Rome",
+        "parentEntity": "Roman Empire",
+        "startYear": 6,
+        "endYear": 132,
+        "periodIds": ["early", "yavne", "akiva"],
+        "geometryConfidence": "approximate",
+        "sourceIds": [],
+        "sourceNotes": [
+          "Roman provincial Judea after Archelaus (6 CE); later adjustments under procurators.",
+          "Millar, The Roman Near East; Avi-Yonah Roman provincial maps."
+        ],
+        "notes": "תיחום סכמטי של המרחב היהודאי תחת מינהל רומי לפני מרד בר־כוכבא. הגליל וחלקים אחרים לעיתים תחת חלוקה שונה — מסומן כמשוער."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [34.5, 33.05], [35.65, 33.15], [35.9, 32.7], [35.85, 31.9],
+          [35.55, 31.2], [34.9, 31.1], [34.45, 31.5], [34.4, 32.3],
+          [34.5, 33.05]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "syria-palaestina",
+      "properties": {
+        "nameHe": "סוריה־פלשתינה (לאחר בר־כוכבא)",
+        "entityType": "roman_province",
+        "politicalController": "Rome",
+        "parentEntity": "Roman Empire",
+        "startYear": 135,
+        "endYear": 324,
+        "periodIds": ["usha", "rebbi", "transition"],
+        "geometryConfidence": "approximate",
+        "sourceIds": [],
+        "sourceNotes": [
+          "Renaming / reorganization after Bar Kokhba (commonly dated mid-2nd century).",
+          "Isaac, The Limits of Empire; standard Roman provincial atlases."
+        ],
+        "notes": "פרובינקיה מאוחרת יותר; התיחום רחב וסכמטי."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [34.3, 33.4], [35.9, 33.5], [36.3, 32.9], [36.2, 31.3],
+          [35.3, 30.85], [34.35, 31.1], [34.2, 32.3], [34.3, 33.4]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "byzantine-palaestina",
+      "properties": {
+        "nameHe": "פלשתינה הביזנטית (סכמטי)",
+        "entityType": "byzantine_province",
+        "politicalController": "Byzantine Empire",
+        "parentEntity": "Byzantine Empire",
+        "startYear": 324,
+        "endYear": 636,
+        "periodIds": ["amora2"],
+        "geometryConfidence": "approximate",
+        "sourceIds": [],
+        "sourceNotes": [
+          "Palaestina Prima / Secunda / Tertia divisions — shown here as a combined schematic envelope.",
+          "Tsafrir / Di Segni / Green, Tabula Imperii Romani Iudaea-Palaestina."
+        ],
+        "notes": "מעטפת סכמטית לתקופה הביזנטית; אינה מציגה את שלוש הפרובינקיות בנפרד."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [34.25, 33.45], [35.95, 33.55], [36.35, 32.85], [36.25, 31.2],
+          [35.25, 30.8], [34.3, 31.05], [34.15, 32.35], [34.25, 33.45]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "region-galilee-roman",
+      "properties": {
+        "nameHe": "הגליל",
+        "entityType": "region",
+        "politicalController": null,
+        "parentEntity": "roman_judea / syria-palaestina context",
+        "startYear": -37,
+        "endYear": 324,
+        "periodIds": ["early", "yavne", "akiva", "usha", "rebbi"],
+        "geometryConfidence": "approximate",
+        "sourceIds": [],
+        "sourceNotes": ["Josephus regional descriptions of Galilee; Avi-Yonah regional maps."],
+        "notes": "אזור גאוגרפי־היסטורי, לא מדינה עצמאית."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [35.05, 33.15], [35.65, 33.2], [35.7, 32.85], [35.55, 32.55],
+          [35.15, 32.55], [35.0, 32.85], [35.05, 33.15]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "region-judea-core",
+      "properties": {
+        "nameHe": "יהודה",
+        "entityType": "region",
+        "politicalController": null,
+        "parentEntity": null,
+        "startYear": -140,
+        "endYear": 324,
+        "periodIds": ["zug3", "zug4", "zug5", "early", "yavne", "akiva", "usha", "rebbi"],
+        "geometryConfidence": "approximate",
+        "sourceIds": [],
+        "sourceNotes": ["Core Judean hill country — schematic; not a modern border."],
+        "notes": "גרעין יהודה כהקשר אזורי."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [34.85, 31.95], [35.35, 31.95], [35.4, 31.35], [35.15, 31.2],
+          [34.85, 31.35], [34.8, 31.7], [34.85, 31.95]
+        ]]
+      }
+    }
+  ]
+}
