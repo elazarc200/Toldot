@@ -1,0 +1,2 @@
+import pilot from '@/components/knowledge/pilot.json';
+export function AtlasSources({ids}:{ids:string[]}){return <div className="atlas-sources">{[...new Set(ids)].map(id=>{const source=pilot.citations.find(c=>c.id===id);return source?<details key={id}><summary>{source.label}</summary>{source.text&&<p>{source.text}</p>}<a href={source.url} target="_blank" rel="noopener noreferrer">עיון במקור ↗</a></details>:null;})}</div>;}

@@ -6,10 +6,11 @@ import {
   loadMapPlaces,
 } from "@/application/visualization-loaders";
 import { MapExplorerClient } from "@/components/map/MapExplorerClient";
+import ToladotMap from '@/components/map/ToladotMap';
 
 export const metadata: Metadata = {
-  title: "מפה",
-  robots: { index: true, follow: true },
+  title: "מפת תולדות",
+  robots: { index: false, follow: false },
 };
 
 const UUID_RE =
@@ -20,11 +21,14 @@ type Props = {
     place?: string;
     person?: string;
     period?: string;
+    dataset?: string;
   }>;
 };
 
 export default async function MapPage({ searchParams }: Props) {
-  const { place, person, period } = await searchParams;
+  const { place, person, period, dataset } = await searchParams;
+  // The published database renderer remains available without schema migrations.
+  if(dataset!=='published')return <ToladotMap initialPerson={person||''} initialPlace={place||''} initialPeriod={period||''}/>;
   const focusPlaceId = place && UUID_RE.test(place) ? place : null;
   const focusPersonId = person && UUID_RE.test(person) ? person : null;
   const focusPeriodId = period && UUID_RE.test(period) ? period : null;

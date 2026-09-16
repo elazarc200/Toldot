@@ -3,9 +3,10 @@ import Link from "next/link";
 import { useState } from "react";
 import { DesignIcon } from "./design-icons";
 const links = [
+  { href: "/knowledge", label: "מפת הקשרים" },
   { href: "/seder-hadorot?mode=alpha", label: "חכמים ואישים" },
   { href: "/seder-hadorot", label: "סדר הדורות" },
-  { href: "/map", label: "מפה" },
+  { href: "/map", label: "מפת תולדות" },
   { href: "/periods", label: "תקופות" },
 ];
 export function DesignHeader() {
