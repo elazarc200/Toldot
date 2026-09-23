@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "predev": "node scripts/prepare-map-worker.cjs",
-    "prebuild": "node scripts/prepare-map-worker.cjs",
+    "predev": "node scripts/build-pilot-map.cjs && node scripts/prepare-map-worker.cjs",
+    "prebuild": "node scripts/build-pilot-map.cjs && node scripts/prepare-map-worker.cjs",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
@@ -22,6 +22,7 @@
     "node": ">=20"
   },
   "dependencies": {
+    "@mapbox/mapbox-gl-rtl-text": "^0.3.0",
     "@supabase/ssr": "^0.12.6",
     "@supabase/supabase-js": "^2.115.0",
     "graphology": "^0.26.0",

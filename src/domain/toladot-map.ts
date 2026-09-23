@@ -1,8 +1,17 @@
-import pilot from '@/components/knowledge/pilot.json';
-export const atlas=pilot.geography;
-export const sages=pilot.people;
-export const periods=pilot.periods;
+import pilotMap from '@/components/knowledge/pilot-map.json';
+export const atlas=pilotMap.geography;
+export const sages=pilotMap.people;
+export const periods=pilotMap.periods;
 export type AtlasPlace=typeof atlas.places[number];
+export function needsPlaceIdentification(place:AtlasPlace){return place.identificationDetail ?? place.identification!=='identified';}
+export function burialMatchesTime(burial:typeof atlas.burials[number],time:TimeFilter){
+ if(!validTime(time))return false;
+ return burial.personIds.some(id=>{const sage=sages.find(s=>s.id===id);const period=sage?.chronology?.period_id||'';const range=periodYearRange[period];
+  if(time.period&&period!==time.period)return false;
+  if((time.from||time.to)&&!range)return false;
+  return !range||matchesTime({periodIds:[period],start:range.from,end:range.to},time);
+ });
+}
 export type Activity=typeof atlas.personPlaces[number];
 export type TimeFilter={period:string;from:string;to:string};
 export type DatedRecord={periodIds:string[];start:number|null;end:number|null};
@@ -51,8 +60,37 @@ export function yearRangeForSage(personId:string):{from:string;to:string}|null{
  if(periodId)return yearRangeForPeriod(periodId);
  return null;
 }
-export const importanceSize={central:30,meaningful:22,minor:15};
+export const importanceSize={central:24,meaningful:18,minor:12};
 export const importanceLabels={central:'מקום מרכזי',meaningful:'פעילות משמעותית',minor:'אזכור או ביקור'};
+/** Sages who belonged to the place versus sages documented there on a visit. */
+export const communityRelationships=['lived','served','taught','studied'] as const;
+export function activityBelonging(row:Activity):'community'|'visit'{
+ const kind=String((row as {relationshipType?:string}).relationshipType||'');
+ if((communityRelationships as readonly string[]).includes(kind))return 'community';
+ if(kind==='visited'||kind==='event')return 'visit';
+ // Undeclared links are treated as belonging only when the activity itself is central to the place.
+ return row.importance==='central'?'community':'visit';
+}
+/** Editorial summary when one was written for the place; otherwise the documented overview. */
+export function placeSummary(place:AtlasPlace){
+ const summary=(place as {summary?:string}).summary;
+ return summary&&summary.trim()?summary:place.overview;
+}
+/**
+ * Sources that belong to the place as a place — not every sage-activity citation dumped into one list.
+ * Sage-place evidence stays on the sage folders; this is overview / events / institutions.
+ */
+export function placeCitationIds(placeId:string,time:TimeFilter=emptyTime){
+ const place=atlas.places.find(p=>p.id===placeId);
+ const content=placeContent(placeId,time);
+ const ids=[
+  ...content.events.flatMap(r=>r.sourceIds||[]),
+  ...content.institutions.flatMap(r=>r.sourceIds||[]),
+  ...(place?.overviewSourceIds||[]),
+  ...(place?.sourceIds||[]),
+ ];
+ return [...new Set(ids)];
+}
 export function sageActivities(personId:string,time:TimeFilter=emptyTime){return atlas.personPlaces.filter(p=>p.personId===personId&&matchesTime(p,time));}
 export function placeContent(placeId:string,time:TimeFilter=emptyTime){return {activities:atlas.personPlaces.filter(p=>p.placeId===placeId&&matchesTime(p,time)),events:atlas.events.filter(p=>p.placeId===placeId&&matchesTime(p,time)),institutions:atlas.institutions.filter(p=>p.placeId===placeId&&matchesTime(p,time))};}
 export function placeSize(placeId:string,personId:string,time:TimeFilter){const rows=atlas.personPlaces.filter(p=>p.placeId===placeId&&(!personId||p.personId===personId)&&matchesTime(p,time));return Math.max(15,...rows.map(r=>importanceSize[r.importance as keyof typeof importanceSize]));}

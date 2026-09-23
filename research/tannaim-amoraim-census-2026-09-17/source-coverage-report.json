@@ -1,0 +1,4629 @@
+{
+  "generated_at": "2026-09-17T06:08:49.780Z",
+  "sefaria_export_catalog_date": "2026-09-07T11:53:39Z",
+  "selection_rule": "All Hebrew merged base works in Mishnah, Tosefta, Talmud and Midrash categories, excluding commentary/modern-commentary categories and explicit commentary titles. Later reference introductions are scanned but excluded as direct primary evidence.",
+  "selected_books": 300,
+  "downloaded_books": 300,
+  "scanned_books": 300,
+  "total_segments_scanned": 189739,
+  "groups": {
+    "Midrash / Aggadah": {
+      "books": 40,
+      "segments": 49751
+    },
+    "Talmud / Bavli": {
+      "books": 57,
+      "segments": 103370
+    },
+    "Talmud / Yerushalmi": {
+      "books": 39,
+      "segments": 12252
+    },
+    "Midrash / Halakhah": {
+      "books": 7,
+      "segments": 12546
+    },
+    "Mishnah / Seder Kodashim": {
+      "books": 11,
+      "segments": 590
+    },
+    "Mishnah / Seder Nezikin": {
+      "books": 10,
+      "segments": 685
+    },
+    "Mishnah / Seder Moed": {
+      "books": 12,
+      "segments": 681
+    },
+    "Mishnah / Seder Zeraim": {
+      "books": 11,
+      "segments": 655
+    },
+    "Mishnah / Seder Nashim": {
+      "books": 7,
+      "segments": 578
+    },
+    "Mishnah / Seder Tahorot": {
+      "books": 12,
+      "segments": 1003
+    },
+    "Tosefta / Vilna Edition": {
+      "books": 61,
+      "segments": 4062
+    },
+    "Tosefta / Lieberman Edition": {
+      "books": 33,
+      "segments": 3566
+    }
+  },
+  "books": [
+    {
+      "title": "Aggadat Bereshit",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 222,
+      "alias_hits": 775,
+      "secondary_only": false,
+      "later_compilation": true,
+      "status": "scanned"
+    },
+    {
+      "title": "Arakhin",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 1183,
+      "alias_hits": 3973,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Avodah Zarah",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 2131,
+      "alias_hits": 10351,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Avot DeRabbi Natan",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Minor Tractates"
+      ],
+      "segments_scanned": 253,
+      "alias_hits": 1562,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Avot DeRabbi Natan, Recension B",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Minor Tractates"
+      ],
+      "segments_scanned": 626,
+      "alias_hits": 2058,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Bamidbar Rabbah",
+      "categories": [
+        "Midrash",
+        "Aggadah",
+        "Midrash Rabbah"
+      ],
+      "segments_scanned": 444,
+      "alias_hits": 6931,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Bava Batra",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 3804,
+      "alias_hits": 18370,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Bava Kamma",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 4314,
+      "alias_hits": 13970,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Bava Metzia",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 3660,
+      "alias_hits": 15035,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Beitzah",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Moed"
+      ],
+      "segments_scanned": 1151,
+      "alias_hits": 5791,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Bekhorot",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 1957,
+      "alias_hits": 7707,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Berakhot",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 2749,
+      "alias_hits": 16373,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Bereshit Rabbah",
+      "categories": [
+        "Midrash",
+        "Aggadah",
+        "Midrash Rabbah"
+      ],
+      "segments_scanned": 1036,
+      "alias_hits": 21141,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Bereshit Rabbati",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 632,
+      "alias_hits": 2466,
+      "secondary_only": true,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Chagigah",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Moed"
+      ],
+      "segments_scanned": 735,
+      "alias_hits": 3368,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Chullin",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 4393,
+      "alias_hits": 21205,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Darkhei HaTalmud",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Guides"
+      ],
+      "segments_scanned": 62,
+      "alias_hits": 150,
+      "secondary_only": true,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Devarim Rabbah",
+      "categories": [
+        "Midrash",
+        "Aggadah",
+        "Midrash Rabbah"
+      ],
+      "segments_scanned": 160,
+      "alias_hits": 2388,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Eikhah Rabbah",
+      "categories": [
+        "Midrash",
+        "Aggadah",
+        "Midrash Rabbah"
+      ],
+      "segments_scanned": 186,
+      "alias_hits": 4259,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Eruvin",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Moed"
+      ],
+      "segments_scanned": 3646,
+      "alias_hits": 16357,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Esther Rabbah",
+      "categories": [
+        "Midrash",
+        "Aggadah",
+        "Midrash Rabbah"
+      ],
+      "segments_scanned": 136,
+      "alias_hits": 1929,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Gittin",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 2992,
+      "alias_hits": 13580,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Horayot",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 451,
+      "alias_hits": 1735,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Introductions to Amoraic Literature",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Guides"
+      ],
+      "segments_scanned": 7361,
+      "alias_hits": 21705,
+      "secondary_only": true,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Introductions to Tanaitic Literature",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Guides"
+      ],
+      "segments_scanned": 7540,
+      "alias_hits": 32092,
+      "secondary_only": true,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Introductions to the Babylonian Talmud",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Guides"
+      ],
+      "segments_scanned": 4516,
+      "alias_hits": 4173,
+      "secondary_only": true,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Avodah Zarah",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 352,
+      "alias_hits": 5039,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Bava Batra",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 260,
+      "alias_hits": 2893,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Bava Kamma",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 275,
+      "alias_hits": 2419,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Bava Metzia",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 273,
+      "alias_hits": 2291,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Beitzah",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Moed"
+      ],
+      "segments_scanned": 195,
+      "alias_hits": 2240,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Berakhot",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 655,
+      "alias_hits": 9682,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Bikkurim",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 143,
+      "alias_hits": 1709,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Chagigah",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Moed"
+      ],
+      "segments_scanned": 149,
+      "alias_hits": 2191,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Challah",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 179,
+      "alias_hits": 2714,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Demai",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 300,
+      "alias_hits": 3568,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Eruvin",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Moed"
+      ],
+      "segments_scanned": 415,
+      "alias_hits": 5742,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Gittin",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 349,
+      "alias_hits": 5847,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Horayot",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 122,
+      "alias_hits": 1903,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Ketubot",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 516,
+      "alias_hits": 7914,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Kiddushin",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 329,
+      "alias_hits": 5574,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Kilayim",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 322,
+      "alias_hits": 4128,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Maaser Sheni",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 241,
+      "alias_hits": 3129,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Maasrot",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 186,
+      "alias_hits": 2677,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Makkot",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 75,
+      "alias_hits": 677,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Megillah",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Moed"
+      ],
+      "segments_scanned": 232,
+      "alias_hits": 3735,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Moed Katan",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Moed"
+      ],
+      "segments_scanned": 161,
+      "alias_hits": 2414,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Nazir",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 305,
+      "alias_hits": 4188,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Nedarim",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 346,
+      "alias_hits": 3638,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Niddah",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 104,
+      "alias_hits": 1743,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Orlah",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 176,
+      "alias_hits": 2529,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Peah",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 402,
+      "alias_hits": 4295,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Pesachim",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Moed"
+      ],
+      "segments_scanned": 515,
+      "alias_hits": 6344,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Rosh Hashanah",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Moed"
+      ],
+      "segments_scanned": 160,
+      "alias_hits": 1838,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Sanhedrin",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 587,
+      "alias_hits": 6372,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Shabbat",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Moed"
+      ],
+      "segments_scanned": 772,
+      "alias_hits": 11128,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Shekalim",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Moed"
+      ],
+      "segments_scanned": 226,
+      "alias_hits": 3241,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Sheviit",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 390,
+      "alias_hits": 4449,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Shevuot",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 291,
+      "alias_hits": 3479,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Sotah",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 381,
+      "alias_hits": 4416,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Sukkah",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Moed"
+      ],
+      "segments_scanned": 205,
+      "alias_hits": 2425,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Taanit",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Moed"
+      ],
+      "segments_scanned": 245,
+      "alias_hits": 3241,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Terumot",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 418,
+      "alias_hits": 6219,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Yevamot",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 638,
+      "alias_hits": 7589,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Jerusalem Talmud Yoma",
+      "categories": [
+        "Talmud",
+        "Yerushalmi",
+        "Seder Moed"
+      ],
+      "segments_scanned": 362,
+      "alias_hits": 3483,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Keritot",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 1211,
+      "alias_hits": 4454,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Ketubot",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 3038,
+      "alias_hits": 16281,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Kiddushin",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 2406,
+      "alias_hits": 10977,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Kohelet Rabbah",
+      "categories": [
+        "Midrash",
+        "Aggadah",
+        "Midrash Rabbah"
+      ],
+      "segments_scanned": 271,
+      "alias_hits": 5561,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Makkot",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 709,
+      "alias_hits": 3363,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Megillah",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Moed"
+      ],
+      "segments_scanned": 1213,
+      "alias_hits": 5466,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Meilah",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 515,
+      "alias_hits": 1459,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mekhilta DeRabbi Shimon Ben Yochai",
+      "categories": [
+        "Midrash",
+        "Halakhah"
+      ],
+      "segments_scanned": 382,
+      "alias_hits": 2843,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mekhilta DeRabbi Yishmael",
+      "categories": [
+        "Midrash",
+        "Halakhah"
+      ],
+      "segments_scanned": 2043,
+      "alias_hits": 4214,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Menachot",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 3783,
+      "alias_hits": 13143,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mevo HaTalmud (Chajes)",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Guides"
+      ],
+      "segments_scanned": 184,
+      "alias_hits": 1736,
+      "secondary_only": true,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Midrash Aggadah",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 3817,
+      "alias_hits": 2928,
+      "secondary_only": false,
+      "later_compilation": true,
+      "status": "scanned"
+    },
+    {
+      "title": "Midrash Lekach Tov",
+      "categories": [
+        "Midrash",
+        "Aggadah",
+        "Midrash Lekach Tov"
+      ],
+      "segments_scanned": 7822,
+      "alias_hits": 12689,
+      "secondary_only": true,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Midrash Lekach Tov on Ecclesiastes",
+      "categories": [
+        "Midrash",
+        "Aggadah",
+        "Midrash Lekach Tov"
+      ],
+      "segments_scanned": 225,
+      "alias_hits": 402,
+      "secondary_only": true,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Midrash Lekach Tov on Esther",
+      "categories": [
+        "Midrash",
+        "Aggadah",
+        "Midrash Lekach Tov"
+      ],
+      "segments_scanned": 293,
+      "alias_hits": 420,
+      "secondary_only": true,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Midrash Lekach Tov on Lamentations",
+      "categories": [
+        "Midrash",
+        "Aggadah",
+        "Midrash Lekach Tov"
+      ],
+      "segments_scanned": 165,
+      "alias_hits": 510,
+      "secondary_only": true,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Midrash Lekach Tov on Ruth",
+      "categories": [
+        "Midrash",
+        "Aggadah",
+        "Midrash Lekach Tov"
+      ],
+      "segments_scanned": 132,
+      "alias_hits": 315,
+      "secondary_only": true,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Midrash Lekach Tov on Song of Songs",
+      "categories": [
+        "Midrash",
+        "Aggadah",
+        "Midrash Lekach Tov"
+      ],
+      "segments_scanned": 325,
+      "alias_hits": 543,
+      "secondary_only": true,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Midrash Mishlei",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 140,
+      "alias_hits": 1530,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Midrash Sekhel Tov",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 6889,
+      "alias_hits": 11368,
+      "secondary_only": true,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Midrash Shmuel",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 207,
+      "alias_hits": 4201,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Midrash Tanchuma",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 2122,
+      "alias_hits": 12911,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Midrash Tanchuma Buber",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 2086,
+      "alias_hits": 9825,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Midrash Tannaim on Deuteronomy",
+      "categories": [
+        "Midrash",
+        "Halakhah"
+      ],
+      "segments_scanned": 3978,
+      "alias_hits": 3871,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Midrash Tehillim",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 808,
+      "alias_hits": 8939,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Midrash Yelamdenu, Selections from Yalkut Talmud Torah",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 260,
+      "alias_hits": 578,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Arakhin",
+      "categories": [
+        "Mishnah",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 50,
+      "alias_hits": 178,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Avodah Zarah",
+      "categories": [
+        "Mishnah",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 50,
+      "alias_hits": 197,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Bava Batra",
+      "categories": [
+        "Mishnah",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 86,
+      "alias_hits": 300,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Bava Kamma",
+      "categories": [
+        "Mishnah",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 79,
+      "alias_hits": 171,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Bava Metzia",
+      "categories": [
+        "Mishnah",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 101,
+      "alias_hits": 341,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Beitzah",
+      "categories": [
+        "Mishnah",
+        "Seder Moed"
+      ],
+      "segments_scanned": 42,
+      "alias_hits": 152,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Bekhorot",
+      "categories": [
+        "Mishnah",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 73,
+      "alias_hits": 382,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Berakhot",
+      "categories": [
+        "Mishnah",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 57,
+      "alias_hits": 220,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Bikkurim",
+      "categories": [
+        "Mishnah",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 39,
+      "alias_hits": 105,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Chagigah",
+      "categories": [
+        "Mishnah",
+        "Seder Moed"
+      ],
+      "segments_scanned": 23,
+      "alias_hits": 70,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Challah",
+      "categories": [
+        "Mishnah",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 38,
+      "alias_hits": 94,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Chullin",
+      "categories": [
+        "Mishnah",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 74,
+      "alias_hits": 304,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Demai",
+      "categories": [
+        "Mishnah",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 53,
+      "alias_hits": 128,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Eduyot",
+      "categories": [
+        "Mishnah",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 74,
+      "alias_hits": 474,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Eruvin",
+      "categories": [
+        "Mishnah",
+        "Seder Moed"
+      ],
+      "segments_scanned": 96,
+      "alias_hits": 466,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Gittin",
+      "categories": [
+        "Mishnah",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 75,
+      "alias_hits": 306,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Horayot",
+      "categories": [
+        "Mishnah",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 20,
+      "alias_hits": 50,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Kelim",
+      "categories": [
+        "Mishnah",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 254,
+      "alias_hits": 1021,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Keritot",
+      "categories": [
+        "Mishnah",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 43,
+      "alias_hits": 273,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Ketubot",
+      "categories": [
+        "Mishnah",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 111,
+      "alias_hits": 509,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Kiddushin",
+      "categories": [
+        "Mishnah",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 47,
+      "alias_hits": 137,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Kilayim",
+      "categories": [
+        "Mishnah",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 77,
+      "alias_hits": 319,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Kinnim",
+      "categories": [
+        "Mishnah",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 15,
+      "alias_hits": 37,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Maaser Sheni",
+      "categories": [
+        "Mishnah",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 57,
+      "alias_hits": 205,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Maasrot",
+      "categories": [
+        "Mishnah",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 40,
+      "alias_hits": 165,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Makhshirin",
+      "categories": [
+        "Mishnah",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 54,
+      "alias_hits": 203,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Makkot",
+      "categories": [
+        "Mishnah",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 34,
+      "alias_hits": 174,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Megillah",
+      "categories": [
+        "Mishnah",
+        "Seder Moed"
+      ],
+      "segments_scanned": 33,
+      "alias_hits": 62,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Meilah",
+      "categories": [
+        "Mishnah",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 38,
+      "alias_hits": 75,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Menachot",
+      "categories": [
+        "Mishnah",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 93,
+      "alias_hits": 353,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Middot",
+      "categories": [
+        "Mishnah",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 34,
+      "alias_hits": 104,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Mikvaot",
+      "categories": [
+        "Mishnah",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 71,
+      "alias_hits": 358,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Moed Katan",
+      "categories": [
+        "Mishnah",
+        "Seder Moed"
+      ],
+      "segments_scanned": 24,
+      "alias_hits": 103,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Nazir",
+      "categories": [
+        "Mishnah",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 60,
+      "alias_hits": 256,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Nedarim",
+      "categories": [
+        "Mishnah",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 90,
+      "alias_hits": 308,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Negaim",
+      "categories": [
+        "Mishnah",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 115,
+      "alias_hits": 429,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Niddah",
+      "categories": [
+        "Mishnah",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 79,
+      "alias_hits": 279,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Oholot",
+      "categories": [
+        "Mishnah",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 134,
+      "alias_hits": 422,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Oktzin",
+      "categories": [
+        "Mishnah",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 28,
+      "alias_hits": 154,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Orlah",
+      "categories": [
+        "Mishnah",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 35,
+      "alias_hits": 143,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Parah",
+      "categories": [
+        "Mishnah",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 96,
+      "alias_hits": 424,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Peah",
+      "categories": [
+        "Mishnah",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 69,
+      "alias_hits": 251,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Pesachim",
+      "categories": [
+        "Mishnah",
+        "Seder Moed"
+      ],
+      "segments_scanned": 89,
+      "alias_hits": 311,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Rosh Hashanah",
+      "categories": [
+        "Mishnah",
+        "Seder Moed"
+      ],
+      "segments_scanned": 35,
+      "alias_hits": 202,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Sanhedrin",
+      "categories": [
+        "Mishnah",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 71,
+      "alias_hits": 333,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Shabbat",
+      "categories": [
+        "Mishnah",
+        "Seder Moed"
+      ],
+      "segments_scanned": 139,
+      "alias_hits": 497,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Shekalim",
+      "categories": [
+        "Mishnah",
+        "Seder Moed"
+      ],
+      "segments_scanned": 52,
+      "alias_hits": 287,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Sheviit",
+      "categories": [
+        "Mishnah",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 89,
+      "alias_hits": 328,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Shevuot",
+      "categories": [
+        "Mishnah",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 62,
+      "alias_hits": 154,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Sotah",
+      "categories": [
+        "Mishnah",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 67,
+      "alias_hits": 372,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Sukkah",
+      "categories": [
+        "Mishnah",
+        "Seder Moed"
+      ],
+      "segments_scanned": 53,
+      "alias_hits": 193,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Ta'anit",
+      "categories": [
+        "Mishnah",
+        "Seder Moed"
+      ],
+      "segments_scanned": 34,
+      "alias_hits": 173,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Tahorot",
+      "categories": [
+        "Mishnah",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 92,
+      "alias_hits": 372,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Tamid",
+      "categories": [
+        "Mishnah",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 34,
+      "alias_hits": 32,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Temurah",
+      "categories": [
+        "Mishnah",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 35,
+      "alias_hits": 150,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Terumot",
+      "categories": [
+        "Mishnah",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 101,
+      "alias_hits": 344,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Tevul Yom",
+      "categories": [
+        "Mishnah",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 26,
+      "alias_hits": 147,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Yadayim",
+      "categories": [
+        "Mishnah",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 22,
+      "alias_hits": 208,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Yevamot",
+      "categories": [
+        "Mishnah",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 128,
+      "alias_hits": 404,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Yoma",
+      "categories": [
+        "Mishnah",
+        "Seder Moed"
+      ],
+      "segments_scanned": 61,
+      "alias_hits": 184,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Zavim",
+      "categories": [
+        "Mishnah",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 32,
+      "alias_hits": 107,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnah Zevachim",
+      "categories": [
+        "Mishnah",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 101,
+      "alias_hits": 348,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Mishnat Rabbi Eliezer",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 589,
+      "alias_hits": 1561,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Moed Katan",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Moed"
+      ],
+      "segments_scanned": 1026,
+      "alias_hits": 5435,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Nazir",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 1299,
+      "alias_hits": 4724,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Nedarim",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 1509,
+      "alias_hits": 6411,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Niddah",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 2665,
+      "alias_hits": 10823,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Otzar Midrashim",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 7559,
+      "alias_hits": 11890,
+      "secondary_only": false,
+      "later_compilation": true,
+      "status": "scanned"
+    },
+    {
+      "title": "Pesachim",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Moed"
+      ],
+      "segments_scanned": 3519,
+      "alias_hits": 15712,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Pesikta DeRav Kahana",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 304,
+      "alias_hits": 4819,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Pesikta Rabbati",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 80,
+      "alias_hits": 4542,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Pirkei Avot",
+      "categories": [
+        "Mishnah",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 108,
+      "alias_hits": 529,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Pirkei DeRabbi Eliezer",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 656,
+      "alias_hits": 2436,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Rosh Hashanah",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Moed"
+      ],
+      "segments_scanned": 1025,
+      "alias_hits": 4553,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Ruth Rabbah",
+      "categories": [
+        "Midrash",
+        "Aggadah",
+        "Midrash Rabbah"
+      ],
+      "segments_scanned": 88,
+      "alias_hits": 1857,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Ruth Rabbah (Lerner)",
+      "categories": [
+        "Midrash",
+        "Aggadah",
+        "Midrash Rabbah"
+      ],
+      "segments_scanned": 212,
+      "alias_hits": 1652,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Sanhedrin",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 4171,
+      "alias_hits": 18873,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Seder Olam Rabbah",
+      "categories": [
+        "Midrash",
+        "Aggadah",
+        "Seder Olam Rabbah"
+      ],
+      "segments_scanned": 63,
+      "alias_hits": 359,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Seder Olam Zutta",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 10,
+      "alias_hits": 230,
+      "secondary_only": true,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Sefer HaYashar (midrash)",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 308,
+      "alias_hits": 678,
+      "secondary_only": true,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Shabbat",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Moed"
+      ],
+      "segments_scanned": 3778,
+      "alias_hits": 26239,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Shemot Rabbah",
+      "categories": [
+        "Midrash",
+        "Aggadah",
+        "Midrash Rabbah"
+      ],
+      "segments_scanned": 464,
+      "alias_hits": 5447,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Shevuot",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 1555,
+      "alias_hits": 5581,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Shir HaShirim Rabbah",
+      "categories": [
+        "Midrash",
+        "Aggadah",
+        "Midrash Rabbah"
+      ],
+      "segments_scanned": 264,
+      "alias_hits": 7160,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Sifra",
+      "categories": [
+        "Midrash",
+        "Halakhah"
+      ],
+      "segments_scanned": 2765,
+      "alias_hits": 5122,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Sifrei Aggadah on Esther",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 197,
+      "alias_hits": 732,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Sifrei Bamidbar",
+      "categories": [
+        "Midrash",
+        "Halakhah"
+      ],
+      "segments_scanned": 295,
+      "alias_hits": 2615,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Sifrei Devarim",
+      "categories": [
+        "Midrash",
+        "Halakhah"
+      ],
+      "segments_scanned": 2357,
+      "alias_hits": 3672,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Sifrei Zuta",
+      "categories": [
+        "Midrash",
+        "Halakhah"
+      ],
+      "segments_scanned": 726,
+      "alias_hits": 1325,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Sotah",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 1635,
+      "alias_hits": 7097,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Sukkah",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Moed"
+      ],
+      "segments_scanned": 1361,
+      "alias_hits": 6604,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Taanit",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Moed"
+      ],
+      "segments_scanned": 895,
+      "alias_hits": 4879,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tamid",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 207,
+      "alias_hits": 371,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tanna DeBei Eliyahu Rabbah",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 57,
+      "alias_hits": 777,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tanna DeBei Eliyahu Zuta",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 112,
+      "alias_hits": 1237,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Temurah",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 1150,
+      "alias_hits": 4493,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Arakhin",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 44,
+      "alias_hits": 207,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Avodah Zarah",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 41,
+      "alias_hits": 389,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Bava Batra",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 73,
+      "alias_hits": 329,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Bava Batra (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 174,
+      "alias_hits": 352,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Bava Kamma",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 100,
+      "alias_hits": 517,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Bava Kamma (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 218,
+      "alias_hits": 492,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Bava Metzia",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 118,
+      "alias_hits": 380,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Bava Metzia (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 285,
+      "alias_hits": 441,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Beitzah",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 54,
+      "alias_hits": 257,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Beitzah (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 74,
+      "alias_hits": 271,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Bekhorot",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 39,
+      "alias_hits": 267,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Berakhot",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 151,
+      "alias_hits": 473,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Berakhot (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 140,
+      "alias_hits": 388,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Bikkurim",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 22,
+      "alias_hits": 84,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Bikkurim (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 23,
+      "alias_hits": 64,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Chagigah",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 31,
+      "alias_hits": 250,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Chagigah (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 57,
+      "alias_hits": 186,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Challah",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 22,
+      "alias_hits": 79,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Challah (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 24,
+      "alias_hits": 107,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Chullin",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 53,
+      "alias_hits": 241,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Demai",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 151,
+      "alias_hits": 399,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Demai (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 180,
+      "alias_hits": 392,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Eduyot",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 27,
+      "alias_hits": 152,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Eruvin",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 117,
+      "alias_hits": 228,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Eruvin (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 159,
+      "alias_hits": 302,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Gittin",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 89,
+      "alias_hits": 227,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Gittin (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 83,
+      "alias_hits": 260,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Horayot",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 19,
+      "alias_hits": 58,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Kelim Batra",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 29,
+      "alias_hits": 289,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Kelim Kamma",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 58,
+      "alias_hits": 421,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Kelim Metzia",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 59,
+      "alias_hits": 441,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Keritot",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 41,
+      "alias_hits": 191,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Ketubot",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 125,
+      "alias_hits": 360,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Ketubot (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 100,
+      "alias_hits": 348,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Kiddushin",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 58,
+      "alias_hits": 186,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Kiddushin (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 73,
+      "alias_hits": 255,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Kilayim",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 70,
+      "alias_hits": 189,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Kilayim (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 92,
+      "alias_hits": 237,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Maaser Sheni",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 89,
+      "alias_hits": 330,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Maaser Sheni (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 100,
+      "alias_hits": 326,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Maasrot",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 54,
+      "alias_hits": 162,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Maasrot (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 49,
+      "alias_hits": 176,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Makhshirin",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 22,
+      "alias_hits": 94,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Makkot",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 27,
+      "alias_hits": 165,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Megillah",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 46,
+      "alias_hits": 212,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Megillah (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 80,
+      "alias_hits": 189,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Meilah",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 22,
+      "alias_hits": 38,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Menachot",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 112,
+      "alias_hits": 383,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Mikvaot",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 53,
+      "alias_hits": 200,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Moed Katan",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 17,
+      "alias_hits": 79,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Moed Katan (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 29,
+      "alias_hits": 93,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Nazir",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 50,
+      "alias_hits": 210,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Nazir (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 61,
+      "alias_hits": 281,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Nedarim",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 59,
+      "alias_hits": 208,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Nedarim (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 53,
+      "alias_hits": 221,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Negaim",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 98,
+      "alias_hits": 447,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Niddah",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 71,
+      "alias_hits": 432,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Oholot",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 145,
+      "alias_hits": 497,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Oktsin",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 21,
+      "alias_hits": 69,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Orlah",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 8,
+      "alias_hits": 63,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Orlah (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 8,
+      "alias_hits": 40,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Parah",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 79,
+      "alias_hits": 370,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Peah",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 80,
+      "alias_hits": 161,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Peah (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 71,
+      "alias_hits": 186,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Pesachim",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 110,
+      "alias_hits": 495,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Pesachim (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 167,
+      "alias_hits": 547,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Rosh Hashanah",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 31,
+      "alias_hits": 173,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Rosh Hashanah (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 36,
+      "alias_hits": 134,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Sanhedrin",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 67,
+      "alias_hits": 684,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Shabbat",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 233,
+      "alias_hits": 681,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Shabbat (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 349,
+      "alias_hits": 950,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Shekalim",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 43,
+      "alias_hits": 220,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Shekalim (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 57,
+      "alias_hits": 165,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Sheviit",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 120,
+      "alias_hits": 386,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Sheviit (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 157,
+      "alias_hits": 419,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Shevuot",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Nezikin"
+      ],
+      "segments_scanned": 37,
+      "alias_hits": 106,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Sotah",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 101,
+      "alias_hits": 718,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Sotah (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 193,
+      "alias_hits": 705,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Sukkah",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 42,
+      "alias_hits": 228,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Sukkah (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 68,
+      "alias_hits": 193,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Ta'anit",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 35,
+      "alias_hits": 206,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Taanit (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 44,
+      "alias_hits": 170,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Tahorot",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 84,
+      "alias_hits": 244,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Temurah",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 29,
+      "alias_hits": 151,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Terumot",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 168,
+      "alias_hits": 615,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Terumot (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Zeraim"
+      ],
+      "segments_scanned": 172,
+      "alias_hits": 609,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Tevul Yom",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 12,
+      "alias_hits": 72,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Yadayim",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 18,
+      "alias_hits": 80,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Yevamot",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 103,
+      "alias_hits": 379,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Yevamot (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 114,
+      "alias_hits": 535,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Yoma",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 61,
+      "alias_hits": 343,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Yoma (Lieberman)",
+      "categories": [
+        "Tosefta",
+        "Lieberman Edition",
+        "Seder Moed"
+      ],
+      "segments_scanned": 76,
+      "alias_hits": 352,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Zavim",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Tahorot"
+      ],
+      "segments_scanned": 30,
+      "alias_hits": 68,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tosefta Zevachim",
+      "categories": [
+        "Tosefta",
+        "Vilna Edition",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 94,
+      "alias_hits": 479,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tractate Avadim",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Minor Tractates"
+      ],
+      "segments_scanned": 25,
+      "alias_hits": 67,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tractate Derekh Eretz Rabbah",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Minor Tractates"
+      ],
+      "segments_scanned": 99,
+      "alias_hits": 192,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tractate Derekh Eretz Zuta",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Minor Tractates"
+      ],
+      "segments_scanned": 128,
+      "alias_hits": 202,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tractate Gerim",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Minor Tractates"
+      ],
+      "segments_scanned": 34,
+      "alias_hits": 47,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tractate Kallah",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Minor Tractates"
+      ],
+      "segments_scanned": 26,
+      "alias_hits": 124,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tractate Kallah Rabbati",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Minor Tractates"
+      ],
+      "segments_scanned": 129,
+      "alias_hits": 628,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tractate Kutim",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Minor Tractates"
+      ],
+      "segments_scanned": 21,
+      "alias_hits": 9,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tractate Mezuzah",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Minor Tractates"
+      ],
+      "segments_scanned": 23,
+      "alias_hits": 48,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tractate Sefer Torah",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Minor Tractates"
+      ],
+      "segments_scanned": 60,
+      "alias_hits": 152,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tractate Semachot",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Minor Tractates"
+      ],
+      "segments_scanned": 231,
+      "alias_hits": 655,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tractate Soferim",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Minor Tractates"
+      ],
+      "segments_scanned": 227,
+      "alias_hits": 719,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tractate Tefillin",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Minor Tractates"
+      ],
+      "segments_scanned": 21,
+      "alias_hits": 40,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Tractate Tzitzit",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Minor Tractates"
+      ],
+      "segments_scanned": 11,
+      "alias_hits": 22,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Vayikra Rabbah",
+      "categories": [
+        "Midrash",
+        "Aggadah",
+        "Midrash Rabbah"
+      ],
+      "segments_scanned": 330,
+      "alias_hits": 8537,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Yalkut Shimoni on Nach",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 5294,
+      "alias_hits": 44635,
+      "secondary_only": false,
+      "later_compilation": true,
+      "status": "scanned"
+    },
+    {
+      "title": "Yalkut Shimoni on Torah",
+      "categories": [
+        "Midrash",
+        "Aggadah"
+      ],
+      "segments_scanned": 4786,
+      "alias_hits": 66871,
+      "secondary_only": false,
+      "later_compilation": true,
+      "status": "scanned"
+    },
+    {
+      "title": "Yevamot",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Nashim"
+      ],
+      "segments_scanned": 3869,
+      "alias_hits": 15790,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Yoma",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Moed"
+      ],
+      "segments_scanned": 2271,
+      "alias_hits": 10304,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    },
+    {
+      "title": "Zevachim",
+      "categories": [
+        "Talmud",
+        "Bavli",
+        "Seder Kodashim"
+      ],
+      "segments_scanned": 3817,
+      "alias_hits": 12607,
+      "secondary_only": false,
+      "later_compilation": false,
+      "status": "scanned"
+    }
+  ],
+  "primary_excluded_reference_works": [
+    "Bereshit Rabbati",
+    "Darkhei HaTalmud",
+    "Introductions to Amoraic Literature",
+    "Introductions to Tanaitic Literature",
+    "Introductions to the Babylonian Talmud",
+    "Mevo HaTalmud (Chajes)",
+    "Midrash Lekach Tov",
+    "Midrash Lekach Tov on Ecclesiastes",
+    "Midrash Lekach Tov on Esther",
+    "Midrash Lekach Tov on Lamentations",
+    "Midrash Lekach Tov on Ruth",
+    "Midrash Lekach Tov on Song of Songs",
+    "Midrash Sekhel Tov",
+    "Seder Olam Zutta",
+    "Sefer HaYashar (midrash)"
+  ],
+  "later_compilations": [
+    "Aggadat Bereshit",
+    "Midrash Aggadah",
+    "Otzar Midrashim",
+    "Yalkut Shimoni on Nach",
+    "Yalkut Shimoni on Torah"
+  ],
+  "sefaria_identity_topic_requests": 1210,
+  "missing_topic_metadata": [
+    "rav-shesha-b-rav-idi1",
+    "rav-yeimar1"
+  ],
+  "hebrew_wikipedia_pages": 744,
+  "wikidata_entities": 737,
+  "hyman": {
+    "index_entries": 2273,
+    "requested_print_pages": 822,
+    "available_transcribed_pages": 777,
+    "missing_requested_print_pages": [
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/160",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/161",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/162",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/163",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/164",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/165",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/166",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/167",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/168",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/169",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/170",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/171",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/172",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/173",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/174",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/175",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/176",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/177",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/178",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/179",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/180",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/181",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/182",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/183",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/184",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/185",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/186",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/187",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/188",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/189",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/241",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/242",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/243",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/244",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/245",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/246",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/247",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/248",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/249",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/250",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/251",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/252",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/253",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/254",
+      "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/255"
+    ],
+    "parsed_sections": 2349,
+    "unsegmented_pages": [
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/1",
+        "pageid": 332934,
+        "revision": 2857456,
+        "characters": 592
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/2",
+        "pageid": 332935,
+        "revision": 978000,
+        "characters": 759
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/3",
+        "pageid": 332939,
+        "revision": 920625,
+        "characters": 328
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/4",
+        "pageid": 333937,
+        "revision": 2805557,
+        "characters": 760
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/5",
+        "pageid": 333938,
+        "revision": 920722,
+        "characters": 309
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/6",
+        "pageid": 332961,
+        "revision": 760428,
+        "characters": 2497
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/7",
+        "pageid": 333076,
+        "revision": 760604,
+        "characters": 2791
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/8",
+        "pageid": 333167,
+        "revision": 760614,
+        "characters": 2658
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/9",
+        "pageid": 333198,
+        "revision": 843032,
+        "characters": 2747
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/10",
+        "pageid": 333214,
+        "revision": 996458,
+        "characters": 2723
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/11",
+        "pageid": 333389,
+        "revision": 2805509,
+        "characters": 2737
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/12",
+        "pageid": 333398,
+        "revision": 977900,
+        "characters": 2700
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/13",
+        "pageid": 333581,
+        "revision": 977911,
+        "characters": 2833
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/14",
+        "pageid": 333606,
+        "revision": 977922,
+        "characters": 2761
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/15",
+        "pageid": 333695,
+        "revision": 761401,
+        "characters": 2563
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/16",
+        "pageid": 333982,
+        "revision": 920726,
+        "characters": 2554
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/33",
+        "pageid": 328151,
+        "revision": 974184,
+        "characters": 3296
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/34",
+        "pageid": 328152,
+        "revision": 979802,
+        "characters": 3712
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/35",
+        "pageid": 328153,
+        "revision": 974186,
+        "characters": 3797
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/36",
+        "pageid": 328154,
+        "revision": 974187,
+        "characters": 3661
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/37",
+        "pageid": 328155,
+        "revision": 974188,
+        "characters": 3401
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/38",
+        "pageid": 328156,
+        "revision": 974189,
+        "characters": 3509
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/39",
+        "pageid": 328157,
+        "revision": 979803,
+        "characters": 3756
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/400",
+        "pageid": 399544,
+        "revision": 1076021,
+        "characters": 2760
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. I. 1910.pdf/447",
+        "pageid": 344970,
+        "revision": 844610,
+        "characters": 668
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/1",
+        "pageid": 344973,
+        "revision": 972336,
+        "characters": 584
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/159",
+        "pageid": 375317,
+        "revision": 972351,
+        "characters": 3408
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/237",
+        "pageid": 1706791,
+        "revision": 2780690,
+        "characters": 3155
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/238",
+        "pageid": 1706793,
+        "revision": 2786862,
+        "characters": 2771
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/239",
+        "pageid": 1707218,
+        "revision": 2786917,
+        "characters": 3677
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/240",
+        "pageid": 1707234,
+        "revision": 2786918,
+        "characters": 3499
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. II. 1910.pdf/415",
+        "pageid": 344971,
+        "revision": 844609,
+        "characters": 668
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/1",
+        "pageid": 344972,
+        "revision": 804706,
+        "characters": 595
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/19",
+        "pageid": 344929,
+        "revision": 804548,
+        "characters": 2439
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/20",
+        "pageid": 344930,
+        "revision": 804549,
+        "characters": 2488
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/21",
+        "pageid": 344931,
+        "revision": 804550,
+        "characters": 2428
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/22",
+        "pageid": 344932,
+        "revision": 804551,
+        "characters": 2481
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/23",
+        "pageid": 344933,
+        "revision": 804552,
+        "characters": 2274
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/24",
+        "pageid": 344934,
+        "revision": 804553,
+        "characters": 2456
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/25",
+        "pageid": 344935,
+        "revision": 2842377,
+        "characters": 2272
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/30",
+        "pageid": 344949,
+        "revision": 804602,
+        "characters": 2417
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/31",
+        "pageid": 344928,
+        "revision": 804547,
+        "characters": 2278
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/85",
+        "pageid": 457575,
+        "revision": 1287046,
+        "characters": 2483
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/130",
+        "pageid": 336577,
+        "revision": 804350,
+        "characters": 2597
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/137",
+        "pageid": 356345,
+        "revision": 860448,
+        "characters": 2364
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/138",
+        "pageid": 356826,
+        "revision": 861796,
+        "characters": 2436
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/139",
+        "pageid": 356827,
+        "revision": 861799,
+        "characters": 2506
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/140",
+        "pageid": 356862,
+        "revision": 861997,
+        "characters": 2450
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/141",
+        "pageid": 357000,
+        "revision": 862578,
+        "characters": 2427
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/142",
+        "pageid": 357091,
+        "revision": 862920,
+        "characters": 2098
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/143",
+        "pageid": 357784,
+        "revision": 865042,
+        "characters": 2684
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/144",
+        "pageid": 358740,
+        "revision": 870730,
+        "characters": 2551
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/145",
+        "pageid": 358741,
+        "revision": 870739,
+        "characters": 2276
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/146",
+        "pageid": 359002,
+        "revision": 872787,
+        "characters": 2194
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/147",
+        "pageid": 359003,
+        "revision": 872790,
+        "characters": 2483
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/148",
+        "pageid": 359004,
+        "revision": 873385,
+        "characters": 2258
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/149",
+        "pageid": 359733,
+        "revision": 878254,
+        "characters": 2436
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/150",
+        "pageid": 359734,
+        "revision": 878260,
+        "characters": 2337
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/151",
+        "pageid": 359735,
+        "revision": 878263,
+        "characters": 2483
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/152",
+        "pageid": 360190,
+        "revision": 880673,
+        "characters": 2534
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/153",
+        "pageid": 360191,
+        "revision": 880674,
+        "characters": 2227
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/154",
+        "pageid": 360412,
+        "revision": 2808095,
+        "characters": 2691
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/155",
+        "pageid": 360413,
+        "revision": 881901,
+        "characters": 2655
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/156",
+        "pageid": 360414,
+        "revision": 881902,
+        "characters": 2558
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/157",
+        "pageid": 361318,
+        "revision": 886458,
+        "characters": 2529
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/158",
+        "pageid": 361319,
+        "revision": 886459,
+        "characters": 2495
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/159",
+        "pageid": 361428,
+        "revision": 887443,
+        "characters": 2569
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/160",
+        "pageid": 361429,
+        "revision": 887444,
+        "characters": 2569
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/161",
+        "pageid": 361763,
+        "revision": 889499,
+        "characters": 2666
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/162",
+        "pageid": 362107,
+        "revision": 891116,
+        "characters": 2531
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/163",
+        "pageid": 362108,
+        "revision": 891117,
+        "characters": 2384
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/164",
+        "pageid": 362109,
+        "revision": 891120,
+        "characters": 2264
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/165",
+        "pageid": 362111,
+        "revision": 891125,
+        "characters": 2461
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/166",
+        "pageid": 362373,
+        "revision": 892202,
+        "characters": 2482
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/167",
+        "pageid": 362376,
+        "revision": 892222,
+        "characters": 2515
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/168",
+        "pageid": 362377,
+        "revision": 892223,
+        "characters": 2529
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/169",
+        "pageid": 362379,
+        "revision": 892237,
+        "characters": 2438
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/170",
+        "pageid": 362380,
+        "revision": 892240,
+        "characters": 2534
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/171",
+        "pageid": 362381,
+        "revision": 892244,
+        "characters": 2533
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/172",
+        "pageid": 362396,
+        "revision": 892341,
+        "characters": 2594
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/173",
+        "pageid": 362397,
+        "revision": 892344,
+        "characters": 2641
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/174",
+        "pageid": 362398,
+        "revision": 892351,
+        "characters": 2654
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/175",
+        "pageid": 344956,
+        "revision": 804641,
+        "characters": 2092
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/176",
+        "pageid": 344957,
+        "revision": 804643,
+        "characters": 2275
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/177",
+        "pageid": 344958,
+        "revision": 804644,
+        "characters": 2193
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/178",
+        "pageid": 344959,
+        "revision": 804646,
+        "characters": 2253
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/179",
+        "pageid": 344960,
+        "revision": 804647,
+        "characters": 2457
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/180",
+        "pageid": 344968,
+        "revision": 804699,
+        "characters": 2308
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/181",
+        "pageid": 344969,
+        "revision": 804700,
+        "characters": 2318
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/182",
+        "pageid": 344974,
+        "revision": 804710,
+        "characters": 2477
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/183",
+        "pageid": 344982,
+        "revision": 804813,
+        "characters": 2589
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/184",
+        "pageid": 344983,
+        "revision": 804814,
+        "characters": 2331
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/185",
+        "pageid": 344984,
+        "revision": 804815,
+        "characters": 2149
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/186",
+        "pageid": 344985,
+        "revision": 2808094,
+        "characters": 2629
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/187",
+        "pageid": 344986,
+        "revision": 804817,
+        "characters": 2636
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/188",
+        "pageid": 344987,
+        "revision": 804822,
+        "characters": 2495
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/189",
+        "pageid": 344988,
+        "revision": 804823,
+        "characters": 2485
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/190",
+        "pageid": 344990,
+        "revision": 804827,
+        "characters": 2312
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/191",
+        "pageid": 345009,
+        "revision": 805085,
+        "characters": 2167
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/192",
+        "pageid": 345015,
+        "revision": 805121,
+        "characters": 2205
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/193",
+        "pageid": 345016,
+        "revision": 805130,
+        "characters": 2648
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/194",
+        "pageid": 345017,
+        "revision": 805132,
+        "characters": 2460
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/195",
+        "pageid": 345055,
+        "revision": 805456,
+        "characters": 2296
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/196",
+        "pageid": 345056,
+        "revision": 805458,
+        "characters": 2360
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/197",
+        "pageid": 345057,
+        "revision": 805459,
+        "characters": 2510
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/198",
+        "pageid": 345058,
+        "revision": 805460,
+        "characters": 2307
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/199",
+        "pageid": 345059,
+        "revision": 805461,
+        "characters": 2203
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/412",
+        "pageid": 362378,
+        "revision": 892228,
+        "characters": 1952
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/413",
+        "pageid": 334463,
+        "revision": 2851576,
+        "characters": 1578
+      },
+      {
+        "page": "עמוד:Aaron Hyman. Toldoth Tannaim veAmoraim. III. 1910.pdf/414",
+        "pageid": 334464,
+        "revision": 844608,
+        "characters": 668
+      }
+    ],
+    "transcription_quality": {
+      "1": 480,
+      "3": 287,
+      "4": 10
+    }
+  },
+  "limitations": [
+    "Corpus scan is exhaustive over the selected downloaded files, not a claim that every relevant manuscript/version or all Sefaria categories were included.",
+    "Merged Hebrew editions are not a manuscript-variant census. Parallel Tosefta editions are retained, not counted as extra people.",
+    "Hyman Wikisource subarticles are incomplete. All available print-page transcriptions were enumerated; absent and unsegmented pages are disclosed.",
+    "Some print-page transcriptions are not proofread.",
+    "Primary textual occurrence plus an identity attribution is required for counted records; unanchored lexical matches are excluded.",
+    "Sefaria NER, Wikipedia and reference-work interpretations may still contain errors.",
+    "Traditional-versus-modern disputes are retained in original reference text; exhaustive claim-level adjudication remains incomplete."
+  ]
+}

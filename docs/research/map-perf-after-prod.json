@@ -1,0 +1,62 @@
+﻿{
+  "port": 3002,
+  "chunks": {
+    "htmlBytes": 10204,
+    "scriptTags": 12,
+    "totalTransferKb": 1439.4,
+    "mapPageChunkKb": 14,
+    "mapRelatedChunks": [
+      {
+        "kb": 14,
+        "path": "/_next/static/chunks/app/(public)/map/page-7c579a1d57770605.js"
+      }
+    ],
+    "largest": [
+      {
+        "kb": 541.6,
+        "path": "/_next/static/chunks/ca4dcb09-2b1eea1a008ecece.js"
+      },
+      {
+        "kb": 417.3,
+        "path": "/_next/static/chunks/e919c1aa-10703cd507f17920.js"
+      },
+      {
+        "kb": 169.6,
+        "path": "/_next/static/chunks/1255-7316b50163a428e6.js"
+      },
+      {
+        "kb": 169,
+        "path": "/_next/static/chunks/4bd1b696-f785427dddbba9fb.js"
+      },
+      {
+        "kb": 109.9,
+        "path": "/_next/static/chunks/polyfills-42372ed130431b0a.js"
+      },
+      {
+        "kb": 14,
+        "path": "/_next/static/chunks/app/(public)/map/page-7c579a1d57770605.js"
+      },
+      {
+        "kb": 8.3,
+        "path": "/_next/static/chunks/2619-3c9e02e22d10480a.js"
+      },
+      {
+        "kb": 4.8,
+        "path": "/_next/static/chunks/webpack-e59f6c6403270f0f.js"
+      }
+    ]
+  },
+  "client": {
+    "domContentLoadedMs": 69,
+    "mapCanvasMs": 598,
+    "loadingGoneMs": 1105,
+    "firstPinMs": 1236,
+    "totalMs": 1353,
+    "scriptRequests": 15,
+    "scriptTransferKb": 705.4,
+    "citationsRequestedOnLoad": false,
+    "supabaseRequests": 0,
+    "initialNetworkCount": 28,
+    "unpkgRequests": 0
+  }
+}

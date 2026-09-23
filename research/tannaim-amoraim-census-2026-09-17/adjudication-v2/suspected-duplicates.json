@@ -1,0 +1,4325 @@
+{
+  "pairs": [
+    {
+      "identity_keys": [
+        "sefaria:rabbi-yochanan-b-napacha",
+        "heiman:1706759"
+      ],
+      "name": "רבי יוחנן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-meir",
+        "hyman-section:42ae8fe6976ac7b9a80f"
+      ],
+      "name": "רבי מאיר",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-zera",
+        "hewiki:263558"
+      ],
+      "name": "רבי זירא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-zera",
+        "heiman:1710631"
+      ],
+      "name": "רבי זירא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:263558",
+        "heiman:1710631"
+      ],
+      "name": "רבי זירא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-huna",
+        "hyman-section:32a37ab9d57da53aa0d0"
+      ],
+      "name": "רב הונא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Arakhin 16b:9"
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-sheshet",
+        "heiman:1716538"
+      ],
+      "name": "רב ששת",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-shimon-b-elazar",
+        "hewiki:295141"
+      ],
+      "name": "רבי שמעון בן אלעזר",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-natan-habavli",
+        "hewiki:670242"
+      ],
+      "name": "רבי נתן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-tarfon",
+        "heiman:334395"
+      ],
+      "name": "רבי טרפון",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbah-b-rav-huna",
+        "hyman-section:12909eb5c09c69cff48b"
+      ],
+      "name": "רבה בר רב הונא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:abba-shaul",
+        "hewiki:365628"
+      ],
+      "name": "אבא שאול",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:abba-shaul",
+        "heiman:333179"
+      ],
+      "name": "אבא שאול",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:365628",
+        "heiman:333179"
+      ],
+      "name": "אבא שאול",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabban-yochanan-b-zakkai",
+        "hyman-section:119b32218e5e0449e461"
+      ],
+      "name": "רבן יוחנן בן זכאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-immi",
+        "heiman:333641"
+      ],
+      "name": "רבי אימי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-shimon-b-pazzi",
+        "heiman:1716042"
+      ],
+      "name": "רבי שמעון בן פזי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:sumkhos",
+        "hewiki:705260"
+      ],
+      "name": "סומכוס",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Bava Kamma 17b:7"
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-hizkiyah",
+        "hewiki:1493473"
+      ],
+      "name": "רבי חזקיה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Jerusalem Talmud Beitzah 1:2:2"
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-hizkiyah",
+        "heiman:375580"
+      ],
+      "name": "רבי חזקיה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:1493473",
+        "heiman:375580"
+      ],
+      "name": "רבי חזקיה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-giddel",
+        "heiman:381602"
+      ],
+      "name": "רב גידל",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-dosa",
+        "sefaria:rebbi-dositheos"
+      ],
+      "name": "רבי דוסא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-yehudah-b-pazi",
+        "hewiki:1150575"
+      ],
+      "name": "רבי יהודה בן פזי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-shimon-b-yehudah",
+        "hewiki:996247"
+      ],
+      "name": "רבי שמעון בן יהודה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-hanina-b-antigonos",
+        "heiman:1717443"
+      ],
+      "name": "רבי חנינא בן אנטיגנוס",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-zerika",
+        "hewiki:868307"
+      ],
+      "name": "רבי זריקא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Berakhot 3b:14"
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-hanina-b-pappa",
+        "hyman-section:ece8a4b1e2abe865d23a"
+      ],
+      "name": "רבי חנינא בר פפא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-yehudah-b-betera-(i)",
+        "hewiki:492723"
+      ],
+      "name": "רבי יהודה בן בתירא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-chanina-b-dosa",
+        "heiman:1717447"
+      ],
+      "name": "רבי חנינא בן דוסא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-tanchum",
+        "hewiki:1349368"
+      ],
+      "name": "רבי תנחום",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-berekhyah",
+        "hewiki:813287"
+      ],
+      "name": "רבי ברכיה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-shimon-b-yehotsadak",
+        "hewiki:1152769"
+      ],
+      "name": "רבי שמעון בן יהוצדק",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-elazar-b-yose",
+        "heiman:333737"
+      ],
+      "name": "רבי אלעזר בר יוסי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-hanin",
+        "heiman:1717204"
+      ],
+      "name": "רב חנין",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-hanin",
+        "hyman-section:6d0fe76800f6e95c3334"
+      ],
+      "name": "רב חנין",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717204",
+        "hyman-section:6d0fe76800f6e95c3334"
+      ],
+      "name": "רב חנין",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-hanina-segan-hakohanim",
+        "hyman-section:3128c97404a35fd42dcb"
+      ],
+      "name": "רבי חנינא סגן הכהנים",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-yosef-b-chiyya",
+        "hewiki:63200"
+      ],
+      "name": "רב יוסף",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-abba-mari",
+        "heiman:375310"
+      ],
+      "name": "רבי אבא מרי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-avina",
+        "hewiki:2106994"
+      ],
+      "name": "רבי אבינא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-tanchum-b-chiya",
+        "heiman:334457"
+      ],
+      "name": "רבי תנחום בר חייא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-tzadok-(i)",
+        "sefaria:rabbi-tzadok-(ii)"
+      ],
+      "name": "רבי צדוק 2",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:dama-b-netinah",
+        "heiman:1710506"
+      ],
+      "name": "דמא בן נתינה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:geniva",
+        "hewiki:1183469"
+      ],
+      "name": "גניבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:geniva",
+        "heiman:381635"
+      ],
+      "name": "גניבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Berakhot 25a:17"
+    },
+    {
+      "identity_keys": [
+        "hewiki:1183469",
+        "heiman:381635"
+      ],
+      "name": "גניבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:shemaiah",
+        "hewiki:232619"
+      ],
+      "name": "שמעיה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-safra",
+        "heiman:344904"
+      ],
+      "name": "רב ספרא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-shimon-b-netanel",
+        "heiman:1715974"
+      ],
+      "name": "רבי שמעון בן נתנאל",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-hama",
+        "hewiki:868632"
+      ],
+      "name": "רב חמא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-hama",
+        "hyman-section:54f63e627b82d89bf796"
+      ],
+      "name": "רב חמא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:868632",
+        "hyman-section:54f63e627b82d89bf796"
+      ],
+      "name": "רב חמא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:amemar",
+        "hewiki:564731"
+      ],
+      "name": "אמימר",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Arakhin 22a:21"
+    },
+    {
+      "identity_keys": [
+        "sefaria:avimi",
+        "hewiki:872771"
+      ],
+      "name": "אבימי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:avimi",
+        "heiman:333278"
+      ],
+      "name": "אבימי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:872771",
+        "heiman:333278"
+      ],
+      "name": "אבימי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:karna",
+        "hewiki:726906"
+      ],
+      "name": "קרנא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Bava Batra 89a:9"
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-perida",
+        "hyman-section:4c8eda288e991a474c21"
+      ],
+      "name": "רבי פרידא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-benjamin",
+        "bonayich:691"
+      ],
+      "name": "רבי בנימין",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-bivi-b-abaye",
+        "heiman:379240"
+      ],
+      "name": "רב ביבי בר אביי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-hama-b-bisa",
+        "hewiki:2095590"
+      ],
+      "name": "רבי חמא בר ביסא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Ketubot 62b:13"
+    },
+    {
+      "identity_keys": [
+        "sefaria:zeiri",
+        "hewiki:873785"
+      ],
+      "name": "זעירי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Avodah Zarah 60b:10"
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-shimon-b-menasya",
+        "heiman:1715938"
+      ],
+      "name": "רבי שמעון בן מנסיא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rafram-(i)",
+        "heiman:1710118"
+      ],
+      "name": "רפרם",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rafram-(i)",
+        "hyman-section:2ad34057c7ea71c550e2"
+      ],
+      "name": "רפרם",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1710118",
+        "hyman-section:2ad34057c7ea71c550e2"
+      ],
+      "name": "רפרם",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-hanina-b-gamliel",
+        "heiman:1717446"
+      ],
+      "name": "רבי חנינא בן גמליאל",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:avimi-b-abbahu",
+        "hewiki:1226370"
+      ],
+      "name": "אבימי בריה דרבי אבהו",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:ravin",
+        "heiman:1709896"
+      ],
+      "name": "רבין",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:hananyah",
+        "heiman:1709529"
+      ],
+      "name": "חנניה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-halafta-of-kefar-hanania",
+        "heiman:1717127"
+      ],
+      "name": "רבי חלפתא איש כפר חנניה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-sechorah",
+        "heiman:344856"
+      ],
+      "name": "רב סחורה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-sama",
+        "heiman:344885"
+      ],
+      "name": "רב סמא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-seoram",
+        "hewiki:1225186"
+      ],
+      "name": "רב סעורם",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-chana",
+        "heiman:1717174"
+      ],
+      "name": "רב חנא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-chana",
+        "hyman-section:ea82a0c67d998f499e79"
+      ],
+      "name": "רב חנא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717174",
+        "hyman-section:ea82a0c67d998f499e79"
+      ],
+      "name": "רב חנא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-hanan",
+        "heiman:1717308"
+      ],
+      "name": "רב חנן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-hama-b-gurya",
+        "hewiki:871025"
+      ],
+      "name": "רב חמא בר גוריא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-dimi",
+        "hewiki:983098"
+      ],
+      "name": "רב דימי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-dimi",
+        "heiman:383501"
+      ],
+      "name": "רב דימי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:983098",
+        "heiman:383501"
+      ],
+      "name": "רב דימי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-pinehas-b-hama",
+        "hewiki:1150854"
+      ],
+      "name": "רבי פנחס בר חמא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:ilfa",
+        "hewiki:909608"
+      ],
+      "name": "אילפא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Bava Kamma 20a:2"
+    },
+    {
+      "identity_keys": [
+        "sefaria:botnit",
+        "heiman:379121"
+      ],
+      "name": "בטנית",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Nedarim 23a:3"
+    },
+    {
+      "identity_keys": [
+        "sefaria:eifa",
+        "hewiki:1249954"
+      ],
+      "name": "עיפא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Shevuot 28b:9"
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-achadvoi-b-ami",
+        "sefaria:rav-ahadvoi-b-ami"
+      ],
+      "name": "רב אחדבוי בר אמי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-dimi-brother-of-rav-safra",
+        "heiman:383502"
+      ],
+      "name": "רב דימי אחוה דרב ספרא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-menahem-b-r-yose",
+        "hewiki:939145"
+      ],
+      "name": "רבי מנחם ברבי יוסי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-hiyya-b-zarnokei",
+        "heiman:1716894"
+      ],
+      "name": "רבי חייא בר זרנוקי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-hiyya-parvaah",
+        "heiman:1716936"
+      ],
+      "name": "רבי חייא פרוואה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-chana-b-chanilai",
+        "heiman:373514"
+      ],
+      "name": "רבי חנא בר חנילאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-hanina-b-yosef",
+        "hyman-section:0654990911f62476f9bd"
+      ],
+      "name": "רבי חנינא בר יוסף",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-yose-b-zevida",
+        "hewiki:995183"
+      ],
+      "name": "רבי יוסי בר זבידא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-haviva-b-rava",
+        "heiman:1710717"
+      ],
+      "name": "רב חביבא בריה דרבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-haviva-b-rava",
+        "hyman-section:a1fa7b4212e04d367a57"
+      ],
+      "name": "רב חביבא בריה דרבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1710717",
+        "hyman-section:a1fa7b4212e04d367a57"
+      ],
+      "name": "רב חביבא בריה דרבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-safra-b-rav-yeiva",
+        "heiman:344905"
+      ],
+      "name": "רב ספרא בריה דרב ייבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-hanilai-b-idi",
+        "heiman:1717197"
+      ],
+      "name": "רב חנילאי בר אידי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-hanilai-b-idi",
+        "hyman-section:f89925ff8d15dfa3ad53"
+      ],
+      "name": "רב חנילאי בר אידי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717197",
+        "hyman-section:f89925ff8d15dfa3ad53"
+      ],
+      "name": "רב חנילאי בר אידי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-hanina-from-sura",
+        "hyman-section:4e9e33e6b46f2bedf17f"
+      ],
+      "name": "רב חנינא מסורא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-haviva",
+        "heiman:1710713"
+      ],
+      "name": "רב חביבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-tovi-b-rav-nehemya",
+        "heiman:334377"
+      ],
+      "name": "רב טובי בריה דרב נחמיה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:ravin-b-rav-adda",
+        "hewiki:1140706"
+      ],
+      "name": "רבין בר רב אדא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-hiyya-b-asi",
+        "heiman:1716886"
+      ],
+      "name": "רב חייא בר אסי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabba-b-rav-hanan",
+        "sefaria:rabbah-b-rav-chanan"
+      ],
+      "name": "רבה בר רב חנן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabba-b-rav-hanan",
+        "hewiki:903371"
+      ],
+      "name": "רבה בר רב חנן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbah-b-rav-chanan",
+        "hewiki:903371"
+      ],
+      "name": "רבה בר רב חנן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-hanina-b-ketina",
+        "hyman-section:50a4239a30e8c784f461"
+      ],
+      "name": "רב חנינא בר רב קטינא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-hilkiya-of-hagronya",
+        "sefaria:rav-hilkiya-from-hagronya"
+      ],
+      "name": "רב חלקיה מהגרוניא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-hilkiya-of-hagronya",
+        "heiman:1717140"
+      ],
+      "name": "רב חלקיה מהגרוניא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-hilkiya-from-hagronya",
+        "heiman:1717140"
+      ],
+      "name": "רב חלקיה מהגרוניא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-sama-b-rav-yirmeya",
+        "heiman:344890"
+      ],
+      "name": "רב סמא בריה דרב ירמיה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-nachman-b-abba",
+        "bonayich:21194"
+      ],
+      "name": "רב נחמן בר אבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-tovi-b-rav-ketina",
+        "heiman:334378"
+      ],
+      "name": "רב טובי בר רב קטינא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-hinak",
+        "hewiki:835438"
+      ],
+      "name": "רב הינק",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Pesachim 101b:3"
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-zutra1",
+        "heiman:1710605"
+      ],
+      "name": "רב זוטרא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-ahadvoi-brother-of-mar-aha",
+        "heiman:333566"
+      ],
+      "name": "רב אחדבוי אחוי דמר אחא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:bar-padda",
+        "sefaria:bar-pedaiah"
+      ],
+      "name": "בר פדא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-yitzhak-b-redifa",
+        "sefaria:rabbi-yitzhak-b-redifa1"
+      ],
+      "name": "רבי יצחק בר רדיפא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-tahlifa",
+        "heiman:334429"
+      ],
+      "name": "רב תחליפא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-zevid1",
+        "heiman:1710592"
+      ],
+      "name": "זבידא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-zevid1",
+        "hyman-section:ba292ef58bf338dc7233"
+      ],
+      "name": "זבידא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Avodah Zarah 16a:12"
+    },
+    {
+      "identity_keys": [
+        "heiman:1710592",
+        "hyman-section:ba292ef58bf338dc7233"
+      ],
+      "name": "זבידא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-tebi",
+        "heiman:334361"
+      ],
+      "name": "רבי טבי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-tavyome",
+        "heiman:334367"
+      ],
+      "name": "רב טביומי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-hiyya-b-pappus",
+        "heiman:1716918"
+      ],
+      "name": "רבי חייא בר פפא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-parnakh",
+        "hyman-section:32497a387d73038ff466"
+      ],
+      "name": "רבי פרנך",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-eleazar-b-rebbi-yannai",
+        "heiman:333742"
+      ],
+      "name": "רבי אלעזר בר ינאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-kahana-b-tahalifa",
+        "heiman:335947"
+      ],
+      "name": "רב כהנא בר תחליפא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-hanina-a-man-of-ono",
+        "hewiki:1281221"
+      ],
+      "name": "רבי חנינא איש אונו",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-hanina-a-man-of-ono",
+        "heiman:1717429"
+      ],
+      "name": "רבי חנינא איש אונו",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:1281221",
+        "heiman:1717429"
+      ],
+      "name": "רבי חנינא איש אונו",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-huna-b-aha",
+        "heiman:399628"
+      ],
+      "name": "רב הונא בר אחא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-abba-b-rav-yitzhak",
+        "heiman:333105"
+      ],
+      "name": "רבי אבא בר רב יצחק",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-zeira-b-hanina",
+        "heiman:1710668"
+      ],
+      "name": "רבי זעירא בר חנינא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:yoezer-master-of-the-temple",
+        "hewiki:1468872"
+      ],
+      "name": "יועזר איש הבירה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-ahiyya",
+        "bonayich:328"
+      ],
+      "name": "רבי אחייה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:cahana-b-jeremiah",
+        "heiman:335939"
+      ],
+      "name": "כהנא בר ירמיה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:gamliel-(iv)",
+        "heiman:381616"
+      ],
+      "name": "גמליאל",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-tobi",
+        "heiman:334374"
+      ],
+      "name": "רבי טובי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-perira",
+        "hyman-section:626f2e247efb39512d03"
+      ],
+      "name": "רבי פרירא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-curius",
+        "heiman:334120"
+      ],
+      "name": "רבי קורייס",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-thaddeus",
+        "bonayich:2941"
+      ],
+      "name": "רבי תדאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-thaddeus",
+        "heiman:334419"
+      ],
+      "name": "רבי תדאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2941",
+        "heiman:334419"
+      ],
+      "name": "רבי תדאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-hanin-b-levi",
+        "heiman:1717296"
+      ],
+      "name": "רבי חנין בר לוי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-sidor",
+        "heiman:344859"
+      ],
+      "name": "רבי סידור",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-eleazar-b-antigonos",
+        "bonayich:426"
+      ],
+      "name": "רבי אלעזר בן אנטיגנוס",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-yosana",
+        "bonayich:1761"
+      ],
+      "name": "רבי יוסנא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-mallukh",
+        "bonayich:2091"
+      ],
+      "name": "רבי מלוך",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-boethos",
+        "heiman:379279"
+      ],
+      "name": "רבי בייתוס",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-sobaya",
+        "heiman:344849"
+      ],
+      "name": "רבי סובייה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-abbahu-b-naggari",
+        "heiman:333242"
+      ],
+      "name": "רבי אבהו בר נגרי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-tanhum-b-pappus",
+        "heiman:334473"
+      ],
+      "name": "רבי תנחום בר פפא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-qiris-from-irma",
+        "heiman:334133"
+      ],
+      "name": "רבי קיריס דאירמה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-qiris-from-irma",
+        "hyman-section:bb2caebe242e99278fa9"
+      ],
+      "name": "רבי קיריס דאירמה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:334133",
+        "hyman-section:bb2caebe242e99278fa9"
+      ],
+      "name": "רבי קיריס דאירמה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-helbo-b-huna",
+        "heiman:1717113"
+      ],
+      "name": "רבי חלבו בר חונה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-simon-b-thaddeus",
+        "heiman:344873"
+      ],
+      "name": "רבי סימון דתרי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-tahlifa-b-immi",
+        "heiman:334436"
+      ],
+      "name": "רב תחליפא בר אימי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-jeremiah-b-eleazar",
+        "bonayich:1958"
+      ],
+      "name": "רבי ירמיה בן אלעזר",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-gorion",
+        "bonayich:814"
+      ],
+      "name": "רבי גוריון",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-hinena-b-isaac",
+        "heiman:1717415"
+      ],
+      "name": "רבי חיננא בר יצחק",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-simeon-b-miasha",
+        "heiman:1715934"
+      ],
+      "name": "רבי שמעון בר מיישא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-tanhum-b-hanina",
+        "heiman:334462"
+      ],
+      "name": "רבי תנחום בר חנינא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-tanhum-b-jeremiah",
+        "heiman:334468"
+      ],
+      "name": "רבי תנחום בר ירמיה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-tanhum-b-marion",
+        "heiman:334470"
+      ],
+      "name": "רבי תנחום בר מריון",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-simeon-b-carsana",
+        "heiman:1715909"
+      ],
+      "name": "רבי שמעון בר כרסנא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-hanan",
+        "bonayich:1306"
+      ],
+      "name": "רבי חנן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-hanan",
+        "heiman:1717307"
+      ],
+      "name": "רבי חנן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1306",
+        "heiman:1717307"
+      ],
+      "name": "רבי חנן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:beruriah",
+        "hewiki:21945"
+      ],
+      "name": "ברוריה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Eruvin 53b:24"
+    },
+    {
+      "identity_keys": [
+        "sefaria:beruriah",
+        "hyman-section:725d7e52d3342919f1d7"
+      ],
+      "name": "ברוריה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Eruvin 53b:24"
+    },
+    {
+      "identity_keys": [
+        "hewiki:21945",
+        "hyman-section:725d7e52d3342919f1d7"
+      ],
+      "name": "ברוריה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Eruvin 53b:24"
+    },
+    {
+      "identity_keys": [
+        "sefaria:ketiya-b-shalom",
+        "heiman:334126"
+      ],
+      "name": "קטיעה בר שלום",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:kimchit",
+        "heiman:334136"
+      ],
+      "name": "קמחית",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:ben-temalyon",
+        "heiman:380546"
+      ],
+      "name": "בן תמליון",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:herod",
+        "heiman:1710566"
+      ],
+      "name": "הורדוס",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Bava Batra 3b:13"
+    },
+    {
+      "identity_keys": [
+        "sefaria:alexander",
+        "heiman:333697"
+      ],
+      "name": "אלכסנדר",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Jerusalem Talmud Bava Batra 9:3:5"
+    },
+    {
+      "identity_keys": [
+        "sefaria:admon",
+        "hewiki:454827"
+      ],
+      "name": "אדמון",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Ketubot 105a:2"
+    },
+    {
+      "identity_keys": [
+        "sefaria:chanan-the-egyptian",
+        "heiman:1717392"
+      ],
+      "name": "חנן המצרי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:chanan-hanechba",
+        "heiman:1717393"
+      ],
+      "name": "חנן הנחבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:peleimu",
+        "hewiki:2068021"
+      ],
+      "name": "פלימו",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Kiddushin 81a:15"
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-zakkai",
+        "heiman:1710643"
+      ],
+      "name": "רבי זכאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Megillah 27b:19"
+    },
+    {
+      "identity_keys": [
+        "sefaria:buni",
+        "heiman:379111"
+      ],
+      "name": "בוני",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:ben-tziyyon",
+        "heiman:380534"
+      ],
+      "name": "בן ציון",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-yishmael-b-kimhit",
+        "sefaria:simeon-b-qimhit"
+      ],
+      "name": "שמעון בן קמחית",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-yishmael-b-kimhit",
+        "heiman:1716044"
+      ],
+      "name": "שמעון בן קמחית",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-yishmael-b-kimhit",
+        "hyman-section:89538d059869c2dbf1b8"
+      ],
+      "name": "שמעון בן קמחית",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:simeon-b-qimhit",
+        "heiman:1716044"
+      ],
+      "name": "שמעון בן קמחית",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:simeon-b-qimhit",
+        "hyman-section:89538d059869c2dbf1b8"
+      ],
+      "name": "שמעון בן קמחית",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1716044",
+        "hyman-section:89538d059869c2dbf1b8"
+      ],
+      "name": "שמעון בן קמחית",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:antoninus1",
+        "bonayich:520"
+      ],
+      "name": "אנטונינוס",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Avodah Zarah 10a:13"
+    },
+    {
+      "identity_keys": [
+        "sefaria:antoninus1",
+        "heiman:333844"
+      ],
+      "name": "אנטונינוס",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Berakhot 57b:17"
+    },
+    {
+      "identity_keys": [
+        "bonayich:520",
+        "heiman:333844"
+      ],
+      "name": "אנטונינוס",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Berakhot 57b:17"
+    },
+    {
+      "identity_keys": [
+        "sefaria:abuya",
+        "heiman:333256"
+      ],
+      "name": "אבויה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:king-ptolemy",
+        "heiman:334449"
+      ],
+      "name": "תלמי המלך",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:queen-helena",
+        "heiman:1710575"
+      ],
+      "name": "הילני המלכה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rebbi-eleazar-b-thaddeus",
+        "bonayich:479"
+      ],
+      "name": "רבי אלעזר בן תדאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2198",
+        "hewiki:872421"
+      ],
+      "name": "מרימר",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Bava Batra 3b:9"
+    },
+    {
+      "identity_keys": [
+        "bonayich:1062",
+        "heiman:1710734"
+      ],
+      "name": "חולפנא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Arakhin 28b:4"
+    },
+    {
+      "identity_keys": [
+        "bonayich:1080",
+        "heiman:375653"
+      ],
+      "name": "חזקיה בר בילוטו",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1009",
+        "heiman:1710622"
+      ],
+      "name": "זונין",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Avodah Zarah 55a:4"
+    },
+    {
+      "identity_keys": [
+        "bonayich:1318",
+        "heiman:1717320"
+      ],
+      "name": "רב חנן בר רב חסדא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:341",
+        "heiman:333589"
+      ],
+      "name": "רבי אידי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:173",
+        "heiman:333340"
+      ],
+      "name": "אבלט",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Shabbat 129a:19"
+    },
+    {
+      "identity_keys": [
+        "bonayich:2991",
+        "heiman:334479"
+      ],
+      "name": "רבי תנחום דמן פרוד",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1115",
+        "heiman:1716905"
+      ],
+      "name": "רב חייא בריה דרב יצחק",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:334",
+        "heiman:333575"
+      ],
+      "name": "איבו",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:584",
+        "heiman:334679"
+      ],
+      "name": "באלי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Avodah Zarah 36a:8"
+    },
+    {
+      "identity_keys": [
+        "bonayich:1333",
+        "heiman:1717394"
+      ],
+      "name": "חנן חייטא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:20961",
+        "heiman:1717406"
+      ],
+      "name": "רב חיננא בר אידי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1129",
+        "heiman:1716924"
+      ],
+      "name": "רב חייא בריה דרבה בר נחמני",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2383",
+        "heiman:344887"
+      ],
+      "name": "רב סמא בריה דרב אשי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:399",
+        "heiman:333685"
+      ],
+      "name": "רב אליקים",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1878",
+        "hewiki:514828"
+      ],
+      "name": "רב יעקב מנהר פקוד",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2665",
+        "heiman:1710092"
+      ],
+      "name": "רוניא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Bava Batra 5a:1"
+    },
+    {
+      "identity_keys": [
+        "bonayich:2544",
+        "hyman-section:c30531a9b069f399135c"
+      ],
+      "name": "פתחיה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1172",
+        "heiman:1717153"
+      ],
+      "name": "רב חמא בר בוזי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1098",
+        "heiman:1716882"
+      ],
+      "name": "רב חייא בריה דרב אויא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2402",
+        "hyman-section:b77f76d51afece63faa2"
+      ],
+      "name": "רב עובדיה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1801",
+        "hewiki:983341"
+      ],
+      "name": "ייבא חמוה דאשיין בר נדבך",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1133",
+        "heiman:1716933"
+      ],
+      "name": "רב חייא מהורמיז ארדשיד",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1165",
+        "heiman:1717214"
+      ],
+      "name": "רבי חמא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1165",
+        "heiman:1717143"
+      ],
+      "name": "רבי חמא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717214",
+        "heiman:1717143"
+      ],
+      "name": "רבי חמא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2643",
+        "heiman:1709895"
+      ],
+      "name": "רביא בר קיסי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2019",
+        "heiman:335948"
+      ],
+      "name": "רב כהנא חמוה דרב משרשיא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2657",
+        "hewiki:2176997"
+      ],
+      "name": "רבנאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Bava Batra 99a:3"
+    },
+    {
+      "identity_keys": [
+        "bonayich:2657",
+        "heiman:1709908"
+      ],
+      "name": "רבנאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2657",
+        "hyman-section:b5b65d4b1a0af20c2da9"
+      ],
+      "name": "רבנאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Berakhot 38b:3"
+    },
+    {
+      "identity_keys": [
+        "hewiki:2176997",
+        "heiman:1709908"
+      ],
+      "name": "רבנאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:2176997",
+        "hyman-section:b5b65d4b1a0af20c2da9"
+      ],
+      "name": "רבנאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1709908",
+        "hyman-section:b5b65d4b1a0af20c2da9"
+      ],
+      "name": "רבנאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:296",
+        "heiman:333526"
+      ],
+      "name": "רב אחא בר רב",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Bava Batra 124b:15"
+    },
+    {
+      "identity_keys": [
+        "hewiki:1903011",
+        "hyman-section:bf1ac3f4be3062d21c44"
+      ],
+      "name": "רב חנא בגדתאה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1052",
+        "heiman:1710714"
+      ],
+      "name": "רב חביבא בריה דרב יוסף בריה דרבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:22764",
+        "hewiki:1351434"
+      ],
+      "name": "רבי שבתי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Bava Batra 163a:3"
+    },
+    {
+      "identity_keys": [
+        "bonayich:1319",
+        "heiman:1717211"
+      ],
+      "name": "רב חנין בריה דרב ייבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1319",
+        "hyman-section:b966c3480f8af3bb8b2f"
+      ],
+      "name": "רב חנין בריה דרב ייבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717211",
+        "hyman-section:b966c3480f8af3bb8b2f"
+      ],
+      "name": "רב חנין בריה דרב ייבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:922",
+        "hewiki:964497"
+      ],
+      "name": "רב הונא בר מנוח",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1368",
+        "heiman:334382"
+      ],
+      "name": "טוביה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1310",
+        "heiman:1717311"
+      ],
+      "name": "חנן בישא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1186",
+        "heiman:1717175"
+      ],
+      "name": "רבי חנא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:210",
+        "heiman:333380"
+      ],
+      "name": "רבי אדא בר פפא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:20078",
+        "heiman:333158"
+      ],
+      "name": "אבא מהגרוניא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1222",
+        "heiman:1717431"
+      ],
+      "name": "רב חנינא בר אבדימי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1222",
+        "hyman-section:497f5887a2671f45685b"
+      ],
+      "name": "רב חנינא בר אבדימי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717431",
+        "hyman-section:497f5887a2671f45685b"
+      ],
+      "name": "רב חנינא בר אבדימי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:887",
+        "heiman:1710512"
+      ],
+      "name": "דנכו",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Bava Kamma 99b:23"
+    },
+    {
+      "identity_keys": [
+        "hewiki:871690",
+        "heiman:344894"
+      ],
+      "name": "רב סמא בריה דרבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:22486",
+        "hewiki:870068"
+      ],
+      "name": "רבי יצחק בר אבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:21377",
+        "heiman:1709858"
+      ],
+      "name": "רבה בר יוסף בר חמא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1053",
+        "heiman:1710716"
+      ],
+      "name": "רב חביבא בר סורמקי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1174",
+        "heiman:1717155"
+      ],
+      "name": "רב חמא בר ברתיה דחסא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1287",
+        "hyman-section:7fa6137a0c237350c8d4"
+      ],
+      "name": "רב חנינא חוזאה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1159",
+        "heiman:1717137"
+      ],
+      "name": "רב חלקיה בריה דרב אויא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1261",
+        "heiman:1717416"
+      ],
+      "name": "רב חיננא בר כהנא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:20970",
+        "heiman:1717407"
+      ],
+      "name": "רב חיננא בריה דרב איקא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2378",
+        "heiman:344882"
+      ],
+      "name": "רב סלא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:360",
+        "heiman:333621"
+      ],
+      "name": "אילא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:805",
+        "heiman:381573"
+      ],
+      "name": "גביני",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Yoma 20b:7"
+    },
+    {
+      "identity_keys": [
+        "bonayich:2944",
+        "heiman:334422"
+      ],
+      "name": "תודוס הרופא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1125",
+        "heiman:1716917"
+      ],
+      "name": "רב חייא בר עמרם",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:362",
+        "heiman:333622"
+      ],
+      "name": "רבי אילא בריה דרב שמואל בר מרתא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:574",
+        "heiman:333890"
+      ],
+      "name": "אשיאן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Berakhot 14a:7"
+    },
+    {
+      "identity_keys": [
+        "bonayich:1155",
+        "heiman:1717131"
+      ],
+      "name": "רבי חלפתא בן שאול",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:21215",
+        "heiman:344883"
+      ],
+      "name": "רב סלא חסידא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1189",
+        "heiman:1717179"
+      ],
+      "name": "רב חנא בר אדא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1189",
+        "hyman-section:3ad9980da471e33f0d9e"
+      ],
+      "name": "רב חנא בר אדא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717179",
+        "hyman-section:3ad9980da471e33f0d9e"
+      ],
+      "name": "רב חנא בר אדא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2389",
+        "heiman:344891"
+      ],
+      "name": "רב סמא בריה דרב מרי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:164",
+        "heiman:333323"
+      ],
+      "name": "רבי אבין הלוי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:406",
+        "heiman:333690"
+      ],
+      "name": "אלכסא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Chagigah 18a:10"
+    },
+    {
+      "identity_keys": [
+        "bonayich:22314",
+        "hewiki:786285"
+      ],
+      "name": "רבי יונתן בן אלעזר",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1254",
+        "hyman-section:fecb7f1f86b8d9719d62"
+      ],
+      "name": "רבי חנינא בנו של רבי יוסי הגלילי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2390",
+        "heiman:344892"
+      ],
+      "name": "רב סמא בריה דרב משרשיא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2163",
+        "heiman:1710608"
+      ],
+      "name": "מר זוטרא בריה דרב הונא בריה דרב פפי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2953",
+        "heiman:334434"
+      ],
+      "name": "רב תחליפא בר אבינא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1337",
+        "heiman:1717398"
+      ],
+      "name": "רב חנן מנהרדעא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1277",
+        "heiman:1717418"
+      ],
+      "name": "רב חיננא בריה דרבא מפשרוניא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2043",
+        "heiman:1715125"
+      ],
+      "name": "לוי בר סימון",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:113",
+        "hewiki:456486"
+      ],
+      "name": "אבטולמוס",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1205",
+        "heiman:1717196"
+      ],
+      "name": "רבי חנילאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:503",
+        "heiman:333815"
+      ],
+      "name": "רב אמי בר אדא הרפנאה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:20960",
+        "heiman:1717405"
+      ],
+      "name": "רב חיננא בר אבין",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1178",
+        "heiman:1717165"
+      ],
+      "name": "רבי חמא בר יוסי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:592",
+        "heiman:379114"
+      ],
+      "name": "בונייס בן בונייס",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1225",
+        "heiman:1717433"
+      ],
+      "name": "רב חנינא בר אבין",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:22885",
+        "heiman:334439"
+      ],
+      "name": "רבי תחליפא בר רב חסדא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:20199",
+        "heiman:333824"
+      ],
+      "name": "אמי בר נתן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:180",
+        "heiman:333346"
+      ],
+      "name": "אברם חוזאה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1286",
+        "heiman:1717421"
+      ],
+      "name": "רב חיננא וורדאן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1336",
+        "heiman:1717303"
+      ],
+      "name": "רב חנין מחוזנאה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:21366",
+        "heiman:1709842"
+      ],
+      "name": "רבה בר איתי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2363",
+        "heiman:344854"
+      ],
+      "name": "סורחב בר פפא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:665",
+        "heiman:380522"
+      ],
+      "name": "בן נצר",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:21391",
+        "heiman:1709845"
+      ],
+      "name": "רבה בר רב הונא זוטא מנהרדעא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2638",
+        "heiman:1709888"
+      ],
+      "name": "רבה מקובי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2392",
+        "heiman:344893"
+      ],
+      "name": "רב סמא בר רקתא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:22828",
+        "heiman:1715931"
+      ],
+      "name": "רבי שמעון בן לוי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:21057",
+        "heiman:334380"
+      ],
+      "name": "רב טובי בר רב קיסנא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:20999",
+        "heiman:1717188"
+      ],
+      "name": "רב חנא בר רב קטינא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1012",
+        "heiman:1710624"
+      ],
+      "name": "זיגוד",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Makkot 11a:15"
+    },
+    {
+      "identity_keys": [
+        "bonayich:2619",
+        "heiman:1709873"
+      ],
+      "name": "רבה בר עופרן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:21395",
+        "heiman:1709860"
+      ],
+      "name": "רבה בר רב יצחק",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1264",
+        "hyman-section:4f8f6696a91f192a0bc8"
+      ],
+      "name": "רב חנינא בר מניומי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1123",
+        "heiman:1716915"
+      ],
+      "name": "רב חייא בריה דרב נתן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1334",
+        "heiman:1717302"
+      ],
+      "name": "רבי חנין חתניה דבי נשיאה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:21844",
+        "heiman:1716874"
+      ],
+      "name": "רבי חייא אריכא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1003",
+        "hewiki:347853"
+      ],
+      "name": "רבי זוטרא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1003",
+        "heiman:1710604"
+      ],
+      "name": "רבי זוטרא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:347853",
+        "heiman:1710604"
+      ],
+      "name": "רבי זוטרא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:21737",
+        "heiman:380574"
+      ],
+      "name": "רבי בנימין בר חייא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2574",
+        "heiman:334151"
+      ],
+      "name": "קתרוס",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:865",
+        "heiman:1710480"
+      ],
+      "name": "דורתאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Pesachim 70b:5"
+    },
+    {
+      "identity_keys": [
+        "bonayich:1292",
+        "heiman:1717422"
+      ],
+      "name": "רב חיננא סבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2010",
+        "heiman:335937"
+      ],
+      "name": "רב כהנא בריה דרב חיננא סבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1355",
+        "heiman:334362"
+      ],
+      "name": "טבי בריה דמרי טבי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1170",
+        "heiman:1717151"
+      ],
+      "name": "רבי חמא בר אושעיא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1321",
+        "heiman:1717323"
+      ],
+      "name": "רב חנן בר מולדה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1251",
+        "heiman:1717413"
+      ],
+      "name": "רב חיננא בר יהודה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:21973",
+        "heiman:1717445"
+      ],
+      "name": "רבי חנינא בן גמלא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:21009",
+        "heiman:1717208"
+      ],
+      "name": "רב חנין בר אמי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2990",
+        "heiman:334478"
+      ],
+      "name": "רבי תנחום דמן נוי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:22831",
+        "heiman:1716043"
+      ],
+      "name": "רבי שמעון בן קיסמא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:20416",
+        "heiman:1716942"
+      ],
+      "name": "חילפא בר אגרא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:914",
+        "heiman:1710520"
+      ],
+      "name": "רב הונא בר חלוב",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1233",
+        "heiman:1717437"
+      ],
+      "name": "רבי חנינא בר אידי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1114",
+        "heiman:1716902"
+      ],
+      "name": "רב חייא בריה דרב ייבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2015",
+        "heiman:335944"
+      ],
+      "name": "רב כהנא בריה דרב נחוניא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:20682",
+        "heiman:344884"
+      ],
+      "name": "סלמאי הנתופתי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:630",
+        "heiman:379290"
+      ],
+      "name": "בן ארזה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:22026",
+        "hyman-section:2fdfb8a1dc687c1eea04"
+      ],
+      "name": "רבי חנינא טריטאה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:20356",
+        "heiman:383835"
+      ],
+      "name": "הון בריה דרב נחמן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1168",
+        "heiman:1717149"
+      ],
+      "name": "רב חמא בר אבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1168",
+        "hyman-section:6d6cdd456e76a9443a85"
+      ],
+      "name": "רב חמא בר אבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717149",
+        "hyman-section:6d6cdd456e76a9443a85"
+      ],
+      "name": "רב חמא בר אבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2016",
+        "heiman:335945"
+      ],
+      "name": "רב כהנא בריה דרב נחמיה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:22705",
+        "heiman:344895"
+      ],
+      "name": "רבי סמיא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:517",
+        "heiman:333838"
+      ],
+      "name": "אנדרולינאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Yevamot 115b:9"
+    },
+    {
+      "identity_keys": [
+        "bonayich:2717",
+        "heiman:1709388"
+      ],
+      "name": "רב שייא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:20620",
+        "heiman:1710610"
+      ],
+      "name": "מר זוטרא בריה דרב טבי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:430",
+        "heiman:333722"
+      ],
+      "name": "אבא אלעזר בן דולעאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:20181",
+        "heiman:333635"
+      ],
+      "name": "אליהועיני בן הקוף",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:20339",
+        "heiman:1710144"
+      ],
+      "name": "דוסתאי איש כפר יתמה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:566",
+        "heiman:333882"
+      ],
+      "name": "אריסטון",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:2315718",
+        "hyman-section:e2dcb5f7955faeea2c47"
+      ],
+      "name": "יששכר דכפר מנדי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:922488",
+        "heiman:1716920"
+      ],
+      "name": "חייא בר רב",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:186333",
+        "hyman-section:108fb0d12f52b3338d16"
+      ],
+      "name": "רבינא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:995205",
+        "heiman:1709530"
+      ],
+      "name": "רב חנניה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:1892541",
+        "heiman:333129"
+      ],
+      "name": "אבא בר קורייה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:1224120",
+        "heiman:333070"
+      ],
+      "name": "רבי אבא בר זבינא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:771416",
+        "heiman:335956"
+      ],
+      "name": "רבי כרוספדאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:1903107",
+        "hyman-section:8d131248dc56d400f4f4"
+      ],
+      "name": "רב חגא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": "Avodah Zarah 68a:4"
+    },
+    {
+      "identity_keys": [
+        "hewiki:576283",
+        "hyman-section:4bf033a6fb9c981456b2"
+      ],
+      "name": "חנניה בן אחי רבי יהושע",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:2261313",
+        "heiman:1706752"
+      ],
+      "name": "יוחאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rabbi-chana-b-bizna",
+        "hyman-section:d05b5f8af94f59bcba98"
+      ],
+      "name": "רב חנא בר ביזנא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:254157",
+        "heiman:381640"
+      ],
+      "name": "רבן גמליאל הרביעי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:1903617",
+        "heiman:1717160"
+      ],
+      "name": "רבי חמא בר חנינא הראשון",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:928319",
+        "heiman:344865"
+      ],
+      "name": "רבי סימון",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333037",
+        "heiman:379266"
+      ],
+      "name": "אבא ביראה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333037",
+        "hyman-section:c1303d68146733369490"
+      ],
+      "name": "אבא ביראה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:379266",
+        "hyman-section:c1303d68146733369490"
+      ],
+      "name": "אבא ביראה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1710141",
+        "hyman-section:9cd8d5a3346480fa109e"
+      ],
+      "name": "דוסתאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1710143",
+        "hyman-section:2abe8c2ef10da98e43ac"
+      ],
+      "name": "דוסתאי אבוה דר אפטוריקי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:383503",
+        "hyman-section:52dc7b7494062acbbe8a"
+      ],
+      "name": "רב דימי בר אבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1710485",
+        "hyman-section:4376cde4eea2005fb8c0"
+      ],
+      "name": "רב דימי בר חיננא א",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1710505",
+        "hyman-section:1daeae909c57bd6fa195"
+      ],
+      "name": "דמא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:383505",
+        "hyman-section:bd2af225f73b973bfa32"
+      ],
+      "name": "רב דימי בריה דרב הונא מדמהריא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1710568",
+        "hyman-section:8efa043056dc57b4a1fa"
+      ],
+      "name": "הורקנוס",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1710569",
+        "hyman-section:c9e9760e8049092798a0"
+      ],
+      "name": "הורקנוס ואריסטובלוס אחיו",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1710574",
+        "hyman-section:1b13462dc7e80e43dc91"
+      ],
+      "name": "הילני",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333352",
+        "hyman-section:ce0ed2c1312dc969e938"
+      ],
+      "name": "אגריפוס המלך א",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333429",
+        "hyman-section:e1a47efad9b31f3b5517"
+      ],
+      "name": "אהבה בריה דרב בנימין בר חייא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1710597",
+        "hyman-section:2ee8f781a67d98fe46ac"
+      ],
+      "name": "זוגא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1710598",
+        "hyman-section:d2a32fdbb72e0be1bed8"
+      ],
+      "name": "זוגא דמן חדייב",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1710599",
+        "hyman-section:d494e8b1937636ce77f6"
+      ],
+      "name": "זוגא קריביה דר בא בר זבדי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1710607",
+        "hyman-section:fc1038e5770b6bb1644b"
+      ],
+      "name": "מר זוטרא בר אבדימי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:375083",
+        "hyman-section:459a3491371499f9b68c"
+      ],
+      "name": "חוני",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:375087",
+        "hyman-section:684e6fbd222aef49b9f6"
+      ],
+      "name": "חוני הקטן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:375112",
+        "hyman-section:a950ed2bc9bff664e176"
+      ],
+      "name": "חוניא בן יוסף בן פכסס הכהן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:382789",
+        "hyman-section:cce644e709baa8471955"
+      ],
+      "name": "חומה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1710720",
+        "hyman-section:a44d4eb5ea0640cd0896"
+      ],
+      "name": "חביבי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:375120",
+        "hyman-section:f6e38bda2986b85f5503"
+      ],
+      "name": "חניו בנו השני דשמעון הצדיק",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1716957",
+        "hyman-section:058102dca3824c8bd9f0"
+      ],
+      "name": "חיננא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717146",
+        "hyman-section:468aee117e472ebbe061"
+      ],
+      "name": "חמא אבוה דרב יוסף",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717176",
+        "hyman-section:db5b14918fd120df0139"
+      ],
+      "name": "חנא אבי רבה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717181",
+        "hyman-section:7268b24440ac09cd12da"
+      ],
+      "name": "חנא בר איסק",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717200",
+        "hyman-section:cf2f25478c322c60e5f8"
+      ],
+      "name": "חנין",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717201",
+        "hyman-section:7fd9851796c807a4e871"
+      ],
+      "name": "חנין בזמן הבית",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717424",
+        "hyman-section:f04ad7e16002371bcaea"
+      ],
+      "name": "חנינא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:375078",
+        "heiman:1710735"
+      ],
+      "name": "רבי חונה בר חמא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717072",
+        "hyman-section:1226b597c6bdee2e6259"
+      ],
+      "name": "רבי חייא בריה דרב אויא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333469",
+        "hyman-section:07fab7d109d4916b5f27"
+      ],
+      "name": "אחא אחיו דאבא אבוה דר ירמיה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333518",
+        "hyman-section:da8c6fa9348e331b764c"
+      ],
+      "name": "אחא בר סלא או כרסלא מכפרי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333580",
+        "hyman-section:09a8e81c5984ee3c068c"
+      ],
+      "name": "איבו בבלי בזמן רנ",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333620",
+        "hyman-section:c36d158b92a6cdf85ea9"
+      ],
+      "name": "איכו שם אשה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333652",
+        "hyman-section:a8858fcd081a2ec1276c"
+      ],
+      "name": "איסי אבוה או אחוה דר זירא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:375074",
+        "hyman-section:49e056d844074ada254d"
+      ],
+      "name": "רב חונה בר אדא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:375076",
+        "hyman-section:6172393397d88f20f8f2"
+      ],
+      "name": "רב חונה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1710715",
+        "hyman-section:4163907691e054c4d3aa"
+      ],
+      "name": "רב חביבא בר כהן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717404",
+        "hyman-section:d172a908b07e86cabdf3"
+      ],
+      "name": "רב חיננא בר אביי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717150",
+        "hyman-section:40880ccf7bca6bac097d"
+      ],
+      "name": "רב חמא בר אדא שליח ציון",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717180",
+        "hyman-section:0d51f0cbe149c26d9a07"
+      ],
+      "name": "רב חנא בר אחא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717199",
+        "hyman-section:bda4f0e85f9be89acbf9"
+      ],
+      "name": "רב חנילאי מחוזנאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717203",
+        "hyman-section:cb71e2f4570e3a45c66e"
+      ],
+      "name": "רב חנין תלמיד רב",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717309",
+        "hyman-section:a5d9ac5e1270adeb718b"
+      ],
+      "name": "רב חנן תלמיד רבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717316",
+        "hyman-section:e3415ede077cbcf83a7e"
+      ],
+      "name": "רב חנן בר אמי ב",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717428",
+        "hyman-section:b712f6e3f4ec0109b423"
+      ],
+      "name": "רב חנינא ורב הושעיא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:334363",
+        "hyman-section:09031ca16f1bc418631a"
+      ],
+      "name": "טבי עבדו דרבן גמליאל דיבנה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:334366",
+        "hyman-section:0bd5bdc1dabaced56e0d"
+      ],
+      "name": "רבי טביומי אמורא ירושלמי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:334383",
+        "hyman-section:f54243cffa785c6026c1"
+      ],
+      "name": "רבי טוביה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:334392",
+        "hyman-section:ee174416e2046af881d2"
+      ],
+      "name": "טרטירוי דמהלול",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1717205",
+        "hyman-section:a66d378e8baba7a88e9d"
+      ],
+      "name": "רבי חנין ירושלמי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:335921",
+        "hyman-section:e54dbdd1579045baf1bb"
+      ],
+      "name": "רב כהן אחיו דר חייא בר אבא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1715116",
+        "hyman-section:344376c8193c634c81c9"
+      ],
+      "name": "לקרח",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1715118",
+        "hyman-section:cb396aa20bfd8d93c4bc"
+      ],
+      "name": "לקיש",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1715119",
+        "hyman-section:f7e08543360bc0894358"
+      ],
+      "name": "לקוניא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333931",
+        "heiman:333176"
+      ],
+      "name": "אבא צידוני",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333935",
+        "hyman-section:44d366272cdff1ea94de"
+      ],
+      "name": "צפנת בת פניאל כהג",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:334114",
+        "hyman-section:f45096ff2655033788ec"
+      ],
+      "name": "קהלה קדישא דבירושלים",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:334117",
+        "hyman-section:66e8648270e228fdc400"
+      ],
+      "name": "קוסי או קוזות",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:334129",
+        "hyman-section:42708c5858da9276da3e"
+      ],
+      "name": "רבי קיסמא בן גירי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333658",
+        "hyman-section:c6d8bdefdc916f47e57a"
+      ],
+      "name": "איסי בריה דרב יצחק בריה דרב יהודה בר יחזקאל",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1709857",
+        "hyman-section:d5bdf06a36323fc97eb7"
+      ],
+      "name": "רבה בר יוסף",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1709899",
+        "hyman-section:eabe07faf97a0571d2ab"
+      ],
+      "name": "רבינא בר אבינא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1710120",
+        "hyman-section:00e997a80cac4523f026"
+      ],
+      "name": "רפרם בר פפא ב",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1710121",
+        "hyman-section:8f203271a426b04fa686"
+      ],
+      "name": "רפרם בר פפא מסיכרא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1709394",
+        "heiman:1709395"
+      ],
+      "name": "רב שיזבי ב",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1709431",
+        "hyman-section:94815971cedb151148ff"
+      ],
+      "name": "שגביון",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:334430",
+        "hyman-section:72c534f01ef3c0242e8b"
+      ],
+      "name": "רבי תחליפא אמורא ירושלמי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:334437",
+        "hyman-section:589eb4341433366e37a4"
+      ],
+      "name": "רבי תחליפא בר גיזא או גזא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:334438",
+        "hyman-section:28ed36b33cc164ee746e"
+      ],
+      "name": "רבי תחליפא בר בר חנא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:334442",
+        "hyman-section:70288cd403097ac99818"
+      ],
+      "name": "רבי תחליפא בר שאול או שמואל",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1715129",
+        "hyman-section:073ad6d72b612d81a065"
+      ],
+      "name": "שמעון איש קטרון",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1715973",
+        "hyman-section:4c11c3e738fc5435c6fc"
+      ],
+      "name": "שמעון בר נרשייא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:1715988",
+        "sefaria:shimon-b-azzai"
+      ],
+      "name": "שמעון בן עזאי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:334421",
+        "hyman-section:bda454ccd437f4bae0f0"
+      ],
+      "name": "תודוס איש רומי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:334431",
+        "hyman-section:d879b009417d38f3d2b5"
+      ],
+      "name": "רב תחליפא אבוה דרה בר תחליפא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:334432",
+        "hyman-section:5da8646c5d5d7b268627"
+      ],
+      "name": "רב תחליפא אחוה דרבינאי חוזאה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:334458",
+        "hyman-section:4bd404600b64438d8a1b"
+      ],
+      "name": "רבי תנחום בריה דר חייא איש כפר עכו",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333874",
+        "hyman-section:a8b4715e1828092017b1"
+      ],
+      "name": "אפרא הורמיז אימיה דשבור מלכא מלך פרס",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333261",
+        "hyman-section:18feb3c2b2b231aff5d1"
+      ],
+      "name": "רבי אבטולוס הזקן תנא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333320",
+        "hyman-section:48bcb17ea69c0033e0d9"
+      ],
+      "name": "רבי אבין בריה דר תנחום בר טרפון",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333332",
+        "hyman-section:a97c2903f342a7d18fd8"
+      ],
+      "name": "רבי אבינא או אבונא ובבבלי לפעמים רבינא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333348",
+        "hyman-section:232fa0b48ab26b25bce3"
+      ],
+      "name": "רבי אבשלום הזקן תנא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333394",
+        "hyman-section:754ce29e7dece3c46669"
+      ],
+      "name": "רבי אדא או רבי אידא דקיסרין",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333471",
+        "hyman-section:a48bc95516acd3e4c561"
+      ],
+      "name": "רבי אחא אחוי דר יוסי מברקתיה",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333521",
+        "hyman-section:8af66c49d41b796d9bc3"
+      ],
+      "name": "רבי אחא בר רב עולא או עילא-אילא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333547",
+        "hyman-section:06c4a8a6394de5d23426"
+      ],
+      "name": "רבי אחאי אמורא ירושלמי בדור ד",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333549",
+        "hyman-section:93be6d38ba88e84660a1"
+      ],
+      "name": "רבי אחאי בר חנינא תנא דברייתא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333583",
+        "hyman-section:8ffecc04d86710746f4f"
+      ],
+      "name": "רבי איבו או אייבו בר נגרי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333639",
+        "hyman-section:fc552fde559b1966ec1d"
+      ],
+      "name": "רבי אילפי בר קרויא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333708",
+        "hyman-section:9ac38ddceb46bd5a1b16"
+      ],
+      "name": "רבי אלעזר אבוי דר יצחק בר נחמן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333729",
+        "hyman-section:63167215cf6cc70e910e"
+      ],
+      "name": "רבי אליעזר בן חלפתא אמורא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333763",
+        "hyman-section:1c2bbd8a82b58a77b27b"
+      ],
+      "name": "רבי אלעזר בן פילא או פיאבי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333313",
+        "hyman-section:e1e536eb8205491bba64"
+      ],
+      "name": "רבי בון אבין בר כהן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333362",
+        "hyman-section:a10d2b65be5d61761694"
+      ],
+      "name": "רב אדא בר אהבה ג",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333373",
+        "hyman-section:c98e64802efbe88887c7"
+      ],
+      "name": "רב אדא בריה דרב יצחק או בר יצחק",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333436",
+        "sefaria:rav-aviya-the-elder"
+      ],
+      "name": "רב אויא סבא מפומבדיתא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333563",
+        "hyman-section:14fec7db9a8477e671b3"
+      ],
+      "name": "רב אחיי בר אדא לגרסת מהרשל דמן אחא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333676",
+        "hyman-section:5669f6a7779ddf74e1d5"
+      ],
+      "name": "רב איקא בריה דרב חיננא או חנניא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333310",
+        "hyman-section:e856d4243d48a529c73c"
+      ],
+      "name": "רבין בר חיננא או חנינא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333264",
+        "hyman-section:a41c0859b46c777ce455"
+      ],
+      "name": "אבטולוס או אבטולמוס בר ראובן",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333269",
+        "hyman-section:05696d05ff3b1cb5483d"
+      ],
+      "name": "אביי אמורא קדמון באי בדור השני",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:333311",
+        "hyman-section:1e548dae046435094af9"
+      ],
+      "name": "אבין רבין בר רב חסדא",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:380533",
+        "hyman-section:b44e9e1ef81c0f317d04"
+      ],
+      "name": "בן פלח או פלך",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "heiman:379147",
+        "hyman-section:f2c962eb3b10b01c500c"
+      ],
+      "name": "רבי ביבי בר אבין או אביי",
+      "basis": "Same normalized canonical name; identity equivalence not established",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:336",
+        "hewiki:1247827"
+      ],
+      "basis": "Honorific variant or shared short name; distinct upstream IDs and different attributed passages do not by themselves prove distinct people.",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-bivi",
+        "bonayich:599"
+      ],
+      "basis": "Honorific variant or shared short name; distinct upstream IDs and different attributed passages do not by themselves prove distinct people.",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1101",
+        "hewiki:1233120"
+      ],
+      "basis": "Honorific variant or shared short name; distinct upstream IDs and different attributed passages do not by themselves prove distinct people.",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:921215",
+        "bonayich:1315"
+      ],
+      "basis": "Honorific variant or shared short name; distinct upstream IDs and different attributed passages do not by themselves prove distinct people.",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "hewiki:991992",
+        "bonayich:1486"
+      ],
+      "basis": "Honorific variant or shared short name; distinct upstream IDs and different attributed passages do not by themselves prove distinct people.",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:1660",
+        "bonayich:1659"
+      ],
+      "basis": "Honorific variant or shared short name; distinct upstream IDs and different attributed passages do not by themselves prove distinct people.",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "sefaria:rav-mesharshiya",
+        "bonayich:2207"
+      ],
+      "basis": "Honorific variant or shared short name; distinct upstream IDs and different attributed passages do not by themselves prove distinct people.",
+      "shared_primary_ref": null
+    },
+    {
+      "identity_keys": [
+        "bonayich:2759",
+        "hewiki:63201"
+      ],
+      "basis": "Honorific variant or shared short name; distinct upstream IDs and different attributed passages do not by themselves prove distinct people.",
+      "shared_primary_ref": null
+    }
+  ]
+}

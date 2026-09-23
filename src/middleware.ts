@@ -35,7 +35,17 @@ export async function middleware(request: NextRequest) {
     },
   });
 
-  await supabase.auth.getUser();
+  // Dead or misconfigured Supabase must not block public pages (local pilot uses pilot.json).
+  try {
+    await Promise.race([
+      supabase.auth.getUser(),
+      new Promise<never>((_, reject) => {
+        setTimeout(() => reject(new Error("supabase auth timeout")), 2000);
+      }),
+    ]);
+  } catch {
+    /* session refresh optional for anonymous public routes */
+  }
   return response;
 }
 

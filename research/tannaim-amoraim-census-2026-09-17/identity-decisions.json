@@ -1,0 +1,20 @@
+{
+  "description": "Evidence-based research decisions, not live-database changes. Numbering is inherited from sources.",
+  "crosswalks": [
+    {"sefaria_slug":"rav-kahana-(i)","hewiki_pageid":872048,"basis":"Both describe the first-generation Kahana, companion of Rav Asi, who studied with Rav without adopting his approach and later interacted with Rabbi Chiyya's sons in Eretz Israel.","sources":["https://www.sefaria.org/topics/rav-kahana-(i)","https://he.wikipedia.org/?curid=872048"]},
+    {"sefaria_slug":"rabbi-chiyya","hewiki_pageid":331178,"basis":"Rabbi Chiyya the compiler/student of Rabbi Yehudah HaNasi. Hyman's Rabbi Chiyya entry explicitly distinguishes him from Rabbi Chiyya bar Abba.","sources":["https://www.sefaria.org/topics/rabbi-chiyya","https://he.wikipedia.org/?curid=331178"]},
+    {"sefaria_slug":"rabbi-chiyya-b-abba","hewiki_pageid":760315,"basis":"Third-generation Amora and student of Rabbi Yochanan; distinguish from Rabbi Chiyya the elder. Sefaria's outgoing Wikipedia link to Rabbi Chiyya is an erroneous cross-identity link.","sources":["https://www.sefaria.org/topics/rabbi-chiyya-b-abba","https://he.wikipedia.org/?curid=760315"]},
+    {"sefaria_slug":"rav-kahana-(ii)","hewiki_pageid":699274,"basis":"Both biographies identify the student of Rav who fled Babylonia and studied with Rabbi Yochanan; source numbering also agrees.","sources":["https://www.sefaria.org/topics/rav-kahana-(ii)","https://he.wikipedia.org/?curid=699274"]},
+    {"sefaria_slug":"rav-kahana-(iii)","hewiki_pageid":735261,"basis":"Both identify the student of Rav Yehudah and Rabbah, companion of Rav Safra, student of Rabbi Abbahu, academy head at Pum Nahara and teacher of Rav Ashi.","sources":["https://www.sefaria.org/topics/rav-kahana-(iii)","https://he.wikipedia.org/?curid=735261"]},
+    {"sefaria_slug":"rav-kahana-(iv)","hewiki_pageid":735521,"basis":"Both distinguish the later Rav Kahana, contemporary of Rav Ashi and head of Pumbedita. Preserve their different generation labels; do not merge him with the Pum Nahara teacher of Rav Ashi.","sources":["https://www.sefaria.org/topics/rav-kahana-(iv)","https://he.wikipedia.org/?curid=735521"]}
+  ],
+  "rejected_external_links": [{"sefaria_slug":"rabbi-chiyya-b-abba","hewiki_pageid":331178,"reason":"Biographies describe different teachers and generations; Hyman explicitly distinguishes the two."}],
+  "manual_review": [{"identity_key":"bonayich:2020","reason":"Kahana, teacher of Rav, is a distinct Bonayich record; Wikipedia's first Kahana biography also describes Rav learning traditions from him. Determine whether this is an additional person or an alternative traditional identification before counting it separately.","sources":["https://he.wikipedia.org/?curid=872048","https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json"]}],
+  "assignment_exclusions": [
+    {"identity_key":"sefaria:rabbi-yannai","ref":"Pirkei Avot 4:15","reason":"Hebrew Wikipedia distinguishes Rabbi Yannai the Tanna, speaker in Avot, from Rabbi Yannai the Amora. Do not use the bare shared name or an upstream NER assignment to collapse them.","source":"https://he.wikipedia.org/wiki/רבי_ינאי_(תנא)"}
+  ],
+  "non_merge_examples": [
+    {"names":["אבטליון","שמעיה"],"reason":"Hyman's see-entry cross-reference can point to a joint discussion; it is not an assertion that the two names are one person."},
+    {"names":["רב כהנא (הראשון)","רב כהנא (השני)","רב כהנא מפום נהרא","רב כהנא (הרביעי)"],"reason":"Separate source-defined biographies, generations and interaction contexts. Generic כהנא mentions are not distributed to all four as proof of identity."}
+  ]
+}

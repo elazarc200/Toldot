@@ -1,0 +1,112 @@
+{
+  "generated_at": "2026-09-17T23:46:15.337Z",
+  "merges": [
+    {
+      "target": "sefaria:geniva",
+      "from": "hewiki:1183469",
+      "reason": "Same first-generation Babylonian Amora Geniva, pupil of Rav; Wikipedia biography matches Berakhot 25a passages on the Sefaria profile."
+    },
+    {
+      "target": "sefaria:rebbi-gorion",
+      "from": "bonayich:814",
+      "reason": "Same Rabbi Gorion transmitting the Shabbat 33b:4 teaching on righteous people suffering for the generation."
+    },
+    {
+      "target": "sefaria:botnit",
+      "from": "heiman:379121",
+      "reason": "Same Botnit son of Abba Shaul ben Botnit in Nedarim 23a:3; Hyman identifies the father-son Botnit family."
+    },
+    {
+      "target": "sefaria:rav-zevid1",
+      "from": "hyman-section:ba292ef58bf338dc7233",
+      "reason": "Same Zevida in Avodah Zarah 16a:12; Hyman separates this Amoraic figure from the biblical Zevida entry in the same section."
+    },
+    {
+      "target": "sefaria:alexander",
+      "from": "heiman:333697",
+      "reason": "Same Alexander, brother of Rabbi Huryina and Rabbi Samuel bar Susartai, in Yerushalmi Bava Batra 9:3:5."
+    },
+    {
+      "target": "bonayich:805",
+      "from": "heiman:381573",
+      "reason": "Same Gevini, Temple herald in Yoma 20b:7; Hyman cites Shekalim and Tamid parallels."
+    }
+  ],
+  "promoted_count": 3,
+  "promoted": [
+    {
+      "identity_key": "sefaria:avimi",
+      "name": "אבימי",
+      "confidence": "high"
+    },
+    {
+      "identity_key": "sefaria:geniva",
+      "name": "גניבא",
+      "confidence": "high"
+    },
+    {
+      "identity_key": "sefaria:rebbi-gorion",
+      "name": "רִבִּי גּוּרִיוֹן",
+      "confidence": "medium"
+    }
+  ],
+  "separate_or_unresolved": [
+    {
+      "action": "separate_identity",
+      "batch": 5,
+      "identity_keys": [
+        "hewiki:2176997",
+        "hyman-section:b5b65d4b1a0af20c2da9"
+      ],
+      "status": "decided",
+      "reason": "Hyman notes the Berakhot 38b transmission attributed to Ravnai should read Rava per Dikdukei Sofrim; not the Ravnai who is brother of Rabbi Hiyya bar Abba.",
+      "primary_refs": [
+        "Berakhot 38b:3"
+      ],
+      "sources": [
+        "https://he.wikisource.org/w/index.php?oldid=2807665"
+      ]
+    },
+    {
+      "action": "insufficient_evidence",
+      "batch": 5,
+      "identity_keys": [
+        "sefaria:rav-huna",
+        "hyman-section:32a37ab9d57da53aa0d0"
+      ],
+      "status": "unresolved",
+      "reason": "Only one shared primary passage (Arakhin 16b:9) for a major sage with extensive independent profiles; name-level candidate only.",
+      "shared_refs": [
+        "Arakhin 16b:9"
+      ]
+    }
+  ],
+  "counts_before": {
+    "tannaim": 213,
+    "amoraim": 598,
+    "amoraim_eretz_israel": 79,
+    "amoraim_babylonia": 127,
+    "amoraim_mixed_unknown": 392,
+    "total_unique_sages": 811,
+    "high_confidence_identities": 294,
+    "medium_confidence_identities": 517,
+    "manual_review_candidate_records": 3425,
+    "suspected_duplicate_pairs": 439,
+    "suspected_duplicate_candidate_records": 794,
+    "records_with_direct_primary_chazal_evidence": 811
+  },
+  "counts_after": {
+    "tannaim": 213,
+    "amoraim": 601,
+    "amoraim_eretz_israel": 79,
+    "amoraim_babylonia": 129,
+    "amoraim_mixed_unknown": 393,
+    "total_unique_sages": 814,
+    "high_confidence_identities": 296,
+    "medium_confidence_identities": 518,
+    "manual_review_candidate_records": 3416,
+    "suspected_duplicate_pairs": 429,
+    "suspected_duplicate_candidate_records": 781,
+    "records_with_direct_primary_chazal_evidence": 814
+  }
+}

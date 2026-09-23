@@ -1,0 +1,120 @@
+[
+  {
+    "key": "yerushalmi_nonexisting_topics.json",
+    "url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Data/master/research/knowledge_graph/named_entity_recognition/external_named_entities/yerushalmi_nonexisting_topics.json",
+    "gitBlob": "769011c947cf3a5ad41871bd3204347398b2bb7b",
+    "bytes": 8465,
+    "sha256": "3b2e6efac31e50ae5be7fa691a3b1589ec93f168737bb36c0316bf59a2f520a1",
+    "retrieved": "2026-09-16T23:57:32.543Z"
+  },
+  {
+    "key": "bonayich_scripts.py",
+    "url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Data/master/research/knowledge_graph/named_entity_recognition/bonayich_scripts.py",
+    "gitBlob": "5400217bf02dbbaaa1e203781404e2cc53c01329",
+    "bytes": 4549,
+    "sha256": "15059cb1dfbcd20a98adcccb09f3aa63c240e12cb216cd3da41d396e6197770d",
+    "retrieved": "2026-09-16T23:57:32.551Z"
+  },
+  {
+    "key": "convert_sperling_data.py",
+    "url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Data/master/research/knowledge_graph/named_entity_recognition/convert_sperling_data.py",
+    "gitBlob": "436cdbb475915a72879b18829652266415c2b771",
+    "bytes": 33310,
+    "sha256": "aac75f884c07e1fac4bee21e21646e9c1701f2b03ceec7d5760fd2eccef764bc",
+    "retrieved": "2026-09-16T23:57:32.567Z"
+  },
+  {
+    "key": "sperling_named_entities.json",
+    "url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Data/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json",
+    "gitBlob": "9cd877c86333455c2f6c5a651c511f85939ceee6",
+    "bytes": 345123,
+    "sha256": "f70e8115ca8b0b870e67c04c63fef00808c3624a29c2cb8b18d2c23cf3669ecc",
+    "retrieved": "2026-09-16T23:57:32.584Z"
+  },
+  {
+    "key": "import_yerushalmi_rabbis.py",
+    "url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Data/master/research/knowledge_graph/named_entity_recognition/import_yerushalmi_rabbis.py",
+    "gitBlob": "4827c02eb5f94e07ef7b02c120100e4585952ddd",
+    "bytes": 12162,
+    "sha256": "62d252cabeb459a276346fd7ec33cce3f88be0514042f8308fd8d76a41972a4b",
+    "retrieved": "2026-09-16T23:57:32.812Z"
+  },
+  {
+    "key": "ner_tagger_input_mishnah.json",
+    "url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Data/master/research/knowledge_graph/named_entity_recognition/ner_input/ner_tagger_input_mishnah.json",
+    "gitBlob": "00d980f99e2ca8f9bb468ced20a40e48399f4fbe",
+    "bytes": 4924,
+    "sha256": "6e433a933722e4681b74fbf3cd4123be930d9b4b64251a44ca421fe4688e8865",
+    "retrieved": "2026-09-16T23:57:32.828Z"
+  },
+  {
+    "key": "ner_tagger_input_bavli.json",
+    "url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Data/master/research/knowledge_graph/named_entity_recognition/ner_input/ner_tagger_input_bavli.json",
+    "gitBlob": "0ecbac6115d49da484faa4a947907458c70ccc9d",
+    "bytes": 6078,
+    "sha256": "6aa7909d1d2b3037f5fca933b6359adefcb8c2c03c0a109eb4f496cfa3aab5b9",
+    "retrieved": "2026-09-16T23:57:32.837Z"
+  },
+  {
+    "key": "ner_tagger_input_tosefta.json",
+    "url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Data/master/research/knowledge_graph/named_entity_recognition/ner_input/ner_tagger_input_tosefta.json",
+    "gitBlob": "c1a3b2336b195cf629ed44501300eb3e10559418",
+    "bytes": 792,
+    "sha256": "2e7d42d445125d65487dca6308bdc7ae5a91ebc7d85b8b86e4868d6327e03647",
+    "retrieved": "2026-09-16T23:57:32.854Z"
+  },
+  {
+    "key": "ner_tagger_input_yerushalmi.json",
+    "url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Data/master/research/knowledge_graph/named_entity_recognition/ner_input/ner_tagger_input_yerushalmi.json",
+    "gitBlob": "39fda8fd08f4d2fdd0b76d057148d3e5afd0348b",
+    "bytes": 5280,
+    "sha256": "8d7e87a765163ec725e69c86583cd47e6a915a01836ab83251c407acfe15a015",
+    "retrieved": "2026-09-16T23:57:33.075Z"
+  },
+  {
+    "key": "sperling_mentions_bavli.json",
+    "url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Data/master/research/knowledge_graph/named_entity_recognition/pretagged_mentions/sperling_mentions_bavli.json",
+    "gitBlob": "77faa19480f9e6b8cd864bda4ac80a6d614f9e38",
+    "bytes": 849332,
+    "sha256": "4e391c640df1f34bd8b9bf4d9eb54b58494c58da8d8dab60225da56ba05c07e7",
+    "retrieved": "2026-09-16T23:57:33.218Z"
+  },
+  {
+    "key": "sperling_mentions_mishnah.json",
+    "url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Data/master/research/knowledge_graph/named_entity_recognition/pretagged_mentions/sperling_mentions_mishnah.json",
+    "gitBlob": "827dda539dc0bcb9d2ec63eeb4a8b82253233ed2",
+    "bytes": 1127673,
+    "sha256": "15cbf61ea982a6ed7b66d0d761f90778e50665952c9a292b71950aaa024083c2",
+    "retrieved": "2026-09-16T23:57:33.252Z"
+  },
+  {
+    "key": "sperling_mentions_tosefta.json",
+    "url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Data/master/research/knowledge_graph/named_entity_recognition/pretagged_mentions/sperling_mentions_tosefta.json",
+    "gitBlob": "698f31bebfa7bc042e1737b6872bcee549dc8098",
+    "bytes": 1604051,
+    "sha256": "1c4febb0e5eb5bd0d3b8db650992d7519748d30e5d6b601437dfabc630cf91f2",
+    "retrieved": "2026-09-16T23:57:33.337Z"
+  },
+  {
+    "key": "RabbisNames.csv",
+    "url": "https://raw.githubusercontent.com/Sefaria/Sefaria-Data/master/research/topics/RabbisNames.csv",
+    "gitBlob": "b8cc26669264420f0bf7330a6c0787e7c027c005",
+    "bytes": 254528,
+    "sha256": "baca5f70b851887598a6532417a8831cc21dc67b6ea1ad21c53e6bd5ec2dfec3",
+    "retrieved": "2026-09-16T23:57:33.456Z"
+  },
+  {
+    "key": "export-root.json",
+    "url": "https://api.github.com/repos/Sefaria/Sefaria-Export/contents/",
+    "bytes": 6636,
+    "sha256": "b8bfd50ce22cf47c55fb4ba1cc2dc39de9ff09579a9d27ec5e78e71ae0bae5d9",
+    "retrieved": "2026-09-16T23:57:33.494Z"
+  },
+  {
+    "key": "topic-akiva.json",
+    "url": "https://www.sefaria.org/api/topics/rabbi-akiva?with_refs=1&with_links=1",
+    "bytes": 5072606,
+    "sha256": "cb5683e8a5c15a82c3bb6aba22a51fcca4a7d0f8cb51ecd8a2fbf59140377c13",
+    "retrieved": "2026-09-16T23:57:35.969Z"
+  }
+]

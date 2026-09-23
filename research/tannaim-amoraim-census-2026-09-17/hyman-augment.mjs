@@ -1,0 +1,16 @@
+import {read,write,uuid,norm,clean} from './lib.mjs';
+const records=read('candidate-identities.json'),entries=read('hyman-entries.json'),bySection=new Map(),linked=new Set();
+for(const r of records){if(!r.reference_transclusion)continue;const section=r.reference_transclusion.match(/onlysection="([^"]+)"/)?.[1],vol=r.reference_transclusion.match(/veAmoraim\. (I+)\./)?.[1];if(section&&vol){const k=vol+':'+section;const a=bySection.get(k)||[];a.push(r);bySection.set(k,a);}}
+const audit=read('merge-audit.json');
+for(const e of entries){if(e.nonperson)continue;const targets=bySection.get(e.volume+':'+e.title)||[];let r;const source={kind:'hyman_1910_transcription',url:e.parts[0].url,detail:'אהרן הימן, תולדות תנאים ואמוראים, כרך '+e.volume+', ערך '+e.title,volume:e.volume,section:e.title,print_scan_pages:e.parts.map(x=>x.page),page_revisions:e.parts.map(x=>({page:x.page,revision:x.revision,quality:x.quality,url:x.url}))};
+ if(targets.length===1){r=targets[0];audit.push({from:e.key,to:r.identity_key,basis:'Wikisource exact volume and onlysection transclusion',source:source.url});linked.add(e.key);}else{r={person_id:uuid(e.key),identity_key:e.key,canonical_name_he:e.title,canonical_name_en:null,aliases:[{name:e.title,language:'he',source:source.url}],classification:null,classification_assertions:[],generation:[],region:'unknown',region_assertions:[],teachers:[],students:[],family:[],locations:[],primary_chazal_evidence:[],secondary_identity_evidence:[],notes:[],review_reasons:[],external_ids:{},traditional_identification:null,scholarly_disagreements:[],birth_year:null,death_year:null};records.push(r);}
+ r.secondary_identity_evidence.push(source);r.hyman_section_key=e.key;r.hyman_entry_text=e.text;r.hyman_citation_links=e.reference_links;r.traditional_identification={source:source.url,entry:e.title,knowledge_state:e.identity_caution?'disputed':'known',assessment:'Traditional reference text preserved; no modern replacement applied.'};
+ r.review_reasons=r.review_reasons.filter(x=>!x.startsWith('Traditional reference entry:'));
+ if(e.classification){if(!r.classification)r.classification=e.classification;r.classification_assertions.push({value:e.classification,source,quotation:e.classification_basis});}
+ if(e.redirect_target){r.hyman_cross_reference=e.redirect_target;r.review_reasons.push('Cross-reference-only Hyman entry. A see-reference is not proof of identity (e.g. Avtalyon → Shemaiah).');}
+ if(e.identity_caution)r.notes.push('Hyman discusses variant readings/correction/uncertainty; see the full traditional entry.');
+ if(e.distinct_nonadjacent_parts)r.review_reasons.push('Same section marker occurs on nonadjacent print pages; verify identity and segmentation.');
+ const bare=e.title.replace(/\([^)]*\)/g,'').trim();if(bare!==e.title&&bare.length>3)r.aliases.push({name:bare,language:'he',source:source.url,search_only:true});
+ // Do not infer aliases from "see entry" alone or assign a generation from a name string.
+}
+write('candidate-identities.json',records);write('merge-audit.json',audit);write('hyman-attachment-report.json',{sections:entries.length,attached_by_explicit_transclusion:linked.size,new_reference_candidates:entries.filter(e=>!e.nonperson&&!linked.has(e.key)).length});console.log('after Hyman attachment',records.length,'exact transclusion links',linked.size);

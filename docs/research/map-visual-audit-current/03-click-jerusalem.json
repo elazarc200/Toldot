@@ -1,0 +1,18 @@
+{
+  "open": true,
+  "h2": "ירושלים",
+  "rect": {
+    "x": 71,
+    "y": 386.578125,
+    "w": 360,
+    "h": 510
+  },
+  "style": {
+    "opacity": "1",
+    "visibility": "visible",
+    "display": "block",
+    "zIndex": "5"
+  },
+  "inViewport": true,
+  "coveredBy": null
+}

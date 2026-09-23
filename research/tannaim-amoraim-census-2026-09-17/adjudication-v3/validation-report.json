@@ -1,0 +1,101 @@
+{
+  "generated_at": "2026-09-18T00:23:21.736Z",
+  "result": "PASSED_STRUCTURAL_CHECKS_WITH_RESEARCH_LIMITATIONS",
+  "checks": [
+    {
+      "check": "duplicate_person_ids",
+      "status": "pass",
+      "findings": []
+    },
+    {
+      "check": "duplicate_identity_keys",
+      "status": "pass",
+      "findings": []
+    },
+    {
+      "check": "duplicate_canonical_people_in_counted_dataset",
+      "status": "pass",
+      "findings": [],
+      "note": "Canonical-name and external-ID checks cannot prove the absence of all unknown aliases."
+    },
+    {
+      "check": "duplicate_external_person_id_wikidata",
+      "status": "pass",
+      "findings": []
+    },
+    {
+      "check": "duplicate_external_person_id_hewiki_pageid",
+      "status": "pass",
+      "findings": []
+    },
+    {
+      "check": "duplicate_external_person_id_bonayich",
+      "status": "pass",
+      "findings": []
+    },
+    {
+      "check": "tanna_amora_conflicts_in_counted_dataset",
+      "status": "pass",
+      "findings": [],
+      "quarantined": 1
+    },
+    {
+      "check": "generation_conflicts",
+      "status": "pass",
+      "findings": [],
+      "note": "Sefaria and Wikipedia generation numbering are separate schemes. Multiple adjacent-generation Wikipedia categories are not automatically contradictions."
+    },
+    {
+      "check": "impossible_chronology",
+      "status": "pass_with_missing_data",
+      "birth_death_pairs_tested": 17,
+      "teacher_student_pairs_tested": 8,
+      "findings": [],
+      "note": "Unknown dates remain null; untestable chronology is not certified as valid."
+    },
+    {
+      "check": "primary_source_segment_and_name_verification",
+      "status": "pass",
+      "verified_evidence_records": 9515,
+      "findings": [],
+      "note": "Checked against downloaded full text and retained export coordinates. This proves textual occurrence, not infallibility of upstream identity attribution."
+    },
+    {
+      "check": "counted_records_without_primary_or_identity_sources",
+      "status": "pass",
+      "findings": []
+    },
+    {
+      "check": "suspicious_merges",
+      "status": "reviewable_audit",
+      "merges": 2811,
+      "merges_without_basis": 0,
+      "note": "All merges retain a basis. Exact-name/common-passage merges remain medium confidence; no generic see-entry cross-reference is an identity merge."
+    },
+    {
+      "check": "input_record_conservation",
+      "status": "pass",
+      "input": 4276,
+      "output": 4276
+    },
+    {
+      "check": "mixed_yitzhak_topic_assignments_quarantined",
+      "status": "pass"
+    },
+    {
+      "check": "collectives_not_counted_as_people",
+      "status": "pass"
+    },
+    {
+      "check": "count_reconciliation",
+      "status": "pass"
+    }
+  ],
+  "manual_review_candidate_records": 3410,
+  "not_certified": [
+    "Exhaustive identification of every historical person",
+    "Complete chronology for undated people",
+    "Complete teacher/student/family graph",
+    "Automatic NER and encyclopedia identity decisions as infallible"
+  ]
+}

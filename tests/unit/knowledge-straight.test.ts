@@ -6,7 +6,8 @@ it('keeps Nahum close to Akiva without moving him out of his generation',()=>{
  const pos=(slug:string)=>g.positions.get(data.people.find(p=>p.slug===slug)!.id)!;
  expect(Math.abs(pos('nahum-gamzu').x-pos('akiva').x)).toBeLessThanOrEqual(300);
  expect(pos('nahum-gamzu').rank).toBe(8);expect(pos('akiva').rank).toBe(9);
-});
+// Laying out the whole tree takes a few seconds, more than the default per-test budget allows.
+},20000);
 it('supports Yehuda’s teachers with rabbinic sources and retains real disputes',()=>{
  const id=(slug:string)=>data.people.find(p=>p.slug===slug)!.id;
  for(const teacher of ['akiva','tarfon']){

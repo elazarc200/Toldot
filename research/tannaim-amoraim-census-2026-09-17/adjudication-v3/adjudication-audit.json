@@ -1,0 +1,1720 @@
+[
+  {
+    "action": "same_person",
+    "target": "sefaria:sumkhos",
+    "from": "hewiki:705260",
+    "reason": "Both identify Rabbi Meir’s pupil, with the same rulings on tzerorot and disputed money.",
+    "primary_comparison": [
+      {
+        "ref": "Bava Kamma 17b:7",
+        "excerpt": "תנו רבנן: בהמה מועדת להלך כדרכה ולשבר. כיצד? בהמה שנכנסה לחצר הניזק והזיקה בגופה דרך הלוכה, ובשערה דרך הלוכה; באוכף שעליה, ובשליף שעליה, ובפרומביא שבפיה, ובזוג שבצוארה; וחמור במשאו משלם נזק שלם. סומכוס אומר: צרורות, וחזיר שהיה נובר באשפה והזיק משלם נזק שלם.",
+        "url": "https://www.sefaria.org/Bava_Kamma_17b%3A7"
+      },
+      {
+        "ref": "Bava Kamma 17b:9",
+        "excerpt": "צרורות מאן דכר שמיהו? חסורי מחסרא, והכי קתני: צרורות כי אורחייהו חצי נזק. וחזיר שהיה נובר באשפה, והתיז והזיק משלם חצי נזק. סומכוס אומר: צרורות, וחזיר שהיה נובר באשפה והתיז והזיק משלם נזק שלם.",
+        "url": "https://www.sefaria.org/Bava_Kamma_17b%3A9"
+      },
+      {
+        "ref": "Bava Kamma 17b:10",
+        "excerpt": "תנו רבנן: תרנגולין שהיו מפריחין ממקום למקום, ושברו כלים בכנפיהן משלם נזק שלם. ברוח שבכנפיהן משלמין חצי נזק. סומכוס אומר: נזק שלם. תניא אידך: תרנגולין שהיו מהדסין על גבי עיסה ועל גבי פירות, וטינפו או ניקרו משלם נזק שלם. העלו עפר או צרורות משלמין חצי נזק. סומכוס אומר: נזק שלם.",
+        "url": "https://www.sefaria.org/Bava_Kamma_17b%3A10"
+      },
+      {
+        "ref": "Bava Kamma 17b:12",
+        "excerpt": "אמר רבא: בשלמא סומכוס קסבר: כחו כגופו דמי. אלא רבנן, אי כגופו דמי כוליה נזק בעי לשלם; ואי לאו כגופו דמי, חצי נזק נמי לא לשלם!",
+        "url": "https://www.sefaria.org/Bava_Kamma_17b%3A12"
+      },
+      {
+        "ref": "Bava Kamma 35b:4",
+        "excerpt": "גמ' אמר רבי חייא בר אבא: [זאת אומרת] חלוקים עליו חביריו על סומכוס, דאמר: ממון המוטל בספק חולקין.",
+        "url": "https://www.sefaria.org/Bava_Kamma_35b%3A4"
+      },
+      {
+        "ref": "Bava Kamma 35b:5",
+        "excerpt": "אמר ליה רבי אבא בר ממל לרבי חייא בר אבא: אמר סומכוס אפילו ברי וברי? אמר ליה: אין, אמר סומכוס אפילו ברי וברי.",
+        "url": "https://www.sefaria.org/Bava_Kamma_35b%3A5"
+      },
+      {
+        "ref": "Bava Kamma 35b:14",
+        "excerpt": "ואמר סומכוס אפילו בהא דאיצטריך לאשמועינן דלא?!",
+        "url": "https://www.sefaria.org/Bava_Kamma_35b%3A14"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/sumkhos",
+      "https://he.wikipedia.org/w/index.php?oldid=43603437",
+      "https://www.wikidata.org/wiki/Q2071105"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "sefaria:rabbi-zerika",
+    "from": "hewiki:868307",
+    "reason": "Amora, pupil of Rabbi Abbahu and colleague of Rabbi Jeremiah; identical transmission through Rabbi Ammi in Berakhot. Distinct from the Tanna mentioned in the Wikipedia article.",
+    "primary_comparison": [
+      {
+        "ref": "Berakhot 3b:14",
+        "excerpt": "מאי טעמיה דרבי? אמר רבי זריקא, אמר רבי אמי, אמר רבי יהושע בן לוי: כתוב אחד אומר: \"חצות לילה אקום להודות לך על משפטי צדקך\", וכתוב אחד אומר: \"קדמו עיני אשמורות\" הא כיצד, ארבע משמרות הוי הלילה.",
+        "url": "https://www.sefaria.org/Berakhot_3b%3A14"
+      },
+      {
+        "ref": "Berakhot 3b:17",
+        "excerpt": "ואמר רבי זריקא, אמר רבי אמי, אמר רבי יהושע בן לוי: אין אומרין בפני המת אלא דבריו של מת.",
+        "url": "https://www.sefaria.org/Berakhot_3b%3A17"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/rabbi-zerika",
+      "http://www.jewishencyclopedia.com/view.jsp?artid=113&letter=Z",
+      "https://he.wikipedia.org/w/index.php?oldid=42932247",
+      "https://www.wikidata.org/wiki/Q8069406"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "sefaria:amemar",
+    "from": "hewiki:564731",
+    "reason": "NeHardea judge/academy leader and contemporary of Rav Ashi, with matching legal discussions; not Amemar bar Mar Yenuka.",
+    "primary_comparison": [
+      {
+        "ref": "Arakhin 22a:21",
+        "excerpt": "מרימר אגבי (כתובתה) [כתובה] לגרושה מנכסי דיתמי. אמר ליה רבינא לאמימר: והאמר רב יהודה אמר רב אסי: \"אין נזקקין לנכסי יתומין אלא אם כן היתה רבית אוכלת בהן\". רבי יוחנן אומר: או לשטר שיש בו רבית, או לכתובת אשה משום מזוני!",
+        "url": "https://www.sefaria.org/Arakhin_22a%3A21"
+      },
+      {
+        "ref": "Avodah Zarah 48a:15",
+        "excerpt": "איזו היא אשרה סתם? אמר רב: כל שכומרים יושבין תחתיה ואין טועמין מפירותיה. ושמואל אמר: אפילו אמרי \"הני תמרי לבי נצרפי\" אסור, דרמי בי שיכרא ושתי ליה ביום אידם. אמר אמימר: אמרו לי סבי דפומבדיתא הלכתא כשמואל.",
+        "url": "https://www.sefaria.org/Avodah_Zarah_48a%3A15"
+      },
+      {
+        "ref": "Bava Batra 13b:7",
+        "excerpt": "אמר אמימר, הלכתא: אית דינא ד\"גוד\" או \"אגוד\". אמר ליה רב אשי לאמימר: הא דרב נחמן, מאי? אמר ליה: לא שמיעא לי; כלומר, לא סבירא לי. ולא?! והא רבין בר חיננא ורב דימי בר חיננא שבק להו אבוה תרתי אמהתא, חדא ידעא אפיא ובשולי, וחדא ידעא פילכא ונוולא; ואתו לקמיה דרבא, ואמר להו: לית דינא ד\"גוד\" או \"אגוד\"!",
+        "url": "https://www.sefaria.org/Bava_Batra_13b%3A7"
+      },
+      {
+        "ref": "Bava Batra 31a:8",
+        "excerpt": "אמר אמימר: אנא נהרדעא אנא, וסבירא לי דטוען וחוזר וטוען. והלכתא: טוען וחוזר וטוען.",
+        "url": "https://www.sefaria.org/Bava_Batra_31a%3A8"
+      },
+      {
+        "ref": "Bava Batra 55a:5",
+        "excerpt": "אמר רב אשי: אמר לי הונא בר נתן, קשי בה אמימר: אם כן, בטלת ירושת בנו הבכור דהוה ליה ראוי, ואין הבכור נוטל בראוי כבמוחזק.",
+        "url": "https://www.sefaria.org/Bava_Batra_55a%3A5"
+      },
+      {
+        "ref": "Bava Batra 165a:12",
+        "excerpt": "אמימר אכשר בעד אחד בכתב ועד אחד על פה. אמר ליה רב אשי לאמימר: והא דאביי, מאי? אמר ליה: לא שמיע לי כלומר, לא סבירא לי.",
+        "url": "https://www.sefaria.org/Bava_Batra_165a%3A12"
+      },
+      {
+        "ref": "Bava Kamma 70a:2",
+        "excerpt": "אמרי נהרדעי: לא כתבינן אורכתא אמטלטלי. אמר רב אשי לאמימר: מאי טעמא? אמר ליה: משום דרבי יוחנן,",
+        "url": "https://www.sefaria.org/Bava_Kamma_70a%3A2"
+      },
+      {
+        "ref": "Bava Kamma 70a:7",
+        "excerpt": "אמר אמימר: אי תפס לא מפקינן מיניה. רב אשי אמר: כיון דכתביה ליה \"כל דמתעני מן דינא קבילית עלי\" שליח שויה.",
+        "url": "https://www.sefaria.org/Bava_Kamma_70a%3A7"
+      },
+      {
+        "ref": "Bava Metzia 16b:11",
+        "excerpt": "אמר רבא: והני לאו בני פרעון נינהו? והא אמרי נהרדעי: שומא הדר עד תריסר ירחי שתא. ואמר אמימר: אנא מנהרדעא אנא, וסבירא לי דשומא הדר לעולם.",
+        "url": "https://www.sefaria.org/Bava_Metzia_16b%3A11"
+      },
+      {
+        "ref": "Bava Metzia 22a:10",
+        "excerpt": "אמימר ומר זוטרא ורב אשי אקלעו לבוסתנא דמרי בר איסק, אייתי אריסיה תמרי ורימוני ושדא קמייהו. אמימר ורב אשי אכלי, מר זוטרא לא אכל. אדהכי אתא מרי בר איסק, אשכחינהו, ואמר ליה לאריסיה: אמאי לא אייתית להו לרבנן מהנך שפירתא?",
+        "url": "https://www.sefaria.org/Bava_Metzia_22a%3A10"
+      },
+      {
+        "ref": "Bava Metzia 22a:11",
+        "excerpt": "אמרו ליה אמימר ורב אשי למר זוטרא: השתא אמאי לא אכיל מר? והתניא: אם נמצאו יפות מהן תרומתו תרומה! אמר להו, הכי אמר רבא: לא אמרו כלך אצל יפות אלא לענין תרומה בלבד, משום דמצוה הוא וניחא ליה, אבל הכא משום כסיפותא הוא דאמר הכי.",
+        "url": "https://www.sefaria.org/Bava_Metzia_22a%3A11"
+      },
+      {
+        "ref": "Zevachim 19a:2",
+        "excerpt": "אמר רב אשי, אמר לי הונא בר נתן: זימנא חדא הוה קאימנא קמיה דאיזגדר מלכא והוה מדלי לי המיינאי, ותיתייה ניהליה, ואמר לי: \"ממלכת כהנים וגוי קדוש\" כתיב בכו. כי אתאי קמיה דאמימר, אמר לי: אקיים בך \"והיו מלכים אמניך\".",
+        "url": "https://www.sefaria.org/Zevachim_19a%3A2"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/amemar",
+      "http://www.jewishencyclopedia.com/view.jsp?artid=1381&letter=A",
+      "https://he.wikipedia.org/w/index.php?oldid=41604162",
+      "https://www.wikidata.org/wiki/Q454422",
+      "https://he.wikisource.org/w/index.php?oldid=764893",
+      "https://he.wikisource.org/w/index.php?oldid=978082"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "sefaria:karna",
+    "from": "hewiki:726906",
+    "reason": "Judge in Nehardea associated with Samuel; the same Samuel–Karna narrative and legal statements.",
+    "primary_comparison": [
+      {
+        "ref": "Bava Batra 89a:9",
+        "excerpt": "תנו רבנן: \"(לא) יהיה לך\" מלמד שמעמידין אגרדמין למדות, ואין מעמידין אגרדמין לשערים. דבי נשיאה אוקימו אגרדמין בין למדות בין לשערים, אמר ליה שמואל לקרנא: פוק תני להו: מעמידין אגרדמין למדות, ואין מעמידין אגרדמין לשערים.",
+        "url": "https://www.sefaria.org/Bava_Batra_89a%3A9"
+      },
+      {
+        "ref": "Bava Batra 89a:10",
+        "excerpt": "נפק דרש להו: מעמידין אגרדמין בין למדות בין לשערים. אמר ליה: מה שמך? קרנא. תיפוק ליה קרנא בעיניה. נפקא ליה קרנא בעיניה. ואיהו כמאן סבר? כי הא דאמר רמי בר חמא אמר רבי יצחק: מעמידין אגרדמין בין למדות בין לשערים, מפני הרמאין.",
+        "url": "https://www.sefaria.org/Bava_Batra_89a%3A10"
+      },
+      {
+        "ref": "Bava Kamma 47b:19",
+        "excerpt": "תא שמע, דתני רב יהודה בר סימון בנזקין דבי קרנא: הכניס פירותיו לחצר בעל הבית שלא ברשות, ובא שור ממקום אחר ואכלן פטור. ואם הכניס ברשות חייב. מאן פטור ומאן חייב? לאו פטור בעל חצר, [וחייב בעל חצר]?",
+        "url": "https://www.sefaria.org/Bava_Kamma_47b%3A19"
+      },
+      {
+        "ref": "Shabbat 108a:8",
+        "excerpt": "אמר ליה: מאי שמך? קרנא. אמר ליה: יהא רעוא דתיפוק ליה קרנא בעיניה.",
+        "url": "https://www.sefaria.org/Shabbat_108a%3A8"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/karna",
+      "https://he.wikipedia.org/w/index.php?oldid=41848864",
+      "https://www.wikidata.org/wiki/Q7296284",
+      "https://he.wikisource.org/w/index.php?oldid=761980",
+      "https://he.wikisource.org/w/index.php?oldid=761937"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "sefaria:zeiri",
+    "from": "hewiki:873785",
+    "reason": "The Babylonian-born pupil of Rabbi Johanan in Eretz Israel; shared transmitted rulings. Numbered earlier Zeiri identities are not merged.",
+    "primary_comparison": [
+      {
+        "ref": "Avodah Zarah 60b:10",
+        "excerpt": "אמר רב חייא בריה דאבא בר נחמני, אמר רב חסדא אמר רב, ואמרי לה אמר רב חסדא אמר זעירי: הלכה כרבי שמעון. איכא דאמרי, אמר רב חסדא: אמר לי אבא בר חנן, הכי אמר זעירי: הלכה כרבי שמעון. ואין הלכה כרבי שמעון.",
+        "url": "https://www.sefaria.org/Avodah_Zarah_60b%3A10"
+      },
+      {
+        "ref": "Avodah Zarah 61b:8",
+        "excerpt": "רבי שמעון בן אלעזר אומר: רשות גוים אחת היא. איבעיא להו: רבי שמעון בן אלעזר להקל או להחמיר? רב יהודה אמר זעירי: להקל. רב נחמן אמר זעירי: להחמיר.",
+        "url": "https://www.sefaria.org/Avodah_Zarah_61b%3A8"
+      },
+      {
+        "ref": "Avodah Zarah 61b:9",
+        "excerpt": "רב יהודה אמר זעירי להקל, והכי קאמר תנא קמא: כשם שברשותו אסור, כך ברשות גוי אחר נמי אסור, וחיישינן לגומלין.",
+        "url": "https://www.sefaria.org/Avodah_Zarah_61b%3A9"
+      },
+      {
+        "ref": "Avodah Zarah 61b:11",
+        "excerpt": "רב נחמן אמר זעירי להחמיר, והכי קאמר תנא קמא: במה דברים אמורים? ברשותו, אבל ברשות גוי אחר מותר, ולא חיישינן לגומלין. רבי שמעון בן אלעזר אומר: כל רשות גוים אחת היא.",
+        "url": "https://www.sefaria.org/Avodah_Zarah_61b%3A11"
+      },
+      {
+        "ref": "Avodah Zarah 61b:12",
+        "excerpt": "תניא כוותיה דרב נחמן אמר זעירי להחמיר: אמר רבי שמעון בן אלעזר: כל רשות גוים אחת היא מפני הרמאין.",
+        "url": "https://www.sefaria.org/Avodah_Zarah_61b%3A12"
+      },
+      {
+        "ref": "Zevachim 114b:10",
+        "excerpt": "עולותיהן ושלמיהן. והני בני שלמים נינהו?! אמר רב ששת: תני נזיר. דזעירי קבעוה תנאי, דרב ששת לא קבעוה תנאי.",
+        "url": "https://www.sefaria.org/Zevachim_114b%3A10"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/zeiri",
+      "https://he.wikipedia.org/w/index.php?oldid=43668876",
+      "https://www.wikidata.org/wiki/Q12407250"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "hewiki:909608",
+    "from": "sefaria:ilfa",
+    "reason": "The same named speaker of the damages and slaughter rulings, identified in the biography as Rabbi Johanan’s colleague.",
+    "primary_comparison": [
+      {
+        "ref": "Bava Kamma 20a:2",
+        "excerpt": "אמר אילפא: בהמה ברשות הרבים, ופשטה צוארה ואכלה מעל גבי חברתה חייבת. מאי טעמא? גבי חברתה כחצר הניזק דמי.",
+        "url": "https://www.sefaria.org/Bava_Kamma_20a%3A2"
+      },
+      {
+        "ref": "Chullin 32b:15",
+        "excerpt": "ואמרינן: לאו היינו דבעי אילפא: הוציא עובר את ידו בין סימן לסימן, מהו?",
+        "url": "https://www.sefaria.org/Chullin_32b%3A15"
+      },
+      {
+        "ref": "Chullin 53b:11",
+        "excerpt": "בעי אילפא: יש דרוסה לסימנים או אין דרוסה לסימנים? אמר רבי זירא: הא דבעי אילפא כבר פירשה רב חנן בר רבא, דאמר רב חנן בר רבא אמר רב: דרוסה שאמרו צריכה בדיקה כנגד בית החלל כולו, ואפילו בסימנין.",
+        "url": "https://www.sefaria.org/Chullin_53b%3A11"
+      },
+      {
+        "ref": "Chullin 53b:12",
+        "excerpt": "בעי אילפא: סימנין שנדלדלו, בכמה? אמר רבי זירא: הא דבעי אילפא כבר פירשה רבה בר בר חנה, דאמר רבה בר בר חנה אמר שמואל: סימנים שנדלדלו ברובן.",
+        "url": "https://www.sefaria.org/Chullin_53b%3A12"
+      },
+      {
+        "ref": "Gittin 15b:11",
+        "excerpt": "בעי אילפא: ידים טהורות לחצאין, או אין טהורות לחצאין? היכי דמי? אילימא דקא משו בי תרי מרביעית, והא תנן: מרביעית נוטלין לידים, לאחד ואפילו לשנים!",
+        "url": "https://www.sefaria.org/Gittin_15b%3A11"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://he.wikipedia.org/w/index.php?oldid=41195770",
+      "https://www.wikidata.org/wiki/Q7018078",
+      "https://he.wikisource.org/w/index.php?oldid=763220",
+      "https://he.wikisource.org/w/index.php?oldid=977971",
+      "https://www.sefaria.org/topics/ilfa"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "hewiki:1249954",
+    "from": "sefaria:eifa",
+    "reason": "Same Eifa in the Shevuot 28b discussion; biography identifies the fourth-generation pupil of Rabbah and brother of Avimi.",
+    "primary_comparison": [
+      {
+        "ref": "Shevuot 28b:9",
+        "excerpt": "עיפא תני שבועות בי רבה. פגע ביה אבימי אחוה, אמר ליה: \"שבועה שלא אכלתי\" \"שבועה שלא אכלתי\", מהו? אמר ליה: אינו חייב אלא אחת. אמר ליה: אישתבשת, הרי יצאה שבועה לשקר!",
+        "url": "https://www.sefaria.org/Shevuot_28b%3A9"
+      },
+      {
+        "ref": "Shevuot 28b:12",
+        "excerpt": "אמר אביי: זימנין דמשכחת לה להא דעיפא, כדמר. דאמר רבה: \"שבועה שלא אוכל תאנים וענבים\", וחזר ואמר: \"שבועה שלא אוכל תאנים\";",
+        "url": "https://www.sefaria.org/Shevuot_28b%3A12"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://he.wikipedia.org/w/index.php?oldid=41197368",
+      "https://www.wikidata.org/wiki/Q19317839",
+      "https://www.sefaria.org/topics/eifa"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "hewiki:21945",
+    "from": "sefaria:beruriah",
+    "reason": "The same named woman in Eruvin 53b and Pesachim 62b; traditional identification as Rabbi Meir’s wife retained.",
+    "primary_comparison": [
+      {
+        "ref": "Eruvin 53b:24",
+        "excerpt": "רבי יוסי הגלילי הוה קא אזיל באורחא, אשכחה לברוריה אמר לה: באיזו דרך נלך ללוד? אמרה ליה: גלילי שוטה, לא כך אמרו חכמים: אל תרבה שיחה עם האשה?! היה לך לומר: \"באיזה ללוד\".",
+        "url": "https://www.sefaria.org/Eruvin_53b%3A24"
+      },
+      {
+        "ref": "Eruvin 53b:25",
+        "excerpt": "ברוריה אשכחתיה לההוא תלמידא דהוה קא גריס בלחישה.",
+        "url": "https://www.sefaria.org/Eruvin_53b%3A25"
+      },
+      {
+        "ref": "Pesachim 62b:9",
+        "excerpt": "אמר ליה: ניתנייה בתלתא ירחי. שקל קלא פתק ביה, אמר ליה: ומה ברוריה דביתהו דרבי מאיר ברתיה דרבי חנניה בן תרדיון, דתניא תלת מאה שמעתתא ביומא מתלת מאה רבוותא, ואפילו הכי לא יצתה ידי חובתה בתלת שנין, ואת אמרת בתלתא ירחי?!",
+        "url": "https://www.sefaria.org/Pesachim_62b%3A9"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://he.wikipedia.org/w/index.php?oldid=43881883",
+      "https://www.wikidata.org/wiki/Q469428",
+      "https://www.sefaria.org/topics/beruriah"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "hewiki:21945",
+    "from": "hyman-section:725d7e52d3342919f1d7",
+    "reason": "Same traditional Beruriah biography and independently cited Eruvin/Pesachim passages.",
+    "primary_comparison": [
+      {
+        "ref": "Eruvin 53b:24",
+        "excerpt": "רבי יוסי הגלילי הוה קא אזיל באורחא, אשכחה לברוריה אמר לה: באיזו דרך נלך ללוד? אמרה ליה: גלילי שוטה, לא כך אמרו חכמים: אל תרבה שיחה עם האשה?! היה לך לומר: \"באיזה ללוד\".",
+        "url": "https://www.sefaria.org/Eruvin_53b%3A24"
+      },
+      {
+        "ref": "Eruvin 53b:25",
+        "excerpt": "ברוריה אשכחתיה לההוא תלמידא דהוה קא גריס בלחישה.",
+        "url": "https://www.sefaria.org/Eruvin_53b%3A25"
+      },
+      {
+        "ref": "Pesachim 62b:9",
+        "excerpt": "אמר ליה: ניתנייה בתלתא ירחי. שקל קלא פתק ביה, אמר ליה: ומה ברוריה דביתהו דרבי מאיר ברתיה דרבי חנניה בן תרדיון, דתניא תלת מאה שמעתתא ביומא מתלת מאה רבוותא, ואפילו הכי לא יצתה ידי חובתה בתלת שנין, ואת אמרת בתלתא ירחי?!",
+        "url": "https://www.sefaria.org/Pesachim_62b%3A9"
+      },
+      {
+        "ref": "Eruvin 53b:24",
+        "excerpt": "רבי יוסי הגלילי הוה קא אזיל באורחא, אשכחה לברוריה אמר לה: באיזו דרך נלך ללוד? אמרה ליה: גלילי שוטה, לא כך אמרו חכמים: אל תרבה שיחה עם האשה?! היה לך לומר: \"באיזה ללוד\".",
+        "url": "https://www.sefaria.org/Eruvin_53b%3A24"
+      },
+      {
+        "ref": "Eruvin 53b:25",
+        "excerpt": "ברוריה אשכחתיה לההוא תלמידא דהוה קא גריס בלחישה.",
+        "url": "https://www.sefaria.org/Eruvin_53b%3A25"
+      },
+      {
+        "ref": "Pesachim 62b:9",
+        "excerpt": "אמר ליה: ניתנייה בתלתא ירחי. שקל קלא פתק ביה, אמר ליה: ומה ברוריה דביתהו דרבי מאיר ברתיה דרבי חנניה בן תרדיון, דתניא תלת מאה שמעתתא ביומא מתלת מאה רבוותא, ואפילו הכי לא יצתה ידי חובתה בתלת שנין, ואת אמרת בתלתא ירחי?!",
+        "url": "https://www.sefaria.org/Pesachim_62b%3A9"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://he.wikipedia.org/w/index.php?oldid=43881883",
+      "https://www.wikidata.org/wiki/Q469428",
+      "https://www.sefaria.org/topics/beruriah",
+      "https://he.wikisource.org/w/index.php?oldid=996173"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "hewiki:454827",
+    "from": "sefaria:admon",
+    "reason": "Admon/Admon ben Gaddai, the Jerusalem judge explicitly named in Ketubot 105a; not a name-only equivalence.",
+    "primary_comparison": [
+      {
+        "ref": "Ketubot 105a:2",
+        "excerpt": "גמ' ורמינהי: שלשה דייני גזילות היו בירושלים: אדמון בן גדאי, וחנן המצרי, וחנן בן אבישלום. קשיא תלת אתרין, קשיא גזירות אגזילות!",
+        "url": "https://www.sefaria.org/Ketubot_105a%3A2"
+      },
+      {
+        "ref": "Ketubot 105a:5",
+        "excerpt": "ורמינהי, שלשה דייני גזירות היו בירושלים: אדמון וחנן ונחום! אמר רב פפא: מאן תנא נחום רבי נתן היא. דתניא, רבי נתן אומר: אף נחום המדי מגוזרי גזירות שבירושלים היה, ולא הודו לו חכמים.",
+        "url": "https://www.sefaria.org/Ketubot_105a%3A5"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://he.wikipedia.org/w/index.php?oldid=38400115",
+      "https://www.wikidata.org/wiki/Q2069742",
+      "https://he.wikisource.org/w/index.php?oldid=763301",
+      "https://he.wikisource.org/w/index.php?oldid=2930721",
+      "https://www.sefaria.org/topics/admon"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "hewiki:2068021",
+    "from": "sefaria:peleimu",
+    "reason": "Same named Tanna and the same passages in Kiddushin, Menachot and Sotah; source spelling variants preserved.",
+    "primary_comparison": [
+      {
+        "ref": "Kiddushin 81a:15",
+        "excerpt": "פלימו הוה רגיל למימר כל יומא \"גירא בעיניה דשטן\". יומא חד מעלי יומא דכיפורי הוה. אידמי ליה כעניא. אתא קרא אבבא, אפיקו ליה ריפתא. אמר ליה: יומא כי האידנא כולי עלמא גואי ואנא אבראי? עייליה וקריבו ליה ריפתא. אמר ליה: יומא כי האידנא כולי עלמא אתכא ואנא לחודאי? אתיוה אותבוה אתכא. הוה יתיב מלא נפשיה שיחנא וכיבי (עליה) והוה קעביד ביה מילי דמאיס. אמר ליה:",
+        "url": "https://www.sefaria.org/Kiddushin_81a%3A15"
+      },
+      {
+        "ref": "Menachot 37a:7",
+        "excerpt": "בעא מיניה פלימו מרבי: מי שיש לו שני ראשים, באיזה מהן מניח תפילין? אמר ליה: או קום גלי, או קבל עלך שמתא. אדהכי אתא ההוא גברא, אמר ליה: איתיליד לי ינוקא דאית ליה תרי רישי, כמה בעינא למיתב לכהן? אתא ההוא סבא תנא ליה: חייב ליתן לו עשרה סלעים.",
+        "url": "https://www.sefaria.org/Menachot_37a%3A7"
+      },
+      {
+        "ref": "Sotah 4a:4",
+        "excerpt": "חנין בן פנחס אומר: כדי שתושיט ידה לתוך פיה ליטול קיסם. פלימו אומר: כדי שתושיט ידה לסל ליטול ככר. אף על פי שאין ראיה לדבר, זכר לדבר: \"כי בעד אשה זונה עד ככר לחם\".",
+        "url": "https://www.sefaria.org/Sotah_4a%3A4"
+      },
+      {
+        "ref": "Sotah 4a:21",
+        "excerpt": "פלימו אומר: כדי שתושיט ידה לסל ליטול ככר. בעי רב אשי: דמהדק או דלא מהדק? בחדתא או בעתיקא? בחמימא או בקרירא?",
+        "url": "https://www.sefaria.org/Sotah_4a%3A21"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://he.wikipedia.org/w/index.php?oldid=43350232",
+      "https://www.wikidata.org/wiki/Q111273415",
+      "https://www.sefaria.org/topics/peleimu"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "hewiki:872421",
+    "from": "bonayich:2198",
+    "reason": "Same Meremar, with matching Bava Batra, Beitzah and Berakhot passages and Mar Zutra context.",
+    "primary_comparison": [
+      {
+        "ref": "Bava Batra 3b:9",
+        "excerpt": "מאי בינייהו? איכא בינייהו דאיכא בי כנישתא אחריתי. מרימר ומר זוטרא סתרי ובנו בי קייטא בסיתווא, ובנו בי סיתווא בקייטא.",
+        "url": "https://www.sefaria.org/Bava_Batra_3b%3A9"
+      },
+      {
+        "ref": "Beitzah 21b:11",
+        "excerpt": "אדבריה רבא למר שמואל, ודרש: מזמנין את הגוי בשבת, ואין מזמנין את הגוי ביום טוב, גזרה שמא ירבה בשבילו. מרימר ומר זוטרא, כי הוה מקלע להו גוי ביום טוב, אמרי ליה: אי ניחא לך במאי דטריחא לן מוטב, ואי לא טרחא יתירא אדעתא דידך לא טרחינן.",
+        "url": "https://www.sefaria.org/Beitzah_21b%3A11"
+      },
+      {
+        "ref": "Berakhot 30a:15",
+        "excerpt": "מרימר ומר זוטרא הוו מכנפי בי עשרה בשבתא דרגלא ומצלו, והדר נפקי לפרקא.",
+        "url": "https://www.sefaria.org/Berakhot_30a%3A15"
+      },
+      {
+        "ref": "Berakhot 30a:16",
+        "excerpt": "רב אשי מצלי בהדי צבורא ביחיד, מיושב. כי הוה אתי לביתיה, הדר ומצלי מעומד. אמרי ליה רבנן: ולעביד מר כמרימר ומר זוטרא! אמר להו: טריחא לי מלתא. ולעביד מר כאבוה דשמואל ולוי! אמר להו: לא חזינא להו לרבנן קשישי מינן דעבדי הכי.",
+        "url": "https://www.sefaria.org/Berakhot_30a%3A16"
+      },
+      {
+        "ref": "Chullin 47a:3",
+        "excerpt": "ההוא יתירתא דאתאי לקמיה דמרימר, הוה יתיב רב אחא אבבא. אמר ליה: מאי אמר לך? אמר ליה: אכשרה ניהלי. אמר ליה: הדר עיילה קמיה! אמר ליה: זיל אימא ליה למאן דיתיב אבבא, לית הלכתא כוותיה דרבא ביתרת.",
+        "url": "https://www.sefaria.org/Chullin_47a%3A3"
+      },
+      {
+        "ref": "Gittin 19b:17",
+        "excerpt": "אמר רבינא: אמר לי אמימר, הכי אמר מרימר משמיה דרב דימי: הני בי תרי דיהיב גיטא קמייהו, צריכי למיקרייה. מיתיבי: \"הרי זה גיטך\"; ונטלתו וזרקתו לים, או לאור, או לכל דבר האבד; וחזר ואמר \"שטר פסים הוא\", \"שטר אמנה הוא\" מגורשת, ולא כל הימנו לאוסרה. ואי אמרת צריכי למיקרייה, בתר דקריוה מי מצי אמר לה הכי?!",
+        "url": "https://www.sefaria.org/Gittin_19b%3A17"
+      },
+      {
+        "ref": "Gittin 88a:20",
+        "excerpt": "אמר רב חסדא אמר מר עוקבא, ואמרי לה אמר רב חסדא אמר רבי ירמיה, דרש מרימר: מאי דכתיב: \"וישקוד ה' על הרעה ויביאה עלינו, כי צדיק ה' אלהינו\"? משום ד\"צדיק ה' אלהינו\" \"וישקוד ה' על הרעה ויביאה עלינו\"?!",
+        "url": "https://www.sefaria.org/Gittin_88a%3A20"
+      },
+      {
+        "ref": "Nedarim 60b:3",
+        "excerpt": "אמר רבינא: אמר לי מרימר, הכי אמר אבוך משמיה דרב [יוסף]: כמאן אזלא שמעתיה דרב ירמיה בר אבא כרבי נתן. דתניא, רבי נתן אומר: כל הנודר כאילו בנה במה, והמקיימו כאילו מקטיר עליה.",
+        "url": "https://www.sefaria.org/Nedarim_60b%3A3"
+      },
+      {
+        "ref": "Nedarim 90a:8",
+        "excerpt": "אמר רבינא: אמר לי מרימר, הכי אמר אבוך משמיה דרב פפי: מחלוקת בהפרה, אבל בשאלה דברי הכל מפר ואף על פי שלא חל נדר, דכתיב \"לא יחל דברו\".",
+        "url": "https://www.sefaria.org/Nedarim_90a%3A8"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://he.wikipedia.org/w/index.php?oldid=41197195",
+      "https://www.wikidata.org/wiki/Q12409537",
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "bonayich:1062",
+    "from": "heiman:1710734",
+    "reason": "Hyman explicitly cites Hiyya bar Ammi transmitting Hulphana in Arakhin 28b; the independently tagged segment matches.",
+    "primary_comparison": [
+      {
+        "ref": "Arakhin 28b:4",
+        "excerpt": "שדה היוצאה לכהנים ביובל, נותנה למשמר שפגע בו יובל. איבעיא להו: פגע בו בשבת, מאי? אמר רב חייא בר אמי משמיה דחולפנא: נותנה למשמר היוצא.",
+        "url": "https://www.sefaria.org/Arakhin_28b%3A4"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json",
+      "https://he.wikisource.org/w/index.php?oldid=2811189",
+      "https://he.wikisource.org/w/index.php?oldid=2807122"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "bonayich:584",
+    "from": "heiman:334679",
+    "reason": "Bali, pupil of Hiyya bar Abba, with the same teacher chain and matching Taanit, Berakhot, Shabbat and Avodah Zarah passages.",
+    "primary_comparison": [
+      {
+        "ref": "Avodah Zarah 36a:8",
+        "excerpt": "ושמן, דניאל גזר? והאמר באלי אבימי נותאה משמיה דרב: פיתן ושמנן, יינן ובנותיהן, כולן משמנה עשר דבר הן.",
+        "url": "https://www.sefaria.org/Avodah_Zarah_36a%3A8"
+      },
+      {
+        "ref": "Berakhot 25b:23",
+        "excerpt": "אמר רבא: הלכתא, פחות משלשה כלבוד דמי. עשרה רשותא אחריתי היא. משלשה עד עשרה היינו דבעא מיניה רב יוסף מרב הונא ולא פשט ליה. אמר רב: הלכה כרבי שמעון בן אלעזר. וכן אמר באלי אמר רב יעקב ברה דבת שמואל: הלכה כרבי שמעון בן אלעזר. ורבא אמר: אין הלכה כרבי שמעון בן אלעזר.",
+        "url": "https://www.sefaria.org/Berakhot_25b%3A23"
+      },
+      {
+        "ref": "Shabbat 17b:4",
+        "excerpt": "ואידך, אמר באלי אמר אבימי סנוותאה: פתן ושמנן ויינן ובנותיהן כולן משמונה עשר דבר הן. הניחא לרבי מאיר, אלא לרבי יוסי שבסרי הויין! איכא הא דרב אחא בר אדא. דאמר רב אחא בר אדא אמר רבי יצחק: גזרו על פתן משום שמנן, ועל שמנן משום יינן.",
+        "url": "https://www.sefaria.org/Shabbat_17b%3A4"
+      },
+      {
+        "ref": "Taanit 18a:12",
+        "excerpt": "וכן אמר באלי אמר רבי חייא בר אבא אמר רבי יוחנן: הלכה כרבי יוסי. אמר ליה רבי חייא לבאלי: אסברה לך, כי אמר רבי יוחנן הלכה כרבי יוסי אדלא להתענאה.",
+        "url": "https://www.sefaria.org/Taanit_18a%3A12"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json",
+      "https://he.wikisource.org/w/index.php?oldid=765850",
+      "https://he.wikisource.org/w/index.php?oldid=978117"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "bonayich:296",
+    "from": "heiman:333526",
+    "reason": "Full patronymic Aha bar Rav, Ravina interlocutor, with multiple matching primary passages; family/late-generation interpretations remain source assertions.",
+    "primary_comparison": [
+      {
+        "ref": "Bava Batra 124b:15",
+        "excerpt": "אמר ליה רב אחא בר רב לרבינא: איקלע אמימר לאתרין, ודריש: בכור נוטל פי שנים במלוה, אבל לא ברבית. אמר ליה: נהרדעי לטעמייהו",
+        "url": "https://www.sefaria.org/Bava_Batra_124b%3A15"
+      },
+      {
+        "ref": "Chullin 33a:3",
+        "excerpt": "אמר ליה רב אחא בר רב לרבינא: דלמא לעולם לא הדר ביה, ורבי זירא לדבריו דרבא קאמר, וליה לא סבירא ליה.",
+        "url": "https://www.sefaria.org/Chullin_33a%3A3"
+      },
+      {
+        "ref": "Chullin 97b:4",
+        "excerpt": "אמר ליה רב אחא בר רב לרבינא: מאי דעתיך דאמר שמואל: מליח הרי הוא כרותח, כבוש הרי הוא כמבושל.",
+        "url": "https://www.sefaria.org/Chullin_97b%3A4"
+      },
+      {
+        "ref": "Kiddushin 13a:3",
+        "excerpt": "פריך רב אחאי: אטו כולהו נשי דינא גמירי? הכי נמי סברה: אי שדינא להו ומיתברי מיתחייבנא באחריותייהו. שלחה רב אחא בר רב לקמיה דרבינא: כהאי גוונא מאי? שלח ליה: אנן לא שמיע לן הא דרב הונא בריה דרב יהושע, אתון דשמיע לכו חושו לה.",
+        "url": "https://www.sefaria.org/Kiddushin_13a%3A3"
+      },
+      {
+        "ref": "Sanhedrin 76b:16",
+        "excerpt": "ההוא גברא דצמצמה לחיותא דחבריה בשימשא, ומתה. רבינא מחייב, רב אחא בר רב פטר.",
+        "url": "https://www.sefaria.org/Sanhedrin_76b%3A16"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json",
+      "https://he.wikisource.org/w/index.php?oldid=764564",
+      "https://he.wikisource.org/w/index.php?oldid=977945"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "hewiki:1351434",
+    "from": "bonayich:22764",
+    "reason": "Same Shabbethai transmitting Hezekiah’s ruling in Bava Batra, plus matching Ketubot and Sanhedrin passages.",
+    "primary_comparison": [
+      {
+        "ref": "Bava Batra 163a:3",
+        "excerpt": "רבי שבתי אמר משמיה דחזקיה: שני שיטין שאמרו בכתב ידי עדים, ולא כתב ידי סופר. מאי טעמא? דכל המזייף, לאו לגבי ספרא אזיל ומזייף.",
+        "url": "https://www.sefaria.org/Bava_Batra_163a%3A3"
+      },
+      {
+        "ref": "Ketubot 96a:8",
+        "excerpt": "וכן כי אתא רב דימי, אמר: מעשה בכלתו של רבי שבתי שתפסה דסקיא מלאה מעות, ולא היה כח ביד חכמים להוציא מידה.",
+        "url": "https://www.sefaria.org/Ketubot_96a%3A8"
+      },
+      {
+        "ref": "Sanhedrin 69a:8",
+        "excerpt": "גופא, אמר רבי כרוספדאי אמר רבי שבתי: כל ימיו של בן סורר ומורה אינן אלא שלשה חדשים בלבד. והאנן תנן: משיביא שתי שערות ועד שיקיף זקן! הקיף זקן אף על גב דלא מלו שלשה חדשים. מלו שלשה חדשים אף על גב דלא הקיף.",
+        "url": "https://www.sefaria.org/Sanhedrin_69a%3A8"
+      },
+      {
+        "ref": "Sanhedrin 69a:9",
+        "excerpt": "יתיב רבי יעקב מנהר פקוד קמיה דרבינא, ויתיב וקאמר משמיה דרב הונא בריה דרב יהושע: שמע מינה מדרבי כרוספדאי אמר רבי שבתי, יולדת לשבעה אין עוברה ניכר לשליש ימיה.",
+        "url": "https://www.sefaria.org/Sanhedrin_69a%3A9"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://he.wikipedia.org/w/index.php?oldid=42213786",
+      "https://www.wikidata.org/wiki/Q25492573",
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "hewiki:1903107",
+    "from": "hyman-section:8d131248dc56d400f4f4",
+    "reason": "Same Haga, Ulla interlocutor in Avodah Zarah 68a, and matching Moed Katan passages.",
+    "primary_comparison": [
+      {
+        "ref": "Avodah Zarah 68a:4",
+        "excerpt": "איתיביה רב חגא לעולא: יין שנפל לתוך עדשים, וחומץ שנפל לתוך גריסין אסור, ורבי שמעון מתיר. והא הכא דפגם מעיקרא הוא, ופליגי!",
+        "url": "https://www.sefaria.org/Avodah_Zarah_68a%3A4"
+      },
+      {
+        "ref": "Moed Katan 25a:20",
+        "excerpt": "מאן מעייל ליה? אמר להו רב חגא: אנא מעיילנא ליה, דאוקמתיה לתלמודאי כי הוינא בר תמני סרי שנין ולא חזי לי קרי, ומשמע לי(ה) קמיה, וידעי בעובדיה, דיומא חד אתהפיכא ליה רצועה דתפילין ויתיב עלה ארבעין תעניתא.",
+        "url": "https://www.sefaria.org/Moed_Katan_25a%3A20"
+      },
+      {
+        "ref": "Moed Katan 25a:21",
+        "excerpt": "עייליה, הוה גני יהודה מימיניה דאבוה וחזקיה משמאליה. אמר ליה יהודה לחזקיה: קום מדוכתיך, דלאו אורח ארעא דקאים רב הונא. בהדי דקאים קם בהדיה עמודא דנורא. חזייה רב חגא, איבעית, זקפיה לארוניה ונפק אתא. והאי דלא איענש (ענש), משום דזקפיה לארוניה דרב הונא.",
+        "url": "https://www.sefaria.org/Moed_Katan_25a%3A21"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://he.wikipedia.org/w/index.php?oldid=41096903",
+      "https://www.wikidata.org/wiki/Q109334855",
+      "https://he.wikisource.org/w/index.php?oldid=2811175",
+      "https://he.wikisource.org/w/index.php?oldid=2811173"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "hewiki:222053",
+    "from": "sefaria:chutspit-the-translator",
+    "reason": "Hyman explicitly identifies the unqualified Hutzpit of Sheviit 10:6 with Hutzpit the interpreter.",
+    "primary_comparison": [
+      {
+        "ref": "Chullin 142a:9",
+        "excerpt": "אמר רב יוסף: אלמלא דרשיה אחר להאי קרא כרבי יעקב בר ברתיה לא חטא. מאי חזא? איכא דאמרי: כי האי מעשה חזא, ואיכא דאמרי: לישנא דרבי חוצפית המתורגמן חזא, דהוה מוטלת באשפה. אמר: פה שהפיק מרגליות ילחוך עפר?! והוא לא ידע \"למען ייטב לך\" בעולם שכולו טוב, \"ולמען יאריכון ימיך\" בעולם שכולו ארוך.",
+        "url": "https://www.sefaria.org/Chullin_142a%3A9"
+      }
+    ],
+    "manual_source_comparison": {
+      "ref": "Mishnah Sheviit 10:6",
+      "reference_text": "\n==ר' חוצפית המתורגמן==\nהוא היה המתורגמן בסנהדרי יבנה תחת נשיאות [[תולדות תנאים ואמוראים/ג/רבן גמליאל בן רבן שמעון הנהרג|רבן גמליאל]], כאשר יסופר ב[[בכורות לו א|בכורות לו.]] במעשה ד[[תולדות תנאים ואמוראים/א/ר' אלעזר בר' צדוק (תנא דמתניתן)#ר' צדוק|ר' צדוק]] שרננו כל העם וא\"ל עמוד. וכן ב[[ברכות כז ב|ברכות כז:]] כשהורידו את ר\"ג מנשיאותו א\"ל עמוד. \n\nובירושלמי שם [[ירושלמי ברכות ד א|פ\"ד סה\"א]] הלשון שא\"ל הפטר את העם.\n\nונזכר במשנה [[משנה שביעית י ו|שביעית פ\"י מ\"ו]] בשם סתם ר' חוצפית אומר כותבין לאדם על נכסי אשתו וכו'. וב[[תוספתא/כלים/בבא בתרא/ב|תוספתא כלים ב\"ב פ\"ב]] שר' חוצפית ו[[תולדות תנאים ואמוראים/י/ר' ישבב (הסופר, תנא נזכר במשנה)|ר' ישבב]] ו[[תולדות תנאים ואמוראים/ח/ר' חלפתא|ר' חלפתא]] ו[[תולדות תנאים ואמוראים/י/ר' יוחנן בן נורי (תנא דמשנה)|ר' יוחנן בן נורי]] ישבו חרש בציפורי אצל [[תולדות תנאים ואמוראים/א/ר' אלעזר בן עזריה|ראב\"ע]].\n\nוהיה מהרוגי מלכות כמפורש [[איכה רבה ב ד|איכה רבתי פ\"ב פ' בלע]]. ו[[מדרש תהלים]] פ\"ט־יג. והיה אז בן ק\"ל שנה כדמובא ב[[מדרש אלה אזכרה]] הנדפס בבהמ\"ד חדר ב'. ולא ניתן לקבורה כמפורש [[קידושין לט א|קידושין לט.]] וסוף חולין ש[[תולדות תנאים ואמוראים/א/אלישע בן אבויה (אחר)|אלישע־אחר]] ראה לישנא דחוצפית המתורגמן דהוה גריר ליה ד\"א אמר פה שהפיק מרגליות ילחך עפר? וכן מובא בתוס' [[בכורות לו א|בכורות לו.]] שהיה מהרוגי מלכות. \n\nובאור זרוע ה' בכורות כתב שהיה שקול כ[[תולדות תנאים ואמוראים/י/יונתן בן עוזיאל|יונתן בן עוזיאל]].\n"
+    },
+    "secondary_sources": [
+      "https://he.wikipedia.org/w/index.php?oldid=39812505",
+      "https://www.wikidata.org/wiki/Q65082798",
+      "https://he.wikisource.org/w/index.php?oldid=2811222",
+      "https://he.wikisource.org/w/index.php?oldid=2811256",
+      "https://www.sefaria.org/topics/chutspit-the-translator"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "hewiki:1325860",
+    "from": "bonayich:1750",
+    "reason": "The Wikipedia biography quotes the same Mishnah statement in full and explicitly documents split/combined spelling of Hali-kofri.",
+    "primary_comparison": [],
+    "manual_source_comparison": {
+      "ref": "Mishnah Makhshirin 1:3",
+      "source": "https://he.wikipedia.org/w/index.php?oldid=41195566",
+      "matching_context": "Rabbi Joshua transmits Abba Yose Hali Kofri of Tivon on intended wetting of produce."
+    },
+    "secondary_sources": [
+      "https://he.wikipedia.org/w/index.php?oldid=41195566",
+      "https://www.wikidata.org/wiki/Q21993862",
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "hewiki:222043",
+    "from": "sefaria:rabbi-yeshevav",
+    "reason": "The biographical source identifies Yeshevav the scribe as Rabbi Joshua’s pupil and Rabbi Akiva’s colleague; this matches the named teacher chain and interaction in Mishnah Chullin 2:4.",
+    "primary_comparison": [],
+    "manual_source_comparison": {
+      "ref": "Mishnah Chullin 2:4",
+      "source": "https://he.wikipedia.org/w/index.php?oldid=41433931",
+      "matching_context": "Yeshevav transmits Rabbi Joshua’s rule distinguishing neveilah/tereifah and Rabbi Akiva concedes."
+    },
+    "secondary_sources": [
+      "https://he.wikipedia.org/w/index.php?oldid=41433931",
+      "https://www.wikidata.org/wiki/Q2907627",
+      "https://www.sefaria.org/topics/rabbi-yeshevav"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "bonayich:430",
+    "from": "heiman:333722",
+    "reason": "Full name and the exact Mikvaot chapter-end disagreement match the Hyman entry.",
+    "primary_comparison": [],
+    "manual_source_comparison": {
+      "ref": "Mishnah Mikvaot 2:10",
+      "reference_text": "\n==אבא אלעזר בן דולעאי==\nנזכר במשנה מקואות ספ\"ב חולק עם ר\"מ, ר' יהודה ור\"א ור' שמעון."
+    },
+    "secondary_sources": [
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json",
+      "https://he.wikisource.org/w/index.php?oldid=763194",
+      "https://he.wikisource.org/w/index.php?oldid=977983"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "classify_named_mishnaic_authority",
+    "identity_key": "bonayich:430",
+    "status": "decided",
+    "ref": "Mishnah Mikvaot 2:10",
+    "quotation": "מקוה שיש בו ארבעים סאה מים וטיט, רבי אליעזר אומר, מטבילין במים ואין מטבילין בטיט. רבי יהושע אומר, במים ובטיט. באיזה טיט מטבילין. בטיט שהמים צפים על גביו. היו המים מצד אחד, מודה רבי יהושע שמטבילין במים ואין מטבילין בטיט. באיזה טיט אמרו. בטיט שהקנה יורד מאליו, דברי רבי מאיר. רבי יהודה אומר, מקום שאין קנה המדה עומד. אבא אלעזר בן דולעאי אומר, מקום שהמשקלת יורדת. רבי אליעזר אומר, היורד בפי חבית. רבי שמעון אומר, הנכנס בשפופרת הנוד. רבי אלעזר בר צדוק אומר, הנמדד בלג:",
+    "source": "https://www.sefaria.org/Mishnah_Mikvaot_2%3A10",
+    "reason": "Explicit named legal teaching in the Mishnah establishes a Tannaitic authority; generation remains unknown."
+  },
+  {
+    "action": "classify_named_mishnaic_authority",
+    "identity_key": "sefaria:nechamiah-of-beit-deli",
+    "status": "decided",
+    "ref": "Mishnah Eduyot 8:5",
+    "quotation": "העיד רבי עקיבא משום נחמיה, איש בית דלי, שמשיאים האשה על פי עד אחד. העיד רבי יהושע על עצמות שנמצאו בדיר העצים, אמרו חכמים, מלקט עצם עצם והכל טהור:",
+    "source": "https://www.sefaria.org/Mishnah_Eduyot_8%3A5",
+    "reason": "Explicit named legal teaching in the Mishnah establishes a Tannaitic authority; generation remains unknown."
+  },
+  {
+    "action": "classify_named_mishnaic_authority",
+    "identity_key": "sefaria:rabbi-yehoshua-ben-beteira",
+    "status": "decided",
+    "ref": "Mishnah Parah 2:5",
+    "quotation": "היו בה שתי שערות שחורות או לבנות בתוך גמא אחת, פסולה. רבי יהודה אומר, אפלו בתוך כוס אחד. היו בתוך שני כוסות והן מוכיחות זו את זו, פסולה. רבי עקיבא אומר, אפלו ארבע, אפלו חמש, והן מפזרות, יתלש. רבי אליעזר אומר, אפלו חמשים. רבי יהושע בן בתירא אומר, אפלו אחת בראשה ואחת בזנבה, פסולה. היו בה שתי שערות, עקרן משחיר וראשן מאדים, עקרן מאדים וראשן משחיר, הכל הולך אחר הנראה, דברי רבי מאיר. וחכמים אומרים, אחר העקר:",
+    "source": "https://www.sefaria.org/Mishnah_Parah_2%3A5",
+    "reason": "Explicit named legal teaching in the Mishnah establishes a Tannaitic authority; generation remains unknown."
+  },
+  {
+    "action": "classify_named_mishnaic_authority",
+    "identity_key": "bonayich:21661",
+    "status": "decided",
+    "ref": "Mishnah Oholot 3:5",
+    "quotation": "איזהו דם תבוסה. המת שיצא ממנו שמינית בחייו ושמינית במותו, דברי רבי עקיבא. רבי ישמעאל אומר, רביעית בחייו ורביעית במותו, נטל מזה ומזה רביעית. רבי אלעזר ברבי יהודה אומר, זה וזה כמים. איזהו דם תבוסה. צלוב שדמו שותת ונמצא תחתיו רביעית דם, טמא. אבל המת שדמו מנטף ונמצא תחתיו רביעית דם, טהור. רבי יהודה אומר, לא כי, אלא השותת, טהור. והמנטף, טמא:",
+    "source": "https://www.sefaria.org/Mishnah_Oholot_3%3A5",
+    "reason": "Explicit named legal teaching in the Mishnah establishes a Tannaitic authority; generation remains unknown."
+  },
+  {
+    "action": "correct_role_vs_period",
+    "identity_key": "heiman:333890",
+    "status": "decided",
+    "reason": "תנא דרבי אמי denotes the reciter attached to Rabbi Ammi, not membership in the historical Tannaitic period.",
+    "source_text": "\n==אשיאן==\nתנא דר' אמי, נזכר [[ברכות יד א|ברכות יד.]] שבעי מר' אמי.\n",
+    "primary_ref": "Berakhot 14a:7",
+    "rejected_assertions": [
+      {
+        "value": "Tanna",
+        "source": {
+          "kind": "hyman_1910_transcription",
+          "url": "https://he.wikisource.org/w/index.php?oldid=978117",
+          "detail": "אהרן הימן, תולדות תנאים ואמוראים, כרך I, ערך אשיאן",
+          "volume": "I",
+          "section": "אשיאן",
+          "print_scan_pages": [
+            292
+          ],
+          "page_revisions": [
+            {
+              "page": 292,
+              "revision": 978117,
+              "quality": "1",
+              "url": "https://he.wikisource.org/w/index.php?oldid=978117"
+            }
+          ]
+        },
+        "quotation": "תנא "
+      }
+    ]
+  },
+  {
+    "action": "same_person",
+    "target": "bonayich:574",
+    "from": "heiman:333890",
+    "reason": "Same Ashyan asking Rabbi Ammi the fasting question in Berakhot 14a:7. Amora classification retained from the independent identity dataset; Hyman’s tanna is his teaching role.",
+    "primary_comparison": [
+      {
+        "ref": "Berakhot 14a:7",
+        "excerpt": "בעא מיניה אשיאן תנא דבי רבי אמי מרבי אמי: השרוי בתענית מהו שיטעום? אכילה ושתיה קביל עליה והא ליכא. או דילמא: הנאה קביל עליה והא איכא.",
+        "url": "https://www.sefaria.org/Berakhot_14a%3A7"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json",
+      "https://he.wikisource.org/w/index.php?oldid=763324",
+      "https://he.wikisource.org/w/index.php?oldid=978117"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "target": "sefaria:rav-hinak",
+    "from": "hewiki:835438",
+    "reason": "Same otherwise rarely attested school of Rav/Bar Hinak in Pesachim 101b:3. The identity is one; the reference explicitly says whether he was Tanna or Amora is unknown.",
+    "primary_comparison": [
+      {
+        "ref": "Pesachim 101b:3",
+        "excerpt": "אמר ליה רב אידי בר אבין: הכי תנינא ליה במתניתא דבי רב הינק, ואמרי ליה במתניתא דבי בר הינק כוותיך. ואלא רב הונא מתניתא קא משמע לן? רב הונא מתניתא לא שמיע ליה.",
+        "url": "https://www.sefaria.org/Pesachim_101b%3A3"
+      },
+      {
+        "ref": "Pesachim 101b:3",
+        "excerpt": "אמר ליה רב אידי בר אבין: הכי תנינא ליה במתניתא דבי רב הינק, ואמרי ליה במתניתא דבי בר הינק כוותיך. ואלא רב הונא מתניתא קא משמע לן? רב הונא מתניתא לא שמיע ליה.",
+        "url": "https://www.sefaria.org/Pesachim_101b%3A3"
+      },
+      {
+        "ref": "Pesachim 101b:3",
+        "excerpt": "אמר ליה רב אידי בר אבין: הכי תנינא ליה במתניתא דבי רב הינק, ואמרי ליה במתניתא דבי בר הינק כוותיך. ואלא רב הונא מתניתא קא משמע לן? רב הונא מתניתא לא שמיע ליה.",
+        "url": "https://www.sefaria.org/Pesachim_101b%3A3"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/rav-hinak",
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json",
+      "https://he.wikisource.org/w/index.php?oldid=1076097",
+      "https://he.wikisource.org/w/index.php?oldid=3008197",
+      "https://he.wikipedia.org/w/index.php?oldid=41422792",
+      "https://www.wikidata.org/wiki/Q6539352"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "one_person_period_unknown",
+    "identity_key": "sefaria:rav-hinak",
+    "status": "identity_decided",
+    "reason": "Historical classification unresolved: source explicitly states uncertainty between Tanna and Amora.",
+    "sources": [
+      "https://www.sefaria.org/topics/rav-hinak",
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json",
+      "https://he.wikisource.org/w/index.php?oldid=1076097",
+      "https://he.wikisource.org/w/index.php?oldid=3008197",
+      "https://he.wikipedia.org/w/index.php?oldid=41422792",
+      "https://www.wikidata.org/wiki/Q6539352"
+    ],
+    "primary_ref": "Pesachim 101b:3"
+  },
+  {
+    "action": "same_person",
+    "batch": 4,
+    "target": "sefaria:avimi",
+    "from": "hewiki:872771",
+    "reason": "Second-generation Babylonian Amora and teacher of Rav Chisda; ten independently attributed shared passages including Bava Kamma 12a:4 and Ketubot 71b:7. Distinct from Hyman Avimi I (father of Ada bar Avimi).",
+    "primary_comparison": [
+      {
+        "ref": "Bava Kamma 12a:4",
+        "excerpt": "אמר ליה: אנא מתניתא ידענא דתני אבימי: פרוזבול חל על הקרקע, ואינו חל על העבדים. מטלטלין נקנין עם הקרקע, ואינן נקנין עם העבדים.",
+        "url": "https://www.sefaria.org/Bava_Kamma_12a%3A4"
+      },
+      {
+        "ref": "Bava Kamma 13b:18",
+        "excerpt": "אמר רב חסדא אמר אבימי: חצר השותפין חייב בה על השן ועל הרגל. והכי קאמר: \"חוץ מרשות המיוחדת למזיק\" דפטור; \"ורשות הניזק והמזיק כשהזיק חב המזיק\".",
+        "url": "https://www.sefaria.org/Bava_Kamma_13b%3A18"
+      },
+      {
+        "ref": "Chullin 48a:2",
+        "excerpt": "אמר רב יוסף בר מניומי אמר רב נחמן: ריאה הסמוכה לדופן אין חוששין לה, העלתה צמחים חוששין לה. מר יהודה משמיה דאבימי אמר: אחד זה ואחד זה חוששין לה.",
+        "url": "https://www.sefaria.org/Chullin_48a%3A2"
+      },
+      {
+        "ref": "Eruvin 24a:5",
+        "excerpt": "נטע רובו הרי הוא כחצר, ומותר. אמר רב יהודה אמר אבימי: והוא שעשויין אצטבלאות. ורב נחמן אמר: אף על פי שאין עשויין אצטבלאות.",
+        "url": "https://www.sefaria.org/Eruvin_24a%3A5"
+      },
+      {
+        "ref": "Eruvin 24a:6",
+        "excerpt": "מר יהודה אקלע לבי רב הונא בר יהודה. חזנהו להנהו דלא עבידי אצטבלאות, וקא מטלטלי בגוייהו. אמר ליה: לא סבר לה מר להא דאבימי? אמר ליה: אנא כרב נחמן סבירא לי.",
+        "url": "https://www.sefaria.org/Eruvin_24a%3A6"
+      },
+      {
+        "ref": "Eruvin 58b:6",
+        "excerpt": "וכי אין חוט המשקולת יורד כנגדו, עד כמה? אמר אבימי: ארבע. וכן תני רמי בר יחזקאל: ארבע.",
+        "url": "https://www.sefaria.org/Eruvin_58b%3A6"
+      },
+      {
+        "ref": "Gittin 26b:4",
+        "excerpt": "רב חסדא אמר אבימי: משום תקנת עגונות; אמרי לה רבי מאיר, ואמרי לה רבי אלעזר.",
+        "url": "https://www.sefaria.org/Gittin_26b%3A4"
+      },
+      {
+        "ref": "Gittin 79a:3",
+        "excerpt": "עולא בר מנשיא משמיה דאבימי אמר: הכא בפחות משלשה סמוך לגג עסקינן, דכל פחות משלשה סמוך לגג כגג דמי.",
+        "url": "https://www.sefaria.org/Gittin_79a%3A3"
+      },
+      {
+        "ref": "Ketubot 71b:7",
+        "excerpt": "רבי יוסי אומר: בעניות שלא נתן קצבה. וכמה קצבה? אמר רב יהודה אמר שמואל: שנים עשר חדש. רבה בר בר חנה אמר רבי יוחנן: עשר שנים. רב חסדא אמר אבימי: רגל, שכן בנות ישראל מתקשטות ברגל.",
+        "url": "https://www.sefaria.org/Ketubot_71b%3A7"
+      },
+      {
+        "ref": "Ketubot 100b:15",
+        "excerpt": "אמר רב יהודה אמר שמואל: מטלטלין של יתומים שמין אותן ומוכרין אותן לאלתר. רב חסדא אמר אבימי: מוכרין אותן לשווקים.",
+        "url": "https://www.sefaria.org/Ketubot_100b%3A15"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/avimi",
+      "http://www.jewishencyclopedia.com/view.jsp?artid=306&letter=A",
+      "https://he.wikipedia.org/w/index.php?oldid=41195611",
+      "https://www.wikidata.org/wiki/Q6569449",
+      "https://he.wikisource.org/w/index.php?oldid=763242",
+      "https://he.wikisource.org/w/index.php?oldid=977897"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 4,
+    "target": "hewiki:2176997",
+    "from": "bonayich:2657",
+    "reason": "Same Ravnai, brother of Rabbi Hiyya bar Abba; matching Keritot 13a and Bava Batra 99a passages.",
+    "primary_comparison": [
+      {
+        "ref": "Bava Batra 99a:3",
+        "excerpt": "אמר רבנאי אמר שמואל: כרובים בנס הן עומדין, שנאמר: \"וחמש אמות כנף הכרוב האחת, וחמש אמות כנף הכרוב השנית, עשר אמות מקצות כנפיו ועד קצות כנפיו\". גופייהו היכא הוו קיימי? אלא שמע מינה: בנס הן עומדין.",
+        "url": "https://www.sefaria.org/Bava_Batra_99a%3A3"
+      },
+      {
+        "ref": "Keritot 13a:3",
+        "excerpt": "אמר רבנאי אמר שמואל: בחלבים ובנבילה עד שישהא מתחלה ועד סוף בכדי אכילת פרס. אוכלים טמאים, שקצים ורמשים ומשקין אפילו כל היום כולו בכדי אכילת פרס.",
+        "url": "https://www.sefaria.org/Keritot_13a%3A3"
+      },
+      {
+        "ref": "Keritot 13a:10",
+        "excerpt": "קתני מיהת: אם יש מתחלת אכילה ראשונה ועד סוף אכילה בכדי אכילת פרס מצטרף. תיובתא דרבנאי, תיובתא.",
+        "url": "https://www.sefaria.org/Keritot_13a%3A10"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://he.wikipedia.org/w/index.php?oldid=41197745",
+      "https://www.wikidata.org/wiki/Q116069944",
+      "https://he.wikisource.org/w/index.php?oldid=2807574",
+      "https://he.wikisource.org/w/index.php?oldid=2807666",
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 4,
+    "target": "sefaria:rabbi-hizkiyah",
+    "from": "hewiki:1493473",
+    "reason": "Same Rabbi Hizkiyah in Yerushalmi Beitzah 1:2:2 and Berakhot 2:1:8; compatible fourth/fifth-generation Eretz Israel Amora profile.",
+    "primary_comparison": [
+      {
+        "ref": "Jerusalem Talmud Beitzah 1:2:2",
+        "excerpt": "הלכה: רבי זריקן בשם רבי יוסי בן חנינה. לא שנו אלא לביעורו. הא לאכילה כזית. רבי אבהו בשם רבי יוחנן. בין לביעורו בין לאכילה כזית. קם רבי מנא עם רבי חזקיה. אמר ליה. מן הן שמע רב הדא מילתא. אמר ליה. מן רבי אבהו. אמר ליה. [ואוף] (ו)אנן א‍מרין. רבי אבהו בשם רבי יוחנן. בין לביעורו בין לאכילה כזית. די לא כן. ניתני שלשים ושבע כריתות בתורה.",
+        "url": "https://www.sefaria.org/Jerusalem_Talmud_Beitzah_1%3A2%3A2"
+      },
+      {
+        "ref": "Jerusalem Talmud Berakhot 2:1:8",
+        "excerpt": "רב שאיל לרבי חייא רבא ולינא חמי לרבי מקבל עליו עול מלכות שמים. אמר ליה כד תחמיניה יהיב ידיה על אפוהי הוא מקבל עליו עול מלכות שמים. אמר ליה ואינו צריך להזכיר יציאת מצרים. אמר ליה לית איפשר דלא יטי מילה. רבי טביומי שאל לרבי חזקיה לית הדה אמרה שאין לך צריך כוונה אלא פסוק הראשון בלבד. אמר ליה אדא יתנה עד ושננתם.",
+        "url": "https://www.sefaria.org/Jerusalem_Talmud_Berakhot_2%3A1%3A8"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/rabbi-hizkiyah",
+      "https://he.wikipedia.org/w/index.php?oldid=41384589",
+      "https://www.wikidata.org/wiki/Q30278216"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 4,
+    "target": "sefaria:geniva",
+    "from": "heiman:381635",
+    "reason": "Hyman identifies Geniva as a leading pupil of Rav; four shared Berakhot and Yerushalmi passages.",
+    "primary_comparison": [
+      {
+        "ref": "Berakhot 25a:17",
+        "excerpt": "ובודאן עד כמה? אמר רב יהודה אמר שמואל: כל זמן שמטפיחין. וכן אמר רבה בר בר חנה אמר רבי יוחנן: כל זמן שמטפיחין. וכן אמר עולא: כל זמן שמטפיחין. גניבא משמיה דרב אמר: כל זמן שרשומן ניכר.",
+        "url": "https://www.sefaria.org/Berakhot_25a%3A17"
+      },
+      {
+        "ref": "Berakhot 25a:18",
+        "excerpt": "אמר רב יוסף: שרא ליה מריה לגניבא, השתא צואה אמר רב יהודה אמר רב כיון שקרמו פניה מותר, מי רגלים מיבעיא?!",
+        "url": "https://www.sefaria.org/Berakhot_25a%3A18"
+      },
+      {
+        "ref": "Berakhot 27a:15",
+        "excerpt": "רב איקלע לבי גניבא וצלי של שבת בערב שבת, והוה מצלי רבי ירמיה בר אבא לאחורי דרב, וסיים רב ולא פסקיה לצלותיה דרבי ירמיה. שמע מינה תלת: שמע מינה מתפלל אדם של שבת בערב שבת. ושמע מינה מתפלל תלמיד אחורי רבו. ושמע מינה אסור לעבור כנגד המתפללין.",
+        "url": "https://www.sefaria.org/Berakhot_27a%3A15"
+      },
+      {
+        "ref": "Jerusalem Talmud Berakhot 6:6:6",
+        "excerpt": "ם הן. אמר ליה והכתיב ותטמנם בפשתי העץ. וכי עצים הן. סלקין לבית רב ושמעון [רב] חונה בשם רב אשר נתן ריח טוב בעצי בשמים. גניבא אמר שמן לזוהמה אינו צריך לברך. אמר רבי יודן ואפילו קווי לתוך ידו. רבי חלבו רב הונא בשם רב המרבץ אלינתית בתוך ביתו אינו צריך לברך. אמר רב חסדא על כולן הוא אומר אשר נתן ריח טוב בעצי בשמים. בר מן אהן מוסכין דיימר אשר נתן ריח טוב במיני בשמים.",
+        "url": "https://www.sefaria.org/Jerusalem_Talmud_Berakhot_6%3A6%3A6"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/geniva",
+      "https://he.wikisource.org/w/index.php?oldid=996428",
+      "https://he.wikisource.org/w/index.php?oldid=996530"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 4,
+    "target": "sefaria:rebbi-yosana",
+    "from": "bonayich:1761",
+    "reason": "Same Rabbi Yosana speaking in Avodah Zarah 33b:6.",
+    "primary_comparison": [
+      {
+        "ref": "Avodah Zarah 33b:6",
+        "excerpt": "אמר רבי יוסנא אמר רבי אמי: כלי נתר אין (לו) [להן] טהרה עולמית. מאי כלי נתר? אמר רבי יוסי בר אבין: כלי מחפורת של צריף.",
+        "url": "https://www.sefaria.org/Avodah_Zarah_33b%3A6"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/rebbi-yosana",
+      "https://he.wikipedia.org/w/index.php?oldid=41384595",
+      "https://www.wikidata.org/wiki/Q30527573",
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 4,
+    "target": "sefaria:antoninus1",
+    "from": "bonayich:520",
+    "reason": "Same Antoninus in the Avodah Zarah 10a–11a narratives and Berakhot 57b:17; seven shared primary passages.",
+    "primary_comparison": [
+      {
+        "ref": "Avodah Zarah 10a:13",
+        "excerpt": "ואי קשיא לך דלא מוקמי מלכא בר מלכא, על ידי שאלה מוקמי, כגון אסוירוס בר אנטונינוס דמלך.",
+        "url": "https://www.sefaria.org/Avodah_Zarah_10a%3A13"
+      },
+      {
+        "ref": "Avodah Zarah 10a:14",
+        "excerpt": "אמר ליה אנטונינוס לרבי: בעינא דימלוך אסוירוס ברי תחותי, ותתעביד טבריא קלניא, ואי אימא להו חדא עבדי, תרי לא עבדי. אייתי גברא, ארכביה אחבריה, ויהב ליה יונה לעילאי (בידיה), ואמר ליה לתתאי: אימר (לעילא דלמפרח) [לעילאי דנפרח] יונה מן ידיה. אמר: שמע מינה הכי קאמר לי: את בעי מינייהו ד\"אסוירוס ברי ימלוך תחותי\", ואימא ליה לאסוירוס דתעביד טבריא קלניא.",
+        "url": "https://www.sefaria.org/Avodah_Zarah_10a%3A14"
+      },
+      {
+        "ref": "Avodah Zarah 10b:11",
+        "excerpt": "תניא נמי הכי: \"מלכיה\" ולא כל מלכיה, \"כל נשיאיה\" ולא כל שריה. \"מלכיה\" ולא כל מלכיה פרט לאנטונינוס בן אסוירוס, \"כל נשיאיה\" ולא כל שריה פרט לקטיעה בר שלום.",
+        "url": "https://www.sefaria.org/Avodah_Zarah_10b%3A11"
+      },
+      {
+        "ref": "Avodah Zarah 10b:16",
+        "excerpt": "אנטונינוס שמשיה לרבי, אדרכן שמשיה לרב. כי שכיב אנטונינוס, אמר רבי: נתפרדה חבילה. כי שכיב אדרכן, אמר רב:",
+        "url": "https://www.sefaria.org/Avodah_Zarah_10b%3A16"
+      },
+      {
+        "ref": "Avodah Zarah 11a:6",
+        "excerpt": "\"ויאמר ה' לה, שני גוים בבטנך\". אמר רב יהודה אמר רב: אל תקרי \"גוים\" אלא \"גיים\", זה אנטונינוס ורבי, שלא פסקו מעל שולחנם לא חזרת ולא קישות ולא צנון, לא בימות החמה ולא בימות הגשמים, דאמר מר: צנון מחתך אוכל, חזרת מהפך מאכל, קישות מרחיב מעיים.",
+        "url": "https://www.sefaria.org/Avodah_Zarah_11a%3A6"
+      },
+      {
+        "ref": "Berakhot 57b:17",
+        "excerpt": "תנא דבי רבי ישמעאל: למה נקרא שמן קשואים מפני שהן קשין לגוף כחרבות. איני, והכתיב: \"ויאמר ה' לה שני גוים בבטנך\": אל תקרי \"גוים\" אלא \"גיים\", ואמר רב יהודה אמר רב: אלו אנטונינוס ורבי, שלא פסק משלחנם לא צנון ולא חזרת ולא קשואין, לא בימות החמה ולא בימות הגשמים.",
+        "url": "https://www.sefaria.org/Berakhot_57b%3A17"
+      },
+      {
+        "ref": "Sanhedrin 110a:12",
+        "excerpt": "אמר רבי חמא ברבי חנינא: שלש מטמוניות הטמין יוסף במצרים. אחת נתגלתה לקרח, ואחת נתגלתה לאנטונינוס בן אסוירוס, ואחת גנוזה לצדיקים לעתיד לבוא.",
+        "url": "https://www.sefaria.org/Sanhedrin_110a%3A12"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/antoninus1",
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 4,
+    "target": "sefaria:antoninus1",
+    "from": "heiman:333844",
+    "reason": "Hyman entry on Antoninus the Roman emperor, friend of Rabbi; shared Berakhot 57b:17 and Sanhedrin 91a passages with the Sefaria profile.",
+    "primary_comparison": [
+      {
+        "ref": "Berakhot 57b:17",
+        "excerpt": "תנא דבי רבי ישמעאל: למה נקרא שמן קשואים מפני שהן קשין לגוף כחרבות. איני, והכתיב: \"ויאמר ה' לה שני גוים בבטנך\": אל תקרי \"גוים\" אלא \"גיים\", ואמר רב יהודה אמר רב: אלו אנטונינוס ורבי, שלא פסק משלחנם לא צנון ולא חזרת ולא קשואין, לא בימות החמה ולא בימות הגשמים.",
+        "url": "https://www.sefaria.org/Berakhot_57b%3A17"
+      },
+      {
+        "ref": "Jerusalem Talmud Sheviit 6:1:21",
+        "excerpt": "רבי חונא בעי מישרי ההן יבלונה אתא לגבי רבי מנא אמר ליה הא לך חתום ולא קבילי עילוויי מיחתום למחר קם עימיה רבי חייא בר מדיא. אמר ליה יאות עבדת דלא חתמת. דרבי יונה אבוך הוה אמר אנטונינוס יהבה לרבי תרין אלפין דשנין באריסו. לפיכך נאכל אבל לא נעבד [כסוריא] ופטור מן המעשרות מפני שהיא כשדות גוים.",
+        "url": "https://www.sefaria.org/Jerusalem_Talmud_Sheviit_6%3A1%3A21"
+      },
+      {
+        "ref": "Berakhot 57b:17",
+        "excerpt": "תנא דבי רבי ישמעאל: למה נקרא שמן קשואים מפני שהן קשין לגוף כחרבות. איני, והכתיב: \"ויאמר ה' לה שני גוים בבטנך\": אל תקרי \"גוים\" אלא \"גיים\", ואמר רב יהודה אמר רב: אלו אנטונינוס ורבי, שלא פסק משלחנם לא צנון ולא חזרת ולא קשואין, לא בימות החמה ולא בימות הגשמים.",
+        "url": "https://www.sefaria.org/Berakhot_57b%3A17"
+      },
+      {
+        "ref": "Sanhedrin 91a:17",
+        "excerpt": "אמר ליה אנטונינוס לרבי: גוף ונשמה יכולין לפטור עצמן מן הדין. כיצד? גוף אומר: נשמה חטאת, שמיום שפירשה ממני הריני מוטל כאבן דומם בקבר. ונשמה אומרת: גוף חטא, שמיום שפירשתי ממנו הריני פורחת באויר כצפור. אמר ליה: אמשול לך משל. למה הדבר דומה? למלך בשר ודם שהיה לו פרדס נאה, והיה בו",
+        "url": "https://www.sefaria.org/Sanhedrin_91a%3A17"
+      },
+      {
+        "ref": "Sanhedrin 91b:4",
+        "excerpt": "אמר ליה אנטונינוס לרבי: מפני מה חמה יוצאה במזרח ושוקעת במערב? אמר ליה: אי הוה איפכא נמי הכי הוה אמרת לי. אמר ליה, הכי קאמינא לך: מפני מה שוקעת במערב?",
+        "url": "https://www.sefaria.org/Sanhedrin_91b%3A4"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/antoninus1",
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json",
+      "https://he.wikisource.org/w/index.php?oldid=764887",
+      "https://he.wikisource.org/w/index.php?oldid=978087"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 4,
+    "target": "bonayich:2665",
+    "from": "heiman:1710092",
+    "reason": "Same Ronia in Bava Batra 5a and Bava Metzia 93b; Hyman biography matches the cited narratives.",
+    "primary_comparison": [
+      {
+        "ref": "Bava Batra 5a:1",
+        "excerpt": "רוניא, אקפיה רבינא מארבע רוחותיו. אמר ליה: \"הב לי כמה דגדרי\", לא יהיב ליה. \"הב לי לפי קנים בזול\", לא יהיב ליה. \"הב לי אגר נטירותא\", לא יהיב ליה.",
+        "url": "https://www.sefaria.org/Bava_Batra_5a%3A1"
+      },
+      {
+        "ref": "Bava Batra 5a:4",
+        "excerpt": "רוניא זבן ארעא אמיצרא דרבינא. סבר רבינא לסלוקי משום דינא דבר מצרא; אמר ליה רב ספרא בריה דרב ייבא לרבינא, אמרי אינשי: ארבעה לצלא, ארבעה לצללא.",
+        "url": "https://www.sefaria.org/Bava_Batra_5a%3A4"
+      },
+      {
+        "ref": "Bava Metzia 93b:12",
+        "excerpt": "איבו אפקיד כיתנא בי רוניא. אזל שבו שמטיה מיניה. לסוף הוכר הגנב. אתא לקמיה דרב נחמן, חייביה. לימא פליגא דרב הונא בר אבין?",
+        "url": "https://www.sefaria.org/Bava_Metzia_93b%3A12"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json",
+      "https://he.wikisource.org/w/index.php?oldid=2808627",
+      "https://he.wikisource.org/w/index.php?oldid=2808666"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 4,
+    "target": "bonayich:887",
+    "from": "heiman:1710512",
+    "reason": "Same Denku, money-changer in Rav Papa's time; shared Bava Kamma 99b passages.",
+    "primary_comparison": [
+      {
+        "ref": "Bava Kamma 99b:23",
+        "excerpt": "אמר רב פפא: כי תניא אומן פטור כגון דנכו ואיסור, דלא צריכי למיגמר כלל. אלא במאי טעו? טעו בסיכתא חדתא, דההיא שעתא דנפק מתותי סיכתא.",
+        "url": "https://www.sefaria.org/Bava_Kamma_99b%3A23"
+      },
+      {
+        "ref": "Bava Kamma 99b:25",
+        "excerpt": "ומאי שנא דנכו ואיסור דפטירי משום דלא צריכי למיגמר? רבי חייא נמי לאו למיגמר קא בעי! רבי חייא, לפנים משורת הדין הוא דעבד. כדתני רב יוסף: \"והודעת להם\" זה",
+        "url": "https://www.sefaria.org/Bava_Kamma_99b%3A25"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json",
+      "https://he.wikisource.org/w/index.php?oldid=2810701",
+      "https://he.wikisource.org/w/index.php?oldid=2805510"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 4,
+    "target": "bonayich:1012",
+    "from": "heiman:1710624",
+    "reason": "Same Zigod in the Tovya/Zigod proverb; shared Makkot 11a and Pesachim 113b.",
+    "primary_comparison": [
+      {
+        "ref": "Makkot 11a:15",
+        "excerpt": "ואיכא דמתני: כדי שיתפללו על בניהם שלא ימותו. טעמא דמצלו, הא לא מצלו מייתי? מאי הוה ליה למעבד? הכא אמרינן: טוביה חטא וזיגוד מנגיד.",
+        "url": "https://www.sefaria.org/Makkot_11a%3A15"
+      },
+      {
+        "ref": "Pesachim 113b:3",
+        "excerpt": "כי הא דטוביה חטא, ואתא זיגוד לחודיה ואסהיד ביה קמיה דרב פפא. נגדיה לזיגוד. אמר ליה: טוביה חטא וזיגוד מינגד?! אמר ליה: אין, דכתיב: \"לא יקום עד אחד באיש\", ואת לחודך אסהדת ביה, שם רע בעלמא קא מפקת ביה.",
+        "url": "https://www.sefaria.org/Pesachim_113b%3A3"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json",
+      "https://he.wikisource.org/w/index.php?oldid=2810939",
+      "https://he.wikisource.org/w/index.php?oldid=2805752"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 4,
+    "target": "bonayich:865",
+    "from": "heiman:1710480",
+    "reason": "Same Doratai family in Pesachim 70b; Hyman identifies Judah ben Doratai and his son.",
+    "primary_comparison": [
+      {
+        "ref": "Pesachim 70b:5",
+        "excerpt": "תניא, יהודה בן דורתאי פירש הוא ודורתאי בנו, והלך וישב לו בדרום. אמר: אם יבוא אליהו ויאמר להם לישראל: מפני מה לא חגגתם חגיגה בשבת, מה הן אומרים לו? תמהני על שני גדולי הדור שמעיה ואבטליון שהן חכמים גדולים ודרשנין גדולים, ולא אמרו להן לישראל חגיגה דוחה את השבת.",
+        "url": "https://www.sefaria.org/Pesachim_70b%3A5"
+      },
+      {
+        "ref": "Pesachim 70b:6",
+        "excerpt": "אמר רב: מאי טעמא דבן דורתאי, דכתיב: \"וזבחת פסח לה' אלהיך צאן ובקר\", והלא אין פסח אלא מן הכבשים ומן העזים! אלא: \"צאן\" זה פסח, \"בקר\" זו חגיגה, ואמר רחמנא \"וזבחת פסח\"!",
+        "url": "https://www.sefaria.org/Pesachim_70b%3A6"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json",
+      "https://he.wikisource.org/w/index.php?oldid=2810657",
+      "https://he.wikisource.org/w/index.php?oldid=2956133"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 4,
+    "target": "bonayich:406",
+    "from": "heiman:333690",
+    "reason": "Same Alksa in Chagigah 18a; Hyman: great man in Lod in Rabbi Tarfon's time.",
+    "primary_comparison": [
+      {
+        "ref": "Chagigah 18a:10",
+        "excerpt": "ומותרין בהספד ותענית, שלא לקיים את דברי האומרין עצרת אחר השבת. והאיתמר: מעשה ומת אלכסא בלוד, ונכנסו כל ישראל לסופדו, ולא הניחם רבי טרפון, מפני שיום טוב של עצרת היה.",
+        "url": "https://www.sefaria.org/Chagigah_18a%3A10"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json",
+      "https://he.wikisource.org/w/index.php?oldid=764922",
+      "https://he.wikisource.org/w/index.php?oldid=977979"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 4,
+    "target": "bonayich:517",
+    "from": "heiman:333838",
+    "reason": "Same Androlinai in Yevamot 115b; Hyman: contemporary of Samuel's father, not a Torah scholar.",
+    "primary_comparison": [
+      {
+        "ref": "Yevamot 115b:9",
+        "excerpt": "אמר אביי: מנא אמינא לה, דההוא גיטא דאשתכח בנהרדעא וכתיב: בצד קלוניא מתא אנא אנדרולינאי נהרדעא פטרית ותרכית ית פלונית אנתתי. ושלחה אבוה דשמואל לקמיה דרבי יהודה נשיאה. ושלח ליה: תיבדק נהרדעא כולה.",
+        "url": "https://www.sefaria.org/Yevamot_115b%3A9"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json",
+      "https://he.wikisource.org/w/index.php?oldid=764889",
+      "https://he.wikisource.org/w/index.php?oldid=978087"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 4,
+    "target": "bonayich:173",
+    "from": "heiman:333340",
+    "reason": "Same Ablat, gentile sage and friend of Samuel; shared Shabbat 129a passage.",
+    "primary_comparison": [
+      {
+        "ref": "Shabbat 129a:19",
+        "excerpt": "אבלט אשכחיה לשמואל דגני בשמשא. אמר ליה: חכימא דיהודאי, בישא מי הוי טבא?! אמר ליה: יומא דהקזה הוא.",
+        "url": "https://www.sefaria.org/Shabbat_129a%3A19"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json",
+      "https://he.wikisource.org/w/index.php?oldid=763263",
+      "https://he.wikisource.org/w/index.php?oldid=977910"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 4,
+    "target": "bonayich:1009",
+    "from": "heiman:1710622",
+    "reason": "Same Zonin in Avodah Zarah 55a.",
+    "primary_comparison": [
+      {
+        "ref": "Avodah Zarah 55a:4",
+        "excerpt": "אמר ליה זונין לרבי עקיבא: לבי ולבך ידע דעבודה זרה לית בה מששא, והא קחזינן גברי דאזלי כי מתברי ואתו כי מצמדי! מאי טעמא?",
+        "url": "https://www.sefaria.org/Avodah_Zarah_55a%3A4"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json",
+      "https://he.wikisource.org/w/index.php?oldid=2810936",
+      "https://he.wikisource.org/w/index.php?oldid=2805752"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 4,
+    "target": "sefaria:herod",
+    "from": "heiman:1710566",
+    "reason": "Same Herod in Bava Batra 3b Temple narratives; two shared primary passages.",
+    "primary_comparison": [
+      {
+        "ref": "Bava Batra 3b:13",
+        "excerpt": "ובבא בן בוטא, היכי אסביה ליה עצה להורדוס למיסתריה לבית המקדש? והאמר רב חסדא: לא ליסתור איניש בי כנישתא עד דבני בי כנישתא אחריתא! אי בעית אימא: תיוהא חזא ביה, איבעית אימא: מלכותא שאני, דלא הדרא ביה; דאמר שמואל, אי אמר מלכותא: \"עקרנא טורי\" עקר טורי ולא הדר ביה.",
+        "url": "https://www.sefaria.org/Bava_Batra_3b%3A13"
+      },
+      {
+        "ref": "Bava Batra 3b:14",
+        "excerpt": "הורדוס עבדא דבית חשמונאי הוה. נתן עיניו באותה תינוקת. יומא חד, שמע ההוא גברא בת קלא דאמר: כל עבדא דמריד השתא, מצלח. קם קטלינהו לכולהו מרותיה, ושיירה לההיא ינוקתא. כי חזת ההיא ינוקתא דקא בעי למינסבה, סליקא לאיגרא, ורמא קלא אמרה: \"כל מאן דאתי ואמר: מבית חשמונאי קאתינא עבדא הוא, דלא אישתיירא מינייהו אלא ההיא ינוקתא, וההיא ינוקתא נפלה מאיגרא לארעא\".",
+        "url": "https://www.sefaria.org/Bava_Batra_3b%3A14"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/herod",
+      "https://he.wikisource.org/w/index.php?oldid=2810813",
+      "https://he.wikisource.org/w/index.php?oldid=2805547"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 4,
+    "target": "sefaria:rabbi-zakkai",
+    "from": "heiman:1710643",
+    "reason": "Same Rabbi Zakkai; shared Megillah 27b and Niddah 23b passages.",
+    "primary_comparison": [
+      {
+        "ref": "Megillah 27b:19",
+        "excerpt": "שאלו תלמידיו את רבי זכאי: במה הארכת ימים? אמר להם: מימי לא השתנתי מים בתוך ארבע אמות של תפלה, ולא כניתי שם לחבירי, ולא ביטלתי קידוש היום. אמא זקינה היתה לי, פעם אחת מכרה כפה שבראשה והביאה לי קידוש היום.",
+        "url": "https://www.sefaria.org/Megillah_27b%3A19"
+      },
+      {
+        "ref": "Niddah 23b:17",
+        "excerpt": "וכמה ינטל מן החי וימות? רבי זכאי אומר:",
+        "url": "https://www.sefaria.org/Niddah_23b%3A17"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/rabbi-zakkai",
+      "https://he.wikisource.org/w/index.php?oldid=2810959",
+      "https://he.wikisource.org/w/index.php?oldid=2811906"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "separate_identity",
+    "batch": 4,
+    "identity_keys": [
+      "sefaria:avimi",
+      "heiman:333278"
+    ],
+    "status": "decided",
+    "reason": "Hyman Avimi I (father of Ada bar Avimi / Tachlifa bar Avimi in Eruvin 9b and Pesachim 107a) is a different person from the second-generation Babylonian Amora Avimi merged above.",
+    "primary_refs": [
+      "Eruvin 9b:12",
+      "Pesachim 107a:6"
+    ],
+    "sources": [
+      "https://he.wikisource.org/w/index.php?oldid=763241",
+      "https://he.wikisource.org/w/index.php?oldid=977897"
+    ]
+  },
+  {
+    "action": "insufficient_evidence",
+    "batch": 4,
+    "identity_keys": [
+      "sefaria:rabbi-hama-b-bisa",
+      "hewiki:2095590"
+    ],
+    "status": "unresolved",
+    "reason": "Three shared primary passages but conflicting Tanna (Wikipedia) vs Amora (Sefaria) classifications; cannot force merge without explicit source resolution.",
+    "shared_refs": [
+      "Ketubot 62b:13",
+      "Niddah 14b:4",
+      "Niddah 14b:8"
+    ]
+  },
+  {
+    "action": "same_person",
+    "batch": 5,
+    "target": "sefaria:geniva",
+    "from": "hewiki:1183469",
+    "reason": "Same first-generation Babylonian Amora Geniva, pupil of Rav; Wikipedia biography matches Berakhot 25a passages on the Sefaria profile.",
+    "primary_comparison": [],
+    "manual_source_comparison": {
+      "ref": "Berakhot 25a:17"
+    },
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/geniva",
+      "https://he.wikisource.org/w/index.php?oldid=996428",
+      "https://he.wikisource.org/w/index.php?oldid=996530",
+      "https://he.wikipedia.org/w/index.php?oldid=41411380",
+      "https://www.wikidata.org/wiki/Q18038621"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 5,
+    "target": "sefaria:rebbi-gorion",
+    "from": "bonayich:814",
+    "reason": "Same Rabbi Gorion transmitting the Shabbat 33b:4 teaching on righteous people suffering for the generation.",
+    "primary_comparison": [
+      {
+        "ref": "Shabbat 33b:4",
+        "excerpt": "התם כדרבי גוריון, דאמר רבי גוריון ואיתימא רב יוסף ברבי שמעיה: בזמן שהצדיקים בדור צדיקים נתפסים על הדור, אין צדיקים בדור תינוקות של בית רבן נתפסים על הדור. אמר רבי יצחק בר זעירי, ואמרי לה אמר רבי שמעון בן נזירא: מאי קראה \"אם לא תדעי לך היפה בנשים צאי לך בעקבי הצאן וגו'\", ואמרינן: גדיים הממושכנין על הרועים. שמע מינה: אף על לשון הרע נמי קאמר שמע מינה.",
+        "url": "https://www.sefaria.org/Shabbat_33b%3A4"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/rebbi-gorion",
+      "https://he.wikisource.org/w/index.php?oldid=996369",
+      "https://he.wikisource.org/w/index.php?oldid=996397",
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 5,
+    "target": "sefaria:botnit",
+    "from": "heiman:379121",
+    "reason": "Same Botnit son of Abba Shaul ben Botnit in Nedarim 23a:3; Hyman identifies the father-son Botnit family.",
+    "primary_comparison": [
+      {
+        "ref": "Nedarim 23a:3",
+        "excerpt": "אמר ליה בטנית בריה דאבא שאול בן בטנית: מי נדרת אדעתא דמצטערי רבנן מטולא לשימשא ומשימשא לטולא? אמר: לא, ושריוה.",
+        "url": "https://www.sefaria.org/Nedarim_23a%3A3"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/botnit",
+      "https://he.wikisource.org/w/index.php?oldid=979831",
+      "https://he.wikisource.org/w/index.php?oldid=979811"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 5,
+    "target": "sefaria:rav-zevid1",
+    "from": "hyman-section:ba292ef58bf338dc7233",
+    "reason": "Same Zevida in Avodah Zarah 16a:12; Hyman separates this Amoraic figure from the biblical Zevida entry in the same section.",
+    "primary_comparison": [
+      {
+        "ref": "Avodah Zarah 16a:12",
+        "excerpt": "וכי משהי ליה בריא ועביד מלאכה? אמר רב אשי: אמר לי זבידא בר תורא, משהינן ליה ועביד על חד תרין.",
+        "url": "https://www.sefaria.org/Avodah_Zarah_16a%3A12"
+      }
+    ],
+    "manual_source_comparison": {
+      "ref": "Avodah Zarah 16a:12"
+    },
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/rav-zevid1",
+      "https://he.wikisource.org/w/index.php?oldid=2805052"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 5,
+    "target": "sefaria:alexander",
+    "from": "heiman:333697",
+    "reason": "Same Alexander, brother of Rabbi Huryina and Rabbi Samuel bar Susartai, in Yerushalmi Bava Batra 9:3:5.",
+    "primary_comparison": [
+      {
+        "ref": "Jerusalem Talmud Bava Batra 9:3:5",
+        "excerpt": "אמר רבי אימי. בן שנראה חלוק בחיי אביו מה שסיגל סיגל לעצמו. כהדא חד בר נש איתעביד ספר. בעא אחוי מיפלג עימיה. אתא עובדא קומי רבי אמי. אמר. כך אנו אומרים. אדם שמצא מציאה אחיו חולקין עמו. חד בר נש נפק לשליחותא. בעא אחוי מיפלוג עימיה. אתא עובדא קומי רבי אמי. אמר. כך אנו אומרים. אדם שיצא לליסטייא אחיו חולקין עמו. רבי הוריינה אחוי דרבי שמואל בר סוסרטיי בעא אחוי מיפלוג עימיה. אמר לו. אלכסנדרי אחוי. ידע את דשבק אבונן אלפים.",
+        "url": "https://www.sefaria.org/Jerusalem_Talmud_Bava_Batra_9%3A3%3A5"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/alexander",
+      "https://he.wikisource.org/w/index.php?oldid=764920",
+      "https://he.wikisource.org/w/index.php?oldid=977980"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "same_person",
+    "batch": 5,
+    "target": "bonayich:805",
+    "from": "heiman:381573",
+    "reason": "Same Gevini, Temple herald in Yoma 20b:7; Hyman cites Shekalim and Tamid parallels.",
+    "primary_comparison": [
+      {
+        "ref": "Yoma 20b:7",
+        "excerpt": "תניא כותיה דרב, תניא כותיה דרבי שילא. תניא כותיה דרב: גביני כרוז מהו אומר: \"עמדו כהנים לעבודתכם, ולוים לדוכנכם, וישראל למעמדכם\". והיה קולו נשמע בשלש פרסאות.",
+        "url": "https://www.sefaria.org/Yoma_20b%3A7"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json",
+      "https://he.wikisource.org/w/index.php?oldid=996347",
+      "https://he.wikisource.org/w/index.php?oldid=996302"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "separate_identity",
+    "batch": 5,
+    "identity_keys": [
+      "hewiki:2176997",
+      "hyman-section:b5b65d4b1a0af20c2da9"
+    ],
+    "status": "decided",
+    "reason": "Hyman notes the Berakhot 38b transmission attributed to Ravnai should read Rava per Dikdukei Sofrim; not the Ravnai who is brother of Rabbi Hiyya bar Abba.",
+    "primary_refs": [
+      "Berakhot 38b:3"
+    ],
+    "sources": [
+      "https://he.wikisource.org/w/index.php?oldid=2807665"
+    ]
+  },
+  {
+    "action": "insufficient_evidence",
+    "batch": 5,
+    "identity_keys": [
+      "sefaria:rav-huna",
+      "hyman-section:32a37ab9d57da53aa0d0"
+    ],
+    "status": "unresolved",
+    "reason": "Only one shared primary passage (Arakhin 16b:9) for a major sage with extensive independent profiles; name-level candidate only.",
+    "shared_refs": [
+      "Arakhin 16b:9"
+    ]
+  },
+  {
+    "action": "same_person",
+    "batch": "research-1",
+    "target": "sefaria:rav-ahadvoi-b-ami",
+    "from": "sefaria:rav-achadvoi-b-ami",
+    "reason": "Duplicate Sefaria slug orthography for Rav Achadvoi bar Ami; identical alias set; target holds all independently attributed primary passages.",
+    "primary_comparison": [],
+    "manual_source_comparison": {
+      "ref": "Bava Batra 9b:2"
+    },
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/rav-ahadvoi-b-ami",
+      "https://he.wikipedia.org/w/index.php?oldid=40507048",
+      "https://www.wikidata.org/wiki/Q16133482",
+      "https://he.wikisource.org/w/index.php?oldid=764532",
+      "https://he.wikisource.org/w/index.php?oldid=2889026",
+      "https://www.sefaria.org/topics/rav-achadvoi-b-ami"
+    ],
+    "status": "decided"
+  },
+  {
+    "action": "separate_identity",
+    "batch": "research-1",
+    "identity_keys": [
+      "sefaria:rabbi-hama-b-bisa",
+      "hewiki:2095590"
+    ],
+    "status": "decided",
+    "reason": "Negative: incompatible classification/generation between profiles.",
+    "evidence": {
+      "shared_refs": [
+        "Ketubot 62b:13",
+        "Niddah 14b:4",
+        "Niddah 14b:8"
+      ],
+      "negative": [
+        {
+          "kind": "classification_conflict",
+          "detail": "Amora vs Tanna"
+        },
+        {
+          "kind": "generation_mismatch",
+          "detail": {
+            "a": [
+              "A1"
+            ],
+            "b": [
+              "דור המעבר לאמוראי ארץ ישראל",
+              "הדור החמישי לתנאים"
+            ]
+          }
+        }
+      ]
+    },
+    "sources": [
+      "https://www.sefaria.org/topics/rabbi-hama-b-bisa",
+      "http://www.jewishencyclopedia.com/view.jsp?artid=150&letter=H",
+      "https://he.wikipedia.org/w/index.php?oldid=43161469",
+      "https://www.wikidata.org/wiki/Q112229365",
+      "https://he.wikisource.org/w/index.php?oldid=2854052",
+      "https://he.wikisource.org/w/index.php?oldid=2811855"
+    ]
+  },
+  {
+    "action": "separate_identity",
+    "batch": "research-1",
+    "identity_keys": [
+      "sefaria:rabbi-tzadok-(i)",
+      "sefaria:rabbi-tzadok-(ii)"
+    ],
+    "status": "decided",
+    "reason": "Negative: incompatible classification/generation between profiles.",
+    "evidence": {
+      "shared_refs": [],
+      "negative": [
+        {
+          "kind": "generation_mismatch",
+          "detail": {
+            "a": [
+              "T2"
+            ],
+            "b": [
+              "T5"
+            ]
+          }
+        }
+      ]
+    },
+    "sources": [
+      "https://www.sefaria.org/topics/rabbi-tzadok-(i)",
+      "http://www.jewishencyclopedia.com/view.jsp?artid=11&letter=Z",
+      "https://www.sefaria.org/topics/rabbi-tzadok-(ii)"
+    ]
+  },
+  {
+    "action": "same_person",
+    "batch": "research-57",
+    "target": "sefaria:rav-huna",
+    "from": "hyman-section:32a37ab9d57da53aa0d0",
+    "reason": "Positive: 3 shared independently attributed primary passages.",
+    "primary_comparison": [
+      {
+        "ref": "Arakhin 16b:9",
+        "excerpt": "היכי דמי תוכחה לשמה וענוה שלא לשמה? כי הא דרב הונא וחייא בר רב הוו יתבי קמיה דשמואל, אמר ליה חייא בר רב: חזי מר דקא מצער לי. קביל עליה דתו לא מצער ליה. בתר דנפיק, אמר ליה: הכי והכי קא עביד. אמר ליה: אמאי לא אמרת ליה באנפיה? אמר ליה: חס לי דליכסיף זרעיה דרב על ידאי!",
+        "url": "https://www.sefaria.org/Arakhin_16b%3A9"
+      },
+      {
+        "ref": "Beitzah 21a:1",
+        "excerpt": "הורצה, על מנת להקטיר אימורין לערב. אם זרק, דיעבד אין, לכתחלה לא! בשלמא לרבא ניחא, אלא לרבה בר רב הונא קשיא! קשיא. ואיבעית אימא: שאני שבות שבת משבות יום טוב.",
+        "url": "https://www.sefaria.org/Beitzah_21a%3A1"
+      },
+      {
+        "ref": "Bekhorot 17a:1",
+        "excerpt": "היינו דאמר ליה רבן שמעון בן גמליאל: אפילו עד עשרה דורות פטורין. אלא לרב הונא דאמר: לא נחית תנא קמא לדרי, מאי \"אפילו עד עשרה דורות\"? אמר לך רב הונא: רבן שמעון בן גמליאל א\"העמיד\" קאי דנחית לדרי.",
+        "url": "https://www.sefaria.org/Bekhorot_17a%3A1"
+      }
+    ],
+    "manual_source_comparison": null,
+    "secondary_sources": [
+      "https://www.sefaria.org/topics/rav-huna",
+      "https://he.wikipedia.org/wiki/%D7%A8%D7%91_%D7%94%D7%95%D7%A0%D7%90",
+      "http://en.wikipedia.org/wiki/Rav_Huna",
+      "http://www.jewishencyclopedia.com/view.jsp?artid=963&letter=H",
+      "https://he.wikipedia.org/w/index.php?oldid=43475512",
+      "https://www.wikidata.org/wiki/Q1794530",
+      "https://he.wikisource.org/w/index.php?oldid=2810716",
+      "https://he.wikisource.org/w/index.php?oldid=2805511",
+      "https://he.wikisource.org/w/index.php?oldid=2810715"
+    ],
+    "status": "decided"
+  }
+]

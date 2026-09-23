@@ -1,0 +1,25 @@
+{
+  "hoverMethod": "mouse",
+  "pinFound": true,
+  "card": {
+    "text": "ירושליםמרכז ראשי · 21 חכמים · 1 מוסדותירושלים היא לב העולם התורני בימי בית שני: מקום המקדש והעבודה, מושב הסנהדרין בלשכת ",
+    "rect": {
+      "x": 663.125,
+      "y": 448.5625,
+      "w": 250,
+      "h": 202.375
+    },
+    "style": {
+      "opacity": "1",
+      "visibility": "visible",
+      "display": "block",
+      "zIndex": "6",
+      "transform": "matrix(1, 0, 0, 1, -125, -202.375)",
+      "left": "735.14px",
+      "top": "364.361px",
+      "pointerEvents": "auto"
+    },
+    "inViewport": true,
+    "coveredBy": null
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "baseline": {
+    "tannaim": 199,
+    "amoraim": 591,
+    "amoraim_eretz_israel": 75,
+    "amoraim_babylonia": 121,
+    "amoraim_mixed_unknown": 395,
+    "total_unique_sages": 790,
+    "high_confidence_identities": 268,
+    "medium_confidence_identities": 522,
+    "manual_review_candidate_records": 3799,
+    "suspected_duplicate_pairs": 569,
+    "suspected_duplicate_candidate_records": 982,
+    "records_with_direct_primary_chazal_evidence": 790
+  },
+  "current": {
+    "tannaim": 203,
+    "amoraim": 584,
+    "amoraim_eretz_israel": 74,
+    "amoraim_babylonia": 123,
+    "amoraim_mixed_unknown": 387,
+    "total_unique_sages": 787,
+    "high_confidence_identities": 281,
+    "medium_confidence_identities": 506,
+    "manual_review_candidate_records": 3489,
+    "suspected_duplicate_pairs": 481,
+    "suspected_duplicate_candidate_records": 862,
+    "records_with_direct_primary_chazal_evidence": 787,
+    "bibliographic_inventory_records": 297,
+    "merged_source_records": 16,
+    "quarantined_primary_assignments": 40
+  },
+  "promoted_from_review": [
+    {
+      "identity_key": "sefaria:abba-b-marta",
+      "name": "אבא בר מרתא"
+    },
+    {
+      "identity_key": "sefaria:avuha-di-shmuel",
+      "name": "אבוה דשמואל"
+    },
+    {
+      "identity_key": "sefaria:avtalyon",
+      "name": "אבטליון"
+    },
+    {
+      "identity_key": "sefaria:abaye",
+      "name": "אביי"
+    },
+    {
+      "identity_key": "sefaria:shimon-b-zoma",
+      "name": "בן זומא"
+    },
+    {
+      "identity_key": "sefaria:rabbi-shimon-b-nannas",
+      "name": "בן ננס"
+    },
+    {
+      "identity_key": "sefaria:yochanan-ben-bag-bag",
+      "name": "יוחנן בן בג בג"
+    },
+    {
+      "identity_key": "sefaria:rav-hanan-b-rabbah",
+      "name": "רב חנן בר רבא"
+    },
+    {
+      "identity_key": "sefaria:rava",
+      "name": "רבא"
+    },
+    {
+      "identity_key": "sefaria:rabi",
+      "name": "רבי"
+    },
+    {
+      "identity_key": "sefaria:rebbi-abba-b-jeremiah",
+      "name": "רבי אבא בר ירמיה"
+    },
+    {
+      "identity_key": "sefaria:rabbi-chanina-b-chama",
+      "name": "רבי חנינא בר חמא"
+    },
+    {
+      "identity_key": "hewiki:868003",
+      "name": "רבה בר רב שילא"
+    },
+    {
+      "identity_key": "bonayich:135",
+      "name": "אבימי מבי חוזאי"
+    },
+    {
+      "identity_key": "bonayich:218",
+      "name": "רב אדא משוחאה"
+    },
+    {
+      "identity_key": "bonayich:2597",
+      "name": "רבא בר רב הונא זוטי"
+    },
+    {
+      "identity_key": "bonayich:1122",
+      "name": "רבי חייא בר נחמני"
+    },
+    {
+      "identity_key": "bonayich:2945",
+      "name": "תוטאי"
+    },
+    {
+      "identity_key": "hyman-section:564fa80f4e95b13da093",
+      "name": "אבטולמוס (תנא דמתניתין)"
+    },
+    {
+      "identity_key": "heiman:333260",
+      "name": "ר' אבטולס (אמורא)"
+    },
+    {
+      "identity_key": "heiman:333747",
+      "name": "ר' אלעזר בן ירמיה"
+    },
+    {
+      "identity_key": "heiman:1709727",
+      "name": "ר' ראובן (אמורא בא\"י בדור השלישי והרביעי)"
+    }
+  ],
+  "demoted_from_master": [
+    "bonayich:336",
+    "sefaria:rav-bivi",
+    "bonayich:1101",
+    "hewiki:921215",
+    "hewiki:991992",
+    "bonayich:1660",
+    "sefaria:rav-mesharshiya",
+    "bonayich:2759",
+    "hewiki:1247827",
+    "bonayich:599",
+    "hewiki:1233120",
+    "bonayich:1315",
+    "bonayich:1486",
+    "bonayich:1659",
+    "bonayich:2207",
+    "hewiki:63201"
+  ],
+  "input_conservation": {
+    "input": 4589,
+    "output": 4589
+  }
+}

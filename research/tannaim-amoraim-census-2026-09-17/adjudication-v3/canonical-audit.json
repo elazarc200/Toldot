@@ -1,0 +1,463 @@
+{
+  "generated_at": "2026-09-18T00:25:43.273Z",
+  "canonical_count": 818,
+  "review_count": 3410,
+  "summary": {
+    "weak_primary": 0,
+    "missing_classification": 0,
+    "missing_aliases": 0,
+    "canonical_name_collisions": 22,
+    "suspicious_canonical_pairs": 11,
+    "orphan_redirects": 0,
+    "chronology_conflicts": 0
+  },
+  "findings": {
+    "weak_primary": [],
+    "missing_classification": [],
+    "missing_aliases": [],
+    "canonical_name_collisions": [
+      {
+        "name": "הלל",
+        "keys": [
+          "sefaria:hillel",
+          "hewiki:1899504"
+        ]
+      },
+      {
+        "name": "יהודה בר מרימר",
+        "keys": [
+          "hewiki:874727",
+          "hewiki:2190330"
+        ]
+      },
+      {
+        "name": "רב אידי בר אבין",
+        "keys": [
+          "hewiki:824913",
+          "sefaria:rav-idi-b-avin-(i)",
+          "hewiki:903994"
+        ]
+      },
+      {
+        "name": "רב אסי",
+        "keys": [
+          "hewiki:446618",
+          "sefaria:rav-assi",
+          "sefaria:rabbi-assi"
+        ]
+      },
+      {
+        "name": "רב הונא",
+        "keys": [
+          "hewiki:946332",
+          "sefaria:rav-huna"
+        ]
+      },
+      {
+        "name": "רב המנונא",
+        "keys": [
+          "hewiki:873859",
+          "hewiki:588208"
+        ]
+      },
+      {
+        "name": "רב זביד",
+        "keys": [
+          "sefaria:rav-zevid",
+          "hewiki:747451"
+        ]
+      },
+      {
+        "name": "רב יצחק בר אבדימי",
+        "keys": [
+          "sefaria:rav-yitzhak-b-avudimi",
+          "hewiki:877932"
+        ]
+      },
+      {
+        "name": "רב כהנא",
+        "keys": [
+          "sefaria:rav-kahana-(i)",
+          "sefaria:rav-kahana-(ii)",
+          "sefaria:rav-kahana-(iii)",
+          "sefaria:rav-kahana-(iv)"
+        ]
+      },
+      {
+        "name": "רבי אבא",
+        "keys": [
+          "sefaria:rabbi-abba",
+          "hewiki:1345991"
+        ]
+      },
+      {
+        "name": "רבי אבין",
+        "keys": [
+          "hewiki:864324",
+          "sefaria:rabbi-avin-(ravin)"
+        ]
+      },
+      {
+        "name": "רבי אחא",
+        "keys": [
+          "hewiki:995178",
+          "hewiki:1351820"
+        ]
+      },
+      {
+        "name": "רבי אליעזר בן יעקב",
+        "keys": [
+          "sefaria:rabbi-eliezer-b-yaakov-(i)",
+          "sefaria:rabbi-eliezer-b-yaakov-(ii)"
+        ]
+      },
+      {
+        "name": "רבי יאשיה",
+        "keys": [
+          "sefaria:rabbi-yoshiah",
+          "hewiki:956117"
+        ]
+      },
+      {
+        "name": "רבי יהודה נשיאה",
+        "keys": [
+          "sefaria:rabbi-yehudah-nesia-(i)",
+          "sefaria:rabbi-yehudah-nesia-(ii)"
+        ]
+      },
+      {
+        "name": "רבי ינאי",
+        "keys": [
+          "sefaria:rabbi-yannai",
+          "hewiki:1970467"
+        ]
+      },
+      {
+        "name": "רבי ירמיה",
+        "keys": [
+          "sefaria:rabbi-yirmeyah",
+          "hewiki:874470"
+        ]
+      },
+      {
+        "name": "רבי מנא",
+        "keys": [
+          "hewiki:772175",
+          "sefaria:rabbi-mana-(i)",
+          "sefaria:rabbi-mana-(ii)"
+        ]
+      },
+      {
+        "name": "רבי עילאי",
+        "keys": [
+          "sefaria:rabbi-ilai-(i)",
+          "sefaria:rabbi-ilai-(ii)"
+        ]
+      },
+      {
+        "name": "רבי צדוק",
+        "keys": [
+          "hewiki:861966",
+          "sefaria:rabbi-tzadok-(i)"
+        ]
+      },
+      {
+        "name": "רבן שמעון בן גמליאל",
+        "keys": [
+          "sefaria:rabban-shimon-b-gamliel",
+          "sefaria:rabban-shimon-b-gamliel-(ii)"
+        ]
+      },
+      {
+        "name": "רמי בר אבא",
+        "keys": [
+          "sefaria:rami-b-abba",
+          "hewiki:908665"
+        ]
+      }
+    ],
+    "suspicious_canonical_pairs": [
+      {
+        "keys": [
+          "hewiki:874727",
+          "hewiki:2190330"
+        ],
+        "name": "יהודה בר מרימר",
+        "shared_refs": [
+          "Ketubot 52b"
+        ],
+        "negative": [
+          {
+            "kind": "generation_mismatch",
+            "detail": {
+              "scheme": "wiki",
+              "a": [
+                "הדור השביעי לאמוראי בבל"
+              ],
+              "b": [
+                "הדור החמישי לאמוראי בבל"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "keys": [
+          "hewiki:824913",
+          "hewiki:903994"
+        ],
+        "name": "רב אידי בר אבין",
+        "shared_refs": [
+          "Chullin 131a"
+        ],
+        "negative": [
+          {
+            "kind": "generation_mismatch",
+            "detail": {
+              "scheme": "wiki",
+              "a": [
+                "הדור הרביעי לאמוראי בבל"
+              ],
+              "b": [
+                "הדור השישי לאמוראי בבל"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "keys": [
+          "hewiki:946332",
+          "sefaria:rav-huna"
+        ],
+        "name": "רב הונא (הכהן)",
+        "shared_refs": [
+          "Arakhin 23a"
+        ],
+        "negative": [
+          {
+            "kind": "generation_mismatch",
+            "detail": {
+              "scheme": "wiki",
+              "a": [
+                "הדור הרביעי לאמוראי בבל"
+              ],
+              "b": [
+                "הדור השני לאמוראי בבל"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "keys": [
+          "sefaria:rav-zevid",
+          "hewiki:747451"
+        ],
+        "name": "רב זביד",
+        "shared_refs": [
+          "Avodah Zarah 38b"
+        ],
+        "negative": []
+      },
+      {
+        "keys": [
+          "sefaria:rav-yitzhak-b-avudimi",
+          "hewiki:877932"
+        ],
+        "name": "רב יצחק בר אבדימי",
+        "shared_refs": [
+          "Bava Batra 87a",
+          "Ketubot 56a",
+          "Sanhedrin 56b"
+        ],
+        "negative": [
+          {
+            "kind": "generation_mismatch",
+            "detail": {
+              "scheme": "wiki",
+              "a": [
+                "הדור הראשון לאמוראי בבל"
+              ],
+              "b": [
+                "הדור השני לאמוראי בבל"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "keys": [
+          "sefaria:rabbi-abba",
+          "hewiki:1345991"
+        ],
+        "name": "רבי אבא",
+        "shared_refs": [
+          "Bava Batra 147a"
+        ],
+        "negative": [
+          {
+            "kind": "generation_mismatch",
+            "detail": {
+              "scheme": "wiki",
+              "a": [
+                "הדור השלישי לאמוראי ארץ ישראל",
+                "הדור השלישי לאמוראי בבל"
+              ],
+              "b": [
+                "הדור השישי לאמוראי ארץ ישראל",
+                "הדור השישי לאמוראי בבל"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "keys": [
+          "hewiki:864324",
+          "sefaria:rabbi-avin-(ravin)"
+        ],
+        "name": "רבי אבין",
+        "shared_refs": [
+          "Bava Batra 142b",
+          "Berakhot 27b"
+        ],
+        "negative": []
+      },
+      {
+        "keys": [
+          "sefaria:rabbi-eliezer-b-yaakov-(i)",
+          "sefaria:rabbi-eliezer-b-yaakov-(ii)"
+        ],
+        "name": "רבי אליעזר בן יעקב",
+        "shared_refs": [
+          "Bava Kamma 94a",
+          "Beitzah 6b"
+        ],
+        "negative": [
+          {
+            "kind": "generation_mismatch",
+            "detail": {
+              "scheme": "sefaria",
+              "a": [
+                "T3"
+              ],
+              "b": [
+                "T5"
+              ]
+            }
+          },
+          {
+            "kind": "generation_mismatch",
+            "detail": {
+              "scheme": "wiki",
+              "a": [
+                "הדור השני לתנאים",
+                "ויקיפדיה: ערכים הדורשים הבהרה"
+              ],
+              "b": [
+                "הדור הרביעי לתנאים"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "keys": [
+          "sefaria:rabbi-yehudah-nesia-(i)",
+          "sefaria:rabbi-yehudah-nesia-(ii)"
+        ],
+        "name": "רבי יהודה נשיאה (1)",
+        "shared_refs": [
+          "Avodah Zarah 33b"
+        ],
+        "negative": [
+          {
+            "kind": "generation_mismatch",
+            "detail": {
+              "scheme": "sefaria",
+              "a": [
+                "A1"
+              ],
+              "b": [
+                "A3"
+              ]
+            }
+          },
+          {
+            "kind": "generation_mismatch",
+            "detail": {
+              "scheme": "wiki",
+              "a": [
+                "הדור הראשון לאמוראי ארץ ישראל"
+              ],
+              "b": [
+                "הדור השלישי לאמוראי ארץ ישראל",
+                "הדור השני לאמוראי ארץ ישראל"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "keys": [
+          "sefaria:rabbi-yirmeyah",
+          "hewiki:874470"
+        ],
+        "name": "רבי ירמיה",
+        "shared_refs": [
+          "Bava Batra 142b"
+        ],
+        "negative": [
+          {
+            "kind": "generation_mismatch",
+            "detail": {
+              "scheme": "wiki",
+              "a": [
+                "הדור הרביעי לאמוראי ארץ ישראל"
+              ],
+              "b": [
+                "הדור השלישי לאמוראי ארץ ישראל",
+                "הדור השלישי לאמוראי בבל"
+              ]
+            }
+          },
+          {
+            "kind": "region_mismatch",
+            "detail": {
+              "a": "Eretz Israel",
+              "b": "mixed"
+            }
+          }
+        ]
+      },
+      {
+        "keys": [
+          "sefaria:rami-b-abba",
+          "hewiki:908665"
+        ],
+        "name": "רמי בר אבא",
+        "shared_refs": [
+          "Chullin 111a",
+          "Megillah 26b"
+        ],
+        "negative": [
+          {
+            "kind": "generation_mismatch",
+            "detail": {
+              "scheme": "wiki",
+              "a": [
+                "הדור השלישי לאמוראי בבל"
+              ],
+              "b": [
+                "הדור השישי לאמוראי בבל"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "orphan_redirects": [],
+    "chronology_conflicts": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "inspected_read_only": [
+    "outputs/Toldot-design/src/domain/knowledge.ts",
+    "outputs/Toldot-design/src/application/knowledge-schemas.ts",
+    "outputs/Toldot-design/supabase/migrations/20260907140200_phase1_people_places.sql",
+    "outputs/Toldot-design/src/components/knowledge/pilot.json"
+  ],
+  "mapping": {
+    "person_id": "people.id (research namespace; do not import without reconciliation)",
+    "canonical_name_he": "people.primary_display_name",
+    "aliases": "person_names",
+    "generation": "person_generation_memberships + provenance",
+    "birth_year": "person_time_ranges (estimated Wikidata assertion, not definitive)",
+    "teachers": "directional teacher_student relationship: teacher → this person",
+    "students": "directional teacher_student relationship: this person → student",
+    "primary_chazal_evidence": "citations and evidence assertions",
+    "secondary_identity_evidence": "separate identity bibliography"
+  },
+  "existing_person_ids": "Not silently reused based on name; live IDs require an explicit reviewed crosswalk.",
+  "integration_performed": false
+}

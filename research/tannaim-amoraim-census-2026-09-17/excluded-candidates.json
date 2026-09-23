@@ -1,0 +1,1330 @@
+[
+  {
+    "key": "sefaria:rav-shesha-b-rav-idi1",
+    "reason": "Dangling topic-graph target: API returned no identity metadata."
+  },
+  {
+    "key": "sefaria:rav-yeimar1",
+    "reason": "Dangling topic-graph target: API returned no identity metadata."
+  },
+  {
+    "key": "BONAYICH:23005",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:20626",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:1614",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:20673",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:2103",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:2094",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:813",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:844",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:20241",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:21021",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:1391",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:20278",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:20514",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:561",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:848",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:2542",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:2395",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:1048",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:2482",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:2401",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:2545",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "BONAYICH:2554",
+    "reason": "not_individual_person",
+    "tag": "NORP"
+  },
+  {
+    "key": "hewiki:1390499",
+    "title": "אבא בר אחא בר סלא מכפרי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:11363",
+    "title": "שמגר בן ענת",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:192256",
+    "title": "ברזילי הגלעדי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:374746",
+    "title": "רבשקה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1169145",
+    "title": "פנינה (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1188849",
+    "title": "אוריהו בן שמעיהו",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1955167",
+    "title": "תימא (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:8551",
+    "title": "עוזיהו",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:14741",
+    "title": "הרן",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:21610",
+    "title": "הושע בן בארי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:39358",
+    "title": "תרח",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:39359",
+    "title": "שת",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:42619",
+    "title": "מלכי-צדק",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:47548",
+    "title": "גד",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:55987",
+    "title": "חבקוק",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:61952",
+    "title": "חור (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:70147",
+    "title": "דלילה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:74883",
+    "title": "אוריה החתי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:94382",
+    "title": "עבר (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:94946",
+    "title": "קהת",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:154032",
+    "title": "בלהה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:221088",
+    "title": "אביתר",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:560195",
+    "title": "אונן (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1029626",
+    "title": "אלימלך",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1168192",
+    "title": "ערפה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1198232",
+    "title": "אסף בן ברכיהו",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:5500",
+    "title": "אביה (מלך יהודה)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:7470",
+    "title": "בעשא",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:8396",
+    "title": "אמציהו",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:43853",
+    "title": "שושנק הראשון",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:76271",
+    "title": "אבצן",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:87282",
+    "title": "תובל קין",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:95521",
+    "title": "כלאב",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:108902",
+    "title": "אמרפל",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:213620",
+    "title": "יאיר הגלעדי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:228895",
+    "title": "יהוידע הכהן",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:262182",
+    "title": "גד החוזה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:332990",
+    "title": "אשכנז (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:683069",
+    "title": "עובד (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:808198",
+    "title": "כתים",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:898219",
+    "title": "נבוזראדן",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1177580",
+    "title": "אביאל בן צרור",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1182210",
+    "title": "חלקיהו בן שלום",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1296119",
+    "title": "יהונתן בן גרשום",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1955159",
+    "title": "דומה (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:4457",
+    "title": "אמנון (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:5501",
+    "title": "אסא",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:13199",
+    "title": "גדעון בן יואש",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:32331",
+    "title": "רחבעם",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:34335",
+    "title": "יפת בן נח",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:34338",
+    "title": "חם בן נח",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:35008",
+    "title": "כורש",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:39566",
+    "title": "אדוניהו",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:58247",
+    "title": "תמר (ספר בראשית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:60088",
+    "title": "יהונתן",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:93941",
+    "title": "ארם (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:95119",
+    "title": "מפיבושת",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:127541",
+    "title": "סיסרא",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:208058",
+    "title": "ישי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:224427",
+    "title": "בצלאל בן אורי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:326527",
+    "title": "נמרוד",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:390730",
+    "title": "גוליית",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:674416",
+    "title": "לוד (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1054961",
+    "title": "נעמן (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:2062723",
+    "title": "מדי (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:856",
+    "title": "לוט",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:10496",
+    "title": "ישמעאל",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:10764",
+    "title": "יאשיהו",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:11366",
+    "title": "שמשון",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:11645",
+    "title": "כלב בן יפונה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:12963",
+    "title": "אבשלום",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:17531",
+    "title": "צדקיהו",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:25160",
+    "title": "דן",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:30897",
+    "title": "רחל",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:38052",
+    "title": "יואב בן צרויה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:39406",
+    "title": "עמלק",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:43509",
+    "title": "יתרו",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:51740",
+    "title": "אחשוורוש",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:63316",
+    "title": "רבקה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:72580",
+    "title": "לאה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:94032",
+    "title": "מצרים (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:198539",
+    "title": "רות",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:222522",
+    "title": "אלעזר הכהן",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:227343",
+    "title": "בלק",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:263416",
+    "title": "חנה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:6415",
+    "title": "עתליה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:7794",
+    "title": "יהואש (מלך יהודה)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:9330",
+    "title": "למך בן מתושאל",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:17684",
+    "title": "יהויכין",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:32234",
+    "title": "עתניאל בן קנז",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:51620",
+    "title": "מלכת שבא",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:56058",
+    "title": "זרובבל בן שאלתיאל",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:73647",
+    "title": "אבישג השונמית",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:78954",
+    "title": "אגג",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:93932",
+    "title": "מתושלח",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:94881",
+    "title": "פרץ וזרח",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:95182",
+    "title": "נעמה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:100478",
+    "title": "ברוך בן נריה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:154503",
+    "title": "זלפה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:276780",
+    "title": "נחור אחי אברהם",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:307303",
+    "title": "כזבי בת צור",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:447860",
+    "title": "עגלון מלך מואב",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:449935",
+    "title": "אלישבע בת עמינדב",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:751295",
+    "title": "אלקנה (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1390097",
+    "title": "ער",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:6813",
+    "title": "יהוא",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:9621",
+    "title": "נבל הכרמלי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:11350",
+    "title": "איזבל",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:11365",
+    "title": "יפתח הגלעדי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:15240",
+    "title": "גדליהו בן אחיקם",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:17680",
+    "title": "מנשה (מלך יהודה)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:25159",
+    "title": "אשר (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:34318",
+    "title": "יעל אשת חבר הקיני",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:79268",
+    "title": "נבות היזרעאלי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:91821",
+    "title": "איתמר הכהן",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:157553",
+    "title": "אחיה השילוני",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:163621",
+    "title": "חולדה הנביאה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:190127",
+    "title": "בלשאצר",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:214527",
+    "title": "אבימלך בן גדעון",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:221887",
+    "title": "עמשא בן יתר",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:390309",
+    "title": "בניהו בן יהוידע",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:489158",
+    "title": "קטורה (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:560937",
+    "title": "עפרון החתי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:771438",
+    "title": "מנוח",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:918831",
+    "title": "פוטיפר",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1370",
+    "title": "הבל",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1371",
+    "title": "אביגיל",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:6158",
+    "title": "יהושפט",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:10345",
+    "title": "רחב",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:11234",
+    "title": "נחשון בן עמינדב",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:14624",
+    "title": "דינה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:32466",
+    "title": "ירבעם בן נבט",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:36948",
+    "title": "הגר",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:59176",
+    "title": "ושתי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:66402",
+    "title": "זבולון",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:70817",
+    "title": "יששכר",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:82212",
+    "title": "נפתלי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:93940",
+    "title": "אשור (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:98807",
+    "title": "זמרי בן סלוא",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:172125",
+    "title": "עכן בן כרמי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:176284",
+    "title": "נתן הנביא",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:233299",
+    "title": "יוכבד",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:357016",
+    "title": "עמרם",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:706378",
+    "title": "שרח",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:780293",
+    "title": "כוש בן חם",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:2009",
+    "title": "אברהם",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:4214",
+    "title": "ראובן",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:7276",
+    "title": "משה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:8589",
+    "title": "יעקב",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:9166",
+    "title": "שאול",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:10842",
+    "title": "שלמה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:10997",
+    "title": "דוד",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:16321",
+    "title": "יצחק",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:17154",
+    "title": "יהודה (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:21267",
+    "title": "אהרן",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:23047",
+    "title": "אליהו",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:27054",
+    "title": "יהושע בן נון",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:29113",
+    "title": "נח",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:34328",
+    "title": "יוסף",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:123551",
+    "title": "אסתר",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1335480",
+    "title": "אדם (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1657538",
+    "title": "רבי שמעון ברבי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:709219",
+    "title": "רבי בנאה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:874419",
+    "title": "בני רבי חייא",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1063",
+    "title": "קין",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:6160",
+    "title": "אבנר בן נר",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:17683",
+    "title": "יהויקים",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:18204",
+    "title": "שמואל",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:25178",
+    "title": "אפרים",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:27462",
+    "title": "עלי הכהן",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:34332",
+    "title": "שם בן נח",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:62627",
+    "title": "סיחון",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:66268",
+    "title": "בעז",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:67513",
+    "title": "אליעזר עבד אברהם",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:94455",
+    "title": "לבן הארמי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:94543",
+    "title": "אחיתופל",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:108319",
+    "title": "בת שבע",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:126678",
+    "title": "מיכל",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:270402",
+    "title": "גיחזי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:363317",
+    "title": "נעמי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:382000",
+    "title": "עוג מלך הבשן",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:658538",
+    "title": "דואג האדומי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1291741",
+    "title": "חוה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1434089",
+    "title": "שכם בן חמור",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:754",
+    "title": "משנה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:26913",
+    "title": "תוספתא",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:229035",
+    "title": "סדר עולם",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1147401",
+    "title": "ברייתא דמלאכת המשכן",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1187936",
+    "title": "ברייתא דל\"ב מידות",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1297",
+    "title": "יחזקאל",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:2809",
+    "title": "עזרא הסופר",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:7240",
+    "title": "אחאב",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:17903",
+    "title": "ירמיהו",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:23624",
+    "title": "ישעיהו",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:26755",
+    "title": "עשו",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:29046",
+    "title": "חזקיהו",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:30893",
+    "title": "קורח",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:31644",
+    "title": "נבוכדנאצר השני",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:32180",
+    "title": "בנימין",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:32886",
+    "title": "בלעם בן בעור",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:37811",
+    "title": "דניאל",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:42777",
+    "title": "מרים הנביאה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:47290",
+    "title": "שמעון",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:50788",
+    "title": "המן האגגי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:58493",
+    "title": "מרדכי היהודי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:69749",
+    "title": "שרה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:102068",
+    "title": "אלישע",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:222525",
+    "title": "פינחס",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1349168",
+    "title": "איוב",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:6414",
+    "title": "אחזיהו (מלך יהודה)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:6923",
+    "title": "עמרי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:9378",
+    "title": "הושע בן אלה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:11362",
+    "title": "אהוד בן גרא",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:19991",
+    "title": "איש בושת",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:90426",
+    "title": "לוי (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:94453",
+    "title": "בתואל",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:94655",
+    "title": "שלח (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:94916",
+    "title": "שלה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:108265",
+    "title": "תירס (דמות מקראית)",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:489162",
+    "title": "זרש",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:497296",
+    "title": "אסנת",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:645627",
+    "title": "אליפז בן עשו",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:727095",
+    "title": "יהושע בן יהוצדק",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:787527",
+    "title": "עכסה",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1127588",
+    "title": "אם סיסרא",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1181939",
+    "title": "אחימלך בן אחיטוב",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1198802",
+    "title": "אליהוא בן ברכאל",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "hewiki:1440349",
+    "title": "צפניה בן כושי",
+    "reason": "No sage classification; category traversal may include concepts, relatives, or other periods."
+  },
+  {
+    "key": "heiman:332921",
+    "title": "אבא (כל החכמים ששם אביהם היה אבא)",
+    "reason": "Collective, title, or generic-name entry; not one person."
+  },
+  {
+    "key": "heiman:333707",
+    "title": "אבא (תואר)",
+    "reason": "Collective, title, or generic-name entry; not one person."
+  },
+  {
+    "key": "heiman:381634",
+    "title": "גניבא (כל החכמים ששם אביהם היה גניבא)",
+    "reason": "Collective, title, or generic-name entry; not one person."
+  },
+  {
+    "key": "heiman:1710135",
+    "title": "ר' דוסא (סתם)",
+    "reason": "Collective, title, or generic-name entry; not one person."
+  },
+  {
+    "key": "heiman:333350",
+    "title": "אגרא (כל החכמים ששם אביהם היה אגרא)",
+    "reason": "Collective, title, or generic-name entry; not one person."
+  },
+  {
+    "key": "heiman:333353",
+    "title": "אדא (כל החכמים ששם אביהם היה אדא)",
+    "reason": "Collective, title, or generic-name entry; not one person."
+  },
+  {
+    "key": "heiman:334364",
+    "title": "טביומי (כל החכמים ששם אביהם היה טביומי)",
+    "reason": "Collective, title, or generic-name entry; not one person."
+  },
+  {
+    "key": "heiman:334381",
+    "title": "טוביה (כל החכמים ששם אביהם היה טוביה)",
+    "reason": "Collective, title, or generic-name entry; not one person."
+  },
+  {
+    "key": "heiman:1715126",
+    "title": "לוי (סתם) בר סיסי",
+    "reason": "Collective, title, or generic-name entry; not one person."
+  },
+  {
+    "key": "heiman:334123",
+    "title": "רב קטינא (כל החכמים ששם אביהם היה רב קטינא)",
+    "reason": "Collective, title, or generic-name entry; not one person."
+  },
+  {
+    "key": "heiman:1709735",
+    "title": "רבא (סתם)",
+    "reason": "Collective, title, or generic-name entry; not one person."
+  },
+  {
+    "key": "heiman:333705",
+    "title": "אלעזר (כל החכמים ששם אביהם היה אלעזר)",
+    "reason": "Collective, title, or generic-name entry; not one person."
+  },
+  {
+    "key": "heiman:332922",
+    "title": "ר' אבא (סתם)",
+    "reason": "Collective, title, or generic-name entry; not one person."
+  },
+  {
+    "key": "heiman:380559",
+    "title": "בנימין (כל החכמים ששם אביהם היה בנימין)",
+    "reason": "Collective, title, or generic-name entry; not one person."
+  }
+]

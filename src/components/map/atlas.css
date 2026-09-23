@@ -5,3 +5,57 @@
 .atlas-stage:has(.atlas-focus) .atlas-map-caption{top:90px}.atlas-stage:has(.atlas-focus) .atlas-detail{top:150px}@media(max-width:850px){.atlas-stage:has(.atlas-focus) .atlas-detail{top:auto}}
 
 .citation-excerpt{font-size:13px;line-height:1.7;white-space:pre-line;max-height:120px;overflow:auto;margin:8px 0;padding:8px 10px;background:#f4f1e8;border-radius:8px}.citation-context{font-size:12px;color:#5a675c;margin:6px 0 10px}.citation-kind{display:block;margin:4px 0 8px;color:#7b867a}.atlas-pin.tier-major .atlas-pin-dot{box-shadow:0 0 0 2px #ac8d5044}.atlas-pin.tier-minor{opacity:.85}.atlas-muted{color:#7b867a;font-size:12px}
+.citation-excerpt{white-space:pre-wrap;max-height:340px;overflow:auto;margin:10px 0;padding:12px 16px;border-inline-start:3px solid #8b9c81;background:#f4f6ef;line-height:1.95;font-size:14px}.citation-context{font-size:12px;color:#61725c;background:#f2eee3;padding:10px}.atlas-identification{border-block:1px solid #e2e6dc;padding:8px 0;margin:14px 0}.atlas-burial-pin{width:29px;height:29px;border:2px solid #fff;border-radius:8px;background:#795e82;color:white;font-size:21px;box-shadow:0 2px 6px #0003;cursor:pointer}.atlas-burial-pin span{display:none;position:absolute;bottom:34px;right:0;width:max-content;max-width:220px;background:white;color:#513c59;padding:5px 8px;font-size:12px;border-radius:5px;box-shadow:0 2px 8px #0002}.atlas-burial-pin:hover span,.atlas-burial-pin:focus-visible span{display:block}.atlas-road-note{font-size:12px;line-height:1.8}.atlas-toolbar{flex-wrap:wrap}
+.atlas-sources .citation-excerpt{max-height:none;overflow:hidden;margin:8px 0;border-inline-start:3px solid #b7c8a6}.atlas-sources .citation-context{margin-bottom:6px}
+
+/* Markers: quieter cartography with stable label placement. */
+.atlas-pin-dot{border-width:1.5px;box-shadow:0 0 0 2px #45654e14,0 1px 3px #364f4b26}
+.atlas-pin.tier-major .atlas-pin-dot{background:#3f6350;box-shadow:0 0 0 3px #ac8d5033,0 1px 3px #364f4b2e}
+.atlas-pin.tier-important .atlas-pin-dot{background:#4d7159}
+.atlas-pin.tier-secondary .atlas-pin-dot{background:#6b8a6f}
+.atlas-pin.tier-minor .atlas-pin-dot{background:#8ba58c;border-width:1px}
+.atlas-pin-label{position:absolute;white-space:nowrap;font-size:11px;font-weight:600;letter-spacing:.2px;line-height:1.2;padding:2px 5px;background:#f7f5ece0;border-radius:3px;color:#33513f;text-shadow:0 0 3px #fbfaf6,0 0 5px #fbfaf6,0 0 8px #fbfaf6;pointer-events:none}
+.atlas-pin.tier-major .atlas-pin-label{font-size:12.5px;font-weight:700;letter-spacing:.6px}
+.atlas-pin.tier-secondary .atlas-pin-label,.atlas-pin.tier-minor .atlas-pin-label{font-size:10.5px;font-weight:500;color:#5b7263}
+.atlas-pin.selected .atlas-pin-label{color:#8a6a24}
+.atlas-sea-label{font-size:13px;letter-spacing:4px;opacity:.85}
+
+/* Hover preview: larger hit target without breaking MapLibre marker positioning. */
+.maplibregl-marker.atlas-pin{pointer-events:auto}
+.maplibregl-marker.atlas-pin::after{content:'';position:absolute;inset:-10px}
+.atlas-hover-card{position:absolute;z-index:6;transform:translate(-50%,-100%);width:250px;background:#fffefaf7;border:1px solid #d9dece;border-radius:10px;box-shadow:0 10px 26px #203b331f;padding:12px 14px;pointer-events:auto;cursor:pointer;text-align:right;font:inherit;color:inherit}
+.atlas-hover-card:hover{border-color:#c4b58a;box-shadow:0 12px 28px #203b3328}
+.atlas-hover-card strong{display:block;font-size:15px;color:#2c4a3b}
+.atlas-hover-meta{display:block;font-size:11px;color:#7c8679;margin-top:3px}
+.atlas-hover-card p{margin:8px 0 0;font-size:12px;line-height:1.65;color:#455a4a}
+.atlas-hover-hint{display:block;margin-top:8px;font-size:10.5px;color:#94a08f}
+
+/* Place card: community members versus documented visitors. */
+.atlas-sage-groups{margin-top:6px}
+.atlas-sage-folder{border-top:1px solid #dfe4d6;padding:4px 0}
+.atlas-sage-folder>summary{display:flex;justify-content:space-between;align-items:center;padding:8px 2px;font-size:13px;color:#3d5a45}
+.atlas-sage-folder>summary strong{font-weight:600}
+.atlas-sage-folder>summary span{background:#edf0e7;color:#6a795f;border-radius:10px;padding:1px 8px;font-size:11px}
+.atlas-sage-folder .atlas-activity{border-top:1px dashed #e6eadd;margin-inline-start:6px}
+.atlas-mentions{border-top:1px solid #e3e7da;padding-top:6px}
+/* What a quotation proves, and notes that are documentation rather than quotation. */
+.citation-support{display:block;margin:-2px 0 8px;font-size:11px;color:#828c7e}
+.citation-note{margin:8px 0;padding:8px 12px;border-inline-start:3px dashed #c3cbb6;background:#f7f8f2;font-size:12.5px;line-height:1.75;color:#55654f}
+.atlas-focus-unlocated{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.atlas-focus-unlocated button{border:1px solid #7d9a89!important;border-radius:4px;padding:2px 8px!important;font-size:12px}
+.atlas-overview-note{border-top:0!important;padding-top:0!important}
+.atlas-overview-note>summary{font-size:11.5px;color:#7c8679}
+.atlas-overview-note>p{font-size:12px;color:#6d7a6e;line-height:1.7}
+
+/* Burial markers can be viewed either as monument icons or as compact named points. */
+.atlas-burial-pin{border:0;background:transparent;color:#fff;cursor:pointer;overflow:visible;padding:0;display:flex;align-items:center;justify-content:center}
+.atlas-burial-pin .atlas-burial-mark{display:block;position:static;inset:auto;right:auto;bottom:auto;width:29px;height:29px;max-width:none;padding:0;border:2px solid #fff;border-radius:8px;background:#795e82;color:#fff;font-size:21px;line-height:25px;box-shadow:0 2px 6px #0003}
+.atlas-burial-pin .atlas-burial-label{display:none;position:absolute;bottom:34px;right:0;width:max-content;max-width:220px;background:#fff;color:#513c59;padding:5px 8px;font-size:12px;border-radius:5px;box-shadow:0 2px 8px #0002}
+.atlas-burial-pin--icons:hover .atlas-burial-label,.atlas-burial-pin--icons:focus-visible .atlas-burial-label{display:block}
+.atlas-burial-pin--labels{width:7px;height:7px}
+.atlas-burial-pin--labels::after{content:'';position:absolute;inset:-9px}
+.atlas-burial-pin--labels .atlas-burial-mark{width:7px;height:7px;border:1px solid #fcfaf1;border-radius:50%;background:#795e82;box-shadow:none}
+.atlas-burial-pin--labels .atlas-burial-label{display:block;top:calc(100% + 7px);bottom:auto;right:auto;left:50%;transform:translateX(-50%);max-width:none;padding:2px 5px;background:#f7f5ece0;color:#513c59;font-size:10.5px;font-weight:600;line-height:1.2;white-space:nowrap;text-shadow:0 0 3px #fbfaf6,0 0 5px #fbfaf6,0 0 8px #fbfaf6;box-shadow:none;pointer-events:none}
+.atlas-burial-display{display:flex;border:1px solid #d8ddd3;border-radius:7px;background:#fff;padding:3px;min-height:46px}
+.atlas-burial-display button{border:0;border-radius:5px;background:transparent;color:#52655a;padding:7px 10px;font-size:12px;white-space:nowrap}
+.atlas-burial-display button.active{background:#795e82;color:#fff}

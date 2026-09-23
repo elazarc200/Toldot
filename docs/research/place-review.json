@@ -1,0 +1,993 @@
+{
+  "reviewedPlaces": [
+    {
+      "slug": "lod",
+      "status": "content-and-location-review",
+      "sources": 15
+    },
+    {
+      "slug": "yavne",
+      "status": "content-and-location-review",
+      "sources": 16
+    },
+    {
+      "slug": "bnei-brak",
+      "status": "content-and-location-review",
+      "sources": 2
+    },
+    {
+      "slug": "rome",
+      "status": "content-and-location-review",
+      "sources": 4
+    },
+    {
+      "slug": "zippori",
+      "status": "content-and-location-review",
+      "sources": 20
+    },
+    {
+      "slug": "bet-shearim",
+      "status": "content-and-location-review",
+      "sources": 8
+    },
+    {
+      "slug": "jerusalem",
+      "status": "content-and-location-review",
+      "sources": 41
+    },
+    {
+      "slug": "tiberias",
+      "status": "content-and-location-review",
+      "sources": 11
+    },
+    {
+      "slug": "sikhnin",
+      "status": "content-and-location-review",
+      "sources": 2
+    },
+    {
+      "slug": "pekiin",
+      "status": "content-and-location-review",
+      "sources": 7
+    },
+    {
+      "slug": "brur-hayil",
+      "status": "content-and-location-review",
+      "sources": 2
+    },
+    {
+      "slug": "antipatris",
+      "status": "content-and-location-review",
+      "sources": 1
+    },
+    {
+      "slug": "alexandria",
+      "status": "content-and-location-review",
+      "sources": 4
+    },
+    {
+      "slug": "arbel",
+      "status": "content-and-location-review",
+      "sources": 1
+    },
+    {
+      "slug": "ashkelon",
+      "status": "content-and-location-review",
+      "sources": 1
+    },
+    {
+      "slug": "arav",
+      "status": "content-and-location-review",
+      "sources": 2
+    },
+    {
+      "slug": "modiim",
+      "status": "content-and-location-review",
+      "sources": 2
+    },
+    {
+      "slug": "beitar",
+      "status": "content-and-location-review",
+      "sources": 1
+    },
+    {
+      "slug": "gamzu",
+      "status": "content-and-location-review",
+      "sources": 2
+    },
+    {
+      "slug": "kfar-hanania",
+      "status": "content-and-location-review",
+      "sources": 2
+    },
+    {
+      "slug": "usha",
+      "status": "content-and-location-review",
+      "sources": 2
+    },
+    {
+      "slug": "kfar-aziz",
+      "status": "content-and-location-review",
+      "sources": 2
+    },
+    {
+      "slug": "sura",
+      "status": "content-and-location-review",
+      "sources": 2
+    },
+    {
+      "slug": "nehardea",
+      "status": "content-and-location-review",
+      "sources": 4
+    },
+    {
+      "slug": "caesarea",
+      "status": "content-and-location-review",
+      "sources": 2
+    },
+    {
+      "slug": "akhbara",
+      "status": "content-and-location-review",
+      "sources": 3
+    },
+    {
+      "slug": "sidon",
+      "status": "content-and-location-review",
+      "sources": 1
+    },
+    {
+      "slug": "babylon",
+      "status": "content-and-location-review",
+      "sources": 5
+    },
+    {
+      "slug": "horbat-dabura",
+      "status": "content-and-location-review",
+      "sources": 1
+    },
+    {
+      "slug": "socho",
+      "status": "content-and-location-review",
+      "sources": 1
+    },
+    {
+      "slug": "tzeredah",
+      "status": "content-and-location-review",
+      "sources": 2
+    },
+    {
+      "slug": "bartota",
+      "status": "content-and-location-review",
+      "sources": 1
+    },
+    {
+      "slug": "kfar-ha-bavli",
+      "status": "content-and-location-review",
+      "sources": 1
+    },
+    {
+      "slug": "asia",
+      "status": "content-and-location-review",
+      "sources": 2
+    },
+    {
+      "slug": "tekoa",
+      "status": "content-and-location-review",
+      "sources": 1
+    },
+    {
+      "slug": "emmaus",
+      "status": "content-and-location-review",
+      "sources": 4
+    }
+  ],
+  "sourceResults": [
+    {
+      "id": "ba936dde-f03f-574e-a2d6-aaa31eb7076c",
+      "ref": "Magen Avot on Avot 4:6:1",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "e090331b-f46e-5da4-a298-af1f30fb8f56",
+      "ref": "Sukkah 27b:8",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "dafe471c-1456-5615-a7b3-d8c637dbaf88",
+      "ref": "Chagigah 3a:15",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "d2dc377b-ecf4-5466-ace5-418e093382f5",
+      "ref": "Sanhedrin 32b:10",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "78e5710b-2dde-507b-a8e4-1467729e362c",
+      "ref": "Ketubot 103b:25",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "5c926fd9-5f25-58c4-af3f-98c4d148156a",
+      "ref": "Ketubot 103b:26",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "578d232d-f118-52c3-ae42-c71603eb154a",
+      "ref": "Gittin 56b:5",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "d5db4683-eedb-5c02-a797-10a85bdc8121",
+      "ref": "Makkot 24a:33",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "db1b2180-6045-5fa1-a2f6-e360e482e083",
+      "ref": "Makkot 24b:2",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "e7536845-58be-5d35-a3fa-19fd8408daf0",
+      "ref": "Shabbat 33b:2",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "717efd87-cc9b-5f26-99ec-1919f0f450d4",
+      "ref": "Yoma 69a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "349b0914-e898-5c9f-a465-61debd3c6590",
+      "ref": "Pirkei Avot 1:2",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "03843e6b-5ab4-5a02-8a6e-e331ab285e20",
+      "ref": "Yoma 69a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "8c766914-3117-5557-ab2a-c562ea3e4b08",
+      "ref": "Pirkei Avot 1:3",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "af8d050c-8f81-58c2-9ceb-56e643f579f2",
+      "ref": "Pirkei Avot 1:4",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "46182abd-9963-59db-af9b-d390ba78beab",
+      "ref": "Mishnah Sotah 9:9",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "0d0c45d9-d080-5cbd-837d-dd63f0a83035",
+      "ref": "Pirkei Avot 1:4",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "08609841-4fb5-5614-b4eb-7fac0c94b859",
+      "ref": "Mishnah Sotah 9:9",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "be0a082d-adc9-5429-bd72-e10c13ffd9de",
+      "ref": "Sotah 47a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "8b08b107-84b0-521c-a97a-7b31386173e9",
+      "ref": "Sanhedrin 107b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "fa3f8e67-04d7-5dad-b1f3-fdad8e2dc95c",
+      "ref": "Sotah 47a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "ef3472b3-9f0e-52f9-bf2b-fe7da96a30e1",
+      "ref": "Pirkei Avot 1:6",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "83d01ca7-77af-563b-8de6-e602cdfb7c83",
+      "ref": "Pirkei Avot 1:6",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "ed2a8786-8e71-5b63-a61c-5660a8f946f7",
+      "ref": "Jerusalem Talmud Chagigah 2:2",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "8534a7f3-0cb5-5cc7-8705-cf901a6fdf32",
+      "ref": "Pirkei Avot 1:8",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "ad77d8ce-d79b-5122-a597-6b890092d072",
+      "ref": "Jerusalem Talmud Chagigah 2:2",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "20d72ea8-cd85-5d68-952a-c20e72a91d2c",
+      "ref": "Sotah 47a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "9c204f28-3c8e-5311-b634-8fd12b550a09",
+      "ref": "Pirkei Avot 1:8",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "baa7aadb-acb5-5f51-937c-0fa0ac3d4b8d",
+      "ref": "Chagigah 16b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "930da94f-49d5-5389-ba5f-3665dcf28e13",
+      "ref": "Jerusalem Talmud Chagigah 2:2",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "49ca9b0b-da0e-5b9a-ad87-075570d01296",
+      "ref": "Yoma 71b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "94bd843e-aba8-50c5-8ae6-76d6c24d35d2",
+      "ref": "Pesachim 66a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "a6a206a5-9bcd-503c-8fc8-28f7fa91d90d",
+      "ref": "Pirkei Avot 1:10",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "ff128fa1-88a0-5e45-8b2b-29bc4d0280c7",
+      "ref": "Yoma 71b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "35959424-a732-5dc9-8d88-f0d07ff8e372",
+      "ref": "Yoma 35b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "9a29bd0b-f8c4-5100-b02c-d92640cde31e",
+      "ref": "Pirkei Avot 1:10",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "64af324c-108c-5988-85c5-4131dc4996ac",
+      "ref": "Pesachim 66a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "34c102c0-b847-5aa4-a4ef-4988542ef4db",
+      "ref": "Sukkah 20a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "b43e975f-9bbc-5363-ab6b-4717c1f2cffb",
+      "ref": "Pesachim 66a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "5f16f034-12f1-5241-85ba-80e309aa94a1",
+      "ref": "Shabbat 15a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "b863a97a-6808-502f-8002-e7347458e946",
+      "ref": "Pirkei Avot 1:12",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "2899fdcf-7cdc-595f-b975-45edcd2c7cf7",
+      "ref": "Mishnah Chagigah 2:2",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "c98390d9-6bf9-5731-a075-3ad0e34fc35e",
+      "ref": "Pesachim 66a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "07072387-d5f1-546b-bef9-4f61923abcf0",
+      "ref": "Pirkei Avot 1:15",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "3b817816-50c6-5bff-a474-69fec5b38ecd",
+      "ref": "Mishnah Peah 2:6",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "5decd5c5-bd18-5480-b8d0-db14bc893d89",
+      "ref": "Mishnah Rosh Hashanah 2:5",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "e5061f34-4187-57ab-b550-d7e213e98cb4",
+      "ref": "Pirkei Avot 1:16",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "0645d0d3-5f19-5dbe-8ac8-94fac9c94a05",
+      "ref": "Pirkei Avot 1:17",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "dd6bf90f-1f66-518c-be25-2baa57732a23",
+      "ref": "Shabbat 15a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "dd8eaa45-4127-5c5c-b34d-29da133ddb9c",
+      "ref": "Pirkei Avot 1:18",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "d5bbab2a-7779-5536-9028-5b4e7b67f296",
+      "ref": "Shabbat 15a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "581f797b-b50d-51a8-8fa4-43be37e25e47",
+      "ref": "Ketubot 103b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "66256247-bac1-5da5-924c-979183839810",
+      "ref": "Sanhedrin 32b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "0dc5392f-9f77-5df2-8810-067d605bc9a3",
+      "ref": "Jerusalem Talmud Kilayim 9:3",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "0fdd35e9-9c7e-56c3-8333-45ebd35b8729",
+      "ref": "Rosh Hashanah 31b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "577c6288-7f60-5322-960e-4743c42fa7f6",
+      "ref": "Gittin 56b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "2a447403-d07c-5baa-bd78-4be91f412d66",
+      "ref": "Gittin 56b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "853e8b15-dc65-5c1f-9876-33b00b8e631a",
+      "ref": "Sanhedrin 32b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "fff653c0-5ce3-5ef5-8d0b-3590a52ed4f2",
+      "ref": "Jerusalem Talmud Shabbat 16:8",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "d0ea38c3-1bac-50ea-a252-f44a1d531a77",
+      "ref": "Berakhot 28a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "002caeae-3558-5e72-aee5-cdb6f28ed66d",
+      "ref": "Makkot 24b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "1f02b44e-8aea-5da4-bb99-6e9d23318051",
+      "ref": "Makkot 24b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "dda386e8-b106-5823-ba42-ffa5fcd05f6e",
+      "ref": "Avot DeRabbi Natan 14:6",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "543af3e5-3268-5857-9e69-ede23fef9bed",
+      "ref": "Kohelet Rabbah 7:7",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "016ca6cd-ec97-5f3f-8278-18147e55fbb2",
+      "ref": "Shabbat 147b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "c540c21f-b7b1-5bf1-97b4-9279f774c7cd",
+      "ref": "Kiddushin 40b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "b09450a6-8c56-5dd5-82c1-850015ee76dd",
+      "ref": "Bava Metzia 49b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "8ed4c439-d106-5a2b-b144-d384f3624380",
+      "ref": "Mishnah Ta'anit 3:9",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "9afb2111-8de9-5cca-a228-c80ab000b8ca",
+      "ref": "Mishnah Eduyot 5:6",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "6f3818ef-0f0f-525c-81b9-b3bb6e61fa24",
+      "ref": "Pirkei Avot 3:2",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "5e947e62-2f11-5739-ab0c-cd5a04ed58a9",
+      "ref": "Sotah 42a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "7d9d4bac-1c94-5337-a5e0-e46f813155c9",
+      "ref": "Pesachim 14a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "78668827-5d5a-55d3-8e8b-0e2e4c57498a",
+      "ref": "Shabbat 147b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "5e3472a0-e90b-5f65-a535-2e3af5714f67",
+      "ref": "Shabbat 33b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "1432439b-cfca-5dfe-8d4d-29d1195207d9",
+      "ref": "Shabbat 33b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "c8e2239c-c36e-596d-9221-d0818fa266d0",
+      "ref": "Midrash Tannaim on Deuteronomy 26:13",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "c5c9f53e-9f36-57f1-96e9-49e01b776754",
+      "ref": "Pirkei Avot 3:6",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "bbbcbb1c-411b-534b-97e1-bd28fa044eb0",
+      "ref": "Mishnah Sheviit 9:2",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "84a732e5-c77d-5dc9-85d0-6e9a622f6315",
+      "ref": "Pirkei Avot 3:7",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "253ee2c5-bf21-5ed1-bf7a-6c007423d530",
+      "ref": "Jerusalem Talmud Ketubot 12:3",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "24742414-0721-5691-8742-c5971809b4ae",
+      "ref": "Sanhedrin 14a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "b53ed370-cecb-50e1-903e-aa0113e5a137",
+      "ref": "Jerusalem Talmud Berakhot 4:1",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "be7c076f-ef61-5415-bd2c-2148e1107754",
+      "ref": "Pirkei Avot 3:11",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "2ba44a0c-6c8b-54b8-8104-174b626c5aa1",
+      "ref": "Shabbat 55b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "1892dee4-126c-5238-b417-049772dc50e7",
+      "ref": "Jerusalem Talmud Taanit 4:5",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "aa849cb0-55f8-5341-aa86-2e49979bd8be",
+      "ref": "Mishnah Kilayim 6:4",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "e51d20c9-c04d-5dd9-849e-76258289d8b0",
+      "ref": "Mishnah Ketubot 5:8",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "2ed40b78-5658-5118-836b-ef8d0cb56277",
+      "ref": "Tosefta Sotah 7:9",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "048b55c2-e460-510f-b2e2-5e968b5b5869",
+      "ref": "Chagigah 3a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "246d7d50-ee7c-57ca-bdbe-80a7bc8ec7c0",
+      "ref": "Tosefta Sotah 7:9",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "e3674281-cdd3-5316-9c58-d42043bddaa0",
+      "ref": "Chagigah 15a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "0ef855c9-a4bb-547e-bbb5-8d3b6d681d34",
+      "ref": "Eruvin 29a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "71d45c06-00ae-5fd8-bc4a-e0f7cd532abe",
+      "ref": "Rashi on Eruvin 29a:4",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "3878785c-f2de-5b95-915a-a5d16541deb0",
+      "ref": "Jerusalem Talmud Shekalim 5:1",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "18318565-6fd9-580c-9e19-ce318a357b01",
+      "ref": "Pirkei Avot 4:4",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "f1bd1b27-a535-5a4a-b136-cacbcdc1920e",
+      "ref": "Tosefta Sotah 7:9",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "d60bfd1a-efe9-5e89-9ce0-e35cc339bd06",
+      "ref": "Chagigah 3a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "b3ef48c6-94ba-5015-833d-3d3ef94b52cf",
+      "ref": "Tosefta Sotah 7:9",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "be19e510-b41c-5a7f-beec-fc21e5299087",
+      "ref": "Tosefta Terumot 7:14",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "1addfb5f-59de-5f86-9b15-2ce80a8bcf5c",
+      "ref": "Yevamot 42b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "98d28fbc-0b01-503c-8c7c-6aaa9f38628d",
+      "ref": "Gittin 56a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "af2ce4ab-f2e0-5b6e-a992-11b8ef59bc8e",
+      "ref": "Jerusalem Talmud Hagigah.3.1",
+      "status": "unverified"
+    },
+    {
+      "id": "65985634-49be-5ea1-9708-d7ed8aaa2a7e",
+      "ref": "Sifrei Devarim 80",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "02ea1e70-c0ff-542f-8bd8-681c9f68888b",
+      "ref": "Tosefta Megillah 2:4",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "00b469ba-c5e0-5028-9991-0a4bb0062d58",
+      "ref": "Berakhot 28b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "673f9fda-5a55-5b35-b034-de858469f0e2",
+      "ref": "Sotah 48b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "939bce82-64f4-55d0-9276-448a0d024d8d",
+      "ref": "Pirkei Avot 4:20",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "972169e8-f553-5f02-b7f3-57e86530fb40",
+      "ref": "topics/rabbi-elazar-ha-kappar",
+      "status": "unverified"
+    },
+    {
+      "id": "d10e8e3b-b638-5c40-92d5-72bde8aee41b",
+      "ref": "Jerusalem Talmud Taanit 3:4",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "1a268363-8dae-5acd-a013-f9efa30e3af0",
+      "ref": "Pirkei Avot 6:2",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "65d1b9c1-22fb-5d12-9377-3ac7ab359b26",
+      "ref": "Jerusalem Talmud Shabbat 1:2",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "ad69f442-0c46-57c2-8ea1-af26e5b6fbf8",
+      "ref": "Yevamot 96b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "e67f70f7-4992-5145-91e2-83b46ef7c91f",
+      "ref": "Pirkei Avot 6:9",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "94c0362a-32f7-50a5-a9f9-4c97eea60efc",
+      "ref": "Sukkah 27b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "925c4ecb-f25a-5646-86c4-2b200e074091",
+      "ref": "Menachot 18a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "eb7dbac2-0d29-5c4a-a187-27f3bb2fe46d",
+      "ref": "Pesachim 113b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "11a60fd7-d4ae-5b37-8c11-6d876c652f47",
+      "ref": "Eruvin 53b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "24cd4d22-7438-5537-9893-7231ac522007",
+      "ref": "Avot DeRabbi Natan 6",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "ce539cf7-a541-5010-940a-afa29bb9f6c9",
+      "ref": "Sanhedrin 68a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "4f1bf4d9-a5ff-5c4f-a5fa-6c6cd1c768bd",
+      "ref": "Sanhedrin 32b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "01bfb13a-d753-5983-b5d3-bd468e73a1a0",
+      "ref": "Bava Metzia 59b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "ae74eca0-8bb0-53ad-a441-c898abba6018",
+      "ref": "Sanhedrin 32b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "9a3b0783-f49e-5f50-8572-4b22cd76ec64",
+      "ref": "Jerusalem Talmud Sheviit 9:1",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "56202650-17f8-5970-8c1e-0bf12ec8ef1c",
+      "ref": "Bava Metzia 84b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "8410a3c0-386b-5443-9d56-446a51c48cd6",
+      "ref": "Ketubot 103b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "3e6ee5ec-cd21-538f-8c19-6e76a8ef4303",
+      "ref": "Ketubot 103b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "3c60f6ee-fdb3-53ec-bf19-5f848592e5d4",
+      "ref": "Taanit 21a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "bf1abf0c-92a5-5beb-8f5b-0e58972763f0",
+      "ref": "II Chronicles 28:18",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "b335720e-9b43-51d5-aed6-98dcd38110ad",
+      "ref": "Taanit 16b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "bf24630f-c5af-5322-ab44-15f0104055a7",
+      "ref": "Shabbat 115a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "0a1e7323-0f5b-5213-ab8c-b10389a39b7a",
+      "ref": "Ketubot 103b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "390efa72-8f7a-5d2a-9cbd-d638f89a3a55",
+      "ref": "Ketubot 103b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "f6b8ad2e-9b1c-5292-9d4e-5243a78d6409",
+      "ref": "Sanhedrin 26a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "3259753c-6aaf-5989-ac87-2914cab0ee77",
+      "status": "external-link-editorial-only"
+    },
+    {
+      "id": "6f3d8aa7-7b2a-5ba0-b749-395ba071e788",
+      "ref": "Ketubot 62b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "dd3efa97-bd09-5c54-9328-673633657ee6",
+      "ref": "Ketubot 103b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "090f5c96-6308-5185-a302-cba1de1ddd70",
+      "ref": "Jerusalem Talmud Taanit 4:2",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "9ae6fe0a-3c50-5d37-b82d-4c159a504ca0",
+      "ref": "Chullin 141b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "7feac5ab-0f5d-5346-8d78-07169d56d109",
+      "status": "external-link-editorial-only"
+    },
+    {
+      "id": "343e1ea1-7e01-531a-a3dc-8f82831db308",
+      "ref": "Nedarim 51a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "94fa0a64-990a-534e-8364-23be23395214",
+      "ref": "Ketubot 103b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "14c4e844-741b-5a7c-8e76-26537341f11f",
+      "ref": "Shabbat 59b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "fbb117a4-aec2-5033-b89a-81b09c3d93f1",
+      "ref": "Ketubot 103b",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "8dc324e0-fe7f-53eb-ad68-cc10ef489163",
+      "status": "external-link-editorial-only"
+    },
+    {
+      "id": "1345c5ec-aeea-5f8c-bb00-636d6257b0b0",
+      "ref": "Gittin 6a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "153e529a-29c9-552a-bb96-e6b71c275b75",
+      "status": "external-link-editorial-only"
+    },
+    {
+      "id": "ab12d63e-8919-5387-8677-b64bac74c69f",
+      "ref": "Sanhedrin 5a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "14fad2db-a213-5afe-829a-b3aa84719b77",
+      "ref": "Bava Kamma 80a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "49ef85bb-f05f-5d4d-a78c-15efd66fd588",
+      "ref": "Gittin 6a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "8f8becae-63a2-53b0-abda-bc3fec645033",
+      "ref": "Rosh Hashanah 31a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "bbe60bef-d8e9-5c70-aed9-621d4fd5afc9",
+      "status": "external-link-editorial-only"
+    },
+    {
+      "id": "1b204b96-6c11-534e-b45b-13b4c96a399d",
+      "ref": "Berakhot 28a",
+      "status": "source-text-retrieved"
+    },
+    {
+      "id": "caa272f1-5fe2-52f7-9a5f-6c5b1718b91b",
+      "ref": "Berakhot 27b",
+      "status": "source-text-retrieved"
+    }
+  ],
+  "coordinateChanges": [
+    {
+      "slug": "sura",
+      "old": [
+        {
+          "id": "sura",
+          "lng": 44.65,
+          "lat": 31.88,
+          "label": "סורא",
+          "disputed": false
+        }
+      ],
+      "reason": "No verified point; area is not a precise settlement coordinate"
+    },
+    {
+      "slug": "nehardea",
+      "old": [
+        {
+          "id": "nehardea",
+          "lng": 44.35,
+          "lat": 33.35,
+          "label": "נהרדעא",
+          "disputed": false
+        }
+      ],
+      "reason": "No verified point; area is not a precise settlement coordinate"
+    },
+    {
+      "slug": "babylon",
+      "old": [
+        {
+          "id": "babylon",
+          "lng": 44.4209,
+          "lat": 32.5422,
+          "label": "בבל (אזור)",
+          "disputed": false
+        }
+      ],
+      "reason": "No verified point; area is not a precise settlement coordinate"
+    }
+  ],
+  "caveats": [
+    "Road lines are schematic links, not surveyed routes. Bnei Brak/Yavne connections await route verification.",
+    "Tomb identities are site traditions, not archaeological determinations.",
+    "Sura, Nehardea and Babylon no longer have unsupported exact pins.",
+    "Source retrieval proves wording, not every historical inference; uncertain links remain marked."
+  ]
+}

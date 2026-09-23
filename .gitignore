@@ -53,3 +53,6 @@ supabase/.temp
 .idea
 .vscode
 *.swp
+
+# local census snapshots (multi-GB copies of the same review files)
+research/tannaim-amoraim-census-2026-09-17/adjudication-v3/checkpoints/

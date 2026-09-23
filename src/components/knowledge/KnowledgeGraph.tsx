@@ -6,6 +6,7 @@ import {straightLayout} from './straight-layout';
 import preparedLayouts from './layouts.json';
 import {PlacesOfActivity} from '@/components/map/PlacesOfActivity';
 import {CitationPreview} from '@/components/citations/CitationPreview';
+import {injectPilotCitations} from '@/lib/citations/citation-store';
 const names:Record<string,string>={teacher_student:'מסירת תורה / רב ותלמיד',parent_child:'הורה וילד',spouse:'בני זוג',sibling:'אחים',bar_plugta:'חברותא'};
 const colors:Record<string,string>={teacher_student:'#53665a',parent_child:'#8c9086',spouse:'#a58379',sibling:'#92917a',bar_plugta:'#c09b4f'};
 type Point={x:number;y:number};
@@ -22,6 +23,7 @@ function straightPath(a:Point,b:Point,ra:number,rb:number){const dx=b.x-a.x,dy=b
 export default function KnowledgeGraph(){
  const [selected,setSelected]=useState<string|null>(null),[edgeId,setEdgeId]=useState<string|null>(null),[query,setQuery]=useState(''),[family,setFamily]=useState('teacher_student'),[scope,setScope]=useState('all'),[certain,setCertain]=useState(false),[local,setLocal]=useState(false),[view,setView]=useState({x:0,y:-270,z:1});
  const [fullscreen,setFullscreen]=useState(false);
+ useEffect(()=>{injectPilotCitations(data.citations);},[]);
  useEffect(()=>{if(!fullscreen)return;const previous=document.body.style.overflow;document.body.style.overflow='hidden';return()=>{document.body.style.overflow=previous;};},[fullscreen]);
  const svg=useRef<SVGSVGElement>(null),drag=useRef<{id:number;p:Point;view:typeof view;moved:boolean}|null>(null);
  useEffect(()=>{const el=svg.current;if(!el)return;const preventScroll=(e:WheelEvent)=>e.preventDefault();el.addEventListener('wheel',preventScroll,{passive:false});return()=>el.removeEventListener('wheel',preventScroll);},[]);
@@ -41,7 +43,12 @@ export default function KnowledgeGraph(){
  useEffect(()=>{if(initialFocus.current)return;initialFocus.current=true;const id=new URLSearchParams(window.location.search).get('person');if(!id||!data.people.some(p=>p.id===id))return;const p=positions.get(id);setSelected(id);if(p)setView(v=>({...v,x:-p.x*v.z,y:-p.y*v.z}));},[positions]);
  function jump(period:string){const band=graph.bands.find(b=>b.id===period);if(!band)return;clear();setView({x:0,y:-(band.y+80)-270,z:1});}
  function fit(){setLocal(false);setSelected(null);setEdgeId(null);const z=Math.min(1,1100/graph.width,740/graph.height);setView({x:0,y:-(graph.height/2-80)*z,z});}
- function sourceList(refs:string[]){return <CitationPreview ids={refs} variant="knowledge"/>;}
+ function sourceList(refs:string[],context?:string){
+  const explanations=context?Object.fromEntries(refs.map(id=>[id,context])):undefined;
+  return explanations
+   ?<CitationPreview ids={refs} explanations={explanations} variant="knowledge"/>
+   :<CitationPreview ids={refs} variant="knowledge"/>;
+ }
  function relationList(rows:typeof data.edges,empty:string){return rows.length?rows.map(e=><div className="kg-relation" key={e.id}><button onClick={()=>choose(e.a===selected?e.b:e.a)}>{data.people.find(p=>p.id===(e.a===selected?e.b:e.a))?.name}</button><button onClick={()=>setEdgeId(e.id)}><small>{e.state==='known'?'מבוסס במקור':'לבירור'} · מקורות ←</small></button></div>):<p className="kg-muted">{empty}</p>;}
  function zoom(f:number){setView(v=>{const z=Math.max(.08,Math.min(4,v.z*f));return{x:v.x*z/v.z,y:v.y*z/v.z,z};});}
  return <section className={fullscreen?"kg kg-fullscreen":"kg"} dir="rtl"><div className="kg-top"><div><span className="kg-eyebrow">תולדות / פרקי אבות א–ו</span><h1>עץ מסירת התורה</h1></div><div className="kg-count"><b>{visible.length}</b> רשומות <span>·</span> <b>{edges.length}</b> קשרים</div>{selected&&<button onClick={clear}>ביטול בחירה ×</button>}<button aria-pressed={fullscreen} onClick={()=>setFullscreen(v=>!v)}>{fullscreen?"יציאה ממסך מלא ✕":"מסך מלא ⛶"}</button><button onClick={fit}>התאמה למסך ↗</button></div><div className="kg-notice">טיוטת מחקר · כל חכמי הפיילוט מוצגים לפי תקופה, גם כשאין להם קשר מסירה מתועד. הסדר האנכי נקבע לפי תקופות מתועדות; החצים מציגים מי קיבל ממי. תקופות פעילות עשויות לחפוף. גודל העיגול משקף מספר מקורות מתועדים. קו מסירה רציף: קשר לימוד מבוסס במקור רבני. קו מסירה מקווקו: חסר ביסוס ישיר או שנותרה שאלת זיהוי / מקורות חלוקים. סימון הקשרים האחרים נקבע לפי סוגם. עיגול מקווקו: זהות או תקופה לבירור.</div>

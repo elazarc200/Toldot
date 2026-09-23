@@ -1,0 +1,42 @@
+﻿{
+  "htmlBytes": 23627,
+  "scriptTags": 8,
+  "cssTags": 0
+}
+{
+  "totalTransferKb": 12265.4,
+  "largest": [
+    {
+      "kb": 7430.6,
+      "path": "/_next/static/chunks/main-app.js?v=1789659018460"
+    },
+    {
+      "kb": 4020.4,
+      "path": "/_next/static/chunks/app/(public)/map/page.js"
+    },
+    {
+      "kb": 247.9,
+      "path": "/_next/static/chunks/app-pages-internals.js"
+    },
+    {
+      "kb": 223.6,
+      "path": "/_next/static/chunks/app/(public)/layout.js"
+    },
+    {
+      "kb": 137.5,
+      "path": "/_next/static/chunks/webpack.js?v=1789659018460"
+    },
+    {
+      "kb": 109.9,
+      "path": "/_next/static/chunks/polyfills.js"
+    },
+    {
+      "kb": 49.3,
+      "path": "/_next/static/chunks/app/global-error.js"
+    },
+    {
+      "kb": 46.2,
+      "path": "/_next/static/chunks/app/error.js"
+    }
+  ]
+}

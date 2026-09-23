@@ -1,0 +1,1803 @@
+{
+  "viewport": {
+    "w": 1400,
+    "h": 900
+  },
+  "pinCount": 15,
+  "labelCount": 15,
+  "pins": [
+    {
+      "text": "ירושלים",
+      "rect": {
+        "x": 2378,
+        "y": 938.578125,
+        "w": 22,
+        "h": 22
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "flex",
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "12px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, 1053, 652)",
+        "pointerEvents": "auto"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "BODY",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "יבנה",
+      "rect": {
+        "x": 2256.5,
+        "y": 932.078125,
+        "w": 17,
+        "h": 17
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "flex",
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "12px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, 926.5, 623.5)",
+        "pointerEvents": "auto"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "BODY",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "טבריה",
+      "rect": {
+        "x": 2464.5,
+        "y": 672.078125,
+        "w": 17,
+        "h": 17
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "flex",
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "12px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, 1134.5, 346.5)",
+        "pointerEvents": "auto"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "BODY",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "לוד",
+      "rect": {
+        "x": 2297.5,
+        "y": 944.078125,
+        "w": 17,
+        "h": 17
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "flex",
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "12px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, 967.5, 601.5)",
+        "pointerEvents": "auto"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "BODY",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "ציפורי",
+      "rect": {
+        "x": 2397.5,
+        "y": 716.078125,
+        "w": 17,
+        "h": 17
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "flex",
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "12px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, 1067.5, 356.5)",
+        "pointerEvents": "auto"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "BODY",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "בני ברק",
+      "rect": {
+        "x": 2280.5,
+        "y": 953.078125,
+        "w": 17,
+        "h": 17
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "flex",
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "12px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, 950.5, 576.5)",
+        "pointerEvents": "auto"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "BODY",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "בית שערים",
+      "rect": {
+        "x": 2358.5,
+        "y": 766.078125,
+        "w": 17,
+        "h": 17
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "flex",
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "12px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, 1028.5, 372.5)",
+        "pointerEvents": "auto"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "BODY",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "אושא",
+      "rect": {
+        "x": 2369.5,
+        "y": 755.078125,
+        "w": 13,
+        "h": 13
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "flex",
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "12px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, 1035.5, 344.5)",
+        "pointerEvents": "auto"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "BODY",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "ביתר",
+      "rect": {
+        "x": 2368.5,
+        "y": 1094.078125,
+        "w": 13,
+        "h": 13
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "flex",
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "12px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, 1034.5, 670.5)",
+        "pointerEvents": "auto"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "BODY",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "סיכני",
+      "rect": {
+        "x": 2408.5,
+        "y": 761.078125,
+        "w": 13,
+        "h": 13
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "flex",
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "12px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, 1074.5, 324.5)",
+        "pointerEvents": "auto"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "BODY",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "ערב",
+      "rect": {
+        "x": 2418.5,
+        "y": 778.078125,
+        "w": 13,
+        "h": 13
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "flex",
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "12px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, 1084.5, 328.5)",
+        "pointerEvents": "auto"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "BODY",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "רומי",
+      "rect": {
+        "x": -3477.5,
+        "y": -2150.921875,
+        "w": 13,
+        "h": 13
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "flex",
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "12px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, -4811.5, -2613.5)",
+        "pointerEvents": "auto"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "DIV",
+        "class": "td-header-inner"
+      },
+      "parentChain": [
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "BODY",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "text": "ירושלים",
+      "rect": {
+        "x": 2367.1328125,
+        "y": 964.578125,
+        "w": 43.734375,
+        "h": 15
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "block",
+        "color": "rgb(138, 106, 36)",
+        "fontSize": "12.5px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, -21.8672, 0)",
+        "pointerEvents": "none"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "BUTTON",
+          "class": "atlas-pin selected tier-major maplibregl-marker maplibregl-m",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "יבנה",
+      "rect": {
+        "x": 2254.4296875,
+        "y": 953.078125,
+        "w": 21.140625,
+        "h": 13.1875
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "block",
+        "color": "rgb(51, 81, 63)",
+        "fontSize": "11px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, -10.5703, 0)",
+        "pointerEvents": "none"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "BUTTON",
+          "class": "atlas-pin tier-important maplibregl-marker maplibregl-marker",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "טבריה",
+      "rect": {
+        "x": 2458.1328125,
+        "y": 693.078125,
+        "w": 29.734375,
+        "h": 13.1875
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "block",
+        "color": "rgb(51, 81, 63)",
+        "fontSize": "11px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, -14.8672, 0)",
+        "pointerEvents": "none"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "BUTTON",
+          "class": "atlas-pin tier-important maplibregl-marker maplibregl-marker",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "לוד",
+      "rect": {
+        "x": 2298.4453125,
+        "y": 965.078125,
+        "w": 15.109375,
+        "h": 13.1875
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "block",
+        "color": "rgb(51, 81, 63)",
+        "fontSize": "11px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, -7.55469, 0)",
+        "pointerEvents": "none"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "BUTTON",
+          "class": "atlas-pin tier-important maplibregl-marker maplibregl-marker",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "ציפורי",
+      "rect": {
+        "x": 2391.984375,
+        "y": 737.078125,
+        "w": 28.03125,
+        "h": 13.1875
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "block",
+        "color": "rgb(51, 81, 63)",
+        "fontSize": "11px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, -14.0156, 0)",
+        "pointerEvents": "none"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "BUTTON",
+          "class": "atlas-pin tier-important maplibregl-marker maplibregl-marker",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "בני ברק",
+      "rect": {
+        "x": 2270.796875,
+        "y": 974.078125,
+        "w": 36.40625,
+        "h": 13.1875
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "block",
+        "color": "rgb(51, 81, 63)",
+        "fontSize": "11px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, -18.2031, 0)",
+        "pointerEvents": "none"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "BUTTON",
+          "class": "atlas-pin tier-important maplibregl-marker maplibregl-marker",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "בית שערים",
+      "rect": {
+        "x": 2341.546875,
+        "y": 787.078125,
+        "w": 50.90625,
+        "h": 13.1875
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "block",
+        "color": "rgb(51, 81, 63)",
+        "fontSize": "11px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, -25.4531, 0)",
+        "pointerEvents": "none"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "BUTTON",
+          "class": "atlas-pin tier-important maplibregl-marker maplibregl-marker",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "אושא",
+      "rect": {
+        "x": 2364.7421875,
+        "y": 775.078125,
+        "w": 22.515625,
+        "h": 12.59375
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "hidden",
+        "display": "block",
+        "color": "rgb(91, 114, 99)",
+        "fontSize": "10.5px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, -11.2578, 0)",
+        "pointerEvents": "none"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "BUTTON",
+          "class": "atlas-pin tier-secondary maplibregl-marker maplibregl-marker",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "ביתר",
+      "rect": {
+        "x": 2364.40625,
+        "y": 1114.078125,
+        "w": 21.1875,
+        "h": 12.59375
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "hidden",
+        "display": "block",
+        "color": "rgb(91, 114, 99)",
+        "fontSize": "10.5px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, -10.5938, 0)",
+        "pointerEvents": "none"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "BUTTON",
+          "class": "atlas-pin tier-secondary maplibregl-marker maplibregl-marker",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "סיכני",
+      "rect": {
+        "x": 2404.625,
+        "y": 781.078125,
+        "w": 20.75,
+        "h": 12.59375
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "hidden",
+        "display": "block",
+        "color": "rgb(91, 114, 99)",
+        "fontSize": "10.5px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, -10.375, 0)",
+        "pointerEvents": "none"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "BUTTON",
+          "class": "atlas-pin tier-secondary maplibregl-marker maplibregl-marker",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "ערב",
+      "rect": {
+        "x": 2416.3984375,
+        "y": 798.078125,
+        "w": 17.203125,
+        "h": 12.59375
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "hidden",
+        "display": "block",
+        "color": "rgb(91, 114, 99)",
+        "fontSize": "10.5px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, -8.60156, 0)",
+        "pointerEvents": "none"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "BUTTON",
+          "class": "atlas-pin tier-secondary maplibregl-marker maplibregl-marker",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "רומי",
+      "rect": {
+        "x": -3479.8203125,
+        "y": -2133.921875,
+        "w": 17.640625,
+        "h": 12.59375
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "block",
+        "color": "rgb(91, 114, 99)",
+        "fontSize": "10.5px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, -8.82031, 0)",
+        "pointerEvents": "none"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "DIV",
+        "class": "td-header-inner"
+      },
+      "parentChain": [
+        {
+          "tag": "BUTTON",
+          "class": "atlas-pin tier-secondary maplibregl-marker maplibregl-marker",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    }
+  ],
+  "canvas": {
+    "rect": {
+      "x": 53,
+      "y": 286.578125,
+      "w": 1294,
+      "h": 628
+    },
+    "zIndex": "auto",
+    "pointerEvents": "auto"
+  },
+  "stage": {
+    "overflow": "hidden",
+    "position": "relative",
+    "zIndex": "auto"
+  }
+}

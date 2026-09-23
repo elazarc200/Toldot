@@ -1,0 +1,12 @@
+import fs from 'node:fs';import path from 'node:path';import crypto from 'node:crypto';import {fileURLToPath} from 'node:url';
+export const root=path.dirname(fileURLToPath(import.meta.url));
+export const read=n=>JSON.parse(fs.readFileSync(path.join(root,n),'utf8'));
+export const write=(n,d)=>fs.writeFileSync(path.join(root,n),JSON.stringify(d,null,2));
+export const hash=s=>crypto.createHash('sha256').update(s).digest('hex');
+export const uuid=s=>{const h=hash('toladot-census-v1:'+s);return h.slice(0,8)+'-'+h.slice(8,12)+'-5'+h.slice(13,16)+'-a'+h.slice(17,20)+'-'+h.slice(20,32);};
+export const clean=s=>(s||'').replace(/<[^>]*>/g,' ').replace(/&(?:nbsp|thinsp);/g,' ').replace(/&amp;/g,'&').replace(/[\u0591-\u05BD\u05BF-\u05C7]/g,'').replace(/[־–—]/g,' ').replace(/[׳’]/g,"'").replace(/[״“”]/g,'"').replace(/\s+/g,' ').trim();
+export const norm=s=>clean(s).replace(/(?:^|\s)ר['"](?=\s)/g,' רבי').replace(/[.,:;!?()\[\]"']/g,'').replace(/\s+/g,' ').trim();
+export function csv(text){let rows=[],row=[],v='',quoted=false;for(let i=0;i<text.length;i++){let c=text[i];if(c==='"'){if(quoted&&text[i+1]==='"'){v+='"';i++;}else quoted=!quoted;}else if(c===','&&!quoted){row.push(v);v='';}else if(c==='\n'&&!quoted){row.push(v.replace(/\r$/,''));rows.push(row);row=[];v='';}else v+=c;}if(v||row.length){row.push(v);rows.push(row);}const headers=rows.shift();return rows.filter(x=>x.some(Boolean)).map(r=>Object.fromEntries(headers.map((h,i)=>[h,r[i]||''])));}
+export function wikiPages(folder){if(!fs.existsSync(path.join(root,folder)))return [];const map=new Map();for(const f of fs.readdirSync(path.join(root,folder)).filter(x=>x.endsWith('.json')&&!x.startsWith('index-'))){const d=read(folder+'/'+f);for(const p of Object.values(d.query?.pages||{}))if(p.revisions)map.set(p.pageid,p);}return [...map.values()];}
+export const wikiText=p=>p.revisions?.[0]?.slots?.main?.['*']||'';
+export function flatRef(book,key){const parts=key.split(', '),meta=new Set(['Chapter','Paragraph','Daf','Line','Halakhah','Siman','Segment','Parasha','Midrash','Verse','Psalm','Comment','Mishnah','Ot','Section','Tosefta','Remez',...(book.meta||'').split('-')]);let nodes=[],nums=[];for(const x of parts){const m=x.match(/^(\d+)_(.*)$/);if(!m)return null;const i=Number(m[1]),label=m[2];if(meta.has(label)){nums.push(label==='Daf'?Math.floor(i/2+1)+(i%2?'b':'a'):String(i+1));}else if(label&&label!=='default')nodes.push(label);}return book.work+(nodes.length?', '+nodes.join(', '):'')+(nums.length?' '+nums.join(':'):'');}

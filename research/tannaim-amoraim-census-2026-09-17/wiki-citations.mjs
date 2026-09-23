@@ -1,0 +1,11 @@
+import {read,write,wikiPages,wikiText,norm} from './lib.mjs';
+const books=[];function walk(x){if(Array.isArray(x))x.forEach(walk);else if(x&&typeof x==='object'){if(x.title&&x.heTitle)books.push(x);if(x.contents)walk(x.contents);}}walk(read('raw/index.json'));
+const gematria=s=>{const v={'א':1,'ב':2,'ג':3,'ד':4,'ה':5,'ו':6,'ז':7,'ח':8,'ט':9,'י':10,'כ':20,'ל':30,'מ':40,'נ':50,'ס':60,'ע':70,'פ':80,'צ':90,'ק':100,'ר':200,'ש':300,'ת':400};if(/^\d+$/.test(s))return +s;if(!/^[א-ת'"׳״ ]+$/.test(s))return null;return [...s].reduce((a,c)=>a+(v[c]||0),0)||null;};
+const citations=[];
+for(const p of wikiPages('raw/wiki')){for(const m of wikiText(p).matchAll(/\{\{(בבלי|תלמוד בבלי|משנה|ירושלמי|תלמוד ירושלמי)\|([^{}]+)\}\}/g)){const parts=m[2].split('|').map(x=>x.trim()),kind=m[1],tractate=norm(parts[0]),chapter=gematria(parts[1]||''),segment=gematria(parts[2]||'');if(!chapter)continue;let book;
+ if(kind.includes('בבלי'))book=books.find(b=>b.categories?.includes('Bavli')&&!/Commentary|Rishonim|Acharonim/.test(b.categories.join(' '))&&norm(b.heTitle.replace(/^תלמוד בבלי\s+/,''))===tractate);
+ else if(kind==='משנה')book=books.find(b=>b.categories?.[0]==='Mishnah'&&norm(b.heTitle.replace(/^משנה\s+/,''))===tractate);
+ else book=books.find(b=>b.title.startsWith('Jerusalem Talmud ')&&norm(b.heTitle.replace(/^תלמוד ירושלמי\s+/,''))===tractate);
+ if(!book)continue;let ref=book.title+' '+chapter;if(kind.includes('בבלי')){const side=norm(parts[2]||'');if(side!=='א'&&side!=='ב')continue;ref+=side==='א'?'a':'b';}else if(segment)ref+=':'+segment;
+ citations.push({pageid:p.pageid,ref,template:m[0],source:'https://he.wikipedia.org/w/index.php?oldid='+p.revisions[0].revid,context:wikiText(p).slice(Math.max(0,m.index-300),m.index+300)});
+ }}write('wikipedia-primary-citation-pointers.json',citations);console.log('Wikipedia primary citation pointers',citations.length);

@@ -1,0 +1,17 @@
+{
+  "tannaim": 203,
+  "amoraim": 584,
+  "amoraim_eretz_israel": 74,
+  "amoraim_babylonia": 123,
+  "amoraim_mixed_unknown": 387,
+  "total_unique_sages": 787,
+  "high_confidence_identities": 281,
+  "medium_confidence_identities": 506,
+  "manual_review_candidate_records": 3489,
+  "suspected_duplicate_pairs": 481,
+  "suspected_duplicate_candidate_records": 862,
+  "records_with_direct_primary_chazal_evidence": 787,
+  "bibliographic_inventory_records": 297,
+  "merged_source_records": 16,
+  "quarantined_primary_assignments": 40
+}

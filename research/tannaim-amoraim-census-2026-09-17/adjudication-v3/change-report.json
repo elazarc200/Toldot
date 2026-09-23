@@ -1,0 +1,50 @@
+{
+  "baseline": {
+    "tannaim": 213,
+    "amoraim": 598,
+    "amoraim_eretz_israel": 79,
+    "amoraim_babylonia": 127,
+    "amoraim_mixed_unknown": 392,
+    "total_unique_sages": 811,
+    "high_confidence_identities": 294,
+    "medium_confidence_identities": 517,
+    "manual_review_candidate_records": 3425,
+    "suspected_duplicate_pairs": 439,
+    "suspected_duplicate_candidate_records": 794,
+    "records_with_direct_primary_chazal_evidence": 811
+  },
+  "current": {
+    "tannaim": 213,
+    "amoraim": 601,
+    "amoraim_eretz_israel": 79,
+    "amoraim_babylonia": 129,
+    "amoraim_mixed_unknown": 393,
+    "total_unique_sages": 814,
+    "high_confidence_identities": 296,
+    "medium_confidence_identities": 518,
+    "manual_review_candidate_records": 3416,
+    "suspected_duplicate_pairs": 429,
+    "suspected_duplicate_candidate_records": 781,
+    "records_with_direct_primary_chazal_evidence": 814
+  },
+  "merged_this_pass": 6,
+  "promoted_from_review": [
+    {
+      "identity_key": "sefaria:avimi",
+      "name": "אבימי"
+    },
+    {
+      "identity_key": "sefaria:geniva",
+      "name": "גניבא"
+    },
+    {
+      "identity_key": "sefaria:rebbi-gorion",
+      "name": "רִבִּי גּוּרִיוֹן"
+    }
+  ],
+  "batch": 5,
+  "input_conservation": {
+    "input": 4276,
+    "output": 4276
+  }
+}

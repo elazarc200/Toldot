@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-09-18T00:05:41.625Z",
+  "batch": 32,
+  "offset": 2480,
+  "count": 0,
+  "results": {
+    "duplicate_research": [],
+    "promotion_research": [],
+    "profile_research": [],
+    "adjudication_candidates": [],
+    "total_groups": 1760
+  }
+}

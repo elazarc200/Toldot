@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "name": "levant-geographic-context",
-  "attribution": "Schematic Levant geographic context for Toladot historical atlas. Dead Sea adapted from Natural Earth; Sea of Galilee and Jordan River are schematic reconstructions for orientation only — not surveyed cadastral data.",
+  "attribution": "Sea of Galilee: Natural Earth 1:10m lakes (public domain). Other regional context remains schematic.",
   "features": [
     {
       "type": "Feature",
@@ -14,11 +14,122 @@
       },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[
-          [35.52, 32.92], [35.58, 32.93], [35.63, 32.90], [35.65, 32.85],
-          [35.64, 32.78], [35.61, 32.72], [35.55, 32.70], [35.50, 32.73],
-          [35.48, 32.80], [35.49, 32.87], [35.52, 32.92]
-        ]]
+        "coordinates": [
+          [
+            [
+              35.639699,
+              32.849973
+            ],
+            [
+              35.637344,
+              32.840553
+            ],
+            [
+              35.63705,
+              32.832311
+            ],
+            [
+              35.640877,
+              32.820831
+            ],
+            [
+              35.634989,
+              32.794044
+            ],
+            [
+              35.635578,
+              32.781975
+            ],
+            [
+              35.640877,
+              32.772261
+            ],
+            [
+              35.634989,
+              32.769612
+            ],
+            [
+              35.633812,
+              32.76549
+            ],
+            [
+              35.634401,
+              32.759897
+            ],
+            [
+              35.634106,
+              32.752244
+            ],
+            [
+              35.599371,
+              32.717803
+            ],
+            [
+              35.577,
+              32.720158
+            ],
+            [
+              35.56964,
+              32.737526
+            ],
+            [
+              35.566402,
+              32.756954
+            ],
+            [
+              35.555217,
+              32.766079
+            ],
+            [
+              35.549329,
+              32.769612
+            ],
+            [
+              35.537849,
+              32.793455
+            ],
+            [
+              35.52107,
+              32.814649
+            ],
+            [
+              35.517244,
+              32.820831
+            ],
+            [
+              35.52372,
+              32.852033
+            ],
+            [
+              35.554922,
+              32.880587
+            ],
+            [
+              35.591718,
+              32.897954
+            ],
+            [
+              35.613501,
+              32.895894
+            ],
+            [
+              35.63028,
+              32.882647
+            ],
+            [
+              35.637639,
+              32.874994
+            ],
+            [
+              35.640877,
+              32.864985
+            ],
+            [
+              35.639699,
+              32.849973
+            ]
+          ]
+        ]
       }
     },
     {
@@ -32,11 +143,46 @@
       },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[
-          [35.50, 31.78], [35.58, 31.76], [35.59, 31.55], [35.55, 31.35],
-          [35.48, 31.32], [35.40, 31.35], [35.40, 31.55], [35.45, 31.72],
-          [35.50, 31.78]
-        ]]
+        "coordinates": [
+          [
+            [
+              35.5,
+              31.78
+            ],
+            [
+              35.58,
+              31.76
+            ],
+            [
+              35.59,
+              31.55
+            ],
+            [
+              35.55,
+              31.35
+            ],
+            [
+              35.48,
+              31.32
+            ],
+            [
+              35.4,
+              31.35
+            ],
+            [
+              35.4,
+              31.55
+            ],
+            [
+              35.45,
+              31.72
+            ],
+            [
+              35.5,
+              31.78
+            ]
+          ]
+        ]
       }
     },
     {
@@ -52,40 +198,116 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [35.58, 32.72], [35.57, 32.55], [35.56, 32.40], [35.55, 32.25],
-          [35.55, 32.10], [35.54, 31.95], [35.53, 31.80]
+          [
+            35.58,
+            32.72
+          ],
+          [
+            35.57,
+            32.55
+          ],
+          [
+            35.56,
+            32.4
+          ],
+          [
+            35.55,
+            32.25
+          ],
+          [
+            35.55,
+            32.1
+          ],
+          [
+            35.54,
+            31.95
+          ],
+          [
+            35.53,
+            31.8
+          ]
         ]
       }
     },
     {
       "type": "Feature",
       "id": "label-galilee",
-      "properties": { "kind": "region-label", "nameHe": "הגליל", "labelMinZoom": 6.2 },
-      "geometry": { "type": "Point", "coordinates": [35.35, 32.95] }
+      "properties": {
+        "kind": "region-label",
+        "nameHe": "הגליל",
+        "labelMinZoom": 6.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.35,
+          32.95
+        ]
+      }
     },
     {
       "type": "Feature",
       "id": "label-judea",
-      "properties": { "kind": "region-label", "nameHe": "יהודה", "labelMinZoom": 6.2 },
-      "geometry": { "type": "Point", "coordinates": [35.15, 31.55] }
+      "properties": {
+        "kind": "region-label",
+        "nameHe": "יהודה",
+        "labelMinZoom": 6.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.15,
+          31.55
+        ]
+      }
     },
     {
       "type": "Feature",
       "id": "label-samaria",
-      "properties": { "kind": "region-label", "nameHe": "שומרון", "labelMinZoom": 6.5 },
-      "geometry": { "type": "Point", "coordinates": [35.20, 32.20] }
+      "properties": {
+        "kind": "region-label",
+        "nameHe": "שומרון",
+        "labelMinZoom": 6.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2,
+          32.2
+        ]
+      }
     },
     {
       "type": "Feature",
       "id": "label-transjordan",
-      "properties": { "kind": "region-label", "nameHe": "עבר הירדן", "labelMinZoom": 6.5 },
-      "geometry": { "type": "Point", "coordinates": [35.85, 32.10] }
+      "properties": {
+        "kind": "region-label",
+        "nameHe": "עבר הירדן",
+        "labelMinZoom": 6.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.85,
+          32.1
+        ]
+      }
     },
     {
       "type": "Feature",
       "id": "label-coastal",
-      "properties": { "kind": "region-label", "nameHe": "מישור החוף", "labelMinZoom": 7 },
-      "geometry": { "type": "Point", "coordinates": [34.78, 32.05] }
+      "properties": {
+        "kind": "region-label",
+        "nameHe": "מישור החוף",
+        "labelMinZoom": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78,
+          32.05
+        ]
+      }
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-09-18T00:01:47.279Z",
+  "batch": 6,
+  "offset": 400,
+  "count": 0,
+  "results": {
+    "duplicate_research": [],
+    "promotion_research": [],
+    "adjudication_candidates": []
+  }
+}

@@ -1,0 +1,4366 @@
+{
+  "generated_at": "2026-09-18T00:03:15.527Z",
+  "batch": 12,
+  "offset": 880,
+  "count": 80,
+  "results": {
+    "duplicate_research": [],
+    "promotion_research": [],
+    "profile_research": [
+      {
+        "identity_key": "bonayich:20360",
+        "name": "הונא בריה דרב נחמן",
+        "profile": {
+          "identity_key": "bonayich:20360",
+          "canonical_name_he": "הונא בריה דרב נחמן",
+          "aliases": [
+            "Huna b. Rav Nahman",
+            "הונא בריה דרב נחמן"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Horayot 12b:13",
+              "mention": "הונא בריה דרב נחמן",
+              "excerpt": "זימנין הוי יתיב רב פפא וקמבעיא ליה. אמר ליה הונא בריה דרב נחמן לרב פפא, תנינא: אין לי אלא שעבר מחמת קריו, עבר מחמת מומין מנין? תלמוד לומר: \"והוא\". קם נשקיה ברישיה ויהיב ליה ברתיה.",
+              "url": "https://www.sefaria.org/Horayot_12b%3A13"
+            }
+          ],
+          "passage_refs": [
+            "Horayot 12b:13"
+          ],
+          "characteristic_traditions": [
+            "זימנין הוי יתיב רב פפא וקמבעיא ליה. אמר ליה הונא בריה דרב נחמן לרב פפא, תנינא: אין לי אלא שעבר מחמת קריו, עבר מחמת מומין"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20360"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20361",
+        "name": "הונא מר בר בריה דרב נחמיה",
+        "profile": {
+          "identity_key": "bonayich:20361",
+          "canonical_name_he": "הונא מר בר בריה דרב נחמיה",
+          "aliases": [
+            "Huna Mar, grandson of Rav Nehemya",
+            "הונא מר בר בריה דרב נחמיה"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Chullin 51b:12",
+              "mention": "הונא מר בר בריה דרב נחמיה",
+              "excerpt": "אמר ליה הונא מר בר בריה דרב נחמיה לרב אשי: סימנין מאי? אמר ליה: סימנין קשין הן אצל נפילה.",
+              "url": "https://www.sefaria.org/Chullin_51b%3A12"
+            }
+          ],
+          "passage_refs": [
+            "Chullin 51b:12"
+          ],
+          "characteristic_traditions": [
+            "אמר ליה הונא מר בר בריה דרב נחמיה לרב אשי: סימנין מאי? אמר ליה: סימנין קשין הן אצל נפילה."
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20361"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20362",
+        "name": "הונא מר בריה דרב נחמיה",
+        "profile": {
+          "identity_key": "bonayich:20362",
+          "canonical_name_he": "הונא מר בריה דרב נחמיה",
+          "aliases": [
+            "Huna Mar b. Rav Nehemya",
+            "הונא מר בריה דרב נחמיה"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Gittin 14a:2",
+              "mention": "הונא מר בריה דרב נחמיה",
+              "excerpt": "אמר ליה הונא מר בריה דרב נחמיה לרב אשי: אלא מעתה, כגון הני דבי בר אלישיב, דכפתי ושקלי לאלתר, הכי נמי דלא קנו?!",
+              "url": "https://www.sefaria.org/Gittin_14a%3A2"
+            }
+          ],
+          "passage_refs": [
+            "Gittin 14a:2"
+          ],
+          "characteristic_traditions": [
+            "אמר ליה הונא מר בריה דרב נחמיה לרב אשי: אלא מעתה, כגון הני דבי בר אלישיב, דכפתי ושקלי לאלתר, הכי נמי דלא קנו?!"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20362"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1080",
+        "name": "חזקיה בר בילוטו",
+        "profile": {
+          "identity_key": "bonayich:1080",
+          "canonical_name_he": "חזקיה בר בילוטו",
+          "aliases": [
+            "Hizkiyya b. Biluto",
+            "חזקיה בר בילוטו"
+          ],
+          "classification": "Amora",
+          "classification_assertions": [
+            "Amora"
+          ],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:4e2edc5ebacff928166b",
+              "title": "חזקיה בר בילוטו",
+              "classification": null,
+              "identity_caution": false
+            }
+          ],
+          "hyman_excerpt": "\n==חזקיה בר בילוטו==\nנזכר [[ערכין כח ב|ערכין כח:]] אמר קומי ד[[תולדות תנאים ואמוראים/א/ר' אבהו|ר' אבהו]].\n",
+          "external_ids": {
+            "bonayich": "BONAYICH:1080"
+          },
+          "review_reasons": [
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient.",
+            "Possible duplicate identity: heiman:375653"
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20416",
+        "name": "חילפא בר אגרא",
+        "profile": {
+          "identity_key": "bonayich:20416",
+          "canonical_name_he": "חילפא בר אגרא",
+          "aliases": [
+            "Hilfa b. Agra",
+            "חילפא בר אגרא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Shabbat 105b:8",
+              "mention": "חילפא בר אגרא",
+              "excerpt": "רבי אבין: האי נמי מתקן הוא, דקעביד נחת רוח ליצרו. וכהאי גוונא מי שרי? והתניא, רבי שמעון בן אלעזר אומר משום חילפא בר אגרא שאמר משום רבי יוחנן בן נורי: המקרע בגדיו בחמתו, והמשבר כליו בחמתו, והמפזר מעותיו בחמתו, יהא בעיניך כעובד עבודה זרה. שכך אומנותו של יצר הרע: היום אומר לו עשה כך, ולמחר אומר לו עשה כך, עד שאומר לו עבוד עבודה זרה והולך ועובד. אמר רבי אבין: מאי קראה \"לא יהיה בך אל זר ולא תשתחוה לאל נכר\", איזהו אל זר שיש בגופו של אדם? הוי אומר, זה יצר הרע.",
+              "url": "https://www.sefaria.org/Shabbat_105b%3A8"
+            }
+          ],
+          "passage_refs": [
+            "Shabbat 105b:8"
+          ],
+          "characteristic_traditions": [
+            "רבי אבין: האי נמי מתקן הוא, דקעביד נחת רוח ליצרו. וכהאי גוונא מי שרי? והתניא, רבי שמעון בן אלעזר אומר משום חילפא בר אגרא"
+          ],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:9cf8bf285f42a511edf9",
+              "title": "חילפא בר אגרא",
+              "classification": null,
+              "identity_caution": false
+            }
+          ],
+          "hyman_excerpt": "\n==חילפא בר אגרא {{קטן|(תנא דברייתא)}}==\nבשבת קה: ותוספתא ב\"ק ספ\"ט ר' שמעון בן אלעזר אומר משום חילפא בר אגרא שאמר משום ר' יוחנן בן נורי, וב[[דרך ארץ רבה א|דא\"ר פ\"א]] אבא חלפי אומר משום אבא חגרת אביו, ונראה כי הוא שם של תנא אחד.\n",
+          "external_ids": {
+            "bonayich": "BONAYICH:20416"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "Possible duplicate identity: heiman:1716942"
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1169",
+        "name": "חמא בר אדא שליח ציון",
+        "profile": {
+          "identity_key": "bonayich:1169",
+          "canonical_name_he": "חמא בר אדא שליח ציון",
+          "aliases": [
+            "Hama b. Adda, emissary of the talmudic academies of Zion",
+            "חמא בר אדא שליח ציון"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Beitzah 25b:12",
+              "mention": "לחמא בר אדא שליח ציון",
+              "excerpt": "אמר ליה רב נחמן לחמא בר אדא שליח ציון: כי סלקת להתם, אקיף וזיל אסולמא דצור, וזיל לגבי דרבי יעקב בר אידי ובעי מיניה: כסא, מה אתון ביה?",
+              "url": "https://www.sefaria.org/Beitzah_25b%3A12"
+            }
+          ],
+          "passage_refs": [
+            "Beitzah 25b:12"
+          ],
+          "characteristic_traditions": [
+            "אמר ליה רב נחמן לחמא בר אדא שליח ציון: כי סלקת להתם, אקיף וזיל אסולמא דצור, וזיל לגבי דרבי יעקב בר אידי ובעי מיניה: כסא,"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1169"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1300",
+        "name": "חנמאל המצרי",
+        "profile": {
+          "identity_key": "bonayich:1300",
+          "canonical_name_he": "חנמאל המצרי",
+          "aliases": [
+            "Hanamel the Egyptian",
+            "חנמאל המצרי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Mishnah Parah 3:5",
+              "mention": "וַחֲנַמְאֵל הַמִּצְרִי",
+              "excerpt": "לא מצאו משבע, עושין משש, מחמש, מארבע, משלש, משתים ומאחת. ומי עשאם. הראשונה עשה משה, והשניה עשה עזרא, וחמש, מעזרא ואילך, דברי רבי מאיר. וחכמים אומרים, שבע מעזרא ואילך. ומי עשאן. שמעון הצדיק ויוחנן כהן גדול עשו שתים שתים, אליהועיני בן הקוף וחנמאל המצרי וישמעאל בן פיאבי עשו אחת אחת:",
+              "url": "https://www.sefaria.org/Mishnah_Parah_3%3A5"
+            }
+          ],
+          "passage_refs": [
+            "Mishnah Parah 3:5"
+          ],
+          "characteristic_traditions": [
+            "לא מצאו משבע, עושין משש, מחמש, מארבע, משלש, משתים ומאחת. ומי עשאם. הראשונה עשה משה, והשניה עשה עזרא, וחמש, מעזרא ואילך, "
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1300"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1310",
+        "name": "חנן בישא",
+        "profile": {
+          "identity_key": "bonayich:1310",
+          "canonical_name_he": "חנן בישא",
+          "aliases": [
+            "Hanan the Wicked",
+            "חנן בישא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Bava Kamma 37a:3",
+              "mention": "חנן בישא",
+              "excerpt": "חנן בישא תקע ליה לההוא גברא. אתא לקמיה דרב הונא, אמר ליה: זיל הב ליה פלגא דזוזא. הוה ליה זוזא מכא, בעי למיתבה ליה מיניה פלגא דזוזא, לא הוה משתקיל ליה. תקע ליה אחרינא, ויהביה נהליה.",
+              "url": "https://www.sefaria.org/Bava_Kamma_37a%3A3"
+            },
+            {
+              "ref": "Bava Kamma 115a:14",
+              "mention": "וחנן בישא",
+              "excerpt": "וסבר רב לא עשו בו תקנת השוק? והא רב הונא תלמידיה דרב הוה, וחנן בישא גנב גלימא וזבנה. אתא לקמיה דרב הונא, אמר ליה לההוא גברא: זיל שרי עביטך!",
+              "url": "https://www.sefaria.org/Bava_Kamma_115a%3A14"
+            },
+            {
+              "ref": "Bava Kamma 115a:15",
+              "mention": "חנן בישא",
+              "excerpt": "שאני חנן בישא, כיון דליכא לאישתלומי מיניה כלא הוכר דמי.",
+              "url": "https://www.sefaria.org/Bava_Kamma_115a%3A15"
+            },
+            {
+              "ref": "Bava Kamma 115a:16",
+              "mention": "חנן בישא",
+              "excerpt": "אמר רבא: אם גנב מפורסם הוא, לא עשו בו תקנת השוק. והא חנן בישא, דמפורסם הוה, ועשו בו תקנת השוק! נהי דמפורסם לבישותא, לגניבותא לא מפורסם.",
+              "url": "https://www.sefaria.org/Bava_Kamma_115a%3A16"
+            },
+            {
+              "ref": "Bekhorot 50b:11",
+              "mention": "חנן בישא",
+              "excerpt": "חנן בישא תקע ליה לההוא גברא, אתא לקמיה דרב הונא, אמר ליה: הב ליה פלגא דזוזא. הוה איכא",
+              "url": "https://www.sefaria.org/Bekhorot_50b%3A11"
+            }
+          ],
+          "passage_refs": [
+            "Bava Kamma 37a:3",
+            "Bava Kamma 115a:14",
+            "Bava Kamma 115a:15",
+            "Bava Kamma 115a:16",
+            "Bekhorot 50b:11"
+          ],
+          "characteristic_traditions": [
+            "חנן בישא תקע ליה לההוא גברא. אתא לקמיה דרב הונא, אמר ליה: זיל הב ליה פלגא דזוזא. הוה ליה זוזא מכא, בעי למיתבה ליה מיניה ",
+            "וסבר רב לא עשו בו תקנת השוק? והא רב הונא תלמידיה דרב הוה, וחנן בישא גנב גלימא וזבנה. אתא לקמיה דרב הונא, אמר ליה לההוא ג",
+            "שאני חנן בישא, כיון דליכא לאישתלומי מיניה כלא הוכר דמי.",
+            "אמר רבא: אם גנב מפורסם הוא, לא עשו בו תקנת השוק. והא חנן בישא, דמפורסם הוה, ועשו בו תקנת השוק! נהי דמפורסם לבישותא, לגני",
+            "חנן בישא תקע ליה לההוא גברא, אתא לקמיה דרב הונא, אמר ליה: הב ליה פלגא דזוזא. הוה איכא"
+          ],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:d4cbb1e20c6d46b5eb05",
+              "title": "חנן בישא",
+              "classification": null,
+              "identity_caution": false
+            }
+          ],
+          "hyman_excerpt": "\n==חנן בישא==\nבזמן ר\"ה כב\"ק לז. שתקע לההוא גברא אתא לקמיה דר\"ה א\"ל זיל הב ליה פלגא דזוזא, והיה לו זוז רע שלא היה יכול להחליפו תקע ליה אחרינא ויהביה ליה כל הזוז. ושם קטו. שגנב גלימא ומכרה אתא לקמיה דר\"ה – ואמרו שם נהי דמפורסם לבישותא, לגניבותא לא מפורסם.\n",
+          "external_ids": {
+            "bonayich": "BONAYICH:1310"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "Possible duplicate identity: heiman:1717311"
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1333",
+        "name": "חנן חייטא",
+        "profile": {
+          "identity_key": "bonayich:1333",
+          "canonical_name_he": "חנן חייטא",
+          "aliases": [
+            "Hanan the tailor",
+            "חנן חייטא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "עמרם",
+            "יוסף",
+            "מתנה",
+            "יהודה"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Avodah Zarah 39a:15",
+              "mention": "חנן חייטא",
+              "excerpt": "פגע ביה חנן חייטא, אמר ליה: יוסף עניא מנא ליה? בדידי הוה עובדא, דזביני תכילתא מאנשי דביתיה דרבנאה אחוה דרבי חייא בר אבא, ואתאי לקמיה דרב מתנא, לא הוה בידיה. אתאי לקמיה דרב יהודה מהגרוניא, אמר לי: נפלת ליד, הכי אמר שמואל: אשת חבר הרי היא כחבר.",
+              "url": "https://www.sefaria.org/Avodah_Zarah_39a%3A15"
+            }
+          ],
+          "passage_refs": [
+            "Avodah Zarah 39a:15"
+          ],
+          "characteristic_traditions": [
+            "פגע ביה חנן חייטא, אמר ליה: יוסף עניא מנא ליה? בדידי הוה עובדא, דזביני תכילתא מאנשי דביתיה דרבנאה אחוה דרבי חייא בר אבא,"
+          ],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:8bd1eea4330aa80facb7",
+              "title": "חנן חייטא",
+              "classification": null,
+              "identity_caution": false
+            }
+          ],
+          "hyman_excerpt": "\n==חנן חייטא==\nבע\"ז לט. ר\"ה בר מניומי זבן תכלת מאנשי דביתיה דרב עמרם חסידא, אתא לקמיה דרב יוסף, לא הוה בידיה, פגע ביה חנן חייטא א\"ל יוסף עניא מנא ליה, בדידי הוה עובדא דזביני תכלתא מאנשי דביתיה דרבנאה אחוה דר' חייא בר אבא, ואתאי לקמיה דרב מתנה לא הוה בידיה, אתאי לקמיה דרב יהודה מהגרוניא {{קטן|(ובר\"ח ובדקדוקי סופרים ליתא תיתב מהגרוניא)}} א\"ל נפלת ליד וכו'. וזה כונת היוחסין שכתב פ' התכלת וכונתו שנזכר בענין דין תכלת.\n",
+          "external_ids": {
+            "bonayich": "BONAYICH:1333"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "Possible duplicate identity: heiman:1717394"
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1341",
+        "name": "חנני",
+        "profile": {
+          "identity_key": "bonayich:1341",
+          "canonical_name_he": "חנני",
+          "aliases": [
+            "Hanani",
+            "חנני"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Bava Batra 116a:14",
+              "mention": "חנני",
+              "excerpt": "דרש רבי פנחס בן חמא: קשה עניות בתוך ביתו של אדם, יותר מחמשים מכות שנאמר: \"חנני חנני אתם רעי, כי יד אלוה נגעה בי\", וקא אמרי ליה חבריה: \"השמר אל תפן אל און, כי על זה בחרת מעני\".",
+              "url": "https://www.sefaria.org/Bava_Batra_116a%3A14"
+            },
+            {
+              "ref": "Bava Batra 166b:3",
+              "mention": "מחנני",
+              "excerpt": "כגון \"חנן\" מ\"חנני\" ו\"ענן\" מ\"ענני\".",
+              "url": "https://www.sefaria.org/Bava_Batra_166b%3A3"
+            },
+            {
+              "ref": "Tosefta Bava Batra 11:3",
+              "mention": "לחנני",
+              "excerpt": "לוני לויתי מן פלוני והעדים למטה כשר לעולם התחתון ילמד מן העליון במקושר באות אחת ולא בשתי אותיות בין חנן לחנני ובין ענן לענני על אות אחת מקיימין אותו על שתי אותיות אין מקיימין אותו ואיזהו קיומו אני פלוני לויתי מן פלוני. ופלוני ופלוני לוה הימנו קושרו למעלה והעדים למטה כשר.",
+              "url": "https://www.sefaria.org/Tosefta_Bava_Batra_11%3A3"
+            }
+          ],
+          "passage_refs": [
+            "Bava Batra 116a:14",
+            "Bava Batra 166b:3",
+            "Tosefta Bava Batra 11:3"
+          ],
+          "characteristic_traditions": [
+            "דרש רבי פנחס בן חמא: קשה עניות בתוך ביתו של אדם, יותר מחמשים מכות שנאמר: \"חנני חנני אתם רעי, כי יד אלוה נגעה בי\", וקא אמ",
+            "כגון \"חנן\" מ\"חנני\" ו\"ענן\" מ\"ענני\".",
+            "לוני לויתי מן פלוני והעדים למטה כשר לעולם התחתון ילמד מן העליון במקושר באות אחת ולא בשתי אותיות בין חנן לחנני ובין ענן ל"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1341"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1348",
+        "name": "חרים",
+        "profile": {
+          "identity_key": "bonayich:1348",
+          "canonical_name_he": "חרים",
+          "aliases": [
+            "Harim",
+            "חרים"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Arakhin 12b:11",
+              "mention": "וחרים",
+              "excerpt": "והתניא: ארבע משמרות עלו מן הגולה ידעיה וחרים פשחור ואימר, עמדו נביאים שביניהם וחלקום לעשרים וארבע משמרות, בללום ונתנום בקלפי, בא ידעיה ונטל חלקו וחלק חביריו שש,",
+              "url": "https://www.sefaria.org/Arakhin_12b%3A11"
+            },
+            {
+              "ref": "Arakhin 13a:1",
+              "mention": "חרים",
+              "excerpt": "בא חרים ונטל חלקו וחלק חביריו שש, וכן פשחור וכן אימר. התקינו נביאים שביניהם שאפילו יהויריב ראש משמרות עולה לא ידחה ידעיה ממקומו, אלא ידעיה עיקר ויהויריב טפל לו, אלא אשארא.",
+              "url": "https://www.sefaria.org/Arakhin_13a%3A1"
+            },
+            {
+              "ref": "Arakhin 28a:2",
+              "mention": "מחרים",
+              "excerpt": "מתני' מחרים אדם מצאנו ומבקרו, ומעבדיו ומשפחותיו הכנענים, ומשדה אחוזתו, ואם החרים את כולם אינם מוחרמים, דברי רבי אליעזר. אמר רבי אלעזר בן עזריה: מה אם לגבוה אין אדם רשאי להחרים כל נכסיו, על אחת כמה וכמה שיהא אדם חס על נכסיו!",
+              "url": "https://www.sefaria.org/Arakhin_28a%3A2"
+            },
+            {
+              "ref": "Arakhin 28a:5",
+              "mention": "לחרים",
+              "excerpt": "וצריכא, דאי כתב רחמנא \"מכל אשר לו\", הוה אמינא: כל דאית ליה לא לחרים, אבל מין אחד ליחרמיה כוליה, כתב רחמנא \"מאדם\" ולא כל אדם.",
+              "url": "https://www.sefaria.org/Arakhin_28a%3A5"
+            },
+            {
+              "ref": "Arakhin 28a:12",
+              "mention": "מחרים",
+              "excerpt": "מתני' המחרים בנו ובתו, ועבדו ושפחתו העברים, ושדה מקנתו אין מוחרמין, שאין אדם מחרים דבר שאינו שלו. הכהנים והלוים אין מחרימין, דברי רבי יהודה. רבי שמעון אומר: הכהנים אין מחרימין שהחרמין שלהן, והלוים מחרימין שאין החרמין שלהן.",
+              "url": "https://www.sefaria.org/Arakhin_28a%3A12"
+            },
+            {
+              "ref": "Arakhin 28a:15",
+              "mention": "לחרים",
+              "excerpt": "ורבי שמעון, בשלמא כהנים כדאמרן, אלא לוים, בשלמא מטלטלים לחרים דלא מקיש, אלא מקרקעי אמאי? הכתיב \"אחזת עולם היא להם\"! מאי \"מחרימין\" נמי דקאמר? מטלטלי.",
+              "url": "https://www.sefaria.org/Arakhin_28a%3A15"
+            },
+            {
+              "ref": "Arakhin 28b:12",
+              "mention": "מחרים",
+              "excerpt": "מחרים אדם את קדשיו, בין קדשי קדשים בין קדשים קלים, אם נדר נותן דמיהן.",
+              "url": "https://www.sefaria.org/Arakhin_28b%3A12"
+            },
+            {
+              "ref": "Rosh Hashanah 23b:3",
+              "mention": "חרים",
+              "excerpt": "תניא, רבי שמעון בן אלעזר אומר: אף חרים וכייר וגדר וחברותיה. איכא דאמרי: ביני וביני הוו קיימי. איכא דאמרי: להך גיסא דארץ ישראל הוו קיימי. מר חשיב דהאי גיסא, ומר חשיב דהאי גיסא.",
+              "url": "https://www.sefaria.org/Rosh_Hashanah_23b%3A3"
+            },
+            {
+              "ref": "Taanit 27a:12",
+              "mention": "חרים",
+              "excerpt": "תנו רבנן: ארבעה משמרות עלו מן הגולה, ואלו הן: ידעיה, חרים, פשחור, ואימר. עמדו נביאים שביניהם,",
+              "url": "https://www.sefaria.org/Taanit_27a%3A12"
+            },
+            {
+              "ref": "Taanit 27b:1",
+              "mention": "חרים",
+              "excerpt": "וחלקום והעמידום על עשרים וארבעה, בללום ונתנום בקלפי. בא ידעיה ונטל חלקו וחלק חבריו שש, בא חרים ונטל חלקו וחלק חבריו שש, וכן פשחור, וכן אימר.",
+              "url": "https://www.sefaria.org/Taanit_27b%3A1"
+            }
+          ],
+          "passage_refs": [
+            "Arakhin 12b:11",
+            "Arakhin 13a:1",
+            "Arakhin 28a:2",
+            "Arakhin 28a:5",
+            "Arakhin 28a:12",
+            "Arakhin 28a:15",
+            "Arakhin 28b:12",
+            "Rosh Hashanah 23b:3",
+            "Taanit 27a:12",
+            "Taanit 27b:1"
+          ],
+          "characteristic_traditions": [
+            "והתניא: ארבע משמרות עלו מן הגולה ידעיה וחרים פשחור ואימר, עמדו נביאים שביניהם וחלקום לעשרים וארבע משמרות, בללום ונתנום ב",
+            "בא חרים ונטל חלקו וחלק חביריו שש, וכן פשחור וכן אימר. התקינו נביאים שביניהם שאפילו יהויריב ראש משמרות עולה לא ידחה ידעיה",
+            "מתני' מחרים אדם מצאנו ומבקרו, ומעבדיו ומשפחותיו הכנענים, ומשדה אחוזתו, ואם החרים את כולם אינם מוחרמים, דברי רבי אליעזר. ",
+            "וצריכא, דאי כתב רחמנא \"מכל אשר לו\", הוה אמינא: כל דאית ליה לא לחרים, אבל מין אחד ליחרמיה כוליה, כתב רחמנא \"מאדם\" ולא כל ",
+            "מתני' המחרים בנו ובתו, ועבדו ושפחתו העברים, ושדה מקנתו אין מוחרמין, שאין אדם מחרים דבר שאינו שלו. הכהנים והלוים אין מחרי"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1348"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1368",
+        "name": "טוביה",
+        "profile": {
+          "identity_key": "bonayich:1368",
+          "canonical_name_he": "טוביה",
+          "aliases": [
+            "Toviya",
+            "Toviyah",
+            "טוביה"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Bava Kamma 36b:12",
+              "mention": "טוביה",
+              "excerpt": "ההוא גברא דתקע לחבריה. שלחיה רב טוביה בר מתנה לקמיה דרב יוסף: סלע צורי תנן, או סלע מדינה תנן?",
+              "url": "https://www.sefaria.org/Bava_Kamma_36b%3A12"
+            },
+            {
+              "ref": "Ketubot 85b:6",
+              "mention": "טוביה",
+              "excerpt": "ההוא דאמר להו: נכסיי לטוביה. שכיב, אתא טוביה. אמר רבי יוחנן: הרי בא טוביה.",
+              "url": "https://www.sefaria.org/Ketubot_85b%3A6"
+            },
+            {
+              "ref": "Ketubot 85b:7",
+              "mention": "לטוביה",
+              "excerpt": "אמר \"טוביה\" ואתא רב טוביה לטוביה אמר, לרב טוביה לא אמר. ואי איניש דגיס ביה, הא גיס ביה. אתו שני טוביה, שכן ותלמיד חכם תלמיד חכם קודם. קרוב ותלמיד חכם תלמיד חכם קודם.",
+              "url": "https://www.sefaria.org/Ketubot_85b%3A7"
+            },
+            {
+              "ref": "Makkot 7a:1",
+              "mention": "וטוביה",
+              "excerpt": "אילעא וטוביה, קריביה דערבא הוה. סבר רב פפא למימר: גבי לוה ומלוה רחיקי נינהו. אמר ליה רב הונא בריה דרב יהושע לרב פפא: אי לית ליה ללוה, לאו בתר ערבא אזיל מלוה?",
+              "url": "https://www.sefaria.org/Makkot_7a%3A1"
+            },
+            {
+              "ref": "Makkot 11a:15",
+              "mention": "טוביה",
+              "excerpt": "ואיכא דמתני: כדי שיתפללו על בניהם שלא ימותו. טעמא דמצלו, הא לא מצלו מייתי? מאי הוה ליה למעבד? הכא אמרינן: טוביה חטא וזיגוד מנגיד.",
+              "url": "https://www.sefaria.org/Makkot_11a%3A15"
+            },
+            {
+              "ref": "Moed Katan 16b:14",
+              "mention": "טוביה",
+              "excerpt": "זוטרא בר טוביה הוה קפסיק סידרא קמיה דרב יהודה, כי מטא להאי פסוקא \"ואלה דברי דוד האחרונים\", אמר ליה: \"אחרונים\" מכלל דאיכא ראשונים, ראשונים מאי נינהו?",
+              "url": "https://www.sefaria.org/Moed_Katan_16b%3A14"
+            },
+            {
+              "ref": "Nedarim 41b:4",
+              "mention": "טוביה",
+              "excerpt": "ומרפאהו רפואת הנפש כו'. היכי קתני? אילימא דרפואת נפש בחנם, רפואת ממון בשכר, ליתני הכי: מרפאהו בחנם, אבל לא בשכר! אלא: רפואת נפש גופו, רפואת ממון בהמתו. אמר רבי זוטרא בר טוביה אמר רב: אבל אומר לו \"סם פלוני יפה לה, סם פלוני רע לה\".",
+              "url": "https://www.sefaria.org/Nedarim_41b%3A4"
+            },
+            {
+              "ref": "Sotah 12a:17",
+              "mention": "טוביה",
+              "excerpt": "\"ותרא אותו כי טוב הוא\". תניא, רבי מאיר אומר: \"טוב\" שמו. רבי יהודה אומר: \"טוביה\" שמו. רבי נחמיה אומר: הגון לנביאות. אחרים אומרים: נולד כשהוא מהול. וחכמים אומרים: בשעה שנולד משה, נתמלא הבית כולו אור. כתיב הכא: \"ותרא אותו כי טוב הוא\", וכתיב התם: \"וירא אלהים את האור כי טוב\".",
+              "url": "https://www.sefaria.org/Sotah_12a%3A17"
+            }
+          ],
+          "passage_refs": [
+            "Bava Kamma 36b:12",
+            "Ketubot 85b:6",
+            "Ketubot 85b:7",
+            "Makkot 7a:1",
+            "Makkot 11a:15",
+            "Moed Katan 16b:14",
+            "Nedarim 41b:4",
+            "Sotah 12a:17"
+          ],
+          "characteristic_traditions": [
+            "ההוא גברא דתקע לחבריה. שלחיה רב טוביה בר מתנה לקמיה דרב יוסף: סלע צורי תנן, או סלע מדינה תנן?",
+            "ההוא דאמר להו: נכסיי לטוביה. שכיב, אתא טוביה. אמר רבי יוחנן: הרי בא טוביה.",
+            "אמר \"טוביה\" ואתא רב טוביה לטוביה אמר, לרב טוביה לא אמר. ואי איניש דגיס ביה, הא גיס ביה. אתו שני טוביה, שכן ותלמיד חכם תל",
+            "אילעא וטוביה, קריביה דערבא הוה. סבר רב פפא למימר: גבי לוה ומלוה רחיקי נינהו. אמר ליה רב הונא בריה דרב יהושע לרב פפא: אי ",
+            "ואיכא דמתני: כדי שיתפללו על בניהם שלא ימותו. טעמא דמצלו, הא לא מצלו מייתי? מאי הוה ליה למעבד? הכא אמרינן: טוביה חטא וזיג"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1368"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "Possible duplicate identity: heiman:334382"
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1374",
+        "name": "טוריינוס",
+        "profile": {
+          "identity_key": "bonayich:1374",
+          "canonical_name_he": "טוריינוס",
+          "aliases": [
+            "Trajan",
+            "טוריינוס"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Taanit 18b:3",
+              "mention": "טוריינוס",
+              "excerpt": "ואלא, בני ארביסר וקא קרי ליה בתליסר יום ניקנור הוא! ואלא, בני ארביסר וקא קרי ליה בתריסר יום טוריינוס הוא!",
+              "url": "https://www.sefaria.org/Taanit_18b%3A3"
+            },
+            {
+              "ref": "Taanit 18b:5",
+              "mention": "טוריינוס",
+              "excerpt": "לא, בני ארבעה עשר, וקא קרו ליה בתריסר. ודקאמרת יום טריינוס הוא יום טריינוס גופיה בטולי בטלוה, הואיל ונהרגו בו שמעיה ואחיה אחיו. כי הא דרב נחמן גזר תעניתא בתריסר, אמרו ליה רבנן: יום טוריינוס הוא! אמר להו: יום טוריינוס גופיה בטולי בטלוה, הואיל ונהרגו בו שמעיה ואחיה אחיו.",
+              "url": "https://www.sefaria.org/Taanit_18b%3A5"
+            },
+            {
+              "ref": "Taanit 18b:7",
+              "mention": "טוריינוס",
+              "excerpt": "מאי ניקנור ומאי טוריינוס? דתניא: ניקנור, אחד מאפרכי יוונים היה, ובכל יום ויום היה מניף ידו על יהודה וירושלים, ואומר: אימתי תפול בידי וארמסנה. וכשגברה מלכות בית חשמונאי ונצחום, קצצו בהונות ידיו ורגליו ותלאום בשערי ירושלים, ואמרו: פה שהיה מדבר בגאוה, וידיים שהיו מניפות על ירושלים תעשה בהם נקמה.",
+              "url": "https://www.sefaria.org/Taanit_18b%3A7"
+            },
+            {
+              "ref": "Taanit 18b:8",
+              "mention": "טוריינוס",
+              "excerpt": "מאי טוריינוס? אמרו: כשבקש טוריינוס להרוג את לולינוס ופפוס אחיו בלודקיא, אמר להם: אם מעמו של חנניה מישאל ועזריה אתם יבא אלהיכם ויציל אתכם מידי, כדרך שהציל את חנניה מישאל ועזריה מיד נבוכדנצר! אמרו לו: חנניה מישאל ועזריה צדיקים גמורין היו, וראויין היו ליעשות להם נס. ונבוכדנצר מלך הגון היה, וראוי לעשות נס על ידו.",
+              "url": "https://www.sefaria.org/Taanit_18b%3A8"
+            }
+          ],
+          "passage_refs": [
+            "Taanit 18b:3",
+            "Taanit 18b:5",
+            "Taanit 18b:7",
+            "Taanit 18b:8"
+          ],
+          "characteristic_traditions": [
+            "ואלא, בני ארביסר וקא קרי ליה בתליסר יום ניקנור הוא! ואלא, בני ארביסר וקא קרי ליה בתריסר יום טוריינוס הוא!",
+            "לא, בני ארבעה עשר, וקא קרו ליה בתריסר. ודקאמרת יום טריינוס הוא יום טריינוס גופיה בטולי בטלוה, הואיל ונהרגו בו שמעיה ואחי",
+            "מאי ניקנור ומאי טוריינוס? דתניא: ניקנור, אחד מאפרכי יוונים היה, ובכל יום ויום היה מניף ידו על יהודה וירושלים, ואומר: אימ",
+            "מאי טוריינוס? אמרו: כשבקש טוריינוס להרוג את לולינוס ופפוס אחיו בלודקיא, אמר להם: אם מעמו של חנניה מישאל ועזריה אתם יבא א"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1374"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1427",
+        "name": "יהודה בן גדידיה",
+        "profile": {
+          "identity_key": "bonayich:1427",
+          "canonical_name_he": "יהודה בן גדידיה",
+          "aliases": [
+            "Yehuda b. Gedidya",
+            "יהודה בן גדידיה"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Kiddushin 66a:10",
+              "mention": "יהודה בן גדידיה",
+              "excerpt": "היה שם זקן אחד ויהודה בן גדידיה שמו, ויאמר יהודה בן גדידיה לינאי המלך: ינאי המלך! רב לך כתר מלכות, הנח כתר כהונה לזרעו של אהרן. שהיו אומרים: אמו נשבית במודיעים. ויבוקש הדבר ולא נמצא. ויבדלו חכמי ישראל בזעם.",
+              "url": "https://www.sefaria.org/Kiddushin_66a%3A10"
+            }
+          ],
+          "passage_refs": [
+            "Kiddushin 66a:10"
+          ],
+          "characteristic_traditions": [
+            "היה שם זקן אחד ויהודה בן גדידיה שמו, ויאמר יהודה בן גדידיה לינאי המלך: ינאי המלך! רב לך כתר מלכות, הנח כתר כהונה לזרעו ש"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1427"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20467",
+        "name": "יהודה בן גוריא",
+        "profile": {
+          "identity_key": "bonayich:20467",
+          "canonical_name_he": "יהודה בן גוריא",
+          "aliases": [
+            "Yehuda b. Gurya",
+            "יהודה בן גוריא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Eruvin 63a:18",
+              "mention": "יהודה בן גוריא",
+              "excerpt": "ואמר רבה בר בר חנה אמר רבי יוחנן: אותו תלמיד יהודה בן גוריא שמו, והיה רחוק ממנו שלש פרסאות?!",
+              "url": "https://www.sefaria.org/Eruvin_63a%3A18"
+            }
+          ],
+          "passage_refs": [
+            "Eruvin 63a:18"
+          ],
+          "characteristic_traditions": [
+            "ואמר רבה בר בר חנה אמר רבי יוחנן: אותו תלמיד יהודה בן גוריא שמו, והיה רחוק ממנו שלש פרסאות?!"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20467"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20468",
+        "name": "יהודה בן גמליאל",
+        "profile": {
+          "identity_key": "bonayich:20468",
+          "canonical_name_he": "יהודה בן גמליאל",
+          "aliases": [
+            "Yehuda b. Gamliel",
+            "יהודה בן גמליאל"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Taanit 24a:10",
+              "mention": "ליהודה בן גמליאל",
+              "excerpt": "רבי יהודה נשיאה גזר תעניתא, בעא רחמי ולא אתא מיטרא. אמר: כמה איכא משמואל הרמתי ליהודה בן גמליאל! אוי לו לדור שכן נתקע, אוי לו למי שעלתה בימיו כך! חלש דעתיה ואתא מיטרא.",
+              "url": "https://www.sefaria.org/Taanit_24a%3A10"
+            }
+          ],
+          "passage_refs": [
+            "Taanit 24a:10"
+          ],
+          "characteristic_traditions": [
+            "רבי יהודה נשיאה גזר תעניתא, בעא רחמי ולא אתא מיטרא. אמר: כמה איכא משמואל הרמתי ליהודה בן גמליאל! אוי לו לדור שכן נתקע, א"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20468"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1510",
+        "name": "יהודה חייטא",
+        "profile": {
+          "identity_key": "bonayich:1510",
+          "canonical_name_he": "יהודה חייטא",
+          "aliases": [
+            "Yehuda Hayyata",
+            "יהודה חייטא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Bava Batra 164b:14",
+              "mention": "יהודה חייטא",
+              "excerpt": "זימנין הוה יתיב קמיה, וקא פסיק סידרא בספר תהלים; אמר רבי: כמה מיושר כתב זה! אמר ליה: לאו אנא כתבתיה, יהודה חייטא כתביה. אמר ליה: כלך מלשון הרע הזה.",
+              "url": "https://www.sefaria.org/Bava_Batra_164b%3A14"
+            }
+          ],
+          "passage_refs": [
+            "Bava Batra 164b:14"
+          ],
+          "characteristic_traditions": [
+            "זימנין הוה יתיב קמיה, וקא פסיק סידרא בספר תהלים; אמר רבי: כמה מיושר כתב זה! אמר ליה: לאו אנא כתבתיה, יהודה חייטא כתביה. "
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1510"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1563",
+        "name": "יודן אמתא",
+        "profile": {
+          "identity_key": "bonayich:1563",
+          "canonical_name_he": "יודן אמתא",
+          "aliases": [
+            "Yudan the maidservant",
+            "יודן אמתא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Yevamot 97b:9",
+              "mention": "יודן אמתא",
+              "excerpt": "גמ' בני יודן אמתא אשתחרור, שרא להו רב אחא בר יעקב למינסב נשי דהדדי. אמר ליה רבא: והא רב ששת אסר! אמר ליה: הוא אסר ואנא שרינא.",
+              "url": "https://www.sefaria.org/Yevamot_97b%3A9"
+            }
+          ],
+          "passage_refs": [
+            "Yevamot 97b:9"
+          ],
+          "characteristic_traditions": [
+            "גמ' בני יודן אמתא אשתחרור, שרא להו רב אחא בר יעקב למינסב נשי דהדדי. אמר ליה רבא: והא רב ששת אסר! אמר ליה: הוא אסר ואנא ש"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1563"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1564",
+        "name": "יוחי",
+        "profile": {
+          "identity_key": "bonayich:1564",
+          "canonical_name_he": "יוחי",
+          "aliases": [
+            "Yohai",
+            "יוחי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Pesachim 112a:12",
+              "mention": "ליוחי",
+              "excerpt": "חמשה דברים צוה רבי עקיבא את רבי שמעון בן יוחי כשהיה חבוש בבית האסורין. אמר לו: רבי, למדני תורה, אמר: איני מלמדך. אמר לו: אם אין אתה מלמדני אני אומר ליוחי אבא ומוסרך למלכות. אמר לו: בני, יותר ממה שהעגל רוצה לינק פרה רוצה להניק. אמר לו: ומי בסכנה? והלא עגל בסכנה.",
+              "url": "https://www.sefaria.org/Pesachim_112a%3A12"
+            }
+          ],
+          "passage_refs": [
+            "Pesachim 112a:12"
+          ],
+          "characteristic_traditions": [
+            "חמשה דברים צוה רבי עקיבא את רבי שמעון בן יוחי כשהיה חבוש בבית האסורין. אמר לו: רבי, למדני תורה, אמר: איני מלמדך. אמר לו:"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1564"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20490",
+        "name": "יוחנן איש ירושלים",
+        "profile": {
+          "identity_key": "bonayich:20490",
+          "canonical_name_he": "יוחנן איש ירושלים",
+          "aliases": [
+            "Yohanan of Jerusalem",
+            "יוחנן איש ירושלים"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Temurah 15b:11",
+              "mention": "יוחנן איש ירושלים",
+              "excerpt": "תנן התם: משמת יוסף בן יועזר איש צרידה ויוסף בן יוחנן איש ירושלים, בטלו האשכולות. איש שהכל בו.",
+              "url": "https://www.sefaria.org/Temurah_15b%3A11"
+            },
+            {
+              "ref": "Tosefta Bava Kamma 8:4",
+              "mention": "יוחנן איש ירושלים",
+              "excerpt": "לא ישייר את האחרונה שבהן יתר משלשים יום כל האשכלות שעמדו להן לישראל משמת משה ועד שעמד יוסי בן יועזר איש צרידה ויוסף בן יוחנן איש ירושלים א\"א ליתן בהן דופי משמת יוסי בן יועזר איש צרידה ויוסף בן יוחנן איש ירושלים ועד שמת יהודה בן בבא שהיו כל מעשיו לשם שמים אלא שגדל בהמה דקה כך היה פעם אחת חלה נכנס רופא אצלו א\"ל אין לך רפואה אלא בחלב רותח לקח לו עז וקשרה בכרעי המטה והיה יונק ממנה חלב רותח שהיה גונח פעם אחת בקשו חכמים ליכנס אצלו אמרו היאך נכנס אצלו שלסטים עמו בבית וכשמת דקדקו חכמים במעשיו ולא מצאו ב",
+              "url": "https://www.sefaria.org/Tosefta_Bava_Kamma_8%3A4"
+            }
+          ],
+          "passage_refs": [
+            "Temurah 15b:11",
+            "Tosefta Bava Kamma 8:4"
+          ],
+          "characteristic_traditions": [
+            "תנן התם: משמת יוסף בן יועזר איש צרידה ויוסף בן יוחנן איש ירושלים, בטלו האשכולות. איש שהכל בו.",
+            "לא ישייר את האחרונה שבהן יתר משלשים יום כל האשכלות שעמדו להן לישראל משמת משה ועד שעמד יוסי בן יועזר איש צרידה ויוסף בן י"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20490"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1578",
+        "name": "יוחנן בן בתירא",
+        "profile": {
+          "identity_key": "bonayich:1578",
+          "canonical_name_he": "יוחנן בן בתירא",
+          "aliases": [
+            "Yohanan b. Beteira",
+            "יוחנן בן בתירא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Menachot 41b:16",
+              "mention": "יוחנן בן בתירא",
+              "excerpt": "למימרא דאית להו שיעורא, ורמינהו: \"ציצית\" אין ציצית אלא יוצא, ואין ציצית אלא משהו, וכבר עלו זקני בית שמאי וזקני בית הלל לעליית יוחנן בן בתירא, ואמרו: ציצית אין לה שיעור; כיוצא בו, לולב אין בו שיעור.",
+              "url": "https://www.sefaria.org/Menachot_41b%3A16"
+            }
+          ],
+          "passage_refs": [
+            "Menachot 41b:16"
+          ],
+          "characteristic_traditions": [
+            "למימרא דאית להו שיעורא, ורמינהו: \"ציצית\" אין ציצית אלא יוצא, ואין ציצית אלא משהו, וכבר עלו זקני בית שמאי וזקני בית הלל ל"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1578"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1595",
+        "name": "יוחנן בן נרבאי",
+        "profile": {
+          "identity_key": "bonayich:1595",
+          "canonical_name_he": "יוחנן בן נרבאי",
+          "aliases": [
+            "Yohanan b. Narbbai",
+            "יוחנן בן נרבאי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Pesachim 57a:10",
+              "mention": "יוחנן בן נרבאי",
+              "excerpt": "ועוד צווחה העזרה: שאו שערים ראשיכם ויכנס ישמעאל בן פיאכי תלמידו של פנחס, וישמש בכהונה גדולה. ועוד צווחה העזרה: שאו שערים ראשיכם ויכנס יוחנן בן נרבאי תלמידו של פנקאי וימלא כריסו מקדשי שמים.",
+              "url": "https://www.sefaria.org/Pesachim_57a%3A10"
+            },
+            {
+              "ref": "Pesachim 57a:11",
+              "mention": "יוחנן בן נרבאי",
+              "excerpt": "אמרו עליו על יוחנן בן נרבאי שהיה אוכל שלש מאות עגלים, ושותה שלש מאות גרבי יין, ואוכל ארבעים סאה גוזלות בקינוח סעודה. אמרו: כל ימיו של יוחנן בן נרבאי לא נמצא נותר במקדש. מאי סלקא ביה ביששכר איש כפר ברקאי? אמרי: מלכא ומלכתא הוו יתבי. מלכא אמר: גדיא יאי, ומלכתא אמרה: אימרא יאי. אמרו: מאן מוכח? כהן גדול, דקא מסיק קרבנות כל יומא. אתא איהו,",
+              "url": "https://www.sefaria.org/Pesachim_57a%3A11"
+            }
+          ],
+          "passage_refs": [
+            "Pesachim 57a:10",
+            "Pesachim 57a:11"
+          ],
+          "characteristic_traditions": [
+            "ועוד צווחה העזרה: שאו שערים ראשיכם ויכנס ישמעאל בן פיאכי תלמידו של פנחס, וישמש בכהונה גדולה. ועוד צווחה העזרה: שאו שערים",
+            "אמרו עליו על יוחנן בן נרבאי שהיה אוכל שלש מאות עגלים, ושותה שלש מאות גרבי יין, ואוכל ארבעים סאה גוזלות בקינוח סעודה. אמר"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1595"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1597",
+        "name": "יוחנן בן פנחס",
+        "profile": {
+          "identity_key": "bonayich:1597",
+          "canonical_name_he": "יוחנן בן פנחס",
+          "aliases": [
+            "Yohanan b. Pinchas",
+            "יוחנן בן פנחס"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Mishnah Shekalim 5:1",
+              "mention": "יוֹחָנָן בֶּן פִּנְחָס",
+              "excerpt": "אלו הן הממנין שהיו במקדש, יוחנן בן פנחס על החותמות, אחיה על הנסכים, מתתיה בן שמואל על הפיסות, פתחיה על הקנין. פתחיה, זה מרדכי. למה נקרא שמו פתחיה. שהיה פותח בדברים ודורשן, ויודע שבעים לשון. בן אחיה על חולי מעים, נחוניא חופר שיחין, גביני כרוז, בן גבר על נעילת שערים, בן בבי על הפקיע, בן ארזה על הצלצל, הגרס בן לוי על השיר, בית גרמו על מעשה לחם הפנים, בית אבטינס על מעשה הקטרת, אלעזר על הפרוכות, ופנחס על המלבוש:",
+              "url": "https://www.sefaria.org/Mishnah_Shekalim_5%3A1"
+            }
+          ],
+          "passage_refs": [
+            "Mishnah Shekalim 5:1"
+          ],
+          "characteristic_traditions": [
+            "אלו הן הממנין שהיו במקדש, יוחנן בן פנחס על החותמות, אחיה על הנסכים, מתתיה בן שמואל על הפיסות, פתחיה על הקנין. פתחיה, זה "
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1597"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20511",
+        "name": "יוסי בן חוני",
+        "profile": {
+          "identity_key": "bonayich:20511",
+          "canonical_name_he": "יוסי בן חוני",
+          "aliases": [
+            "Yosei b. Honi",
+            "Yose b. Honi",
+            "יוסי בן חוני"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Mishnah Zevachim 1:2",
+              "mention": "יוֹסֵי בֶן חוֹנִי",
+              "excerpt": "יוסי בן חוני אומר, הנשחטים לשם פסח ולשם חטאת, פסולים. שמעון אחי עזריה אומר, שחטן לשם גבוה מהם, כשרין. לשם נמוך מהם, פסולים. כיצד. קדשי קדשים ששחטן לשם קדשים קלים, פסולין. קדשים קלים ששחטן לשם קדשי קדשים, כשרין. הבכור והמעשר ששחטן לשם שלמים, כשרין. ושלמים ששחטן לשם בכור, לשם מעשר, פסולין:",
+              "url": "https://www.sefaria.org/Mishnah_Zevachim_1%3A2"
+            },
+            {
+              "ref": "Zevachim 2a:3",
+              "mention": "יוסי בן חוני",
+              "excerpt": "יוסי בן חוני אומר: הנשחטין לשם פסח ולשם חטאת פסולין.",
+              "url": "https://www.sefaria.org/Zevachim_2a%3A3"
+            }
+          ],
+          "passage_refs": [
+            "Mishnah Zevachim 1:2",
+            "Zevachim 2a:3"
+          ],
+          "characteristic_traditions": [
+            "יוסי בן חוני אומר, הנשחטים לשם פסח ולשם חטאת, פסולים. שמעון אחי עזריה אומר, שחטן לשם גבוה מהם, כשרין. לשם נמוך מהם, פסול",
+            "יוסי בן חוני אומר: הנשחטין לשם פסח ולשם חטאת פסולין."
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20511"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20515",
+        "name": "יוסי בן לקוניא",
+        "profile": {
+          "identity_key": "bonayich:20515",
+          "canonical_name_he": "יוסי בן לקוניא",
+          "aliases": [
+            "Rabbi Yosei b. Lakonya",
+            "יוסי בן לקוניא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Pesachim 51a:12",
+              "mention": "יוסי בן לקוניא",
+              "excerpt": "ופליגא דידיה אדידיה. דאמר רבה בר בר חנה, סח לי רבי יוחנן בן אלעזר: פעם אחת נכנסתי אחר רבי שמעון בן רבי יוסי בן לקוניא לגינה,",
+              "url": "https://www.sefaria.org/Pesachim_51a%3A12"
+            }
+          ],
+          "passage_refs": [
+            "Pesachim 51a:12"
+          ],
+          "characteristic_traditions": [
+            "ופליגא דידיה אדידיה. דאמר רבה בר בר חנה, סח לי רבי יוחנן בן אלעזר: פעם אחת נכנסתי אחר רבי שמעון בן רבי יוסי בן לקוניא לג"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20515"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1767",
+        "name": "יוסף אפרתי",
+        "profile": {
+          "identity_key": "bonayich:1767",
+          "canonical_name_he": "יוסף אפרתי",
+          "aliases": [
+            "Shimon Efrati",
+            "יוסף אפרתי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Ketubot 103a:25",
+              "mention": "שמעון אפרתי",
+              "excerpt": "תנו רבנן, בשעת פטירתו של רבי, אמר: לבני אני צריך. נכנסו בניו אצלו. אמר להם: הזהרו בכבוד אמכם. נר יהא דלוק במקומו, שולחן יהא ערוך במקומו, מטה תהא מוצעת במקומה. יוסף חפני שמעון אפרתי הם שמשוני בחיי, והם ישמשוני במותי.",
+              "url": "https://www.sefaria.org/Ketubot_103a%3A25"
+            },
+            {
+              "ref": "Ketubot 103a:31",
+              "mention": "שמעון אפרתי",
+              "excerpt": "\"יוסף חפני שמעון אפרתי, הם שמשוני בחיי והם ישמשוני במותי\". סבור מינה בהדין עלמא הוא דקאמר, כיון דחזו דקדים ערסייהו לערסיה, אמרי: שמע מינה לההוא עלמא הוא דקאמר.",
+              "url": "https://www.sefaria.org/Ketubot_103a%3A31"
+            }
+          ],
+          "passage_refs": [
+            "Ketubot 103a:25",
+            "Ketubot 103a:31"
+          ],
+          "characteristic_traditions": [
+            "תנו רבנן, בשעת פטירתו של רבי, אמר: לבני אני צריך. נכנסו בניו אצלו. אמר להם: הזהרו בכבוד אמכם. נר יהא דלוק במקומו, שולחן ",
+            "\"יוסף חפני שמעון אפרתי, הם שמשוני בחיי והם ישמשוני במותי\". סבור מינה בהדין עלמא הוא דקאמר, כיון דחזו דקדים ערסייהו לערסי"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1767"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20521",
+        "name": "יוסף בן אלם",
+        "profile": {
+          "identity_key": "bonayich:20521",
+          "canonical_name_he": "יוסף בן אלם",
+          "aliases": [
+            "Rabbi Yosef b. Elem",
+            "יוסף בן אלם"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Megillah 9b:12",
+              "mention": "יוסף בן אלם",
+              "excerpt": "ואמר רבי יוסי: מעשה ברבי יוסף בן אלם מציפורי שאירע בו פסול בכהן גדול ומינוהו תחתיו, ובא מעשה לפני חכמים, ואמרו: ראשון חוזר לעבודתו, שני אינו ראוי לא לכהן גדול ולא לכהן הדיוט.",
+              "url": "https://www.sefaria.org/Megillah_9b%3A12"
+            }
+          ],
+          "passage_refs": [
+            "Megillah 9b:12"
+          ],
+          "characteristic_traditions": [
+            "ואמר רבי יוסי: מעשה ברבי יוסף בן אלם מציפורי שאירע בו פסול בכהן גדול ומינוהו תחתיו, ובא מעשה לפני חכמים, ואמרו: ראשון חו"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20521"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20523",
+        "name": "יוסף בן חונאי",
+        "profile": {
+          "identity_key": "bonayich:20523",
+          "canonical_name_he": "יוסף בן חונאי",
+          "aliases": [
+            "Yosef b. Honai",
+            "יוסף בן חונאי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Pesachim 73b:11",
+              "mention": "יוסף בן חונאי",
+              "excerpt": "אלא, תרגמא רב יוסף בריה דרב סלא חסידא קמיה דרב פפא: הא מני יוסף בן חונאי היא. דתנן, יוסף בן חונאי אומר: הנשחטים לשם פסח ולשם חטאת פסולים, אלמא: פסולו בגופו היא, ומשום הכי ישרף מיד, ובפטורי סבר לה כרבי יהושע.",
+              "url": "https://www.sefaria.org/Pesachim_73b%3A11"
+            },
+            {
+              "ref": "Pesachim 73b:15",
+              "mention": "יוסף בן חונאי",
+              "excerpt": "אלא מחוורתא כדשני מעיקרא: יוסף בן חונאי היא.",
+              "url": "https://www.sefaria.org/Pesachim_73b%3A15"
+            }
+          ],
+          "passage_refs": [
+            "Pesachim 73b:11",
+            "Pesachim 73b:15"
+          ],
+          "characteristic_traditions": [
+            "אלא, תרגמא רב יוסף בריה דרב סלא חסידא קמיה דרב פפא: הא מני יוסף בן חונאי היא. דתנן, יוסף בן חונאי אומר: הנשחטים לשם פסח ",
+            "אלא מחוורתא כדשני מעיקרא: יוסף בן חונאי היא."
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20523"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1783",
+        "name": "יוסף בן שמעון",
+        "profile": {
+          "identity_key": "bonayich:1783",
+          "canonical_name_he": "יוסף בן שמעון",
+          "aliases": [
+            "Yosef b. Shimon",
+            "Joseph b. Shimon",
+            "יוסף בן שמעון"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Bava Batra 167b:11",
+              "mention": "יוסף בן שמעון",
+              "excerpt": "וליחוש לשני יוסף בן שמעון הדרים בעיר אחת דלמא כתיב גיטא, ואזיל וממטי ליה לאיתתיה דהיאך! אמר להו רב אחא בר הונא, הכי אמר רב: שני יוסף בן שמעון הדרים בעיר אחת אין מגרשין נשותיהן אלא זה בפני זה.",
+              "url": "https://www.sefaria.org/Bava_Batra_167b%3A11"
+            },
+            {
+              "ref": "Bava Batra 172a:11",
+              "mention": "יוסף בן שמעון",
+              "excerpt": "שנים שהיו בעיר אחת, שם אחד \"יוסף בן שמעון\" ושם אחר \"יוסף בן שמעון\" אין יכולין להוציא שטר חוב זה על זה, ולא אחר יכול להוציא עליהן שטר חוב.",
+              "url": "https://www.sefaria.org/Bava_Batra_172a%3A11"
+            },
+            {
+              "ref": "Bava Batra 172a:12",
+              "mention": "יוסף בן שמעון",
+              "excerpt": "נמצא לאחד בין שטרותיו \"שטרו של יוסף בן שמעון פרוע\" שטרות שניהן פרועין.",
+              "url": "https://www.sefaria.org/Bava_Batra_172a%3A12"
+            },
+            {
+              "ref": "Bava Batra 172b:7",
+              "mention": "יוסף בן שמעון",
+              "excerpt": "דתנן: שנים שהיו בעיר אחת, שם אחד יוסף בן שמעון ושם אחר יוסף בן שמעון אינן יכולין להוציא שטר חוב זה על זה, ולא אחר יכול להוציא עליהן שטר חוב. הא הם על אחרים יכולין; ואמאי? ליחוש לנפילה! אלא לאו שמע מינה לנפילה לא חיישינן?",
+              "url": "https://www.sefaria.org/Bava_Batra_172b%3A7"
+            },
+            {
+              "ref": "Bava Batra 173a:12",
+              "mention": "מיוסף בן שמעון",
+              "excerpt": "תנא דידן סבר: כותבין שטר ללוה, ואף על פי שאין מלוה עמו; זימנין דאזיל לגבי ספרא וסהדי, ואמר להו: כתבו לי שטרא, דבעינן למיזף מיוסף בן שמעון חברי; ובתר דכתבי וחתמי ליה, נקיטא ליה ואמר ליה: הב לי מאה דיזפת מינאי.",
+              "url": "https://www.sefaria.org/Bava_Batra_173a%3A12"
+            },
+            {
+              "ref": "Bava Batra 173a:14",
+              "mention": "יוסף בן שמעון",
+              "excerpt": "נמצא לאחד בין שטרותיו \"שטרו של יוסף בן שמעון פרוע\" שטרות שניהם פרועין וכו'. טעמא דנמצא, הא לא נמצא מצי מפיק; והאנן \"ולא אחר יכול להוציא עליהן שטר חוב\" תנן!",
+              "url": "https://www.sefaria.org/Bava_Batra_173a%3A14"
+            },
+            {
+              "ref": "Bava Batra 173a:17",
+              "mention": "יוסף בן שמעון",
+              "excerpt": "אביי אמר, הכי קאמר: נמצא ללוה בין שטרותיו \"שטרו של יוסף בן שמעון עלי, פרוע\" שטרות שניהם פרועין.",
+              "url": "https://www.sefaria.org/Bava_Batra_173a%3A17"
+            },
+            {
+              "ref": "Bava Metzia 18a:12",
+              "mention": "יוסף בן שמעון",
+              "excerpt": "ואפילו במקום שהשיירות מצויות והוא שהוחזקו שני יוסף בן שמעון בעיר אחת.",
+              "url": "https://www.sefaria.org/Bava_Metzia_18a%3A12"
+            },
+            {
+              "ref": "Bava Metzia 18b:2",
+              "mention": "יוסף בן שמעון",
+              "excerpt": "והא בי דינא דרב הונא, דכי מקום שהשיירות מצויות דמי, וקא פשיט רבה דיחזיר, אלמא אי הוחזקו שני יוסף בן שמעון אין, אי לא לא.",
+              "url": "https://www.sefaria.org/Bava_Metzia_18b%3A2"
+            },
+            {
+              "ref": "Bava Metzia 18b:12",
+              "mention": "יוסף בן שמעון",
+              "excerpt": "למאן דאמר לרבי זירא במקום שהשיירות מצויות, ואף על גב שלא הוחזקו שני יוסף בן שמעון, ופליגא דרבה, במאי קא מיפלגי?",
+              "url": "https://www.sefaria.org/Bava_Metzia_18b%3A12"
+            },
+            {
+              "ref": "Bava Metzia 18b:15",
+              "mention": "יוסף בן שמעון",
+              "excerpt": "רבי ירמיה אמר, כגון דקא אמרי עדים: מעולם לא חתמנו אלא על גט אחד של יוסף בן שמעון.",
+              "url": "https://www.sefaria.org/Bava_Metzia_18b%3A15"
+            },
+            {
+              "ref": "Bava Metzia 20b:22",
+              "mention": "יוסף בן שמעון",
+              "excerpt": "תא שמע: נמצא לאחד בין שטרותיו שטרו של יוסף בן שמעון פרוע שטרות שניהם פרועין!",
+              "url": "https://www.sefaria.org/Bava_Metzia_20b%3A22"
+            },
+            {
+              "ref": "Bekhorot 48a:5",
+              "mention": "יוסף בן שמעון",
+              "excerpt": "אמר רבי ירמיה: זאת אומרת, שני יוסף בן שמעון שהיו בעיר אחת, ולקחו שדה בשותפות בעל חוב גובה אותה מהם, דאמר ליה: אי בדידך מסיקנא מנתא דידך קא שקילנא, ואי בחברך מסיקנא מנתא דחברך קא שקילנא.",
+              "url": "https://www.sefaria.org/Bekhorot_48a%3A5"
+            },
+            {
+              "ref": "Bekhorot 48b:9",
+              "mention": "יוסף בן שמעון",
+              "excerpt": "אמר רבי ירמיה: זאת אומרת, שני יוסף בן שמעון שהיו בעיר אחת, ולקח אחד מהם שדה מחבירו בעל חוב גובה ממנו, דאמר ליה: אי בדידך מסיקנא מנתא דידך קא שקילנא, ואי בחברך מסיקנא משתעבדא לי מקמי דידך.",
+              "url": "https://www.sefaria.org/Bekhorot_48b%3A9"
+            },
+            {
+              "ref": "Gittin 24b:11",
+              "mention": "יוסף בן שמעון",
+              "excerpt": "אמר רבא: זאת אומרת, שני יוסף בן שמעון הדרין בעיר אחת מוציאין שטר חוב על אחרים.",
+              "url": "https://www.sefaria.org/Gittin_24b%3A11"
+            },
+            {
+              "ref": "Gittin 27a:4",
+              "mention": "יוסף בן שמעון",
+              "excerpt": "ואפילו במקום שהשיירות מצויות והוא שהוחזקו שני יוסף בן שמעון בעיר אחת.",
+              "url": "https://www.sefaria.org/Gittin_27a%3A4"
+            },
+            {
+              "ref": "Gittin 27a:7",
+              "mention": "יוסף בן שמעון",
+              "excerpt": "והא בי דינא דרב הונא, דכמקום שהשיירות מצויות דמי, וקא פשיט יחזיר; אלמא, אי הוחזקו שני יוסף בן שמעון בעיר אחת אין, ואי לא לא.",
+              "url": "https://www.sefaria.org/Gittin_27a%3A7"
+            },
+            {
+              "ref": "Gittin 27b:5",
+              "mention": "יוסף בן שמעון",
+              "excerpt": "רבי ירמיה אמר, כגון דקאמרי עדים: מעולם לא חתמנו אלא על גט אחד של יוסף בן שמעון.",
+              "url": "https://www.sefaria.org/Gittin_27b%3A5"
+            },
+            {
+              "ref": "Mishnah Bava Batra 10:7",
+              "mention": "יוֹסֵף בֶּן שִׁמְעוֹן",
+              "excerpt": "צמן, הרי העשיר אומר לעני, קח לך עבדים וירחצו במרחץ, קח לך זיתים ובא ועשם בבית הבד. שנים שהיו בעיר אחת, שם אחד יוסף בן שמעון ושם אחר יוסף בן שמעון, אין יכולין להוציא שטר חוב זה על זה ולא אחר יכול להוציא עליהן שטר חוב. נמצא לאחד בין שטרותיו שטרו של יוסף בן שמעון פרוע, שטרות שניהן פרועין. כיצד יעשו, ישלשו. ואם היו משלשים, יכתבו סימן. ואם היו מסמנין, יכתבו כהן. האומר לבנו, שטר בין שטרותי פרוע ואיני יודע איזהו, שטרות כלן פרועין. נמצא לאחד שם שנים, הגדול פרוע והקטן אינו פרוע. המלוה את חברו על ידי ערב,",
+              "url": "https://www.sefaria.org/Mishnah_Bava_Batra_10%3A7"
+            },
+            {
+              "ref": "Tosefta Bava Batra 11:7",
+              "mention": "ליוסף בן שמעון",
+              "excerpt": "ה אוהב ולזה לא היה אוהב אלא שניהן יוצאין בני חורין ונוטלין משניהן דמי אחד מהן. האומר תנו מאתים דינר ליוסף בן שמעון והיו שם שני יוסף בן שמעון אין דורשין לשון הדיוט לומר לזה היה אוהב ולזה לא היה אוהב אלא שניהם חולקין בשוה יצאת עליהן כתובת אשה ובעל חוב שניהן נותנין בשוה הוציא אחד מהן שטר על חבירו שחייב לו לא יאמר לו שלי הוא שאבד ממני אלא כל שהשטר בידו גובה. נמצא לאחד בין שטרותיו שטרו של יוסף בן שמעון פרוע שטרות שניהן פרועין וכשהוא גובה אינו גובה אלא מדעת הלוה. האומר לבנו שטר בין שטרותי פרוע ואין יד",
+              "url": "https://www.sefaria.org/Tosefta_Bava_Batra_11%3A7"
+            }
+          ],
+          "passage_refs": [
+            "Bava Batra 167b:11",
+            "Bava Batra 172a:11",
+            "Bava Batra 172a:12",
+            "Bava Batra 172b:7",
+            "Bava Batra 173a:12",
+            "Bava Batra 173a:14",
+            "Bava Batra 173a:17",
+            "Bava Metzia 18a:12",
+            "Bava Metzia 18b:2",
+            "Bava Metzia 18b:12",
+            "Bava Metzia 18b:15",
+            "Bava Metzia 20b:22",
+            "Bekhorot 48a:5",
+            "Bekhorot 48b:9",
+            "Gittin 24b:11",
+            "Gittin 27a:4",
+            "Gittin 27a:7",
+            "Gittin 27b:5",
+            "Mishnah Bava Batra 10:7",
+            "Tosefta Bava Batra 11:7"
+          ],
+          "characteristic_traditions": [
+            "וליחוש לשני יוסף בן שמעון הדרים בעיר אחת דלמא כתיב גיטא, ואזיל וממטי ליה לאיתתיה דהיאך! אמר להו רב אחא בר הונא, הכי אמר ",
+            "שנים שהיו בעיר אחת, שם אחד \"יוסף בן שמעון\" ושם אחר \"יוסף בן שמעון\" אין יכולין להוציא שטר חוב זה על זה, ולא אחר יכול להוצ",
+            "נמצא לאחד בין שטרותיו \"שטרו של יוסף בן שמעון פרוע\" שטרות שניהן פרועין.",
+            "דתנן: שנים שהיו בעיר אחת, שם אחד יוסף בן שמעון ושם אחר יוסף בן שמעון אינן יכולין להוציא שטר חוב זה על זה, ולא אחר יכול ל",
+            "תנא דידן סבר: כותבין שטר ללוה, ואף על פי שאין מלוה עמו; זימנין דאזיל לגבי ספרא וסהדי, ואמר להו: כתבו לי שטרא, דבעינן למי"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1783"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1788",
+        "name": "יוסף חפני",
+        "profile": {
+          "identity_key": "bonayich:1788",
+          "canonical_name_he": "יוסף חפני",
+          "aliases": [
+            "Yosef Heifani",
+            "יוסף חפני"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Ketubot 103a:25",
+              "mention": "יוסף חפני",
+              "excerpt": "תנו רבנן, בשעת פטירתו של רבי, אמר: לבני אני צריך. נכנסו בניו אצלו. אמר להם: הזהרו בכבוד אמכם. נר יהא דלוק במקומו, שולחן יהא ערוך במקומו, מטה תהא מוצעת במקומה. יוסף חפני שמעון אפרתי הם שמשוני בחיי, והם ישמשוני במותי.",
+              "url": "https://www.sefaria.org/Ketubot_103a%3A25"
+            },
+            {
+              "ref": "Ketubot 103a:31",
+              "mention": "יוסף חפני",
+              "excerpt": "\"יוסף חפני שמעון אפרתי, הם שמשוני בחיי והם ישמשוני במותי\". סבור מינה בהדין עלמא הוא דקאמר, כיון דחזו דקדים ערסייהו לערסיה, אמרי: שמע מינה לההוא עלמא הוא דקאמר.",
+              "url": "https://www.sefaria.org/Ketubot_103a%3A31"
+            }
+          ],
+          "passage_refs": [
+            "Ketubot 103a:25",
+            "Ketubot 103a:31"
+          ],
+          "characteristic_traditions": [
+            "תנו רבנן, בשעת פטירתו של רבי, אמר: לבני אני צריך. נכנסו בניו אצלו. אמר להם: הזהרו בכבוד אמכם. נר יהא דלוק במקומו, שולחן ",
+            "\"יוסף חפני שמעון אפרתי, הם שמשוני בחיי והם ישמשוני במותי\". סבור מינה בהדין עלמא הוא דקאמר, כיון דחזו דקדים ערסייהו לערסי"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1788"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1793",
+        "name": "יוסף שידא",
+        "profile": {
+          "identity_key": "bonayich:1793",
+          "canonical_name_he": "יוסף שידא",
+          "aliases": [
+            "Yosef the Demon",
+            "Yosef the demon",
+            "יוסף שידא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Eruvin 43a:18",
+              "mention": "יוסף שידא",
+              "excerpt": "מאן אמרינהו? לאו אליהו אמרינהו? אלמא אין תחומין למעלה מעשרה! לא, דלמא יוסף שידא אמרינהו.",
+              "url": "https://www.sefaria.org/Eruvin_43a%3A18"
+            },
+            {
+              "ref": "Pesachim 110a:11",
+              "mention": "יוסף שידא",
+              "excerpt": "אמר רב יוסף, אמר לי יוסף שידא: אשמדאי מלכא דשידי ממונה הוא אכולהו זוגי, ומלכא לא איקרי מזיק. איכא דאמרי לה להאי גיסא: אדרבה, מלכא [רתחנא הוא], מאי דבעי עביד, שהמלך פורץ גדר לעשות לו דרך ואין מוחין בידו.",
+              "url": "https://www.sefaria.org/Pesachim_110a%3A11"
+            },
+            {
+              "ref": "Pesachim 110a:12",
+              "mention": "יוסף שידא",
+              "excerpt": "אמר רב פפא, אמר לי יוסף שידא: בתרי קטלינן, בארבעה לא קטלינן, בארבעה מזקינן. בתרי, בין בשוגג בין במזיד. בארבעה, במזיד אין, בשוגג לא.",
+              "url": "https://www.sefaria.org/Pesachim_110a%3A12"
+            }
+          ],
+          "passage_refs": [
+            "Eruvin 43a:18",
+            "Pesachim 110a:11",
+            "Pesachim 110a:12"
+          ],
+          "characteristic_traditions": [
+            "מאן אמרינהו? לאו אליהו אמרינהו? אלמא אין תחומין למעלה מעשרה! לא, דלמא יוסף שידא אמרינהו.",
+            "אמר רב יוסף, אמר לי יוסף שידא: אשמדאי מלכא דשידי ממונה הוא אכולהו זוגי, ומלכא לא איקרי מזיק. איכא דאמרי לה להאי גיסא: אד",
+            "אמר רב פפא, אמר לי יוסף שידא: בתרי קטלינן, בארבעה לא קטלינן, בארבעה מזקינן. בתרי, בין בשוגג בין במזיד. בארבעה, במזיד אין"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1793"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1817",
+        "name": "ינאי בריה דרבי אמי",
+        "profile": {
+          "identity_key": "bonayich:1817",
+          "canonical_name_he": "ינאי בריה דרבי אמי",
+          "aliases": [
+            "Yannai b. Rabbi Ami",
+            "ינאי בריה דרבי אמי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Chullin 111a:2",
+              "mention": "וינאי בריה דרבי אמי",
+              "excerpt": "כי הדר סליק, אשכחיה לרבי זריקא, אמר ליה: האי נמי לא תבעי לך, דאנא וינאי בריה דרבי אמי איקלען לבי יהודה בריה דרבי שמעון בן פזי, וקריבו לן קניא בקופיה, ואכלנא.",
+              "url": "https://www.sefaria.org/Chullin_111a%3A2"
+            }
+          ],
+          "passage_refs": [
+            "Chullin 111a:2"
+          ],
+          "characteristic_traditions": [
+            "כי הדר סליק, אשכחיה לרבי זריקא, אמר ליה: האי נמי לא תבעי לך, דאנא וינאי בריה דרבי אמי איקלען לבי יהודה בריה דרבי שמעון ב"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1817"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20550",
+        "name": "יעקב קרחינאה",
+        "profile": {
+          "identity_key": "bonayich:20550",
+          "canonical_name_he": "יעקב קרחינאה",
+          "aliases": [
+            "Ya'akov from Karhina",
+            "יעקב קרחינאה"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Eruvin 86a:15",
+              "mention": "יעקב קרחינאה",
+              "excerpt": "ותו, הא דאמר רב יהודה: \"למעלה למעלה מן המים\". מאי שנא למעלה ממש דלא? דעריבי מיא. למעלה מן המים נמי, הא עריבי מיא?! אמר ליה: לא שמיע לך הא דתני יעקב קרחינאה: צריך שישקע ראשי קנים במים טפח.",
+              "url": "https://www.sefaria.org/Eruvin_86a%3A15"
+            }
+          ],
+          "passage_refs": [
+            "Eruvin 86a:15"
+          ],
+          "characteristic_traditions": [
+            "ותו, הא דאמר רב יהודה: \"למעלה למעלה מן המים\". מאי שנא למעלה ממש דלא? דעריבי מיא. למעלה מן המים נמי, הא עריבי מיא?! אמר ל"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20550"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20556",
+        "name": "יצחק דבי רבי ינאי",
+        "profile": {
+          "identity_key": "bonayich:20556",
+          "canonical_name_he": "יצחק דבי רבי ינאי",
+          "aliases": [
+            "Yitzhak from the school of Rabbi Yannai",
+            "יצחק דבי רבי ינאי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Yoma 86a:11",
+              "mention": "יצחק דבי רבי ינאי",
+              "excerpt": "רבי יוחנן אמר: כגון אנא דמסגינא ארבע אמות בלא תורה ובלא תפילין. יצחק דבי רבי ינאי אמר: כל שחביריו מתביישין מחמת שמועתו (היינו חילול השם). אמר רב נחמן בר יצחק: כגון דקא אמרי אינשי: שרא ליה מריה לפלניא.",
+              "url": "https://www.sefaria.org/Yoma_86a%3A11"
+            }
+          ],
+          "passage_refs": [
+            "Yoma 86a:11"
+          ],
+          "characteristic_traditions": [
+            "רבי יוחנן אמר: כגון אנא דמסגינא ארבע אמות בלא תורה ובלא תפילין. יצחק דבי רבי ינאי אמר: כל שחביריו מתביישין מחמת שמועתו ("
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20556"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1969",
+        "name": "ישבאב",
+        "profile": {
+          "identity_key": "bonayich:1969",
+          "canonical_name_he": "ישבאב",
+          "aliases": [
+            "Yeshevav",
+            "ישבאב"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Nazir 65a:5",
+              "mention": "ישבב",
+              "excerpt": "מעשה ברבי ישבב שבדק ומצא שנים ידועין ואחד תחילה, וביקש לעשותן שכונת קברות. אמר לו רבי עקיבא: כל שיגעת לריק יגעת. לא אמרו שכונת קברות אלא לשלשה ידועין, או לשלשה תחילה.",
+              "url": "https://www.sefaria.org/Nazir_65a%3A5"
+            },
+            {
+              "ref": "Sukkah 56b:6",
+              "mention": "ישבב",
+              "excerpt": "ויש אומרים: משמרתו שוהה לבא, ונכנס ישבב אחיו עמו ושימש תחתיו. אף על פי ששכיני הרשעים לא נשתכרו, שכיני בילגה נשתכרו, שבילגה לעולם חולקת בדרום, וישבב אחיו בצפון.",
+              "url": "https://www.sefaria.org/Sukkah_56b%3A6"
+            },
+            {
+              "ref": "Tosefta Sukkah 4:13",
+              "mention": "ישבב",
+              "excerpt": "בלגה לעולם חולקת בדרום וטבעתה [קבועה וחלונה סתומה] מפני מרים בת בלגה [שנעשית מומרת] ונשאת לסרדיוט אחד ממלכי נכרים וכשנכנסו נכרים להיכל [באתה וטפחה על גגו של מזבח אמרה לו] לוקיס לוקיס אתה החרבת ממונם של ישראל ולא עמדת להם בעת צרתם ויש אומרים [מפני עכוב משמרות נכנס ישבב תחתיה לפיכך בלגה נראית יוצאה לעולם וישבב נראית נכנס לעולם כל השכנים הרעים לא קבלו שכר חוץ מישבב שהוא שכנה של בלגה וקבל שכר].",
+              "url": "https://www.sefaria.org/Tosefta_Sukkah_4%3A13"
+            },
+            {
+              "ref": "Yoma 47a:11",
+              "mention": "ישבב",
+              "excerpt": "אמרו עליו על רבי ישמעאל בן קמחית: פעם אחת סיפר דברים עם ערבי אחד בשוק, ונתזה צינורא מפיו על בגדיו. ונכנס ישבב אחיו ושמש תחתיו. וראתה אמן שני כהנים גדולים ביום אחד.",
+              "url": "https://www.sefaria.org/Yoma_47a%3A11"
+            }
+          ],
+          "passage_refs": [
+            "Nazir 65a:5",
+            "Sukkah 56b:6",
+            "Tosefta Sukkah 4:13",
+            "Yoma 47a:11"
+          ],
+          "characteristic_traditions": [
+            "מעשה ברבי ישבב שבדק ומצא שנים ידועין ואחד תחילה, וביקש לעשותן שכונת קברות. אמר לו רבי עקיבא: כל שיגעת לריק יגעת. לא אמרו",
+            "ויש אומרים: משמרתו שוהה לבא, ונכנס ישבב אחיו עמו ושימש תחתיו. אף על פי ששכיני הרשעים לא נשתכרו, שכיני בילגה נשתכרו, שביל",
+            "בלגה לעולם חולקת בדרום וטבעתה [קבועה וחלונה סתומה] מפני מרים בת בלגה [שנעשית מומרת] ונשאת לסרדיוט אחד ממלכי נכרים וכשנכנ",
+            "אמרו עליו על רבי ישמעאל בן קמחית: פעם אחת סיפר דברים עם ערבי אחד בשוק, ונתזה צינורא מפיו על בגדיו. ונכנס ישבב אחיו ושמש "
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1969"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1972",
+        "name": "ישו בן פנדירא",
+        "profile": {
+          "identity_key": "bonayich:1972",
+          "canonical_name_he": "ישו בן פנדירא",
+          "aliases": [
+            "The son of Pandeira",
+            "ישו בן פנדירא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Sanhedrin 67a:15",
+              "mention": "בן פנדירא",
+              "excerpt": "בן סטדא? בן פנדירא הוא! אמר רב חסדא: בעל סטדא, בועל פנדירא. בעל? פפוס בן יהודה הוא! אלא, אמו סטדא. אמו? מרים מגדלא נשיא הואי! כדאמרי בפומבדיתא: \"סטת דא מבעלה\".",
+              "url": "https://www.sefaria.org/Sanhedrin_67a%3A15"
+            },
+            {
+              "ref": "Shabbat 104b:5",
+              "mention": "בן פנדירא",
+              "excerpt": "המסרט על בשרו. תניא, אמר להן רבי אליעזר לחכמים: והלא בן סטדא הוציא כשפים ממצרים בסריטה שעל בשרו? אמרו לו: שוטה היה, ואין מביאין ראיה מן השוטים. \"בן סטדא\"? בן פנדירא הוא! אמר רב חסדא: בעל \"סטדא\", בועל \"פנדירא\". בעל פפוס בן יהודה הוא? אלא אמו \"סטדא\". אמו מרים מגדלא שער נשיא הואי? אלא כדאמרי בפומבדיתא: סטת דא מבעלה.",
+              "url": "https://www.sefaria.org/Shabbat_104b%3A5"
+            }
+          ],
+          "passage_refs": [
+            "Sanhedrin 67a:15",
+            "Shabbat 104b:5"
+          ],
+          "characteristic_traditions": [
+            "בן סטדא? בן פנדירא הוא! אמר רב חסדא: בעל סטדא, בועל פנדירא. בעל? פפוס בן יהודה הוא! אלא, אמו סטדא. אמו? מרים מגדלא נשיא ",
+            "המסרט על בשרו. תניא, אמר להן רבי אליעזר לחכמים: והלא בן סטדא הוציא כשפים ממצרים בסריטה שעל בשרו? אמרו לו: שוטה היה, ואין"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1972"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2023",
+        "name": "כייליל",
+        "profile": {
+          "identity_key": "bonayich:2023",
+          "canonical_name_he": "כייליל",
+          "aliases": [
+            "Kaylil",
+            "Kaylil, Abaye's father",
+            "כייליל"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Zevachim 118b:7",
+              "mention": "לכייליל",
+              "excerpt": "כי אזיל אביי, אמרה קמיה דרב יוסף. אמר: חד ברא הוה ליה לכייליל, ולא מיתקן. והכתיב: \"ויטש את משכן שילו\", וכתיב: \"וימאס באהל יוסף ובשבט אפרים לא בחר\"!",
+              "url": "https://www.sefaria.org/Zevachim_118b%3A7"
+            }
+          ],
+          "passage_refs": [
+            "Zevachim 118b:7"
+          ],
+          "characteristic_traditions": [
+            "כי אזיל אביי, אמרה קמיה דרב יוסף. אמר: חד ברא הוה ליה לכייליל, ולא מיתקן. והכתיב: \"ויטש את משכן שילו\", וכתיב: \"וימאס באה"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2023"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2036",
+        "name": "לוי בר דרגא",
+        "profile": {
+          "identity_key": "bonayich:2036",
+          "canonical_name_he": "לוי בר דרגא",
+          "aliases": [
+            "Levi b. Darga",
+            "לוי בר דרגא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Gittin 45a:15",
+              "mention": "דלוי בר דרגא",
+              "excerpt": "תא שמע: דלוי בר דרגא פרקה לברתיה בתליסר אלפי דינרי זהב.",
+              "url": "https://www.sefaria.org/Gittin_45a%3A15"
+            }
+          ],
+          "passage_refs": [
+            "Gittin 45a:15"
+          ],
+          "characteristic_traditions": [
+            "תא שמע: דלוי בר דרגא פרקה לברתיה בתליסר אלפי דינרי זהב."
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2036"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20581",
+        "name": "לוי סבא",
+        "profile": {
+          "identity_key": "bonayich:20581",
+          "canonical_name_he": "לוי סבא",
+          "aliases": [
+            "Levi the Elder",
+            "לוי סבא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Chullin 29b:3",
+              "mention": "לוי סבא",
+              "excerpt": "אמר רבי שמעון בן לקיש משום לוי סבא: אינה לשחיטה אלא בסוף, ורבי יוחנן אמר: ישנה לשחיטה מתחלה ועד סוף.",
+              "url": "https://www.sefaria.org/Chullin_29b%3A3"
+            },
+            {
+              "ref": "Eruvin 97b:8",
+              "mention": "לוי סבא",
+              "excerpt": "אמר ריש לקיש משום לוי סבא: הכא במאי עסקינן במערן מחבית לחבית. ורבי יהודה לטעמיה, דאמר: מים אין בהם ממש.",
+              "url": "https://www.sefaria.org/Eruvin_97b%3A8"
+            }
+          ],
+          "passage_refs": [
+            "Chullin 29b:3",
+            "Eruvin 97b:8"
+          ],
+          "characteristic_traditions": [
+            "אמר רבי שמעון בן לקיש משום לוי סבא: אינה לשחיטה אלא בסוף, ורבי יוחנן אמר: ישנה לשחיטה מתחלה ועד סוף.",
+            "אמר ריש לקיש משום לוי סבא: הכא במאי עסקינן במערן מחבית לחבית. ורבי יהודה לטעמיה, דאמר: מים אין בהם ממש."
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20581"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2058",
+        "name": "לחמן בר ריסתק",
+        "profile": {
+          "identity_key": "bonayich:2058",
+          "canonical_name_he": "לחמן בר ריסתק",
+          "aliases": [
+            "Lahman b. Ristak",
+            "לחמן בר ריסתק"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Eruvin 63b:11",
+              "mention": "לחמן בר ריסתק",
+              "excerpt": "ההוא מבואה דהוה דייר בה לחמן בר ריסתק. אמרו ליה: אוגר לן רשותך, לא אוגר להו.",
+              "url": "https://www.sefaria.org/Eruvin_63b%3A11"
+            }
+          ],
+          "passage_refs": [
+            "Eruvin 63b:11"
+          ],
+          "characteristic_traditions": [
+            "ההוא מבואה דהוה דייר בה לחמן בר ריסתק. אמרו ליה: אוגר לן רשותך, לא אוגר להו."
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2058"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2065",
+        "name": "לכלוכית",
+        "profile": {
+          "identity_key": "bonayich:2065",
+          "canonical_name_he": "לכלוכית",
+          "aliases": [
+            "Likhlukhit",
+            "לכלוכית"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Nedarim 66b:6",
+              "mention": "לכלוכית",
+              "excerpt": "אמר להם: שמא ראשה נאה? אמרו לו: סגלגל. שמא שערה נאה? דומה לאניצי פשתן. שמא עיניה נאות? טרוטות הן. שמא אזניה נאות? כפולות הן. שמא חוטמה נאה? בלום הוא. שמא שפתותיה נאות? עבות הן. שמא צוארה נאה? שקוט הוא. שמא כריסה נאה? צבה הוא. שמא רגליה נאות? רחבות כשל אווזא. שמא שמה נאה? \"לכלוכית\" שמה. אמר להן: יפה קורין אותה לכלוכית, שהיא מלוכלכת במומין, ושרייה.",
+              "url": "https://www.sefaria.org/Nedarim_66b%3A6"
+            }
+          ],
+          "passage_refs": [
+            "Nedarim 66b:6"
+          ],
+          "characteristic_traditions": [
+            "אמר להם: שמא ראשה נאה? אמרו לו: סגלגל. שמא שערה נאה? דומה לאניצי פשתן. שמא עיניה נאות? טרוטות הן. שמא אזניה נאות? כפולות"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2065"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2071",
+        "name": "מבגאי",
+        "profile": {
+          "identity_key": "bonayich:2071",
+          "canonical_name_he": "מבגאי",
+          "aliases": [
+            "Mavgai",
+            "מבגאי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Eruvin 64b:5",
+              "mention": "מבגאי",
+              "excerpt": "ודרך מיל מפיגה היין?! והתניא: מעשה ברבן גמליאל שהיה רוכב על החמור והיה מהלך מעכו לכזיב, והיה רבי אילעאי מהלך אחריו. מצא גלוסקין בדרך, אמר לו: אילעאי, טול גלוסקין מן הדרך. מצא גוי אחד, אמר לו: מבגאי, טול גלוסקין הללו מאילעאי.",
+              "url": "https://www.sefaria.org/Eruvin_64b%3A5"
+            },
+            {
+              "ref": "Eruvin 64b:6",
+              "mention": "מבגאי",
+              "excerpt": "ניטפל לו רבי אילעאי, אמר לו: מהיכן אתה? אמר לו: מעיירות של בורגנין. ומה שמך? מבגאי שמני. כלום היכירך רבן גמליאל מעולם? אמר לו: לאו.",
+              "url": "https://www.sefaria.org/Eruvin_64b%3A6"
+            },
+            {
+              "ref": "Makkot 11a:16",
+              "mention": "ומבגאי",
+              "excerpt": "התם אמרי: שכם נסיב ומבגאי גזיר.",
+              "url": "https://www.sefaria.org/Makkot_11a%3A16"
+            }
+          ],
+          "passage_refs": [
+            "Eruvin 64b:5",
+            "Eruvin 64b:6",
+            "Makkot 11a:16"
+          ],
+          "characteristic_traditions": [
+            "ודרך מיל מפיגה היין?! והתניא: מעשה ברבן גמליאל שהיה רוכב על החמור והיה מהלך מעכו לכזיב, והיה רבי אילעאי מהלך אחריו. מצא ",
+            "ניטפל לו רבי אילעאי, אמר לו: מהיכן אתה? אמר לו: מעיירות של בורגנין. ומה שמך? מבגאי שמני. כלום היכירך רבן גמליאל מעולם? א",
+            "התם אמרי: שכם נסיב ומבגאי גזיר."
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2071"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20599",
+        "name": "מניומי בר חלקיה",
+        "profile": {
+          "identity_key": "bonayich:20599",
+          "canonical_name_he": "מניומי בר חלקיה",
+          "aliases": [
+            "Rabbi Minyomi b. Hilkiya",
+            "מניומי בר חלקיה"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Yoma 3b:11",
+              "mention": "מניומי בר חלקיה",
+              "excerpt": "והא אמר רבי מניומי בר חלקיה אמר רבי מחסיא בר אידי אמר רבי יוחנן: \"כאשר עשה ביום הזה צוה ה' לעשות לכפר עליכם\", \"לעשות\" אלו מעשה פרה, \"לכפר\" אלו מעשה יום הכפורים! ההוא דרביה. דכי אתא רבין, אמר רבי יוחנן משום רבי ישמעאל: \"לעשות\" אלו מעשה פרה, \"לכפר\" אלו מעשה יום הכפורים.",
+              "url": "https://www.sefaria.org/Yoma_3b%3A11"
+            }
+          ],
+          "passage_refs": [
+            "Yoma 3b:11"
+          ],
+          "characteristic_traditions": [
+            "והא אמר רבי מניומי בר חלקיה אמר רבי מחסיא בר אידי אמר רבי יוחנן: \"כאשר עשה ביום הזה צוה ה' לעשות לכפר עליכם\", \"לעשות\" אל"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20599"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2132",
+        "name": "מניומין כנדוקא",
+        "profile": {
+          "identity_key": "bonayich:2132",
+          "canonical_name_he": "מניומין כנדוקא",
+          "aliases": [
+            "Manyumin the jug maker",
+            "מניומין כנדוקא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Chullin 49b:10",
+              "mention": "מניומין כנדוקא",
+              "excerpt": "מניומין כנדוקא איגלי ליה בסתקא דדובשא, אתא לקמיה דרבא. אמר רבא: למאי ניחוש לה? חדא דתנן, שלשה משקים אסורים משום גילוי: היין והמים והחלב, ושאר כל המשקים מותרים, ועוד התורה חסה על ממונם של ישראל. אמר ליה רב נחמן בר יצחק לרבא: רבי שמעון, וסכנת נפשות, ואת אמרת \"התורה חסה על ממונם של ישראל\"?",
+              "url": "https://www.sefaria.org/Chullin_49b%3A10"
+            }
+          ],
+          "passage_refs": [
+            "Chullin 49b:10"
+          ],
+          "characteristic_traditions": [
+            "מניומין כנדוקא איגלי ליה בסתקא דדובשא, אתא לקמיה דרבא. אמר רבא: למאי ניחוש לה? חדא דתנן, שלשה משקים אסורים משום גילוי: ה"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2132"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2135",
+        "name": "מנימין גר מצרי",
+        "profile": {
+          "identity_key": "bonayich:2135",
+          "canonical_name_he": "מנימין גר מצרי",
+          "aliases": [
+            "Minyamin, an Egyptian convert",
+            "מנימין גר מצרי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Yevamot 76b:3",
+              "mention": "מנימין גר מצרי",
+              "excerpt": "והא תניא, אמר רבי יהודה: מנימין גר מצרי היה לי חבר מתלמידי רבי עקיבא, אמר: אני מצרי ראשון, ונשאתי מצרית ראשונה. אשיא לבני מצרית שניה כדי שיהא בן בני ראוי לבא בקהל!",
+              "url": "https://www.sefaria.org/Yevamot_76b%3A3"
+            },
+            {
+              "ref": "Yevamot 78a:13",
+              "mention": "מנימין גר מצרי",
+              "excerpt": "מתיב רבא, אמר רבי יהודה: מנימין גר מצרי היה לי חבר מתלמידי רבי עקיבא, ואמר: אני מצרי ראשון, ונשאתי מצרית ראשונה, אשיא לבני מצרית שניה, כדי שיהא בן בני ראוי לבא בקהל. ואי סלקא דעתך בתריה דידיה שדינן ליה אפילו ראשונה נמי! הא אמר ליה רבי יוחנן לתנא: תני ראשונה.",
+              "url": "https://www.sefaria.org/Yevamot_78a%3A13"
+            }
+          ],
+          "passage_refs": [
+            "Yevamot 76b:3",
+            "Yevamot 78a:13"
+          ],
+          "characteristic_traditions": [
+            "והא תניא, אמר רבי יהודה: מנימין גר מצרי היה לי חבר מתלמידי רבי עקיבא, אמר: אני מצרי ראשון, ונשאתי מצרית ראשונה. אשיא לבנ",
+            "מתיב רבא, אמר רבי יהודה: מנימין גר מצרי היה לי חבר מתלמידי רבי עקיבא, ואמר: אני מצרי ראשון, ונשאתי מצרית ראשונה, אשיא לב"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2135"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2136",
+        "name": "מנימין סקסנאה",
+        "profile": {
+          "identity_key": "bonayich:2136",
+          "canonical_name_he": "מנימין סקסנאה",
+          "aliases": [
+            "Minyamin Saksana",
+            "מנימין סקסנאה"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Niddah 65a:8",
+              "mention": "מנימין סקסנאה",
+              "excerpt": "מנימין סקסנאה הוה שקיל ואזיל לאתריה דשמואל, סבר למעבד עובדא כוותיה דרב, אפילו ראתה. אמר: לא פליג רב בין ראתה בין לא ראתה.",
+              "url": "https://www.sefaria.org/Niddah_65a%3A8"
+            }
+          ],
+          "passage_refs": [
+            "Niddah 65a:8"
+          ],
+          "characteristic_traditions": [
+            "מנימין סקסנאה הוה שקיל ואזיל לאתריה דשמואל, סבר למעבד עובדא כוותיה דרב, אפילו ראתה. אמר: לא פליג רב בין ראתה בין לא ראתה"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2136"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2137",
+        "name": "מנימין עבדיה דרב אשי",
+        "profile": {
+          "identity_key": "bonayich:2137",
+          "canonical_name_he": "מנימין עבדיה דרב אשי",
+          "aliases": [
+            "Minyamin, Rav Ashi's slave",
+            "מנימין עבדיה דרב אשי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Sukkah 10b:3",
+              "mention": "מנימין עבדיה דרב אשי",
+              "excerpt": "מנימין עבדיה דרב אשי איטמישא ליה כתונתא במיא, ואשטחה אמטללתא. אמר ליה רב אשי: דלייה, דלא לימרו קא מסככי בדבר המקבל טומאה. והא קא חזו ליה דרטיבא! לכי יבשה קאמינא לך.",
+              "url": "https://www.sefaria.org/Sukkah_10b%3A3"
+            },
+            {
+              "ref": "Yevamot 46a:10",
+              "mention": "דמנימין עבדיה דרב אשי",
+              "excerpt": "כי האי דמנימין עבדיה דרב אשי בעא (לאטבולי) [לאטבוליה]. מסריה ניהלייהו לרבינא ולרב אחא בריה דרבא. אמר להו: חזו דמינייכו קבעינא ליה, רמו ליה ארויסא בצואריה, ארפו ליה וצמצמו ליה.",
+              "url": "https://www.sefaria.org/Yevamot_46a%3A10"
+            }
+          ],
+          "passage_refs": [
+            "Sukkah 10b:3",
+            "Yevamot 46a:10"
+          ],
+          "characteristic_traditions": [
+            "מנימין עבדיה דרב אשי איטמישא ליה כתונתא במיא, ואשטחה אמטללתא. אמר ליה רב אשי: דלייה, דלא לימרו קא מסככי בדבר המקבל טומאה",
+            "כי האי דמנימין עבדיה דרב אשי בעא (לאטבולי) [לאטבוליה]. מסריה ניהלייהו לרבינא ולרב אחא בריה דרבא. אמר להו: חזו דמינייכו ק"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2137"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20604",
+        "name": "מנשיא בר ירמיה",
+        "profile": {
+          "identity_key": "bonayich:20604",
+          "canonical_name_he": "מנשיא בר ירמיה",
+          "aliases": [
+            "Menashya b. Yirmeya",
+            "מנשיא בר ירמיה"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Pesachim 68a:11",
+              "mention": "מנשיא בר ירמיה",
+              "excerpt": "\"ורעו כבשים כדברם\", אמר מנשיא בר ירמיה אמר רב: כמדובר בם. מאי כמדובר בם? אמר אביי: \"וחרבות מחים גרים יאכלו\". אמר ליה רבא: בשלמא אי כתיב \"חרבות\" כדקאמרת, השתא דכתיב \"וחרבות\", מילתא אחריתי קאמר.",
+              "url": "https://www.sefaria.org/Pesachim_68a%3A11"
+            }
+          ],
+          "passage_refs": [
+            "Pesachim 68a:11"
+          ],
+          "characteristic_traditions": [
+            "\"ורעו כבשים כדברם\", אמר מנשיא בר ירמיה אמר רב: כמדובר בם. מאי כמדובר בם? אמר אביי: \"וחרבות מחים גרים יאכלו\". אמר ליה רבא"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20604"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2144",
+        "name": "מנשיא בר מנחם",
+        "profile": {
+          "identity_key": "bonayich:2144",
+          "canonical_name_he": "מנשיא בר מנחם",
+          "aliases": [
+            "Menashya b. Menahem",
+            "מנשיא בר מנחם"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Shabbat 144b:1",
+              "mention": "מנשיא בר מנחם",
+              "excerpt": "בפגעין ובפרישין ובעוזרדין, אבל לא ברמונים, ושל בית מנשיא בר מנחם היו סוחטין ברמונים.",
+              "url": "https://www.sefaria.org/Shabbat_144b%3A1"
+            },
+            {
+              "ref": "Shabbat 144b:3",
+              "mention": "מנשיא בר מנחם",
+              "excerpt": "של בית מנשיא בר מנחם היו סוחטין ברמונים. אמר רב נחמן: הלכה כשל בית מנשיא בר מנחם.",
+              "url": "https://www.sefaria.org/Shabbat_144b%3A3"
+            }
+          ],
+          "passage_refs": [
+            "Shabbat 144b:1",
+            "Shabbat 144b:3"
+          ],
+          "characteristic_traditions": [
+            "בפגעין ובפרישין ובעוזרדין, אבל לא ברמונים, ושל בית מנשיא בר מנחם היו סוחטין ברמונים.",
+            "של בית מנשיא בר מנחם היו סוחטין ברמונים. אמר רב נחמן: הלכה כשל בית מנשיא בר מנחם."
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2144"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:254",
+        "name": "מר אחא",
+        "profile": {
+          "identity_key": "bonayich:254",
+          "canonical_name_he": "מר אחא",
+          "aliases": [
+            "Mar Aha",
+            "מר אחא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Bava Kamma 112b:16",
+              "mention": "למר אחא",
+              "excerpt": "ואי מרחק ואיכא קרובים, אי נמי איכא שיירתא דאזלי ואתו התם, משהינן ליה תריסר ירחי שתא עד דאזלא ואתי שיירא. כי הא דרבינא שהא למר אחא תריסר ירחי שתא, עד דאזלא ואתייא שיירא מבי חוזאי.",
+              "url": "https://www.sefaria.org/Bava_Kamma_112b%3A16"
+            }
+          ],
+          "passage_refs": [
+            "Bava Kamma 112b:16"
+          ],
+          "characteristic_traditions": [
+            "ואי מרחק ואיכא קרובים, אי נמי איכא שיירתא דאזלי ואתו התם, משהינן ליה תריסר ירחי שתא עד דאזלא ואתי שיירא. כי הא דרבינא שה"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:254"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20606",
+        "name": "מר בר המדורי",
+        "profile": {
+          "identity_key": "bonayich:20606",
+          "canonical_name_he": "מר בר המדורי",
+          "aliases": [
+            "Mar b. Hamdurei",
+            "מר בר המדורי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Shabbat 107b:12",
+              "mention": "מר בר המדורי",
+              "excerpt": "אמר מר בר המדורי אמר שמואל: הושיט ידו למעי בהמה ודלדל עובר שבמעיה חייב. מאי טעמא? אמר רבא: בר המדורי אסברה לי, לאו אמר רב ששת: האי מאן דתלש כשותא מהיזמי והיגי מיחייב משום עוקר דבר מגידולו. הכא נמי, מיחייב משום עוקר דבר מגידולו. אמר אביי: האי מאן דתלש",
+              "url": "https://www.sefaria.org/Shabbat_107b%3A12"
+            }
+          ],
+          "passage_refs": [
+            "Shabbat 107b:12"
+          ],
+          "characteristic_traditions": [
+            "אמר מר בר המדורי אמר שמואל: הושיט ידו למעי בהמה ודלדל עובר שבמעיה חייב. מאי טעמא? אמר רבא: בר המדורי אסברה לי, לאו אמר ר"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20606"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2159",
+        "name": "מר בר פופידתא מפומבדיתא",
+        "profile": {
+          "identity_key": "bonayich:2159",
+          "canonical_name_he": "מר בר פופידתא מפומבדיתא",
+          "aliases": [
+            "Mar b. Pofidata from Pumbedita",
+            "מר בר פופידתא מפומבדיתא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Eruvin 60a:11",
+              "mention": "למר בר פופידתא מפומבדיתא",
+              "excerpt": "הדר אמר: כווי נמי לא בעי, דההוא בי תיבנא דהוה ליה למר בר פופידתא מפומבדיתא, ושויה שיור לפומבדיתא.",
+              "url": "https://www.sefaria.org/Eruvin_60a%3A11"
+            }
+          ],
+          "passage_refs": [
+            "Eruvin 60a:11"
+          ],
+          "characteristic_traditions": [
+            "הדר אמר: כווי נמי לא בעי, דההוא בי תיבנא דהוה ליה למר בר פופידתא מפומבדיתא, ושויה שיור לפומבדיתא."
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2159"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20609",
+        "name": "מר בר רב אידאי",
+        "profile": {
+          "identity_key": "bonayich:20609",
+          "canonical_name_he": "מר בר רב אידאי",
+          "aliases": [
+            "Mar b. Rav Idai",
+            "מר בר רב אידאי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Chullin 63a:11",
+              "mention": "למר בר רב אידאי",
+              "excerpt": "אמר ליה רב אדא בר שימי למר בר רב אידאי: והא ההוא דיתיב בי כרבא ושרק, ואתא גלל אפסקיה למוחיה! אמר ליה: ההוא ביידא הוה.",
+              "url": "https://www.sefaria.org/Chullin_63a%3A11"
+            }
+          ],
+          "passage_refs": [
+            "Chullin 63a:11"
+          ],
+          "characteristic_traditions": [
+            "אמר ליה רב אדא בר שימי למר בר רב אידאי: והא ההוא דיתיב בי כרבא ושרק, ואתא גלל אפסקיה למוחיה! אמר ליה: ההוא ביידא הוה."
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20609"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2153",
+        "name": "מר בריה דרב אחא בריה דרבא",
+        "profile": {
+          "identity_key": "bonayich:2153",
+          "canonical_name_he": "מר בריה דרב אחא בריה דרבא",
+          "aliases": [
+            "Mar b. Rav Aha b. Rava",
+            "מר בריה דרב אחא בריה דרבא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Moed Katan 11b:12",
+              "mention": "ומר בריה דרב אחא בריה דרבא",
+              "excerpt": "מריון בריה דרבין ומר בריה דרב אחא בריה דרבא הוה להו ההוא גמלא דתורא בהדי הדדי. איתרעא ביה מילתא במר בריה דרב אחא בריה דרבא ופסקיה לגמליה. אמר רב אשי: גברא רבה כמר בריה דרב אחא עביד הכי? נהי דלפסידא דידיה לא חייש, אדאחרים לא חייש?! והא תניא: אם היו מושכרין או מוחכרין אצל אחרים הרי אלו יעשו!",
+              "url": "https://www.sefaria.org/Moed_Katan_11b%3A12"
+            }
+          ],
+          "passage_refs": [
+            "Moed Katan 11b:12"
+          ],
+          "characteristic_traditions": [
+            "מריון בריה דרבין ומר בריה דרב אחא בריה דרבא הוה להו ההוא גמלא דתורא בהדי הדדי. איתרעא ביה מילתא במר בריה דרב אחא בריה דר"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2153"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20614",
+        "name": "מר הונא בריה דרב נחמן",
+        "profile": {
+          "identity_key": "bonayich:20614",
+          "canonical_name_he": "מר הונא בריה דרב נחמן",
+          "aliases": [
+            "Mar Huna b. Rav Nahman",
+            "מר הונא בריה דרב נחמן"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Bava Metzia 47a:9",
+              "mention": "מר הונא בריה דרב נחמן",
+              "excerpt": "לא, רב הונא סבר לה כרבי יוחנן דאמר: דבר תורה מעות קונות. ומפני מה אמרו משיכה קונה גזירה שמא יאמר לו נשרפו חטיך בעלייה. מלתא דשכיחא גזרו בה רבנן, ומלתא דלא שכיחא לא גזרו בה רבנן. אמר ליה מר הונא בריה דרב נחמן לרב אשי: אתון, הכי מתניתו לה, אנן הכי מתנינן לה: וכן אמר רב הונא, אין מטבע נעשה חליפין.",
+              "url": "https://www.sefaria.org/Bava_Metzia_47a%3A9"
+            }
+          ],
+          "passage_refs": [
+            "Bava Metzia 47a:9"
+          ],
+          "characteristic_traditions": [
+            "לא, רב הונא סבר לה כרבי יוחנן דאמר: דבר תורה מעות קונות. ומפני מה אמרו משיכה קונה גזירה שמא יאמר לו נשרפו חטיך בעלייה. מ"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20614"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20616",
+        "name": "מר זוטרא בר טוביה",
+        "profile": {
+          "identity_key": "bonayich:20616",
+          "canonical_name_he": "מר זוטרא בר טוביה",
+          "aliases": [
+            "Zutra b. Toviya",
+            "Zutra b. Toviyya",
+            "מר זוטרא בר טוביה"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Bava Metzia 59a:3",
+              "mention": "מר זוטרא בר טוביה",
+              "excerpt": "ואמר מר זוטרא בר טוביה אמר רב, ואמרי לה: אמר רב חנא בר ביזנא אמר רבי שמעון חסידא, ואמרי לה: אמר רבי יוחנן משום רבי שמעון בן יוחאי: נוח לו לאדם שיפיל עצמו לכבשן האש ואל ילבין פני חבירו ברבים. מנא לן? מתמר, דכתיב: \"היא מוצאת והיא שלחה אל חמיה\".",
+              "url": "https://www.sefaria.org/Bava_Metzia_59a%3A3"
+            },
+            {
+              "ref": "Gittin 86b:8",
+              "mention": "מר זוטרא בר טוביה",
+              "excerpt": "מתיב מר זוטרא בר טוביה: וכולן, שהיו בהן ספק קידושין או ספק גירושין הרי אלו חולצות ולא מתיבמות.",
+              "url": "https://www.sefaria.org/Gittin_86b%3A8"
+            },
+            {
+              "ref": "Ketubot 67b:14",
+              "mention": "מר זוטרא בר טוביה",
+              "excerpt": "ומאי כולי האי? דאמר מר זוטרא בר טוביה אמר רב, ואמרי לה אמר רב הונא בר ביזנא אמר רבי שמעון חסידא, ואמרי לה אמר רבי יוחנן משום רבי שמעון בן יוחי: נוח לו לאדם שימסור עצמו לתוך כבשן האש, ואל ילבין פני חברו ברבים. מנא לן מתמר, דכתיב: \"היא מוצאת\".",
+              "url": "https://www.sefaria.org/Ketubot_67b%3A14"
+            },
+            {
+              "ref": "Makkot 12a:10",
+              "mention": "מר זוטרא בר טוביה",
+              "excerpt": "אמר מר זוטרא בר טוביה אמר רב: רוצח שיצא חוץ לתחום, ומצאו גואל הדם והרגו נהרג עליו. כמאן? לא כרבי יוסי הגלילי, ולא כרבי עקיבא!",
+              "url": "https://www.sefaria.org/Makkot_12a%3A10"
+            },
+            {
+              "ref": "Sanhedrin 106a:16",
+              "mention": "מר זוטרא בר טוביה",
+              "excerpt": "\"ואת מלכי מדין הרגו על חלליהם וגו' ואת בלעם בן בעור הרגו בחרב\". בלעם מאי בעי התם? אמר רבי יוחנן: שהלך ליטול שכר עשרים וארבעה אלף [שהפיל מישראל]. אמר מר זוטרא בר טוביה אמר רב, היינו דאמרי אינשי: גמלא אזלא למיבעי קרני, אודני דהוו ליה גזיזן מיניה.",
+              "url": "https://www.sefaria.org/Sanhedrin_106a%3A16"
+            },
+            {
+              "ref": "Taanit 16b:2",
+              "mention": "מר זוטרא בר טוביה",
+              "excerpt": "\"היתה לי נחלתי כאריה ביער נתנה עלי בקולה על כן שנאתיה\", מאי \"נתנה עלי בקולה\"? אמר מר זוטרא בר טוביה אמר רב, ואמרי לה אמר רבי חמא אמר רבי אלעזר: זה שליח צבור שאינו הגון היורד לפני התיבה.",
+              "url": "https://www.sefaria.org/Taanit_16b%3A2"
+            },
+            {
+              "ref": "Yevamot 44a:7",
+              "mention": "מר זוטרא בר טוביה",
+              "excerpt": "ונחלוץ לתרוייהו?! אמר מר זוטרא בר טוביה, אמר קרא: \"בית חלוץ הנעל\", בית אחד הוא חולץ, ואין חולץ שני בתים.",
+              "url": "https://www.sefaria.org/Yevamot_44a%3A7"
+            }
+          ],
+          "passage_refs": [
+            "Bava Metzia 59a:3",
+            "Gittin 86b:8",
+            "Ketubot 67b:14",
+            "Makkot 12a:10",
+            "Sanhedrin 106a:16",
+            "Taanit 16b:2",
+            "Yevamot 44a:7"
+          ],
+          "characteristic_traditions": [
+            "ואמר מר זוטרא בר טוביה אמר רב, ואמרי לה: אמר רב חנא בר ביזנא אמר רבי שמעון חסידא, ואמרי לה: אמר רבי יוחנן משום רבי שמעון",
+            "מתיב מר זוטרא בר טוביה: וכולן, שהיו בהן ספק קידושין או ספק גירושין הרי אלו חולצות ולא מתיבמות.",
+            "ומאי כולי האי? דאמר מר זוטרא בר טוביה אמר רב, ואמרי לה אמר רב הונא בר ביזנא אמר רבי שמעון חסידא, ואמרי לה אמר רבי יוחנן ",
+            "אמר מר זוטרא בר טוביה אמר רב: רוצח שיצא חוץ לתחום, ומצאו גואל הדם והרגו נהרג עליו. כמאן? לא כרבי יוסי הגלילי, ולא כרבי ע",
+            "\"ואת מלכי מדין הרגו על חלליהם וגו' ואת בלעם בן בעור הרגו בחרב\". בלעם מאי בעי התם? אמר רבי יוחנן: שהלך ליטול שכר עשרים וא"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20616"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:1565",
+        "name": "מר יוחנא בריה דרב חנא בר אדא",
+        "profile": {
+          "identity_key": "bonayich:1565",
+          "canonical_name_he": "מר יוחנא בריה דרב חנא בר אדא",
+          "aliases": [
+            "Mar Yohana b. Rav Hana b. Adda",
+            "מר יוחנא בריה דרב חנא בר אדא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Chullin 133a:10",
+              "mention": "מר יוחנא בריה דרב חנא בר אדא",
+              "excerpt": "רבא ורב ספרא איקלעו לבי מר יוחנא בריה דרב חנא בר אדא, ואמרי לה לבי מר יוחנא בריה דרב חנא בר ביזנא. עביד להו עגלא תילתא, אמר ליה רבא לשמעיה: זכי לן מתנתא, דבעינא למיכל לישנא בחרדלא.",
+              "url": "https://www.sefaria.org/Chullin_133a%3A10"
+            }
+          ],
+          "passage_refs": [
+            "Chullin 133a:10"
+          ],
+          "characteristic_traditions": [
+            "רבא ורב ספרא איקלעו לבי מר יוחנא בריה דרב חנא בר אדא, ואמרי לה לבי מר יוחנא בריה דרב חנא בר ביזנא. עביד להו עגלא תילתא, "
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:1565"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:N/A",
+        "name": "מר יוחנא בריה דרב חנא בר ביזנא",
+        "profile": {
+          "identity_key": "bonayich:N/A",
+          "canonical_name_he": "מר יוחנא בריה דרב חנא בר ביזנא",
+          "aliases": [
+            "Mar Yohana b. Rav Hana b. Bizna",
+            "מר יוחנא בריה דרב חנא בר ביזנא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:N/A"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "bonayich:2169",
+        "name": "מר ממשכי",
+        "profile": {
+          "identity_key": "bonayich:2169",
+          "canonical_name_he": "מר ממשכי",
+          "aliases": [
+            "Mar, a Sage from Mashkhei",
+            "Mar from Mashkhei",
+            "מר ממשכי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Menachot 43a:4",
+              "mention": "מר ממשכי",
+              "excerpt": "מר ממשכי אייתי תכלתא בשני רב אחאי, בדקוה בדרב יצחק בריה דרב יהודה, ואיפרד חזותיה, בדרב אדא, ואישתנאי למעליותא.",
+              "url": "https://www.sefaria.org/Menachot_43a%3A4"
+            }
+          ],
+          "passage_refs": [
+            "Menachot 43a:4"
+          ],
+          "characteristic_traditions": [
+            "מר ממשכי אייתי תכלתא בשני רב אחאי, בדקוה בדרב יצחק בריה דרב יהודה, ואיפרד חזותיה, בדרב אדא, ואישתנאי למעליותא."
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2169"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20632",
+        "name": "מר קשישא",
+        "profile": {
+          "identity_key": "bonayich:20632",
+          "canonical_name_he": "מר קשישא",
+          "aliases": [
+            "Mar Kashisha",
+            "מר קשישא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Bava Metzia 66b:2",
+              "mention": "ומר קשישא",
+              "excerpt": "אמרו ליה מר ינוקא ומר קשישא בני דרב חסדא לרב אשי, הכי אמרי נהרדעאי משמיה דרב נחמן: האי אסמכתא, בזמניה קניא, בלא זמניה לא קניא.",
+              "url": "https://www.sefaria.org/Bava_Metzia_66b%3A2"
+            },
+            {
+              "ref": "Shabbat 96a:2",
+              "mention": "ומר קשישא",
+              "excerpt": "אמר עולא: פליגי בה תרי אמוראי במערבא, רבי יוסי ברבי אבין ורבי יוסי בר זבדא. חד אמר כמוציא רמון, וחד אמר: כשורש קטן. וסימניך, אחד המרבה ואחד הממעיט. אמר רב חיננא בר כהנא משמיה דרבי אליעזר: כלי חרס שיעורו כמוציא זיתים. ומר קשישא בריה דרבה מסיים בה משמיה דרבי אליעזר: והרי הן ככלי גללים וכלי אבנים וכלי אדמה שאין מקבלין טומאה לא מדברי תורה ולא מדברי סופרים. ולענין צמיד פתיל, עד שיפחת רובו.",
+              "url": "https://www.sefaria.org/Shabbat_96a%3A2"
+            }
+          ],
+          "passage_refs": [
+            "Bava Metzia 66b:2",
+            "Shabbat 96a:2"
+          ],
+          "characteristic_traditions": [
+            "אמרו ליה מר ינוקא ומר קשישא בני דרב חסדא לרב אשי, הכי אמרי נהרדעאי משמיה דרב נחמן: האי אסמכתא, בזמניה קניא, בלא זמניה לא",
+            "אמר עולא: פליגי בה תרי אמוראי במערבא, רבי יוסי ברבי אבין ורבי יוסי בר זבדא. חד אמר כמוציא רמון, וחד אמר: כשורש קטן. וסימ"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20632"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20633",
+        "name": "מר קשישא בר רב חסדא",
+        "profile": {
+          "identity_key": "bonayich:20633",
+          "canonical_name_he": "מר קשישא בר רב חסדא",
+          "aliases": [
+            "Mar Kashisha b. Rav Hisda",
+            "מר קשישא בר רב חסדא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Yevamot 115b:5",
+              "mention": "מר קשישא בר רב חסדא",
+              "excerpt": "אמר ליה מר קשישא בר רב חסדא לרב אשי: ומי חיישינן שמא פינן? והתנן: מצא כלי וכתוב עליו קוף קרבן, מם מעשר, דלת דמוע, טית טבל, תיו תרומה. שבשעת הסכנה היו כותבין תיו תחת תרומה!",
+              "url": "https://www.sefaria.org/Yevamot_115b%3A5"
+            }
+          ],
+          "passage_refs": [
+            "Yevamot 115b:5"
+          ],
+          "characteristic_traditions": [
+            "אמר ליה מר קשישא בר רב חסדא לרב אשי: ומי חיישינן שמא פינן? והתנן: מצא כלי וכתוב עליו קוף קרבן, מם מעשר, דלת דמוע, טית טב"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20633"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2192",
+        "name": "מריון בריה דרבין",
+        "profile": {
+          "identity_key": "bonayich:2192",
+          "canonical_name_he": "מריון בריה דרבין",
+          "aliases": [
+            "Maryon b. Ravin",
+            "מריון בריה דרבין"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Moed Katan 11b:12",
+              "mention": "מריון בריה דרבין",
+              "excerpt": "מריון בריה דרבין ומר בריה דרב אחא בריה דרבא הוה להו ההוא גמלא דתורא בהדי הדדי. איתרעא ביה מילתא במר בריה דרב אחא בריה דרבא ופסקיה לגמליה. אמר רב אשי: גברא רבה כמר בריה דרב אחא עביד הכי? נהי דלפסידא דידיה לא חייש, אדאחרים לא חייש?! והא תניא: אם היו מושכרין או מוחכרין אצל אחרים הרי אלו יעשו!",
+              "url": "https://www.sefaria.org/Moed_Katan_11b%3A12"
+            }
+          ],
+          "passage_refs": [
+            "Moed Katan 11b:12"
+          ],
+          "characteristic_traditions": [
+            "מריון בריה דרבין ומר בריה דרב אחא בריה דרבא הוה להו ההוא גמלא דתורא בהדי הדדי. איתרעא ביה מילתא במר בריה דרב אחא בריה דר"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2192"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2199",
+        "name": "מרימר בר חנינא",
+        "profile": {
+          "identity_key": "bonayich:2199",
+          "canonical_name_he": "מרימר בר חנינא",
+          "aliases": [
+            "Mareimar b. Hanina",
+            "מרימר בר חנינא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Bava Metzia 97a:11",
+              "mention": "מרימר בר חנינא",
+              "excerpt": "מרימר בר חנינא אוגר כודנייתא בי חוזאי, נפק לדלויי טעונה בהדייהו, פשעו בה ומית. אתו לקמיה דרבא, חייבינהו. אמרו ליה רבנן לרבא: פשיעה בבעלים היא! איכסיף. לסוף איגלאי מילתא דלמיסר טעונה הוא דנפק.",
+              "url": "https://www.sefaria.org/Bava_Metzia_97a%3A11"
+            }
+          ],
+          "passage_refs": [
+            "Bava Metzia 97a:11"
+          ],
+          "characteristic_traditions": [
+            "מרימר בר חנינא אוגר כודנייתא בי חוזאי, נפק לדלויי טעונה בהדייהו, פשעו בה ומית. אתו לקמיה דרבא, חייבינהו. אמרו ליה רבנן ל"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2199"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2218",
+        "name": "מתאי",
+        "profile": {
+          "identity_key": "bonayich:2218",
+          "canonical_name_he": "מתאי",
+          "aliases": [
+            "Mattai",
+            "מתאי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Sanhedrin 43a:22",
+              "mention": "מתאי",
+              "excerpt": "תנו רבנן: חמשה תלמידים היו לו לישו הנוצרי מתאי, נקאי, נצר, ובוני, ותודה. אתיוה למתי. אמר להו: מתי יהרג? הכתיב \"מתי אבוא ואראה פני אלהים\"? אמרו לו: אין, מתי יהרג, דכתיב: \"מתי ימות ואבד שמו\".",
+              "url": "https://www.sefaria.org/Sanhedrin_43a%3A22"
+            }
+          ],
+          "passage_refs": [
+            "Sanhedrin 43a:22"
+          ],
+          "characteristic_traditions": [
+            "תנו רבנן: חמשה תלמידים היו לו לישו הנוצרי מתאי, נקאי, נצר, ובוני, ותודה. אתיוה למתי. אמר להו: מתי יהרג? הכתיב \"מתי אבוא "
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2218"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2219",
+        "name": "מתון",
+        "profile": {
+          "identity_key": "bonayich:2219",
+          "canonical_name_he": "מתון",
+          "aliases": [
+            "Matun",
+            "מתון"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Berakhot 20a:5",
+              "mention": "מתון",
+              "excerpt": "אמר ליה: קמאי הוו קא מסרי נפשייהו אקדושת השם, אנן לא מסרינן נפשין אקדושת השם. כי הא דרב אדא בר אהבה חזייה לההיא כותית דהות לבישא כרבלתא בשוקא. סבר דבת ישראל היא, קם קרעיה מינה. אגלאי מילתא דכותית היא. שיימוה בארבע מאה זוזי. אמר לה: מה שמך? אמרה ליה: מתון. אמר לה, מתון מתון ארבע מאה זוזי שויא.",
+              "url": "https://www.sefaria.org/Berakhot_20a%3A5"
+            },
+            {
+              "ref": "Horayot 14a:6",
+              "mention": "מתון",
+              "excerpt": "איבעיא להו: רבי זירא ורבה בר רב מתנה הי מנייהו עדיף? רבי זירא חריף ומקשה, ורבה בר רב מתנה מתון ומסיק, מאי? תיקו.",
+              "url": "https://www.sefaria.org/Horayot_14a%3A6"
+            },
+            {
+              "ref": "Yevamot 63a:10",
+              "mention": "מתון",
+              "excerpt": "טום ולא תשפיץ. שפיץ ולא תיבני. שכל העוסק בבנין מתמסכן. קפוץ זבין ארעא, מתון נסיב איתתא. נחית דרגא נסיב איתתא. סק דרגא בחר שושבינא.",
+              "url": "https://www.sefaria.org/Yevamot_63a%3A10"
+            }
+          ],
+          "passage_refs": [
+            "Berakhot 20a:5",
+            "Horayot 14a:6",
+            "Yevamot 63a:10"
+          ],
+          "characteristic_traditions": [
+            "אמר ליה: קמאי הוו קא מסרי נפשייהו אקדושת השם, אנן לא מסרינן נפשין אקדושת השם. כי הא דרב אדא בר אהבה חזייה לההיא כותית דה",
+            "איבעיא להו: רבי זירא ורבה בר רב מתנה הי מנייהו עדיף? רבי זירא חריף ומקשה, ורבה בר רב מתנה מתון ומסיק, מאי? תיקו.",
+            "טום ולא תשפיץ. שפיץ ולא תיבני. שכל העוסק בבנין מתמסכן. קפוץ זבין ארעא, מתון נסיב איתתא. נחית דרגא נסיב איתתא. סק דרגא בח"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2219"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20647",
+        "name": "מתתיה בן שמואל",
+        "profile": {
+          "identity_key": "bonayich:20647",
+          "canonical_name_he": "מתתיה בן שמואל",
+          "aliases": [
+            "Mattityah b. Shmuel",
+            "מתתיה בן שמואל"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Mishnah Shekalim 5:1",
+              "mention": "מַתִּתְיָה בֶּן שְׁמוּאֵל",
+              "excerpt": "אלו הן הממנין שהיו במקדש, יוחנן בן פנחס על החותמות, אחיה על הנסכים, מתתיה בן שמואל על הפיסות, פתחיה על הקנין. פתחיה, זה מרדכי. למה נקרא שמו פתחיה. שהיה פותח בדברים ודורשן, ויודע שבעים לשון. בן אחיה על חולי מעים, נחוניא חופר שיחין, גביני כרוז, בן גבר על נעילת שערים, בן בבי על הפקיע, בן ארזה על הצלצל, הגרס בן לוי על השיר, בית גרמו על מעשה לחם הפנים, בית אבטינס על מעשה הקטרת, אלעזר על הפרוכות, ופנחס על המלבוש:",
+              "url": "https://www.sefaria.org/Mishnah_Shekalim_5%3A1"
+            }
+          ],
+          "passage_refs": [
+            "Mishnah Shekalim 5:1"
+          ],
+          "characteristic_traditions": [
+            "אלו הן הממנין שהיו במקדש, יוחנן בן פנחס על החותמות, אחיה על הנסכים, מתתיה בן שמואל על הפיסות, פתחיה על הקנין. פתחיה, זה "
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20647"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20648",
+        "name": "מתתיה בר יהודה",
+        "profile": {
+          "identity_key": "bonayich:20648",
+          "canonical_name_he": "מתתיה בר יהודה",
+          "aliases": [
+            "Mattitya b. Yehuda",
+            "מתתיה בר יהודה"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Chullin 67a:7",
+              "mention": "מתתיה בר יהודה",
+              "excerpt": "ואיפוך אנא, כדתני מתתיה, דתני מתתיה בר יהודה: מאי ראית לרבות בורות שיחין ומערות להתירא, ולהוציא חריצין ונעיצין לאיסורא? מרבה אני בורות שיחין ומערות שהן עצורים ככלים, ומוציא אני חריצין ונעיצין שאין עצורין ככלים.",
+              "url": "https://www.sefaria.org/Chullin_67a%3A7"
+            }
+          ],
+          "passage_refs": [
+            "Chullin 67a:7"
+          ],
+          "characteristic_traditions": [
+            "ואיפוך אנא, כדתני מתתיה, דתני מתתיה בר יהודה: מאי ראית לרבות בורות שיחין ומערות להתירא, ולהוציא חריצין ונעיצין לאיסורא? "
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20648"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20662",
+        "name": "נחומא בן אפקשיון",
+        "profile": {
+          "identity_key": "bonayich:20662",
+          "canonical_name_he": "נחומא בן אפקשיון",
+          "aliases": [
+            "Nahuma b. Apakshiyon",
+            "נחומא בן אפקשיון"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Yoma 28b:1",
+              "mention": "נחומא בן אפקשיון",
+              "excerpt": "גמ' תניא, רבי ישמעאל אומר: \"ברק ברקאי\". רבי עקיבא אומר: \"עלה ברקאי\". נחומא בן אפקשיון אומר: \"אף ברקאי בחברון\". מתיא בן שמואל (אומר): הממונה על הפייסות אומר: \"האיר פני כל המזרח עד שבחברון\". רבי יהודה בן בתירא אומר: \"האיר פני כל המזרח עד בחברון, ויצאו כל העם איש איש למלאכתו\".",
+              "url": "https://www.sefaria.org/Yoma_28b%3A1"
+            }
+          ],
+          "passage_refs": [
+            "Yoma 28b:1"
+          ],
+          "characteristic_traditions": [
+            "גמ' תניא, רבי ישמעאל אומר: \"ברק ברקאי\". רבי עקיבא אומר: \"עלה ברקאי\". נחומא בן אפקשיון אומר: \"אף ברקאי בחברון\". מתיא בן ש"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20662"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20665",
+        "name": "נחמיה בר ברוך",
+        "profile": {
+          "identity_key": "bonayich:20665",
+          "canonical_name_he": "נחמיה בר ברוך",
+          "aliases": [
+            "Nehemya b. Baruch",
+            "נחמיה בר ברוך"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Moed Katan 16a:11",
+              "mention": "נחמיה בר ברוך",
+              "excerpt": "ומנלן דכפתינן ואסרינן ועבדינן הרדפה דכתיב: \"הן למות הן לשרושי הן לענש נכסין ולאסורין\". מאי לשרושי? אמר אדא מרי אמר נחמיה בר ברוך אמר רב חייא בר אבין אמר רב יהודה: הרדפה. מאי הרדפה? אמר רב יהודה בריה דרב שמואל בר שילת משמיה דרב: מנדין לאלתר, ושונין לאחר שלשים, ומחרימין לאחר ששים.",
+              "url": "https://www.sefaria.org/Moed_Katan_16a%3A11"
+            }
+          ],
+          "passage_refs": [
+            "Moed Katan 16a:11"
+          ],
+          "characteristic_traditions": [
+            "ומנלן דכפתינן ואסרינן ועבדינן הרדפה דכתיב: \"הן למות הן לשרושי הן לענש נכסין ולאסורין\". מאי לשרושי? אמר אדא מרי אמר נחמיה"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20665"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2315",
+        "name": "נירון קיסר",
+        "profile": {
+          "identity_key": "bonayich:2315",
+          "canonical_name_he": "נירון קיסר",
+          "aliases": [
+            "Nero Caesar",
+            "נירון קיסר"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Gittin 56a:6",
+              "mention": "לנירון קיסר",
+              "excerpt": "שדר עלוייהו לנירון קיסר. כי קאתי; שדא גירא למזרח אתא נפל בירושלים. למערב אתא נפל בירושלים. לארבע רוחות השמים אתא נפל בירושלים.",
+              "url": "https://www.sefaria.org/Gittin_56a%3A6"
+            }
+          ],
+          "passage_refs": [
+            "Gittin 56a:6"
+          ],
+          "characteristic_traditions": [
+            "שדר עלוייהו לנירון קיסר. כי קאתי; שדא גירא למזרח אתא נפל בירושלים. למערב אתא נפל בירושלים. לארבע רוחות השמים אתא נפל ביר"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2315"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2319",
+        "name": "ננאי בר חבי",
+        "profile": {
+          "identity_key": "bonayich:2319",
+          "canonical_name_he": "ננאי בר חבי",
+          "aliases": [
+            "Nanai b. Havai",
+            "ננאי בר חבי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Yevamot 115b:11",
+              "mention": "וננאי בר חבי",
+              "excerpt": "אמר רבא: מנא אמינא לה דהנהו תרי שטרי דנפקי במחוזא וכתיב בהו: חבי בר ננאי וננאי בר חבי, ואגבי בהו רבא בר אבוה זוזי. והא חבי בר ננאי וננאי בר חבי במחוזא שכיחי טובא. ואביי?",
+              "url": "https://www.sefaria.org/Yevamot_115b%3A11"
+            }
+          ],
+          "passage_refs": [
+            "Yevamot 115b:11"
+          ],
+          "characteristic_traditions": [
+            "אמר רבא: מנא אמינא לה דהנהו תרי שטרי דנפקי במחוזא וכתיב בהו: חבי בר ננאי וננאי בר חבי, ואגבי בהו רבא בר אבוה זוזי. והא ח"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2319"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2323",
+        "name": "נקאי",
+        "profile": {
+          "identity_key": "bonayich:2323",
+          "canonical_name_he": "נקאי",
+          "aliases": [
+            "Nakai",
+            "נקאי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Sanhedrin 43a:22",
+              "mention": "נקאי",
+              "excerpt": "תנו רבנן: חמשה תלמידים היו לו לישו הנוצרי מתאי, נקאי, נצר, ובוני, ותודה. אתיוה למתי. אמר להו: מתי יהרג? הכתיב \"מתי אבוא ואראה פני אלהים\"? אמרו לו: אין, מתי יהרג, דכתיב: \"מתי ימות ואבד שמו\".",
+              "url": "https://www.sefaria.org/Sanhedrin_43a%3A22"
+            },
+            {
+              "ref": "Sanhedrin 43a:23",
+              "mention": "נקאי",
+              "excerpt": "אתיוה לנקאי. אמר להו: נקאי יהרג? הכתיב \"ונקי וצדיק אל תהרג\"? אמרו לו: אין, נקאי יהרג, דכתיב: \"במסתרים יהרג נקי\".",
+              "url": "https://www.sefaria.org/Sanhedrin_43a%3A23"
+            }
+          ],
+          "passage_refs": [
+            "Sanhedrin 43a:22",
+            "Sanhedrin 43a:23"
+          ],
+          "characteristic_traditions": [
+            "תנו רבנן: חמשה תלמידים היו לו לישו הנוצרי מתאי, נקאי, נצר, ובוני, ותודה. אתיוה למתי. אמר להו: מתי יהרג? הכתיב \"מתי אבוא ",
+            "אתיוה לנקאי. אמר להו: נקאי יהרג? הכתיב \"ונקי וצדיק אל תהרג\"? אמרו לו: אין, נקאי יהרג, דכתיב: \"במסתרים יהרג נקי\"."
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2323"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2351",
+        "name": "נתן בר שילא",
+        "profile": {
+          "identity_key": "bonayich:2351",
+          "canonical_name_he": "נתן בר שילא",
+          "aliases": [
+            "Natan b. Sheila",
+            "נתן בר שילא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Chullin 50b:2",
+              "mention": "נתן בר שילא",
+              "excerpt": "הכרס הפנימי. אמר רב יהודה אמר רב: העיד נתן בר שילא ריש טבחיא דצפורי לפני רבי משום רבי נתן: אי זו היא כרס הפנימי? סניא דיבי. וכן אמר רבי יהושע בן קרחה: סניא דיבי. רבי ישמעאל אמר: איסתומכא דכרסא.",
+              "url": "https://www.sefaria.org/Chullin_50b%3A2"
+            },
+            {
+              "ref": "Chullin 58b:8",
+              "mention": "נתן בר שילא",
+              "excerpt": "העיד נתן בר שילא רב טבחיא דציפורי לפני רבי, על שני בני מעים היוצאין מן הבהמה כאחד, שהיא טרפה, וכנגדן בעוף כשרה. במה דברים אמורים? שיוצאין בשני מקומות, אבל יוצאין במקום אחד, וכלין עד כאצבע כשרה.",
+              "url": "https://www.sefaria.org/Chullin_58b%3A8"
+            }
+          ],
+          "passage_refs": [
+            "Chullin 50b:2",
+            "Chullin 58b:8"
+          ],
+          "characteristic_traditions": [
+            "הכרס הפנימי. אמר רב יהודה אמר רב: העיד נתן בר שילא ריש טבחיא דצפורי לפני רבי משום רבי נתן: אי זו היא כרס הפנימי? סניא די",
+            "העיד נתן בר שילא רב טבחיא דציפורי לפני רבי, על שני בני מעים היוצאין מן הבהמה כאחד, שהיא טרפה, וכנגדן בעוף כשרה. במה דברי"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2351"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20682",
+        "name": "סלמאי הנתופתי",
+        "profile": {
+          "identity_key": "bonayich:20682",
+          "canonical_name_he": "סלמאי הנתופתי",
+          "aliases": [
+            "Salmai of Netophat",
+            "סלמאי הנתופתי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Taanit 28a:10",
+              "mention": "סלמאי הנתופתי",
+              "excerpt": "תנא: הן הן בני סלמאי הנתופתי. תנו רבנן: מה הן בני סלמאי הנתופתי? אמרו: פעם אחת גזרה מלכות הרשעה שמד על ישראל שלא יביאו עצים למערכה, והושיבו פרוזדאות על הדרכים כדרך שהושיב ירבעם בן נבט על הדרכים, שלא יעלו ישראל לרגל.",
+              "url": "https://www.sefaria.org/Taanit_28a%3A10"
+            }
+          ],
+          "passage_refs": [
+            "Taanit 28a:10"
+          ],
+          "characteristic_traditions": [
+            "תנא: הן הן בני סלמאי הנתופתי. תנו רבנן: מה הן בני סלמאי הנתופתי? אמרו: פעם אחת גזרה מלכות הרשעה שמד על ישראל שלא יביאו ע"
+          ],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:bac7ba77a618e4491ad2",
+              "title": "סלמאי הנתופתי",
+              "classification": null,
+              "identity_caution": false
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==סלמאי הנתופתי==\nבניו נזכרו לשבח בתענית כח. שפ\"א גזרה המלכות שלא יביאו עצים למערכה והמה בחכמתם הביאו, ועליהם אמרו חכמים זכר צדיק לברכה.\n",
+          "external_ids": {
+            "bonayich": "BONAYICH:20682"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "Possible duplicate identity: heiman:344884"
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20688",
+        "name": "עולא בר חיננא",
+        "profile": {
+          "identity_key": "bonayich:20688",
+          "canonical_name_he": "עולא בר חיננא",
+          "aliases": [
+            "Ulla b. Hinnana",
+            "עולא בר חיננא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Sukkah 33a:4",
+              "mention": "עולא בר חיננא",
+              "excerpt": "נקטם ראשו. תני עולא בר חיננא: נקטם ראשו ועלתה בו תמרה כשר.",
+              "url": "https://www.sefaria.org/Sukkah_33a%3A4"
+            }
+          ],
+          "passage_refs": [
+            "Sukkah 33a:4"
+          ],
+          "characteristic_traditions": [
+            "נקטם ראשו. תני עולא בר חיננא: נקטם ראשו ועלתה בו תמרה כשר."
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20688"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:20690",
+        "name": "עולא בר ישמעאל",
+        "profile": {
+          "identity_key": "bonayich:20690",
+          "canonical_name_he": "עולא בר ישמעאל",
+          "aliases": [
+            "Ulla b. Yishmael",
+            "עולא בר ישמעאל"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Sanhedrin 92a:2",
+              "mention": "עולא בר ישמעאל",
+              "excerpt": "עולא בר ישמעאל אומר: מנקבין אותו ככברה. כתיב הכא: \"יקבהו לאום\", וכתיב התם: \"ויקב חר בדלתו\". ואמר אביי: כי אוכלא דקצרי.",
+              "url": "https://www.sefaria.org/Sanhedrin_92a%3A2"
+            }
+          ],
+          "passage_refs": [
+            "Sanhedrin 92a:2"
+          ],
+          "characteristic_traditions": [
+            "עולא בר ישמעאל אומר: מנקבין אותו ככברה. כתיב הכא: \"יקבהו לאום\", וכתיב התם: \"ויקב חר בדלתו\". ואמר אביי: כי אוכלא דקצרי."
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:20690"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2433",
+        "name": "עוקבן הבבלי",
+        "profile": {
+          "identity_key": "bonayich:2433",
+          "canonical_name_he": "עוקבן הבבלי",
+          "aliases": [
+            "Ukvan the Babylonian",
+            "עוקבן הבבלי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Sanhedrin 31b:17",
+              "mention": "עוקבן הבבלי",
+              "excerpt": "שלחו ליה למר עוקבא: לדזיו ליה כבר בתיה, שלם. עוקבן הבבלי קבל קדמנא: ירמיה אחי העביר עלי את הדרך. אמרו לו: השיאוהו ויראה פנינו בטבריא.",
+              "url": "https://www.sefaria.org/Sanhedrin_31b%3A17"
+            }
+          ],
+          "passage_refs": [
+            "Sanhedrin 31b:17"
+          ],
+          "characteristic_traditions": [
+            "שלחו ליה למר עוקבא: לדזיו ליה כבר בתיה, שלם. עוקבן הבבלי קבל קדמנא: ירמיה אחי העביר עלי את הדרך. אמרו לו: השיאוהו ויראה "
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2433"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2449",
+        "name": "עמרם צבעא",
+        "profile": {
+          "identity_key": "bonayich:2449",
+          "canonical_name_he": "עמרם צבעא",
+          "aliases": [
+            "Amram the dyer",
+            "עמרם צבעא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Gittin 52b:5",
+              "mention": "עמרם צבעא",
+              "excerpt": "עמרם צבעא אפוטרופא דיתמי הוה, אתו קרובים לקמיה דרב נחמן, אמרי ליה: קא לביש ומכסי מיתמי! אמר להו: כי היכי דלישתמען מיליה.",
+              "url": "https://www.sefaria.org/Gittin_52b%3A5"
+            }
+          ],
+          "passage_refs": [
+            "Gittin 52b:5"
+          ],
+          "characteristic_traditions": [
+            "עמרם צבעא אפוטרופא דיתמי הוה, אתו קרובים לקמיה דרב נחמן, אמרי ליה: קא לביש ומכסי מיתמי! אמר להו: כי היכי דלישתמען מיליה."
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2449"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2455",
+        "name": "ענן בר חייא",
+        "profile": {
+          "identity_key": "bonayich:2455",
+          "canonical_name_he": "ענן בר חייא",
+          "aliases": [
+            "Anan b. Hiyya",
+            "ענן בר חייא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Yevamot 116a:3",
+              "mention": "ענן בר חייא",
+              "excerpt": "ההוא גיטא דאשתכח בסורא וכתיב ביה הכי: בסורא מתא אנא ענן בר חייא נהרדעא פטרית ותרכית פלונית אנתתי. ובדקו רבנן מסורא ועד נהרדעא, ולא הוה ענן בר חייא אחרינא לבר מענן בר חייא מחגרא דהוה בנהרדעא. ואתו סהדי ואמור דההוא יומא כי איכתב ההוא גיטא, ענן בר חייא מחגרא גבן הוה.",
+              "url": "https://www.sefaria.org/Yevamot_116a%3A3"
+            }
+          ],
+          "passage_refs": [
+            "Yevamot 116a:3"
+          ],
+          "characteristic_traditions": [
+            "ההוא גיטא דאשתכח בסורא וכתיב ביה הכי: בסורא מתא אנא ענן בר חייא נהרדעא פטרית ותרכית פלונית אנתתי. ובדקו רבנן מסורא ועד נ"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2455"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      },
+      {
+        "identity_key": "bonayich:2456",
+        "name": "ענן בר חייא מחגרא",
+        "profile": {
+          "identity_key": "bonayich:2456",
+          "canonical_name_he": "ענן בר חייא מחגרא",
+          "aliases": [
+            "Anan b. Hiyya of Hagra",
+            "ענן בר חייא מחגרא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [
+            {
+              "ref": "Yevamot 116a:3",
+              "mention": "ענן בר חייא מחגרא",
+              "excerpt": "ההוא גיטא דאשתכח בסורא וכתיב ביה הכי: בסורא מתא אנא ענן בר חייא נהרדעא פטרית ותרכית פלונית אנתתי. ובדקו רבנן מסורא ועד נהרדעא, ולא הוה ענן בר חייא אחרינא לבר מענן בר חייא מחגרא דהוה בנהרדעא. ואתו סהדי ואמור דההוא יומא כי איכתב ההוא גיטא, ענן בר חייא מחגרא גבן הוה.",
+              "url": "https://www.sefaria.org/Yevamot_116a%3A3"
+            }
+          ],
+          "passage_refs": [
+            "Yevamot 116a:3"
+          ],
+          "characteristic_traditions": [
+            "ההוא גיטא דאשתכח בסורא וכתיב ביה הכי: בסורא מתא אנא ענן בר חייא נהרדעא פטרית ותרכית פלונית אנתתי. ובדקו רבנן מסורא ועד נ"
+          ],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "bonayich": "BONAYICH:2456"
+          },
+          "review_reasons": [
+            "Reference identifies a person/contemporary but does not establish Tanna or Amora status.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud."
+          ],
+          "source_prefix": "bonayich"
+        },
+        "category": "I"
+      }
+    ],
+    "adjudication_candidates": [],
+    "total_groups": 2711
+  }
+}

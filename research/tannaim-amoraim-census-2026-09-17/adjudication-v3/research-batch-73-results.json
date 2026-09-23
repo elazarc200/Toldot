@@ -1,0 +1,3778 @@
+{
+  "generated_at": "2026-09-18T00:21:31.840Z",
+  "batch": 73,
+  "offset": 1280,
+  "count": 80,
+  "results": {
+    "duplicate_research": [],
+    "promotion_research": [],
+    "profile_research": [
+      {
+        "identity_key": "hyman-section:bfef9fd2c0348fe710d6",
+        "name": "\"ר' חייא בר אבא דמן יפו\"",
+        "profile": {
+          "identity_key": "hyman-section:bfef9fd2c0348fe710d6",
+          "canonical_name_he": "\"ר' חייא בר אבא דמן יפו\"",
+          "aliases": [
+            "\"ר' חייא בר אבא דמן יפו\""
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:bfef9fd2c0348fe710d6",
+              "title": "\"ר' חייא בר אבא דמן יפו\"",
+              "classification": null,
+              "identity_caution": true
+            },
+            {
+              "key": "hyman-section:bfef9fd2c0348fe710d6",
+              "title": "\"ר' חייא בר אבא דמן יפו\"",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' חייא בר אבא דמן יפו==\nנזכר מד' תהלים פ\"כב־ג והשערת הרש\"ב שצ\"ל ר\"ח בר אדא.\n\n\n==ר' חייא בר אבא דמן יפו==\nנזכר מד' תהלים פ\"כב־ג והשערת הרש\"ב שצ\"ל ר\"ח בר אדא.\n",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:8d73794cc89f7630b848",
+        "name": "\"ר' חייא בר אבא הכהן\"",
+        "profile": {
+          "identity_key": "hyman-section:8d73794cc89f7630b848",
+          "canonical_name_he": "\"ר' חייא בר אבא הכהן\"",
+          "aliases": [
+            "\"ר' חייא בר אבא הכהן\""
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [
+            "דעת"
+          ],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:8d73794cc89f7630b848",
+              "title": "\"ר' חייא בר אבא הכהן\"",
+              "classification": null,
+              "identity_caution": true
+            },
+            {
+              "key": "hyman-section:8d73794cc89f7630b848",
+              "title": "\"ר' חייא בר אבא הכהן\"",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' חייא בר אבא הכהן==\n{{קטן|(ובירושלמי בשם ר' חייא בר בא או ווא)}}.\n\nהאמורא הגדול הזה נקרא תמיד בבבלי בשם ר' חייא בר אבא כדי להבדילו מן ר' חייא ת\"ח דרבי, ובירושלמי שר' חייא נקרא תמיד בשם ר' חייא רובא נקרא ר\"ח בר אבא בשם סתם ר' חייא, ואך לפעמים כשאומר בירושלמי תני ר' חייא {{קטן|(והוא ר\"ח רובא)}} אומר אח\"כ אר\"ח בר בא, כירושלמי [[ירושלמי ברכות ו א|ברכות פ\"ו ה\"א]]־לט:, וכן נקרא כמה פעמים בירושלמי בשם ר\"ח בר ווא, וגם בבבלי לפעמים שהגרסא שלנו סתם ר' חייא והכונה על ר\"ח בר אבא ונשמט בטעות תיבת בר אבא, מי הוא אבא אביו דעת סה\"ד ומבוא הירושלמי קכח. שהוא אבי ר' שמן בר\n\n==ר' חייא בר אבא הכהן==\n{{קטן|(וב",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:7dea2f951954d51e150a",
+        "name": "\"ר' חלבו בקרוייה\"",
+        "profile": {
+          "identity_key": "hyman-section:7dea2f951954d51e150a",
+          "canonical_name_he": "\"ר' חלבו בקרוייה\"",
+          "aliases": [
+            "\"ר' חלבו בקרוייה\""
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "הונא"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:7dea2f951954d51e150a",
+              "title": "\"ר' חלבו בקרוייה\"",
+              "classification": null,
+              "identity_caution": true
+            },
+            {
+              "key": "hyman-section:7dea2f951954d51e150a",
+              "title": "\"ר' חלבו בקרוייה\"",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' חלבו בקרוייה==\nבמדרש תהלים פ\"ב־ט יסופר שר' גמליאל הלך אליו שיתפלל עליו א\"ל יתן לך כלבבך, ובמדרש תהלים הישן הגרסא אבא חלפא בר קרוייה.\n<קטע סוף=ר' חלבו בקרוייה/><קטע התחלה=חלוב/>\n==חלוב==\nרב הונא בר חלוב שבת קטו:.\n\nר' יצחק בר חלוב חולין צט:.\n<קטע סוף=חלוב/><קטע התחלה=חלוון/>\n==חלוון==\nרב הונא בר חלוון שבת קלט:.\n<קטע סוף=חלוון/><קטע התחלה=חלוקה/>\n==חלוקה==\nר' צדוק {{קטן|(וגרסת דק\"ס ר' יצחק)}} בר חלוקה יומא עח..\n<קטע סוף=חלוקה/><קטע התחלה=חלי/>\n==חלי==\n{{קטן|(שם עיר בנחלת אשר, יהושע פ\"יט־כה)}}.\n\nר' יונתן בן חלי סנהדרין פ\"ו ה\"ה.\n<קטע סוף=חלי/><קטע התחלה=חלנוסי או חלניסי/>\n==חלנוסי {{קטן|או}} ",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:f81bdcc5258c904a5c87",
+        "name": "\"ר' חלבו בר חונה\"",
+        "profile": {
+          "identity_key": "hyman-section:f81bdcc5258c904a5c87",
+          "canonical_name_he": "\"ר' חלבו בר חונה\"",
+          "aliases": [
+            "\"ר' חלבו בר חונה\""
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "הונא}}"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:f81bdcc5258c904a5c87",
+              "title": "\"ר' חלבו בר חונה\"",
+              "classification": null,
+              "identity_caution": true
+            },
+            {
+              "key": "hyman-section:f81bdcc5258c904a5c87",
+              "title": "\"ר' חלבו בר חונה\"",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' חלבו בר חונה==\nנזכר בירושלמי נזיר רפ\"ג, אבל הוא ט\"ס כי המאמר מובא גם מו\"ק פ\"ג ה\"א ושם ר' חלבו, ר' חונה {{קטן|(רב הונא)}} בשם רב.\n\n\n==ר' חלבו בר חונה==\nנזכר בירושלמי נזיר רפ\"ג, אבל הוא ט\"ס כי המאמר מובא גם מו\"ק פ\"ג ה\"א ושם ר' חלבו, ר' חונה {{קטן|(רב הונא)}} בשם רב.\n",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:5da6f61e51e019a5a2d2",
+        "name": "\"ר' חלבו בר חילפא בר סמקאי\"",
+        "profile": {
+          "identity_key": "hyman-section:5da6f61e51e019a5a2d2",
+          "canonical_name_he": "\"ר' חלבו בר חילפא בר סמקאי\"",
+          "aliases": [
+            "\"ר' חלבו בר חילפא בר סמקאי\""
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "הונא"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:5da6f61e51e019a5a2d2",
+              "title": "\"ר' חלבו בר חילפא בר סמקאי\"",
+              "classification": null,
+              "identity_caution": true
+            },
+            {
+              "key": "hyman-section:5da6f61e51e019a5a2d2",
+              "title": "\"ר' חלבו בר חילפא בר סמקאי\"",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' חלבו בר חילפא בר סמקאי==\nנזכר ב\"ר פ\"נא־ב, אמר בשם ר' יהודה בר' סימון.\n<קטע סוף=ר' חלבו בר חילפא בר סמקאי/><קטע התחלה=\"ר' חלבו בקרוייה\"/>\n==ר' חלבו בקרוייה==\nבמדרש תהלים פ\"ב־ט יסופר שר' גמליאל הלך אליו שיתפלל עליו א\"ל יתן לך כלבבך, ובמדרש תהלים הישן הגרסא אבא חלפא בר קרוייה.\n<קטע סוף=ר' חלבו בקרוייה/><קטע התחלה=חלוב/>\n==חלוב==\nרב הונא בר חלוב שבת קטו:.\n\nר' יצחק בר חלוב חולין צט:.\n<קטע סוף=חלוב/><קטע התחלה=חלוון/>\n==חלוון==\nרב הונא בר חלוון שבת קלט:.\n<קטע סוף=חלוון/><קטע התחלה=חלוקה/>\n==חלוקה==\nר' צדוק {{קטן|(וגרסת דק\"ס ר' יצחק)}} בר חלוקה יומא עח..\n<קטע סוף=חלוקה/><קטע התחלה=חלי/>\n==חלי==",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:66ff20d65d9526379c69",
+        "name": "\"ר' חלבו בר חנן\"",
+        "profile": {
+          "identity_key": "hyman-section:66ff20d65d9526379c69",
+          "canonical_name_he": "\"ר' חלבו בר חנן\"",
+          "aliases": [
+            "\"ר' חלבו בר חנן\""
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "ששת",
+            "חונה",
+            "הונא"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:66ff20d65d9526379c69",
+              "title": "\"ר' חלבו בר חנן\"",
+              "classification": null,
+              "identity_caution": true
+            },
+            {
+              "key": "hyman-section:66ff20d65d9526379c69",
+              "title": "\"ר' חלבו בר חנן\"",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' חלבו בר חנן==\nבירושלמי ברכות פ\"ז ה\"א אמר בשם רב, ורב ששת מתיב עליה, ונראה שגם כאן צ\"ל ר' חלבו רב חונה בשם רב.\n<קטע סוף=ר' חלבו בר חנן/><קטע התחלה=\"ר' חלבו בר חילפא בר סמקאי\"/>\n==ר' חלבו בר חילפא בר סמקאי==\nנזכר ב\"ר פ\"נא־ב, אמר בשם ר' יהודה בר' סימון.\n<קטע סוף=ר' חלבו בר חילפא בר סמקאי/><קטע התחלה=\"ר' חלבו בקרוייה\"/>\n==ר' חלבו בקרוייה==\nבמדרש תהלים פ\"ב־ט יסופר שר' גמליאל הלך אליו שיתפלל עליו א\"ל יתן לך כלבבך, ובמדרש תהלים הישן הגרסא אבא חלפא בר קרוייה.\n<קטע סוף=ר' חלבו בקרוייה/><קטע התחלה=חלוב/>\n==חלוב==\nרב הונא בר חלוב שבת קטו:.\n\nר' יצחק בר חלוב חולין צט:.\n<קטע סוף=חלוב/><קטע התחלה=חלוון",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:5c6541ebdc629c3dbee6",
+        "name": "\"ר' חמא אבוה דר' אושעיא\"",
+        "profile": {
+          "identity_key": "hyman-section:5c6541ebdc629c3dbee6",
+          "canonical_name_he": "\"ר' חמא אבוה דר' אושעיא\"",
+          "aliases": [
+            "\"ר' חמא אבוה דר' אושעיא\""
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "רבא",
+            "יוסף==",
+            "יוסף",
+            "חמא",
+            "נחמן"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [
+            "הביתה",
+            "שעומד"
+          ],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:5c6541ebdc629c3dbee6",
+              "title": "\"ר' חמא אבוה דר' אושעיא\"",
+              "classification": null,
+              "identity_caution": true
+            },
+            {
+              "key": "hyman-section:5c6541ebdc629c3dbee6",
+              "title": "\"ר' חמא אבוה דר' אושעיא\"",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' חמא אבוה דר' אושעיא==\nערך ר' חמא בר ביסא.\n<קטע סוף=ר' חמא אבוה דר' אושעיא/><קטע התחלה=\"חמא אבוה דרב יוסף\"/>\n==חמא אבוה דרב יוסף==\nנזכר סנהדרין פא. בעי מיניה אבוה דרב יוסף בר חמא מרבה בר נתן, והוא אבי זקינו דרבא כעירובין נד. ונדרים נה.\n<קטע סוף=חמא אבוה דרב יוסף/><קטע התחלה=\"ר' חמא אבי בר קפרא\"/>\n==ר' חמא אבי בר קפרא==\nכן הוא בשבועות פ\"ו ה\"ב, והוא ט\"ס וצ\"ל ר' חמא אבוה דר' אושעיה, ובר קפרא.\n<קטע סוף=ר' חמא אבי בר קפרא/><קטע התחלה=\"ר' חמא אריכא\"/>\n==ר' חמא אריכא==\nנזכר ילקוט משלי רמז תתקס כן מובא באוצר ישראל ולא נמצא בילקוט שלנו ובל\"ס צ\"ל ר' חייא אריכא.\n<קטע סוף=ר' חמא אריכא/><קטע התחלה=\"רב",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:886302213c2255acfcd1",
+        "name": "\"ר' חמא אבי בר קפרא\"",
+        "profile": {
+          "identity_key": "hyman-section:886302213c2255acfcd1",
+          "canonical_name_he": "\"ר' חמא אבי בר קפרא\"",
+          "aliases": [
+            "\"ר' חמא אבי בר קפרא\""
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "רבא",
+            "חמא",
+            "נחמן"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [
+            "הביתה",
+            "שעומד"
+          ],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:886302213c2255acfcd1",
+              "title": "\"ר' חמא אבי בר קפרא\"",
+              "classification": null,
+              "identity_caution": true
+            },
+            {
+              "key": "hyman-section:886302213c2255acfcd1",
+              "title": "\"ר' חמא אבי בר קפרא\"",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' חמא אבי בר קפרא==\nכן הוא בשבועות פ\"ו ה\"ב, והוא ט\"ס וצ\"ל ר' חמא אבוה דר' אושעיה, ובר קפרא.\n<קטע סוף=ר' חמא אבי בר קפרא/><קטע התחלה=\"ר' חמא אריכא\"/>\n==ר' חמא אריכא==\nנזכר ילקוט משלי רמז תתקס כן מובא באוצר ישראל ולא נמצא בילקוט שלנו ובל\"ס צ\"ל ר' חייא אריכא.\n<קטע סוף=ר' חמא אריכא/><קטע התחלה=\"רב חמא בר אבא\"/>\n==רב חמא בר אבא==\nנזכר יבמות סב: ור\"נ מפרש דברי. ובפס' רבתי פ' אנכי מנחמכם פסוק ותשכח ר' חגי בשם ר' חמא בר אבא.\n<קטע סוף=רב חמא בר אבא/><קטע התחלה=\"רב חמא בר אדא שליח ציון\"/>\n==רב חמא בר אדא שליח ציון==\nבביצה כה: א\"ל רב נחמן כי סלקת התם אקיף וזיל אסולמא דצור וזיל לגביה דר' יעקב בר אידי ",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:333439",
+        "name": "און בר אמי",
+        "profile": {
+          "identity_key": "heiman:333439",
+          "canonical_name_he": "און בר אמי",
+          "aliases": [
+            "און בר אמי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "יהודה"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:bb009f8ca33041e51930",
+              "title": "און בר אמי",
+              "classification": null,
+              "identity_caution": true
+            },
+            {
+              "key": "heiman:333439",
+              "title": "און בר אמי",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==און בר אמי==\n(און בן פלח, במדבר פטו-א)\n\nכן מובא בסה\"ד מ[[ירושלמי שבת ו ה|שבת פ\"ו רה\"ה]] שאמר לפני רב יהודה, אבל גרסא שלנו אנן בר אימי, וכל שמות הירושלמי דשם משובש וא\"א להעמיד הגרסאות דשם, ובאור זרוע ח\"ב ספ\"ד גרס חנן בר אימי אמר קומי רב יהודה בשם מנשה בר ירמיה.\n\n\n==און בר אמי==\n(און בן פלח, במדבר פטו-א)\n\nכן מובא בסה\"ד מ[[ירושלמי שבת ו ה|שבת פ\"ו רה\"ה]] שאמר לפני רב יהודה, אבל גרסא שלנו אנן בר אימי, וכל שמות הירושלמי דשם משובש וא\"א להעמיד הגרסאות דשם, ובאור זרוע ח\"ב ספ\"ד גרס חנן בר אימי אמר קומי רב יהודה בשם מנשה בר ירמיה.\n",
+          "external_ids": {
+            "heiman_pageid": 333439
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:333442",
+        "name": "אוסטייא",
+        "profile": {
+          "identity_key": "heiman:333442",
+          "canonical_name_he": "אוסטייא",
+          "aliases": [
+            "אוסטייא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:3bdc6b2b92a80ad4ae51",
+              "title": "אוסטייא",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:333442",
+              "title": "אוסטייא",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==אוסטייא==\nר' יצחק בריה [[ירושלמי יבמות א א|יבמות פ\"א ה\"א]].\n\n\n==אוסטייא==\nר' יצחק בריה [[ירושלמי יבמות א א|יבמות פ\"א ה\"א]].\n",
+          "external_ids": {
+            "heiman_pageid": 333442
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:333465",
+        "name": "אזגור או איזגדר מלכא",
+        "profile": {
+          "identity_key": "heiman:333465",
+          "canonical_name_he": "אזגור או איזגדר מלכא",
+          "aliases": [
+            "אזגור או איזגדר מלכא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "אשי"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:6b52f4baaeda0cb4b08f",
+              "title": "אזגור או איזגדר מלכא",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:333465",
+              "title": "אזגור או איזגדר מלכא",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==אזגור או איזגדר מלכא==\nהוא היה מלך פרס בזמן רב אשי והיה אוהב ומכבד את חכמי ישראל כ[[זבחים יט א|זבחים יט.]] אמר רב אשי אמר לי הונא בר נתן זימנא חדא הוה קאימנא קמיה דאזגדר מלכא והיה מדלי לי המיינאי, וב[[כתובות סא א|כתובות סא.]] אמימר ומר זוטרא ורב אשי הוי קיימי אפתחא דבי אזגור מלכא.\n\nויש איזגדר מלכא שהיה רשע בזמן מר בר רב אשי כדמובא באגרת דרש\"ג ח\"ג פ\"ד והוא היה נכדו של הראשון וכאשר האריך בזה הגאון רש\"י רפפרט בטוב טעם ודעת בספרו ערך מלין.\n\n\n==אזגור או איזגדר מלכא==\nהוא היה מלך פרס בזמן רב אשי והיה אוהב ומכבד את חכמי ישראל כ[[זבחים יט א|זבחים יט.]] אמר רב אשי אמר לי הונא בר נתן זימנא חדא הוה קא",
+          "external_ids": {
+            "heiman_pageid": 333465
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:333466",
+        "name": "אחא",
+        "profile": {
+          "identity_key": "heiman:333466",
+          "canonical_name_he": "אחא",
+          "aliases": [
+            "אחא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "אדא",
+            "הונא",
+            "חונא",
+            "אחא",
+            "משרשיה",
+            "שמואל"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:3fcdc6d7af804e37a4c7",
+              "title": "אחא",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:333466",
+              "title": "אחא",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==אחא==\nאבא בר אחא [[ברכות כה ב|ברכות כה:]], רב אדא בר אחא [[זבחים כב א|זבחים כב.]], רב הונא בר אחא ירושלמי סוף מע\"ש, רב חונא בר אחא [[סוכה נב ב|סוכה נב:]], ר' יעקב בריה דרב אחא [[מועד קטן כז ב|מו\"ק כז:]], ר' יעקב בר אחא [[ברכות כג א|ברכות כג.]], ר' ירמיה ב\"א [[חולין נא ב|חולין נא:]], רב משרשיה בריה דרב אחא [[חולין סז ב|חולין סז:]], רב שמואל ב\"א [[נזיר נא ב|נזיר נא:]]\n\n\n==אחא==\nאבא בר אחא [[ברכות כה ב|ברכות כה:]], רב אדא בר אחא [[זבחים כב א|זבחים כב.]], רב הונא בר אחא ירושלמי סוף מע\"ש, רב חונא בר אחא [[סוכה נב ב|סוכה נב:]], ר' יעקב בריה דרב אחא [[מועד קטן כז ב|מו\"ק כז:]], ר' יעקב בר אחא [[ברכ",
+          "external_ids": {
+            "heiman_pageid": 333466
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:333495",
+        "name": "אחא בר חדייא דמתקרי אייא מרי",
+        "profile": {
+          "identity_key": "heiman:333495",
+          "canonical_name_he": "אחא בר חדייא דמתקרי אייא מרי",
+          "aliases": [
+            "אחא בר חדייא דמתקרי אייא מרי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "אחא"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:ec451ed6befdbda65715",
+              "title": "אחא בר חדייא דמתקרי אייא מרי",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:333495",
+              "title": "אחא בר חדייא דמתקרי אייא מרי",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==אחא בר חדייא דמתקרי אייא מרי==\nנזכר [[גיטין לה א|גיטין לה.]], אבל הוא אינו מן החכמים, ואך אחד ששמו כן גירש את אשתו, ובפירוש ר\"ח שם לד: גרס רב אחא בר חוירא דמתקרי אבא בר מרי.\n\n\n==אחא בר חדייא דמתקרי אייא מרי==\nנזכר [[גיטין לה א|גיטין לה.]], אבל הוא אינו מן החכמים, ואך אחד ששמו כן גירש את אשתו, ובפירוש ר\"ח שם לד: גרס רב אחא בר חוירא דמתקרי אבא בר מרי.\n",
+          "external_ids": {
+            "heiman_pageid": 333495
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:333529",
+        "name": "אחא בר שילא",
+        "profile": {
+          "identity_key": "heiman:333529",
+          "canonical_name_he": "אחא בר שילא",
+          "aliases": [
+            "אחא בר שילא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:0a27e2f3e299ad98c102",
+              "title": "אחא בר שילא",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:333529",
+              "title": "אחא בר שילא",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==אחא בר שילא==\nאיש כפר תמרתא. נזכר אס\"ד ספ\"ו ר' לוי בשמו.\n\n\n==אחא בר שילא==\nאיש כפר תמרתא. נזכר אס\"ד ספ\"ו ר' לוי בשמו.\n",
+          "external_ids": {
+            "heiman_pageid": 333529
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:333561",
+        "name": "אחיה ושמעיה אחיו",
+        "profile": {
+          "identity_key": "heiman:333561",
+          "canonical_name_he": "אחיה ושמעיה אחיו",
+          "aliases": [
+            "אחיה ושמעיה אחיו"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [
+            "ושמעיה"
+          ],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:8b1ef0267a1ddbf04a9b",
+              "title": "אחיה ושמעיה אחיו",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:333561",
+              "title": "אחיה ושמעיה אחיו",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==אחיה ושמעיה אחיו==\nהיו מהרוגי מלכות כ[[תענית יח ב|תענית יח:]] ופרש\"י חסידים היו ולא פירש מי הם. וב[[ספר הערוך/אות ה#הרג|ערוך ערך הרג]], מפרש שהם הרוגי לוד הנזכרים [[פסחים נ א|פסחים נ.]], ו[[בבא בתרא י ב|ב\"ב י:]].\n\n\n==אחיה ושמעיה אחיו==\nהיו מהרוגי מלכות כ[[תענית יח ב|תענית יח:]] ופרש\"י חסידים היו ולא פירש מי הם. וב[[ספר הערוך/אות ה#הרג|ערוך ערך הרג]], מפרש שהם הרוגי לוד הנזכרים [[פסחים נ א|פסחים נ.]], ו[[בבא בתרא י ב|ב\"ב י:]].\n",
+          "external_ids": {
+            "heiman_pageid": 333561
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:333570",
+        "name": "אחיתאי",
+        "profile": {
+          "identity_key": "heiman:333570",
+          "canonical_name_he": "אחיתאי",
+          "aliases": [
+            "אחיתאי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "יהודה",
+            "שמואל"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:869d7131f2483f61c9e7",
+              "title": "אחיתאי",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:333570",
+              "title": "אחיתאי",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==אחיתאי==\nרב יהודה ב\"א [[כריתות יג ב|כריתות יג:]], רב שמואל ב\"א [[סוכה מב א|סוכה מב.]].\n\n\n==אחיתאי==\nרב יהודה ב\"א [[כריתות יג ב|כריתות יג:]], רב שמואל ב\"א [[סוכה מב א|סוכה מב.]].\n",
+          "external_ids": {
+            "heiman_pageid": 333570
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:344855",
+        "name": "סורמקי",
+        "profile": {
+          "identity_key": "heiman:344855",
+          "canonical_name_he": "סורמקי",
+          "aliases": [
+            "סורמקי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "חביבא"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:d9149c9e335f5f12050f",
+              "title": "סורמקי",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:344855",
+              "title": "סורמקי",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==סורמקי==\nרב חביבא בר סורמקי יומא י..\n\n<br/>\n==סורמקי==\nרב חביבא בר סורמקי יומא י..\n",
+          "external_ids": {
+            "heiman_pageid": 344855
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:344858",
+        "name": "סטינא",
+        "profile": {
+          "identity_key": "heiman:344858",
+          "canonical_name_he": "סטינא",
+          "aliases": [
+            "סטינא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:ddfa88a0d71fb6722d13",
+              "title": "סטינא",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:344858",
+              "title": "סטינא",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==סטינא==\nאר\"ל. נזכר ב\"מ קיז. ופירש\"י שם חכם תלמיד ר\"ל.\n\n<br/>\n==סטינא==\nאר\"ל. נזכר ב\"מ קיז. ופירש\"י שם חכם תלמיד ר\"ל.\n",
+          "external_ids": {
+            "heiman_pageid": 344858
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:344860",
+        "name": "סילני",
+        "profile": {
+          "identity_key": "heiman:344860",
+          "canonical_name_he": "סילני",
+          "aliases": [
+            "סילני"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:c9310088e3137c43a8b1",
+              "title": "סילני",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:344860",
+              "title": "סילני",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==סילני==\nנזכר שביעית רפ\"ג שאל גר' חייא בר בא, (ובסה\"ד איתא שבועות בטעות).\n\n<br/>\n==סילני==\nנזכר שביעית רפ\"ג שאל גר' חייא בר בא, (ובסה\"ד איתא שבועות בטעות).\n",
+          "external_ids": {
+            "heiman_pageid": 344860
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:344864",
+        "name": "סימון",
+        "profile": {
+          "identity_key": "heiman:344864",
+          "canonical_name_he": "סימון",
+          "aliases": [
+            "סימון"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:e916d0e58bd043372db5",
+              "title": "סימון",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:344864",
+              "title": "סימון",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==סימון==\nר' יהודה בר סימון ב\"ק מז:.\n\nר' יוסטי בר' סימון עירובין פ\"ו ה\"ד.\n\nר' יוסי בר' סימון מע\"ש פ\"ד ה\"ב.\n\nלוי בר סימון חולין קמא:.\n\n<br/>\n==סימון==\nר' יהודה בר סימון ב\"ק מז:.\n\nר' יוסטי בר' סימון עירובין פ\"ו ה\"ד.\n\nר' יוסי בר' סימון מע\"ש פ\"ד ה\"ב.\n\nלוי בר סימון חולין קמא:.\n",
+          "external_ids": {
+            "heiman_pageid": 344864
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:344876",
+        "name": "סימן",
+        "profile": {
+          "identity_key": "heiman:344876",
+          "canonical_name_he": "סימן",
+          "aliases": [
+            "סימן"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "שילא"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:1dd38f96fb116895f3c0",
+              "title": "סימן",
+              "classification": null,
+              "identity_caution": true
+            },
+            {
+              "key": "heiman:344876",
+              "title": "סימן",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==סימן==\nבב\"ב קיג. סימן אמר רבה בר רב שילא, ובמסורת הש\"ס כתב י\"ל שהוא שם חכם.\n\nויותר נראה שחסר בגמרא תיבת אימם סימן, והוא ר\"ת המקראות איש, ידבקנו, מטות, ממטה או שצ\"ל בחב\"ש סימן והוא שמות האמוראין שמתרצין שם, וכן הוא דעת בעל דק\"ס שם אות ט'.\n\n<br/>\n==סימן==\nבב\"ב קיג. סימן אמר רבה בר רב שילא, ובמסורת הש\"ס כתב י\"ל שהוא שם חכם.\n\nויותר נראה שחסר בגמרא תיבת אימם סימן, והוא ר\"ת המקראות איש, ידבקנו, מטות, ממטה או שצ\"ל בחב\"ש סימן והוא שמות האמוראין שמתרצין שם, וכן הוא דעת בעל דק\"ס שם אות ט'.\n",
+          "external_ids": {
+            "heiman_pageid": 344876
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:344877",
+        "name": "סיני",
+        "profile": {
+          "identity_key": "heiman:344877",
+          "canonical_name_he": "סיני",
+          "aliases": [
+            "סיני"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "יוסף"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:2528b145a908620e5ecf",
+              "title": "סיני",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:344877",
+              "title": "סיני",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==סיני==\nהוא רב יוסף עיין ערכו.\n\n<br/>\n==סיני==\nהוא רב יוסף עיין ערכו.\n",
+          "external_ids": {
+            "heiman_pageid": 344877
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:344879",
+        "name": "סיסי",
+        "profile": {
+          "identity_key": "heiman:344879",
+          "canonical_name_he": "סיסי",
+          "aliases": [
+            "סיסי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:c8b6adfdca447175591d",
+              "title": "סיסי",
+              "classification": null,
+              "identity_caution": true
+            },
+            {
+              "key": "heiman:344879",
+              "title": "סיסי",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==סיסי==\nאינייני בר סוסי ברכות פ\"ז ה\"ב, ובסנהדרין ספ\"ב הגרסא ר' חנינא בר סיסי.\n\nלוי בר סיסי הידוע.\n\n<br/>\n==סיסי==\nאינייני בר סוסי ברכות פ\"ז ה\"ב, ובסנהדרין ספ\"ב הגרסא ר' חנינא בר סיסי.\n\nלוי בר סיסי הידוע.\n",
+          "external_ids": {
+            "heiman_pageid": 344879
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:344881",
+        "name": "סיסין",
+        "profile": {
+          "identity_key": "heiman:344881",
+          "canonical_name_he": "סיסין",
+          "aliases": [
+            "סיסין"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:fdfc16b1cd26fd7e4f36",
+              "title": "סיסין",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:344881",
+              "title": "סיסין",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==סיסין==\nר' יהודה בר סיסין קידושין פ\"ג ה\"ג.\n\nר' יעקב בר סיסין מעשרות פ\"א ה\"ד.\n\n<br/>\n==סיסין==\nר' יהודה בר סיסין קידושין פ\"ג ה\"ג.\n\nר' יעקב בר סיסין מעשרות פ\"א ה\"ד.\n",
+          "external_ids": {
+            "heiman_pageid": 344881
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:344897",
+        "name": "סמליון",
+        "profile": {
+          "identity_key": "heiman:344897",
+          "canonical_name_he": "סמליון",
+          "aliases": [
+            "סמליון"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:7a89e76df0545927f31b",
+              "title": "סמליון",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:344897",
+              "title": "סמליון",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==סמליון==\nבסוטה יג: וספרי ברכה-לד סמליון אומר וימת שם משה ספרא רבה דישראל, ופירש\"י שם חכם, ובערוך ערך סמליון פי' שם מלאך.\n\n<br/>\n==סמליון==\nבסוטה יג: וספרי ברכה-לד סמליון אומר וימת שם משה ספרא רבה דישראל, ופירש\"י שם חכם, ובערוך ערך סמליון פי' שם מלאך.\n",
+          "external_ids": {
+            "heiman_pageid": 344897
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:344898",
+        "name": "סמקאי",
+        "profile": {
+          "identity_key": "heiman:344898",
+          "canonical_name_he": "סמקאי",
+          "aliases": [
+            "סמקאי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:77285e00061a7806370f",
+              "title": "סמקאי",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:344898",
+              "title": "סמקאי",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==סמקאי==\nחילפי בר סמקאי ב\"ר פ\"נא-ב.\n\n<br/>\n==סמקאי==\nחילפי בר סמקאי ב\"ר פ\"נא-ב.\n",
+          "external_ids": {
+            "heiman_pageid": 344898
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:344899",
+        "name": "סנסן",
+        "profile": {
+          "identity_key": "heiman:344899",
+          "canonical_name_he": "סנסן",
+          "aliases": [
+            "סנסן"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:d14b2abbd0f8081876ae",
+              "title": "סנסן",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:344899",
+              "title": "סנסן",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==סנסן==\nר' חנינא בר סנסן ב\"ר פ\"יט-ב.\n\n<br/>\n==סנסן==\nר' חנינא בר סנסן ב\"ר פ\"יט-ב.\n",
+          "external_ids": {
+            "heiman_pageid": 344899
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:344900",
+        "name": "ססרטאי",
+        "profile": {
+          "identity_key": "heiman:344900",
+          "canonical_name_he": "ססרטאי",
+          "aliases": [
+            "ססרטאי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "שמואל"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:3191c6b3cd019bb15fd9",
+              "title": "ססרטאי",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:344900",
+              "title": "ססרטאי",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==ססרטאי==\nרב שמואל בר ססרטאי תענית יד..\n\n<br/>\n==ססרטאי==\nרב שמואל בר ססרטאי תענית יד..\n",
+          "external_ids": {
+            "heiman_pageid": 344900
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:344902",
+        "name": "ספרא",
+        "profile": {
+          "identity_key": "heiman:344902",
+          "canonical_name_he": "ספרא",
+          "aliases": [
+            "ספרא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:d738696bdc8b2ea957d8",
+              "title": "ספרא",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:344902",
+              "title": "ספרא",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==ספרא==\nר' חנינא בר ספרא מדרש שמואל פ\"כה.\n\nר' יהודה בר ספרא פסחים ע:.\n\n<br/>\n==ספרא==\nר' חנינא בר ספרא מדרש שמואל פ\"כה.\n\nר' יהודה בר ספרא פסחים ע:.\n",
+          "external_ids": {
+            "heiman_pageid": 344902
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:344907",
+        "name": "סתריאל",
+        "profile": {
+          "identity_key": "heiman:344907",
+          "canonical_name_he": "סתריאל",
+          "aliases": [
+            "סתריאל"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:20a520bd2928cb2200f8",
+              "title": "סתריאל",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:344907",
+              "title": "סתריאל",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==סתריאל==\nר' ישמעאל בן סתריאל (בזמן רבי) בכורות נז:.\n\n<br/>\n==סתריאל==\nר' ישמעאל בן סתריאל (בזמן רבי) בכורות נז:.\n",
+          "external_ids": {
+            "heiman_pageid": 344907
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:b7699b4fd33df51c2f2e",
+        "name": "ע",
+        "profile": {
+          "identity_key": "hyman-section:b7699b4fd33df51c2f2e",
+          "canonical_name_he": "ע",
+          "aliases": [
+            "ע"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:b7699b4fd33df51c2f2e",
+              "title": "ע",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "hyman-section:b7699b4fd33df51c2f2e",
+              "title": "ע",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n=ע=\n\n\n=ע=\n",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:ad8423f78ba5662418d1",
+        "name": "עבודה זרה",
+        "profile": {
+          "identity_key": "hyman-section:ad8423f78ba5662418d1",
+          "canonical_name_he": "עבודה זרה",
+          "aliases": [
+            "עבודה זרה"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:ad8423f78ba5662418d1",
+              "title": "עבודה זרה",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "hyman-section:ad8423f78ba5662418d1",
+              "title": "עבודה זרה",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "[[עבודה זרה ד ב|ע\"ז ד:]] [יום מעיד טרף בעגל סימן],\nהמה ד' מאמרים שאמר רי\"בל.\n\n[[עבודה זרה ד ב|ע\"ז ד:]] [יום מעיד טרף בעגל סימן],\nהמה ד' מאמרים שאמר רי\"בל.\n",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:d6eb52bfe983a235a83c",
+        "name": "עגיל",
+        "profile": {
+          "identity_key": "hyman-section:d6eb52bfe983a235a83c",
+          "canonical_name_he": "עגיל",
+          "aliases": [
+            "עגיל"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:d6eb52bfe983a235a83c",
+              "title": "עגיל",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "hyman-section:d6eb52bfe983a235a83c",
+              "title": "עגיל",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==עגיל==\nר' חנינא בר עגיל ב\"ק נד:.\n\n<br/>\n==עגיל==\nר' חנינא בר עגיל ב\"ק נד:.\n",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:9a70ef965d027d044b24",
+        "name": "עדה קדושה",
+        "profile": {
+          "identity_key": "hyman-section:9a70ef965d027d044b24",
+          "canonical_name_he": "עדה קדושה",
+          "aliases": [
+            "עדה קדושה"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:9a70ef965d027d044b24",
+              "title": "עדה קדושה",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "hyman-section:9a70ef965d027d044b24",
+              "title": "עדה קדושה",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==עדה קדושה==\nכן היו נקראין ר' יוסי בן המשולם ור' שמעון בן מנסיא בירושלמי מע\"ש פ\"ב ה\"ד, עיין ערכם.\n\n<br/>\n==עדה קדושה==\nכן היו נקראין ר' יוסי בן המשולם ור' שמעון בן מנסיא בירושלמי מע\"ש פ\"ב ה\"ד, עיין ערכם.\n",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:b93a875aa764ca69104c",
+        "name": "עדו",
+        "profile": {
+          "identity_key": "hyman-section:b93a875aa764ca69104c",
+          "canonical_name_he": "עדו",
+          "aliases": [
+            "עדו"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:b93a875aa764ca69104c",
+              "title": "עדו",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "hyman-section:b93a875aa764ca69104c",
+              "title": "עדו",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==עדו==\n(עדו הנביא, ד\"ה ב' פ\"יג-כב).\n\nר' חנניה בר עדו תוספתא סוף עידיות.\n\n<br/>\n==עדו==\n(עדו הנביא, ד\"ה ב' פ\"יג-כב).\n\nר' חנניה בר עדו תוספתא סוף עידיות.\n",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:cc41828891be330918a3",
+        "name": "עדי",
+        "profile": {
+          "identity_key": "hyman-section:cc41828891be330918a3",
+          "canonical_name_he": "עדי",
+          "aliases": [
+            "עדי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:cc41828891be330918a3",
+              "title": "עדי",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "hyman-section:cc41828891be330918a3",
+              "title": "עדי",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==עדי==\nבערוך ערך נמס מביא ממגילה יב: מרדכי מוכתר בנימוס הוה כעדי פי' (כאדם אחר ששמו עדי) שהיה ידוע בדורו וזהיר במצות, אבל רש\"י שם לא גרס תיבת כעדי.\n\n<br/>\n==עדי==\nבערוך ערך נמס מביא ממגילה יב: מרדכי מוכתר בנימוס הוה כעדי פי' (כאדם אחר ששמו עדי) שהיה ידוע בדורו וזהיר במצות, אבל רש\"י שם לא גרס תיבת כעדי.\n",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:98de88d2add3ddc204be",
+        "name": "עדי טייעא",
+        "profile": {
+          "identity_key": "hyman-section:98de88d2add3ddc204be",
+          "canonical_name_he": "עדי טייעא",
+          "aliases": [
+            "עדי טייעא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:98de88d2add3ddc204be",
+              "title": "עדי טייעא",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "hyman-section:98de88d2add3ddc204be",
+              "title": "עדי טייעא",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==עדי טייעא==\nבמנחות סט: יסופר עליו שנחית ליה (מן העננים) רום כיזבא חיטי בג' פרסי.\n\n<br/>\n==עדי טייעא==\nבמנחות סט: יסופר עליו שנחית ליה (מן העננים) רום כיזבא חיטי בג' פרסי.\n",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:730c8d4e0f3bbb77c115",
+        "name": "עוא",
+        "profile": {
+          "identity_key": "hyman-section:730c8d4e0f3bbb77c115",
+          "canonical_name_he": "עוא",
+          "aliases": [
+            "עוא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "אחא"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:730c8d4e0f3bbb77c115",
+              "title": "עוא",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "hyman-section:730c8d4e0f3bbb77c115",
+              "title": "עוא",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "<br/>\n==עוא==\nרב אחא בר עוא חולין נ:.\n\n<br/>\n==עוא==\nרב אחא בר עוא חולין נ:.\n",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:f1e2fdffe29f73e78f02",
+        "name": "עירובין",
+        "profile": {
+          "identity_key": "hyman-section:f1e2fdffe29f73e78f02",
+          "canonical_name_he": "עירובין",
+          "aliases": [
+            "עירובין"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "בית",
+            "אחא",
+            "איקא",
+            "ביבי",
+            "וכו",
+            "החכם",
+            "ושמואל",
+            "נתן",
+            "חסדא",
+            "יהודה",
+            "יצחק"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:f1e2fdffe29f73e78f02",
+              "title": "עירובין",
+              "classification": null,
+              "identity_caution": true
+            },
+            {
+              "key": "hyman-section:f1e2fdffe29f73e78f02",
+              "title": "עירובין",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "[[עירובין יח א|עירובין יח.]] [דיו, למנודה, שבח, זוגית, \nנתקלקל, במידה, שלשה סימן] והמה ז'\nדברים שאמר ר' ירמיה בן אלעזר. א)\nדיו פרצוף פנים, ב) כל אותן שנים\nשהיה אדם הראשון בנדוי, ג) מקצת\nשבחו, ד) אמרה יונה - יהיו מזונותי,\nה) נתקללה בבל {{ק|(וכן צ\"ל בהסימן)}}, ו) לא\nכמידת הקב\"ה, ז) שלשה פתחים יש\nלגיהנם. אבל שם בנמרא אמר ר' ירמיה\nבן אלעזר עוד ב' דברים, א) כל בית\nשנשמעין בו ד\"ת. ב) מיום שחרב בית\nהמקדש, ולכן גורס הגר\"א [דיו, מנודה,\nשבח יונה, בית, שתי, נתקלל, במדה, \nשלשה, וחכם עדיף מנביא כי כן הוא\nבדק\"ס בכ\"י א\"פ. אבל נראה כי אין\nאנו צריכין לזה, ואך תיבת שבח הוא\nר\"ת מקצת '''שבחו''', כל '''בית''', מיו",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:5cb0885e25c7c30453fc",
+        "name": "פסחים",
+        "profile": {
+          "identity_key": "hyman-section:5cb0885e25c7c30453fc",
+          "canonical_name_he": "פסחים",
+          "aliases": [
+            "פסחים"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "שבת"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:5cb0885e25c7c30453fc",
+              "title": "פסחים",
+              "classification": null,
+              "identity_caution": true
+            },
+            {
+              "key": "hyman-section:5cb0885e25c7c30453fc",
+              "title": "פסחים",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "[[פסחים סח ב|פסחים סח:]] [עב\"ס סימן], והוא ר\"ת\nר' אל{{ג|'''ע'''}}זר, ר{{ג|'''ב'''}}ה, רבי יו{{ג|'''ס'''}}ף, שכולם אמרו\nהכל מודים דבעינן לכם.\n\n[[פסחים עב א|שם עב.]] והתניא ר' חייא [מאבל ערב],\nונפל קצת ט\"ס וצ\"ל \"מאיר ערב\" פי'\nשר\"מ אמר הדין שלא נחלקו ר\"א ור'\nיהושע - אחד למול \"ערב שבת\" ויען\nשב[[פסחים עב א|דף עב.]] איתא א\"ר שמעון לא נחלקו,\nלכן הניחו סימן שבכאן א\"ר מאיר, ולכן\nליתא תיבה זה ב[[שבת כ א|שבת כ.]] כי שם לא\nנוכל לטעות כי דברי ר' שמעון ליתא\nשם, וברש\"י פירש שהוא שם מקים.\n{{ק|(משפחת סופרים יא. בלשון אחר)}}.\n\n[[פסחים קיב ב|שם קיב:]] [מק\"ש סימן] והמה שלשה\nדברים שצוה ר' ישמעאל בר' יוסי את\nרבי, '",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:b2512ea5751a8ef140ac",
+        "name": "פרנך",
+        "profile": {
+          "identity_key": "hyman-section:b2512ea5751a8ef140ac",
+          "canonical_name_he": "פרנך",
+          "aliases": [
+            "פרנך"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:b2512ea5751a8ef140ac",
+              "title": "פרנך",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "hyman-section:b2512ea5751a8ef140ac",
+              "title": "פרנך",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==פרנך==\nחזקיה בר' פרנך ברכות סג..\n\nר' יצחק בן פרנך כלה רבתי רפ\"ג.\n\n\n==פרנך==\nחזקיה בר' פרנך ברכות סג..\n\nר' יצחק בן פרנך כלה רבתי רפ\"ג.\n",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:65eaa26a1ad1ba9b05e3",
+        "name": "פשפשה",
+        "profile": {
+          "identity_key": "hyman-section:65eaa26a1ad1ba9b05e3",
+          "canonical_name_he": "פשפשה",
+          "aliases": [
+            "פשפשה"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:65eaa26a1ad1ba9b05e3",
+              "title": "פשפשה",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "hyman-section:65eaa26a1ad1ba9b05e3",
+              "title": "פשפשה",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==פשפשה==\nבירושלמי שביעית פ\"ו ה\"א פשפשה א\"ר יוסי שאלית לר' אבא, ומפרש בפני משה שהוא שם חכם, ויותר נראה שהוא שם מקום.\n\nובספר אהבת צי\"ו מפרש פשפשה הוא כמו שצריכין לבדוק ככתובות קי: שאמרו נוה היפה בודק.\n\n\n==פשפשה==\nבירושלמי שביעית פ\"ו ה\"א פשפשה א\"ר יוסי שאלית לר' אבא, ומפרש בפני משה שהוא שם חכם, ויותר נראה שהוא שם מקום.\n\nובספר אהבת צי\"ו מפרש פשפשה הוא כמו שצריכין לבדוק ככתובות קי: שאמרו נוה היפה בודק.\n",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:af8b05dcd2ad0d610a37",
+        "name": "פתיא אוכמא",
+        "profile": {
+          "identity_key": "hyman-section:af8b05dcd2ad0d610a37",
+          "canonical_name_he": "פתיא אוכמא",
+          "aliases": [
+            "פתיא אוכמא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "עינא"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:af8b05dcd2ad0d610a37",
+              "title": "פתיא אוכמא",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "hyman-section:af8b05dcd2ad0d610a37",
+              "title": "פתיא אוכמא",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==פתיא אוכמא==\nכן קרא ר\"נ לרב עינא בפסחים פח., ור' אסא קרא כן לר\"ז ע\"ז טז. ורבא קרא כן לרפרם בר פפא ברכות נ..\n\n\n==פתיא אוכמא==\nכן קרא ר\"נ לרב עינא בפסחים פח., ור' אסא קרא כן לר\"ז ע\"ז טז. ורבא קרא כן לרפרם בר פפא ברכות נ..\n",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:611688635f0423a5e87c",
+        "name": "פתר ראש",
+        "profile": {
+          "identity_key": "hyman-section:611688635f0423a5e87c",
+          "canonical_name_he": "פתר ראש",
+          "aliases": [
+            "פתר ראש"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:611688635f0423a5e87c",
+              "title": "פתר ראש",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "hyman-section:611688635f0423a5e87c",
+              "title": "פתר ראש",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==פתר ראש==\nר' יהושע בן פתר ראש (תנא), נזיר נו:.\n\n\n==פתר ראש==\nר' יהושע בן פתר ראש (תנא), נזיר נו:.\n",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:333930",
+        "name": "צורבא מרבנן",
+        "profile": {
+          "identity_key": "heiman:333930",
+          "canonical_name_he": "צורבא מרבנן",
+          "aliases": [
+            "צורבא מרבנן"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:9911358b1d08478f7c32",
+              "title": "צורבא מרבנן",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:333930",
+              "title": "צורבא מרבנן",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==צורבא מרבנן==\nהוא שם תואר לת\"ח ונמצא כמה פעמים בש\"ס.\n\n\n==צורבא מרבנן==\nהוא שם תואר לת\"ח ונמצא כמה פעמים בש\"ס.\n",
+          "external_ids": {
+            "heiman_pageid": 333930
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:333934",
+        "name": "צנועין",
+        "profile": {
+          "identity_key": "heiman:333934",
+          "canonical_name_he": "צנועין",
+          "aliases": [
+            "צנועין"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:569121057cf280259e12",
+              "title": "צנועין",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:333934",
+              "title": "צנועין",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==צנועין==\nנזכר מע\"ש פ\"ה מ\"א והצנועין מניחין את המעות.\n\nוביומא לט. והצנועין מושבין את ידיהם.\n\nובדמאי פ\"ו מ\"ו צנועי ב\"מ היו נוהגין כב\"ש.\n\nוכן מצינו ר\"ש הצנוע ועיין ערכו.\n\n\n==צנועין==\nנזכר מע\"ש פ\"ה מ\"א והצנועין מניחין את המעות.\n\nוביומא לט. והצנועין מושבין את ידיהם.\n\nובדמאי פ\"ו מ\"ו צנועי ב\"מ היו נוהגין כב\"ש.\n\nוכן מצינו ר\"ש הצנוע ועיין ערכו.\n",
+          "external_ids": {
+            "heiman_pageid": 333934
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:334113",
+        "name": "קבוטל",
+        "profile": {
+          "identity_key": "heiman:334113",
+          "canonical_name_he": "קבוטל",
+          "aliases": [
+            "קבוטל"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:528083973803d3162a1a",
+              "title": "קבוטל",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:334113",
+              "title": "קבוטל",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==קבוטל==\nר' זכריה בן קבוטל יומא פ\"א מ\"ו.\n\n\n==קבוטל==\nר' זכריה בן קבוטל יומא פ\"א מ\"ו.\n",
+          "external_ids": {
+            "heiman_pageid": 334113
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:334115",
+        "name": "קוינא",
+        "profile": {
+          "identity_key": "heiman:334115",
+          "canonical_name_he": "קוינא",
+          "aliases": [
+            "קוינא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:8a28bb4ebd17360c5e8d",
+              "title": "קוינא",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:334115",
+              "title": "קוינא",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==קוינא==\nר' חלפתא בר קוינא, תוספתא מכשירין פ\"ג ה\"ב.\n\n\n==קוינא==\nר' חלפתא בר קוינא, תוספתא מכשירין פ\"ג ה\"ב.\n",
+          "external_ids": {
+            "heiman_pageid": 334115
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:334118",
+        "name": "קוסם",
+        "profile": {
+          "identity_key": "heiman:334118",
+          "canonical_name_he": "קוסם",
+          "aliases": [
+            "קוסם"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:0c1b1b98d7c50a22c9a1",
+              "title": "קוסם",
+              "classification": null,
+              "identity_caution": true
+            },
+            {
+              "key": "heiman:334118",
+              "title": "קוסם",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==קוסם==\nגביעה בר קוסם ב\"ר פ\"סא-ז, וגרסא שלנו בסנהדרין צא. גביהא בן פסיסא.\n\n\n==קוסם==\nגביעה בר קוסם ב\"ר פ\"סא-ז, וגרסא שלנו בסנהדרין צא. גביהא בן פסיסא.\n",
+          "external_ids": {
+            "heiman_pageid": 334118
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:334121",
+        "name": "קורשאי",
+        "profile": {
+          "identity_key": "heiman:334121",
+          "canonical_name_he": "קורשאי",
+          "aliases": [
+            "קורשאי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:4d05dd04fe29c1646213",
+              "title": "קורשאי",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:334121",
+              "title": "קורשאי",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==קורשאי==\nר' יעקב בר קורשאי שבת פ\"י ה\"ח, ובהוריות יג: בן קרשי.\n\n\n==קורשאי==\nר' יעקב בר קורשאי שבת פ\"י ה\"ח, ובהוריות יג: בן קרשי.\n",
+          "external_ids": {
+            "heiman_pageid": 334121
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:334125",
+        "name": "קטינא חריך שקי",
+        "profile": {
+          "identity_key": "heiman:334125",
+          "canonical_name_he": "קטינא חריך שקי",
+          "aliases": [
+            "קטינא חריך שקי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:b37f72c6ebda2e2c5501",
+              "title": "קטינא חריך שקי",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:334125",
+              "title": "קטינא חריך שקי",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==קטינא חריך שקי==\nהוא ר' זירא עיין ערכו.\n\n\n==קטינא חריך שקי==\nהוא ר' זירא עיין ערכו.\n",
+          "external_ids": {
+            "heiman_pageid": 334125
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "hyman-section:4234aae62ecd94b100df",
+        "name": "קידושין",
+        "profile": {
+          "identity_key": "hyman-section:4234aae62ecd94b100df",
+          "canonical_name_he": "קידושין",
+          "aliases": [
+            "קידושין"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "ששת",
+            "א{{ג|ח}}א",
+            "א{{ג|ש}}י",
+            "{{ג|מ}}רי"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:4234aae62ecd94b100df",
+              "title": "קידושין",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "hyman-section:4234aae62ecd94b100df",
+              "title": "קידושין",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "[[קידושין כ ב|קידושין כ:]] [סימן עבד, בית, חצאין,\nבית עבד קרובים], אלו שלשה איבעות\nשבעי ר\"ה בר חיננא מרב ששת, עבד\nעברי הנמכר לנכרי, המוכר בית נגאל\nלחצאין, המוכר בית נגאל בקרובים,\nוהוסיפו תיבת עבד שגם הוא נגאל\nבקרובים.\n\n[[קידושין כא א|שם כא.]] [סימן חרש חבש זמן] המה\nרמזים מה שהקשה רב א{{ג|'''ח'''}}א בריה\nד{{ג|'''ר'''}}בא לרב א{{ג|'''ש'''}}י, רב א{{ג|'''ח'''}}א ס{{ג|'''ב'''}}א לרב\nא{{ג|'''ש'''}}י, מר {{ג|'''ז'''}}וטרא בריה דרב {{ג|'''מ'''}}רי לרבי{{ג|'''נ'''}}א.{{הערה|במקור, רב א{{ג|'''ש'''}}י, והוא טעות ברורה. ויקיעורך.}}\n\n[[קידושין כ ב|קידושין כ:]] [סימן עבד, בית, חצאין,\nבית עבד קרובים], אלו ש",
+          "external_ids": {},
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "hyman-section"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:334127",
+        "name": "קיסי",
+        "profile": {
+          "identity_key": "heiman:334127",
+          "canonical_name_he": "קיסי",
+          "aliases": [
+            "קיסי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:fe061992c01dea2c2c82",
+              "title": "קיסי",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:334127",
+              "title": "קיסי",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==קיסי==\nרביא בר קיסי יומא מב..\n\nרבין בר קיסי חולין כ:.\n\nרבינא בר קיסי ב\"ב סג. והוא שם של איש אחד.\n\n\n==קיסי==\nרביא בר קיסי יומא מב..\n\nרבין בר קיסי חולין כ:.\n\nרבינא בר קיסי ב\"ב סג. והוא שם של איש אחד.\n",
+          "external_ids": {
+            "heiman_pageid": 334127
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:334128",
+        "name": "קיסמא",
+        "profile": {
+          "identity_key": "heiman:334128",
+          "canonical_name_he": "קיסמא",
+          "aliases": [
+            "קיסמא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:bd58bca0c9458bc72fb1",
+              "title": "קיסמא",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:334128",
+              "title": "קיסמא",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==קיסמא==\nר' יוסי בן קיסמא שבת קנב..\n\nר' שמעון בק קיסמא שבת עה:.\n\n\n==קיסמא==\nר' יוסי בן קיסמא שבת קנב..\n\nר' שמעון בק קיסמא שבת עה:.\n",
+          "external_ids": {
+            "heiman_pageid": 334128
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:334130",
+        "name": "קיסנא",
+        "profile": {
+          "identity_key": "heiman:334130",
+          "canonical_name_he": "קיסנא",
+          "aliases": [
+            "קיסנא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "טובי"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:67e9a7a69d6d9c602734",
+              "title": "קיסנא",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:334130",
+              "title": "קיסנא",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==קיסנא==\nקב מבי בר קיסנא עירובין קד:, וביבמות מ: איתא רב טובי.\n\nרבא בר קיסנא ב\"ב יב..\n\n\n==קיסנא==\nקב מבי בר קיסנא עירובין קד:, וביבמות מ: איתא רב טובי.\n\nרבא בר קיסנא ב\"ב יב..\n",
+          "external_ids": {
+            "heiman_pageid": 334130
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:334132",
+        "name": "קיריא",
+        "profile": {
+          "identity_key": "heiman:334132",
+          "canonical_name_he": "קיריא",
+          "aliases": [
+            "קיריא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:7d062bb266d26c57b7bd",
+              "title": "קיריא",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:334132",
+              "title": "קיריא",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==קיריא==\nרבה בר קיריא כלאים פ\"ט סה\"ד.\n\n\n==קיריא==\nרבה בר קיריא כלאים פ\"ט סה\"ד.\n",
+          "external_ids": {
+            "heiman_pageid": 334132
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:334134",
+        "name": "קלא",
+        "profile": {
+          "identity_key": "heiman:334134",
+          "canonical_name_he": "קלא",
+          "aliases": [
+            "קלא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:f3f69a5ecbbc098192d0",
+              "title": "קלא הראשון",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:334134",
+              "title": "קלא",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==קלא==\nבנדה נט: אמרו וכן אורי ליה ר' אבא לקלא, ופירש\"י ותוס' שהוא שם חכם.\n\n\n==קלא==\nבנדה נט: אמרו וכן אורי ליה ר' אבא לקלא, ופירש\"י ותוס' שהוא שם חכם.\n",
+          "external_ids": {
+            "heiman_pageid": 334134
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:334135",
+        "name": "קלא דרומה",
+        "profile": {
+          "identity_key": "heiman:334135",
+          "canonical_name_he": "קלא דרומה",
+          "aliases": [
+            "קלא דרומה"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:53c5031cd8055b41b0ed",
+              "title": "קלא דרומה",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:334135",
+              "title": "קלא דרומה",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==קלא דרומה==\nעבדיה דר\"י נשייא, נזכר ביצא פ\"א ה\"ט ר\"ז שאלו.\n\n\n==קלא דרומה==\nעבדיה דר\"י נשייא, נזכר ביצא פ\"א ה\"ט ר\"ז שאלו.\n",
+          "external_ids": {
+            "heiman_pageid": 334135
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:334137",
+        "name": "קמצא ובר קמצא",
+        "profile": {
+          "identity_key": "heiman:334137",
+          "canonical_name_he": "קמצא ובר קמצא",
+          "aliases": [
+            "קמצא ובר קמצא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "ירושלים"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:cdf4e9eb5391c4d33e65",
+              "title": "קמצא ובר קמצא",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:334137",
+              "title": "קמצא ובר קמצא",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==קמצא ובר קמצא==\nבגיטין נה: יסופר שע\"י נחרב ירושלים ע\"ש כל המעשה באריכות.\n\n\n==קמצא ובר קמצא==\nבגיטין נה: יסופר שע\"י נחרב ירושלים ע\"ש כל המעשה באריכות.\n",
+          "external_ids": {
+            "heiman_pageid": 334137
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:334140",
+        "name": "קנה",
+        "profile": {
+          "identity_key": "heiman:334140",
+          "canonical_name_he": "קנה",
+          "aliases": [
+            "קנה"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:3822013ef2b3850a1e76",
+              "title": "קנה",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:334140",
+              "title": "קנה",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==קנה==\nר' נחוניא בן הקנה ברכות פ\"ד מ\"ב.\n\n\n==קנה==\nר' נחוניא בן הקנה ברכות פ\"ד מ\"ב.\n",
+          "external_ids": {
+            "heiman_pageid": 334140
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:334141",
+        "name": "קפוסאי",
+        "profile": {
+          "identity_key": "heiman:334141",
+          "canonical_name_he": "קפוסאי",
+          "aliases": [
+            "קפוסאי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:52d1ca4fd0514292cb35",
+              "title": "קפוסאי",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:334141",
+              "title": "קפוסאי",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==קפוסאי==\nר' יהושע בן קפוסאי שבת קמז..\n\n\n==קפוסאי==\nר' יהושע בן קפוסאי שבת קמז..\n",
+          "external_ids": {
+            "heiman_pageid": 334141
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:334142",
+        "name": "קצב",
+        "profile": {
+          "identity_key": "heiman:334142",
+          "canonical_name_he": "קצב",
+          "aliases": [
+            "קצב"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:7228fcb1ab189936ed11",
+              "title": "קצב",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:334142",
+              "title": "קצב",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==קצב==\nר' זכריה בן הקצב כתובות פ\"ב מ\"ט.\n\n\n==קצב==\nר' זכריה בן הקצב כתובות פ\"ב מ\"ט.\n",
+          "external_ids": {
+            "heiman_pageid": 334142
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:333440",
+        "name": "ר' אוניא",
+        "profile": {
+          "identity_key": "heiman:333440",
+          "canonical_name_he": "ר' אוניא",
+          "aliases": [
+            "ר' אוניא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:3fd3febfa17f4ebb629f",
+              "title": "ר' אוניא",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:333440",
+              "title": "ר' אוניא",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' אוניא==\nנזכר שה\"ר פ\"ב פסוק ז', ובקה\"ר פ' אני קהלת ר' אוניא ור' יודן, ובמדרש תהלים פ\"א-יח א\"ר אוניא מה המים עשויים לגנות וכו'.\n\n\n==ר' אוניא==\nנזכר שה\"ר פ\"ב פסוק ז', ובקה\"ר פ' אני קהלת ר' אוניא ור' יודן, ובמדרש תהלים פ\"א-יח א\"ר אוניא מה המים עשויים לגנות וכו'.\n",
+          "external_ids": {
+            "heiman_pageid": 333440
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:333458",
+        "name": "ר' אושעיא בנו של ר' יהודה הבושם",
+        "profile": {
+          "identity_key": "heiman:333458",
+          "canonical_name_he": "ר' אושעיא בנו של ר' יהודה הבושם",
+          "aliases": [
+            "ר' אושעיא בנו של ר' יהודה הבושם"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:27a6c5e8ef55a36a1424",
+              "title": "ר' אושעיא בנו של ר' יהודה הבושם",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:333458",
+              "title": "ר' אושעיא בנו של ר' יהודה הבושם",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' אושעיא בנו של ר' יהודה הבושם==\nנזכר [[חולין נה ב|חולין נה:]] שהעיד לפני ר\"ע משום ר' טרפון על הגלודה שהיא פסולה, אבל בתוספתא חולין פ\"ג ה\"ז גורס העיד יהודה בן ישעיה הבשם, וכן מצינו שתוספתא שביעית פ\"ה העיד יהודה בן ישעיה הבשם לפני ר\"ע משום ר\"ט שיש לקט בשביעית.\n\n\n==ר' אושעיא בנו של ר' יהודה הבושם==\nנזכר [[חולין נה ב|חולין נה:]] שהעיד לפני ר\"ע משום ר' טרפון על הגלודה שהיא פסולה, אבל בתוספתא חולין פ\"ג ה\"ז גורס העיד יהודה בן ישעיה הבשם, וכן מצינו שתוספתא שביעית פ\"ה העיד יהודה בן ישעיה הבשם לפני ר\"ע משום ר\"ט שיש לקט בשביעית.\n",
+          "external_ids": {
+            "heiman_pageid": 333458
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:333454",
+        "name": "ר' אושעיא בר אבא",
+        "profile": {
+          "identity_key": "heiman:333454",
+          "canonical_name_he": "ר' אושעיא בר אבא",
+          "aliases": [
+            "ר' אושעיא בר אבא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:6043d4c2fdf93b3f6286",
+              "title": "ר' אושעיא בר אבא",
+              "classification": null,
+              "identity_caution": true
+            },
+            {
+              "key": "heiman:333454",
+              "title": "ר' אושעיא בר אבא",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' אושעיא בר אבא==\nנזכר [[ירושלמי גיטין ד ב|גיטין פ\"ד ה\"ב]] שאמר לר' יודן נשיא, ונראה שצ\"ל ר' אושעיא רבה.\n\n\n==ר' אושעיא בר אבא==\nנזכר [[ירושלמי גיטין ד ב|גיטין פ\"ד ה\"ב]] שאמר לר' יודן נשיא, ונראה שצ\"ל ר' אושעיא רבה.\n",
+          "external_ids": {
+            "heiman_pageid": 333454
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:333457",
+        "name": "ר' אושעיא בר' חייא",
+        "profile": {
+          "identity_key": "heiman:333457",
+          "canonical_name_he": "ר' אושעיא בר' חייא",
+          "aliases": [
+            "ר' אושעיא בר' חייא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "ספרא"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:c5efc8b91ab72d796dd3",
+              "title": "ר' אושעיא בר' חייא",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:333457",
+              "title": "ר' אושעיא בר' חייא",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' אושעיא בר' חייא==\nנזכר [[יבמות מו ב|יבמות מו:]] רב ספרא מתני ר' אושעיא ב\"ר חייא ופר\"שי שהיה עם ר' אושעיא ברבי ועם ר\"ח, ולולא פיר\"שי נראה שקאי על ר' אושעיא ברבי שהיה עם ר' חייא ע\"ש.\n\n\n==ר' אושעיא בר' חייא==\nנזכר [[יבמות מו ב|יבמות מו:]] רב ספרא מתני ר' אושעיא ב\"ר חייא ופר\"שי שהיה עם ר' אושעיא ברבי ועם ר\"ח, ולולא פיר\"שי נראה שקאי על ר' אושעיא ברבי שהיה עם ר' חייא ע\"ש.\n",
+          "external_ids": {
+            "heiman_pageid": 333457
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:333455",
+        "name": "ר' אושעיא בריה דרב אידי",
+        "profile": {
+          "identity_key": "heiman:333455",
+          "canonical_name_he": "ר' אושעיא בריה דרב אידי",
+          "aliases": [
+            "ר' אושעיא בריה דרב אידי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "אידי==",
+            "אשי",
+            "יהושע",
+            "אידי"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:60a904c0eef59b0030e6",
+              "title": "ר' אושעיא בריה דרב אידי",
+              "classification": null,
+              "identity_caution": true
+            },
+            {
+              "key": "heiman:333455",
+              "title": "ר' אושעיא בריה דרב אידי",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' אושעיא בריה דרב אידי==\nכן נזכר [[יבמות לו ב|יבמות לו:]] שא\"ל רב אשי, והוא ט\"ס שצ\"ל רב יהושע בריה דרב אידי כדמובא שם לז. ברש\"י.\n\n\n==ר' אושעיא בריה דרב אידי==\nכן נזכר [[יבמות לו ב|יבמות לו:]] שא\"ל רב אשי, והוא ט\"ס שצ\"ל רב יהושע בריה דרב אידי כדמובא שם לז. ברש\"י.\n",
+          "external_ids": {
+            "heiman_pageid": 333455
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:1710670",
+        "name": "ר' זעירא דכפר ראמין",
+        "profile": {
+          "identity_key": "heiman:1710670",
+          "canonical_name_he": "ר' זעירא דכפר ראמין",
+          "aliases": [
+            "ר' זעירא דכפר ראמין"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:5aa0a7cc233a02e55e4a",
+              "title": "ר' זעירא דכפר ראמין",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:1710670",
+              "title": "ר' זעירא דכפר ראמין",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' זעירא דכפר ראמין==\nנזכר זהר שמיני מא.{{הערה|לפנינו [[זהר חלק ג לט ב|לט:]] – הערת ויקיעורך}} שהיה לו ינוקי בשם יוסי ולמד עמו בכל יום ג' מילי ובלילה ג' מילי דחכמתא ודאגדתא.\n\n\n==ר' זעירא דכפר ראמין==\nנזכר זהר שמיני מא.{{הערה|לפנינו [[זהר חלק ג לט ב|לט:]] – הערת ויקיעורך}} שהיה לו ינוקי בשם יוסי ולמד עמו בכל יום ג' מילי ובלילה ג' מילי דחכמתא ודאגדתא.\n",
+          "external_ids": {
+            "heiman_pageid": 1710670
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:1710698",
+        "name": "ר' זעירא תנאי אחוה דר' חייא בר אבא",
+        "profile": {
+          "identity_key": "heiman:1710698",
+          "canonical_name_he": "ר' זעירא תנאי אחוה דר' חייא בר אבא",
+          "aliases": [
+            "ר' זעירא תנאי אחוה דר' חייא בר אבא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:9141ed4240049019f467",
+              "title": "ר' זעירא תנאי אחוה דר' חייא בר אבא",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:1710698",
+              "title": "ר' זעירא תנאי אחוה דר' חייא בר אבא",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' זעירא תנאי אחוה דר' חייא בר אבא==\nנזכר בירושלמי [[ירושלמי ברכות א א|ברכות פ\"א ה\"א]] ו: ופי' בחרדים שהיה שונה ברייתות, ובמלחמות להרמב\"ן בפרק א' דברכות באלפסי מביא הירושלמי וגרס דאמר ר' זעירא, תני אחוה דר\"ח בר אשי.\n\n\n==ר' זעירא תנאי אחוה דר' חייא בר אבא==\nנזכר בירושלמי [[ירושלמי ברכות א א|ברכות פ\"א ה\"א]] ו: ופי' בחרדים שהיה שונה ברייתות, ובמלחמות להרמב\"ן בפרק א' דברכות באלפסי מביא הירושלמי וגרס דאמר ר' זעירא, תני אחוה דר\"ח בר אשי.\n",
+          "external_ids": {
+            "heiman_pageid": 1710698
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:1710705",
+        "name": "ר' זריקא ובירושלמי ר' זריקן",
+        "profile": {
+          "identity_key": "heiman:1710705",
+          "canonical_name_he": "ר' זריקא ובירושלמי ר' זריקן",
+          "aliases": [
+            "ר' זריקא ובירושלמי ר' זריקן"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "יהודה",
+            "חסדא",
+            "המנונא",
+            "זריקא",
+            "בידך",
+            "ביבי",
+            "יצחק",
+            "הונא",
+            "ספרא"
+          ],
+          "students": [
+            "דרה"
+          ],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:f2d7439d654c5559fd36",
+              "title": "ר' זריקא ובירושלמי ר' זריקן",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:1710705",
+              "title": "ר' זריקא ובירושלמי ר' זריקן",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' זריקא {{קטן|ובירושלמי}} ר' זריקן==\nהיה בבלי תלמיד דר\"ה כ[[סוטה כא ב|סוטה כא:]] ר' זריקא אר\"ה. ותלמיד רב יהודה כ[[ביצה ז ב|ביצה ז:]], [[כתובות פח א|כתובות פח.]] ר' זריקא א\"ר יהודה. וב[[ירושלמי שבת ט|ירושלמי שבת רפ\"ט]] ר' זריקן בשם רב יהודה וא\"ד בשם רב חסדא.\n\nוכן היה תלמידו דרב המנונא כ[[ירושלמי עירובין י|עירובין רפ\"]]י אמר ר' זריקא אסברא לי רב המנונא, וב[[ירושלמי סוכה א ז|סוכה פ\"א ה\"ז]] אמר בשמו.\n\nונשאר שמו במקום אחד בשם רב זריקא כ[[שבת כד א|שבת כד.]] שאמר נקוט דרב בידך.\n\nוכשעלה לא\"י היו עדיין ר' יוחנן ור\"ל בחיים. ואף שלה מצינו שדיבר עמהם פא\"פ אבל מצינו ר' זריקא אר\"י כ[[גיטין כג א|גיטין כ",
+          "external_ids": {
+            "heiman_pageid": 1710705
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:1710706",
+        "name": "ר' זריקן בר חמוי דר' זריקן",
+        "profile": {
+          "identity_key": "heiman:1710706",
+          "canonical_name_he": "ר' זריקן בר חמוי דר' זריקן",
+          "aliases": [
+            "ר' זריקן בר חמוי דר' זריקן"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:370bd7ecea92491e7be1",
+              "title": "ר' זריקן בר חמוי דר' זריקן",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:1710706",
+              "title": "ר' זריקן בר חמוי דר' זריקן",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' זריקן בר חמוי דר' זריקן==\nנזכר [[ירושלמי ברכות ז|ברכות ספ\"ז]] שהזכיר של חנוכה בארץ וקילסו אותו.\n\n\n==ר' זריקן בר חמוי דר' זריקן==\nנזכר [[ירושלמי ברכות ז|ברכות ספ\"ז]] שהזכיר של חנוכה בארץ וקילסו אותו.\n",
+          "external_ids": {
+            "heiman_pageid": 1710706
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:1710722",
+        "name": "ר' חגא או חגי ב)",
+        "profile": {
+          "identity_key": "heiman:1710722",
+          "canonical_name_he": "ר' חגא או חגי ב)",
+          "aliases": [
+            "ר' חגא או חגי ב)"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "heiman_pageid": 1710722
+          },
+          "review_reasons": [
+            "Traditional reference entry: classification and identity reconciliation pending source-text assessment.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:1710723",
+        "name": "ר' חגא דצפורי",
+        "profile": {
+          "identity_key": "heiman:1710723",
+          "canonical_name_he": "ר' חגא דצפורי",
+          "aliases": [
+            "ר' חגא דצפורי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "heiman_pageid": 1710723
+          },
+          "review_reasons": [
+            "Traditional reference entry: classification and identity reconciliation pending source-text assessment.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:1710724",
+        "name": "ר' חגא חתניה דרב אדא בר אהבה",
+        "profile": {
+          "identity_key": "heiman:1710724",
+          "canonical_name_he": "ר' חגא חתניה דרב אדא בר אהבה",
+          "aliases": [
+            "ר' חגא חתניה דרב אדא בר אהבה"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "אדא",
+            "חנא"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:efbdb78f5c0cc51c11c3",
+              "title": "ר' חגא חתניה דרב אדא בר אהבה",
+              "classification": null,
+              "identity_caution": true
+            },
+            {
+              "key": "heiman:1710724",
+              "title": "ר' חגא חתניה דרב אדא בר אהבה",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' חגא חתניה דרב אדא בר אהבה==\nכן מביא ביוחסין השלם וגרסא שלנו ב[[יבמות קי ב|יבמות קי:]]{{הערה|במקור נדפס בטעות ק: – הערת ויקיעורך}} רב חנא.\n\n\n==ר' חגא חתניה דרב אדא בר אהבה==\nכן מביא ביוחסין השלם וגרסא שלנו ב[[יבמות קי ב|יבמות קי:]]{{הערה|במקור נדפס בטעות ק: – הערת ויקיעורך}} רב חנא.\n",
+          "external_ids": {
+            "heiman_pageid": 1710724
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:1710725",
+        "name": "ר' חגאי",
+        "profile": {
+          "identity_key": "heiman:1710725",
+          "canonical_name_he": "ר' חגאי",
+          "aliases": [
+            "ר' חגאי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:3d5d322f93cd8f6327ff",
+              "title": "ר' חגאי",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:1710725",
+              "title": "ר' חגאי",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' חגאי==\nנזכר זהר לך פ\"ט ופנחס צח. עם ר' חייא ור' אלעזר בר' שמעון.\n\n\n==ר' חגאי==\nנזכר זהר לך פ\"ט ופנחס צח. עם ר' חייא ור' אלעזר בר' שמעון.\n",
+          "external_ids": {
+            "heiman_pageid": 1710725
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:1710727",
+        "name": "ר' חגי בן אלעזר",
+        "profile": {
+          "identity_key": "heiman:1710727",
+          "canonical_name_he": "ר' חגי בן אלעזר",
+          "aliases": [
+            "ר' חגי בן אלעזר"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:803e78059b3e65d4f99f",
+              "title": "ר' חגי בן אלעזר",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:1710727",
+              "title": "ר' חגי בן אלעזר",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' חגי בן אלעזר==\nנזכר ש\"ר פמ\"ב־ג, ובמד' תהלים פקי\"ט־ג ר' יהודה הלוי בר שלום בשמו.\n\n\n==ר' חגי בן אלעזר==\nנזכר ש\"ר פמ\"ב־ג, ובמד' תהלים פקי\"ט־ג ר' יהודה הלוי בר שלום בשמו.\n",
+          "external_ids": {
+            "heiman_pageid": 1710727
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:1710524",
+        "name": "ר' חונא בר' יוסי",
+        "profile": {
+          "identity_key": "heiman:1710524",
+          "canonical_name_he": "ר' חונא בר' יוסי",
+          "aliases": [
+            "ר' חונא בר' יוסי"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [
+            "יוסף"
+          ],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [
+            {
+              "key": "hyman-section:45820c94b0a1cfbb41fd",
+              "title": "ר' חונא בר' יוסי",
+              "classification": null,
+              "identity_caution": false
+            },
+            {
+              "key": "heiman:1710524",
+              "title": "ר' חונא בר' יוסי",
+              "classification": null
+            }
+          ],
+          "hyman_excerpt": "\n==ר' חונא בר' יוסי <small>או</small> ר' חונה בר יוסף==\nנזכר [[ירושלמי תענית ד ה|תענית פ\"ד סה\"ה]] ר' חונה בר יוסף אמר דרך תהום גלו, והמאמר מובא ב{{קיצור|איכ\"ר|איכה רבה}} סוף הפתיהתות ושם ר' חונא בשם ר' יוסי. ובמד' שמואל פ\"כ־יא ר\"ה בר יוסף אך המאמר נובע מ[[ירושלמי סנהדרין ב ה|סנהדרין פ\"ב ה\"ה]] ושם ר\"ה בשם ר' יוסי.\n\nובתנחומא נח־יג ר\"ה בר' יוסי אומר אף שינוי השם מבטל גזירה קשה. והמאמר בב\"ר פמ\"ד־יב ר\"ה בר רב יוסף, ונראה שהוא ר' חונא השלישי שהיה תלמידו דרב יוסף בבבל ועלה אח\"כ לא\"י כמבואר בערכו.\n\n\n==ר' חונא בר' יוסי <small>או</small> ר' חונה בר יוסף==\nנזכר [[ירושלמי תענית ד ה|תענית פ\"ד סה\"ה]] ר' חונ",
+          "external_ids": {
+            "heiman_pageid": 1710524
+          },
+          "review_reasons": [
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:375081",
+        "name": "ר' חונה דציפורין",
+        "profile": {
+          "identity_key": "heiman:375081",
+          "canonical_name_he": "ר' חונה דציפורין",
+          "aliases": [
+            "ר' חונה דציפורין"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "heiman_pageid": 375081
+          },
+          "review_reasons": [
+            "Traditional reference entry: classification and identity reconciliation pending source-text assessment.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:375082",
+        "name": "ר' חונה ספרא דסדרא",
+        "profile": {
+          "identity_key": "heiman:375082",
+          "canonical_name_he": "ר' חונה ספרא דסדרא",
+          "aliases": [
+            "ר' חונה ספרא דסדרא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "heiman_pageid": 375082
+          },
+          "review_reasons": [
+            "Traditional reference entry: classification and identity reconciliation pending source-text assessment.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      },
+      {
+        "identity_key": "heiman:375110",
+        "name": "ר' חוניא",
+        "profile": {
+          "identity_key": "heiman:375110",
+          "canonical_name_he": "ר' חוניא",
+          "aliases": [
+            "ר' חוניא"
+          ],
+          "classification": null,
+          "classification_assertions": [],
+          "generation": [],
+          "region": "unknown",
+          "region_assertions": [],
+          "teachers": [],
+          "students": [],
+          "colleagues": [],
+          "family": [],
+          "locations": [],
+          "primary_passages": [],
+          "passage_refs": [],
+          "characteristic_traditions": [],
+          "hyman_sections": [],
+          "hyman_excerpt": null,
+          "external_ids": {
+            "heiman_pageid": 375110
+          },
+          "review_reasons": [
+            "Traditional reference entry: classification and identity reconciliation pending source-text assessment.",
+            "Tanna/Amora classification not established; do not infer from honorific or occurrence in the Talmud.",
+            "No primary Chazal passage independently attributed to this identity was verified; lexical occurrences alone are insufficient."
+          ],
+          "source_prefix": "heiman"
+        },
+        "category": "E"
+      }
+    ],
+    "adjudication_candidates": [],
+    "total_groups": 1477
+  }
+}

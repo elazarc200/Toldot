@@ -79,8 +79,8 @@ export function calculatePlaceCentrality(placeId: string, time: TimeFilter = emp
 }
 
 export function pinSizeForTier(tier: CentralityTier, focusBoost = false): number {
-  const base = {major: 34, important: 26, secondary: 18, minor: 12}[tier];
-  return focusBoost ? Math.max(base, 22) : base;
+  const base = {major: 22, important: 17, secondary: 13, minor: 10}[tier];
+  return focusBoost ? Math.max(base, 15) : base;
 }
 
 /** Minimum zoom to show a place pin by historical centrality. */

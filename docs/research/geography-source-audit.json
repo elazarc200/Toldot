@@ -1,0 +1,1539 @@
+{
+  "generated": "2026-09-17",
+  "mode": "apply-filter-display",
+  "totals": {
+    "claims": 133,
+    "associations": 190,
+    "VALID_DIRECT": 68,
+    "VALID_INDIRECT": 1,
+    "UNVERIFIED": 14,
+    "AMBIGUOUS": 6,
+    "WRONG_PERSON": 41,
+    "WRONG_CLAIM": 33,
+    "IRRELEVANT": 27,
+    "fetchFailures": 0
+  },
+  "fetchFailures": [],
+  "associations": [
+    {
+      "claim": "רבי אליעזר בן הורקנוס · לוד",
+      "kind": "personPlace",
+      "citationId": "853e8b15-dc65-5c1f-9876-33b00b8e631a",
+      "classification": "IRRELEVANT",
+      "ref": "Sanhedrin.32b",
+      "excerpt": "צדק צדק תרדף… אחר רבן יוחנן בן זכאי לברור חיל."
+    },
+    {
+      "claim": "רבי אלעאי · לוד",
+      "kind": "personPlace",
+      "citationId": "94c0362a-32f7-50a5-a9f9-4c97eea60efc",
+      "classification": "VALID_DIRECT",
+      "ref": "Sukkah.27b",
+      "excerpt": "מעשה ברבי אלעאי שהלך להקביל פני רבי אליעזר רבו ברגל בלוד"
+    },
+    {
+      "claim": "רבן יוחנן בן זכאי · ברור חיל",
+      "kind": "personPlace",
+      "citationId": "853e8b15-dc65-5c1f-9876-33b00b8e631a",
+      "classification": "VALID_DIRECT",
+      "ref": "Sanhedrin.32b",
+      "excerpt": "צדק צדק תרדף… אחר רבן יוחנן בן זכאי לברור חיל."
+    },
+    {
+      "claim": "רבי יהושע בן חנניה · פקיעין",
+      "kind": "personPlace",
+      "citationId": "853e8b15-dc65-5c1f-9876-33b00b8e631a",
+      "classification": "IRRELEVANT",
+      "ref": "Sanhedrin.32b",
+      "excerpt": "צדק צדק תרדף… אחר רבן יוחנן בן זכאי לברור חיל."
+    },
+    {
+      "claim": "רבי עקיבא · בני ברק",
+      "kind": "personPlace",
+      "citationId": "853e8b15-dc65-5c1f-9876-33b00b8e631a",
+      "classification": "VALID_DIRECT",
+      "ref": "Sanhedrin.32b",
+      "excerpt": "תנו רבנן: ״צדק צדק תרדף״ – הלך אחר חכמים לישיבה. אחר רבי אליעזר ללוד, אחר רבן יוחנן בן זכאי לברור חיל, אחר רבי יהושע לפקיעין, אחר רבן גמליאל ליבנה, אחר רבי עקיבא לבני ברק, אחר רבי מתיא לרומי, אחר רבי חנניה בן תרדיון לסיכני, אחר רבי יוסי לציפורי, אחר רבי יהודה בן בתירה לנציבין, אחר רבי יהושע לגולה, אחר רבי לבית שערים, א"
+    },
+    {
+      "claim": "רבי מתיא בן חרש · רומי",
+      "kind": "personPlace",
+      "citationId": "66256247-bac1-5da5-924c-979183839810",
+      "classification": "IRRELEVANT",
+      "ref": "Sanhedrin.32b",
+      "excerpt": "צדק צדק תרדף — הלך אחר רבי לבית שערים"
+    },
+    {
+      "claim": "רבי חנינא בן תרדיון · סיכני",
+      "kind": "personPlace",
+      "citationId": "853e8b15-dc65-5c1f-9876-33b00b8e631a",
+      "classification": "IRRELEVANT",
+      "ref": "Sanhedrin.32b",
+      "excerpt": "צדק צדק תרדף… אחר רבן יוחנן בן זכאי לברור חיל."
+    },
+    {
+      "claim": "רבי יוסי — אבות ד:ו · ציפורי",
+      "kind": "personPlace",
+      "citationId": "66256247-bac1-5da5-924c-979183839810",
+      "classification": "AMBIGUOUS",
+      "ref": "Sanhedrin.32b",
+      "excerpt": "תנו רבנן: ״צדק צדק תרדף״ – הלך אחר חכמים לישיבה. אחר רבי אליעזר ללוד, אחר רבן יוחנן בן זכאי לברור חיל, אחר רבי יהושע לפקיעין, אחר רבן גמליאל ליבנה, אחר רבי עקיבא לבני ברק, אחר רבי מתיא לרומי, אחר רבי חנניה בן תרדיון לסיכני, אחר רבי יוסי לציפורי, אחר רבי יהודה בן בתירה לנציבין, אחר רבי יהושע לגולה, אחר רבי לבית שערים, א"
+    },
+    {
+      "claim": "רבי יוסי — אבות ד:ו · ציפורי",
+      "kind": "personPlace",
+      "citationId": "1432439b-cfca-5dfe-8d4d-29d1195207d9",
+      "classification": "AMBIGUOUS",
+      "ref": "Shabbat.33b",
+      "excerpt": "ואמאי קרו ליה ״ראש המדברים בכל מקום״? דיתבי רבי יהודה ורבי יוסי ורבי שמעון, ויתיב יהודה בן גרים גבייהו. פתח רבי יהודה ואמר: כמה נאים מעשיהן של אומה זו: תקנו שווקים, תקנו גשרים, תקנו מרחצאות. רבי יוסי שתק. נענה רבי שמעון בן יוחאי ואמר: כל מה שתקנו, לא תקנו אלא לצורך עצמן. תקנו שווקין — להושיב בהן זונות, מרחצאות — לעדן ב"
+    },
+    {
+      "claim": "רבי יוסי — אבות ד:ו · ציפורי",
+      "kind": "personPlace",
+      "citationId": "24742414-0721-5691-8742-c5971809b4ae",
+      "classification": "WRONG_CLAIM",
+      "ref": "Sanhedrin.14a",
+      "excerpt": "בין אושא לשפרעם וסמך שם חמישה זקנים… רבי מאיר ורבי יהודה ורבי שמעון ורבי יוסי ורבי אלעזר בן שמוע"
+    },
+    {
+      "claim": "רבי יהודה הנשיא · בית שערים",
+      "kind": "personPlace",
+      "citationId": "581f797b-b50d-51a8-8fa4-43be37e25e47",
+      "classification": "WRONG_PERSON",
+      "ref": "Ketubot.103b",
+      "excerpt": "רבי מוטל בציפורי ומקום מוכן לו בבית שערים… רבי בבית שערים הוה אלא כיון דחלש אמטיוהי לציפורי"
+    },
+    {
+      "claim": "רבי יהודה הנשיא · בית שערים",
+      "kind": "personPlace",
+      "citationId": "66256247-bac1-5da5-924c-979183839810",
+      "classification": "WRONG_PERSON",
+      "ref": "Sanhedrin.32b",
+      "excerpt": "צדק צדק תרדף — הלך אחר רבי לבית שערים"
+    },
+    {
+      "claim": "רבי יהודה הנשיא · בית שערים",
+      "kind": "personPlace",
+      "citationId": "0dc5392f-9f77-5df2-8810-067d605bc9a3",
+      "classification": "WRONG_PERSON",
+      "ref": "Jerusalem Talmud Kilayim.9.3",
+      "excerpt": "הספד והעברה לבית שריי ביום הפטירה"
+    },
+    {
+      "claim": "רבי יהודה הנשיא · ציפורי",
+      "kind": "personPlace",
+      "citationId": "581f797b-b50d-51a8-8fa4-43be37e25e47",
+      "classification": "WRONG_PERSON",
+      "ref": "Ketubot.103b",
+      "excerpt": "רבי מוטל בציפורי ומקום מוכן לו בבית שערים… רבי בבית שערים הוה אלא כיון דחלש אמטיוהי לציפורי"
+    },
+    {
+      "claim": "רבי יהודה הנשיא · ציפורי",
+      "kind": "personPlace",
+      "citationId": "0dc5392f-9f77-5df2-8810-067d605bc9a3",
+      "classification": "IRRELEVANT",
+      "ref": "Jerusalem Talmud Kilayim.9.3",
+      "excerpt": "הספד והעברה לבית שריי ביום הפטירה"
+    },
+    {
+      "claim": "רבי יהודה הנשיא · ציפורי",
+      "kind": "personPlace",
+      "citationId": "0fdd35e9-9c7e-56c3-8333-45ebd35b8729",
+      "classification": "WRONG_PERSON",
+      "ref": "Rosh Hashanah.31b",
+      "excerpt": "גלות סנהדרין: …מבית שערים לצפורי ומציפורי לטבריא — מסלול מוסדי, לא עדות מגורים אישית בטבריה"
+    },
+    {
+      "claim": "רבן יוחנן בן זכאי · יבנה",
+      "kind": "personPlace",
+      "citationId": "2a447403-d07c-5baa-bd78-4be91f412d66",
+      "classification": "WRONG_PERSON",
+      "ref": "Gittin.56b",
+      "excerpt": "תן לי יבנה וחכמיה ושושילתא דרבן גמליאל ואסוותא… לרבי צדוק."
+    },
+    {
+      "claim": "רבי עקיבא · רומי",
+      "kind": "personPlace",
+      "citationId": "002caeae-3558-5e72-aee5-cdb6f28ed66d",
+      "classification": "WRONG_PERSON",
+      "ref": "Makkot.24b",
+      "excerpt": "רבי יהושע עם חברים בדרך; מונה של רומי."
+    },
+    {
+      "claim": "רבי עקיבא · ירושלים",
+      "kind": "personPlace",
+      "citationId": "1f02b44e-8aea-5da4-bb99-6e9d23318051",
+      "classification": "VALID_DIRECT",
+      "ref": "Makkot.24b",
+      "excerpt": "שוב פעם אחת היו עולין לירושלים, כיון שהגיעו להר הצופים קרעו בגדיהם, כיון שהגיעו להר הבית ראו שועל שיצא מבית קדשי הקדשים, התחילו הן בוכין ורבי עקיבא מצחק. אמרו לו: מפני מה אתה מצחק? אמר להם: מפני מה אתם בוכים? אמרו לו: מקום שכתוב בו ״והזר הקרב יומת״, ועכשיו שועלים הלכו בו, ולא נבכה?!"
+    },
+    {
+      "claim": "רבי יהושע בן חנניה · רומי",
+      "kind": "personPlace",
+      "citationId": "002caeae-3558-5e72-aee5-cdb6f28ed66d",
+      "classification": "WRONG_PERSON",
+      "ref": "Makkot.24b",
+      "excerpt": "רבי יהושע עם חברים בדרך; מונה של רומי."
+    },
+    {
+      "claim": "רבי יהושע בן חנניה · ירושלים",
+      "kind": "personPlace",
+      "citationId": "1f02b44e-8aea-5da4-bb99-6e9d23318051",
+      "classification": "WRONG_PERSON",
+      "ref": "Makkot.24b",
+      "excerpt": "עלו לירושלים… שועל יוצא מבית קדשי הקדשים."
+    },
+    {
+      "claim": "רבי אלעזר בן עזריה · רומי",
+      "kind": "personPlace",
+      "citationId": "d5db4683-eedb-5c02-a797-10a85bdc8121",
+      "classification": "VALID_DIRECT",
+      "ref": "Makkot 24a:33",
+      "excerpt": "וכבר היה רבן גמליאל ורבי אלעזר בן עזריה ורבי יהושע ורבי עקיבא מהלכין בדרך, ושמעו קול המונה של רומי מפלטה [ברחוק] מאה ועשרים מיל, והתחילו בוכין, ורבי עקיבא משחק. אמרו לו: מפני מה אתה משחק? אמר להם: ואתם מפני מה אתם בוכים? אמרו לו: הללו גוים שמשתחוים לעצבים ומקטרים לעבודה זרה יושבין בטח והשקט, ואנו, בית הדום רגלי אלהינו "
+    },
+    {
+      "claim": "רבי אלעזר בן עזריה · ירושלים",
+      "kind": "personPlace",
+      "citationId": "d5db4683-eedb-5c02-a797-10a85bdc8121",
+      "classification": "WRONG_CLAIM",
+      "ref": "Makkot 24a:33",
+      "excerpt": "וכבר היה רבן גמליאל ורבי אלעזר בן עזריה ורבי יהושע ורבי עקיבא מהלכין בדרך, ושמעו קול המונה של רומי מפלטה [ברחוק] מאה ועשרים מיל, והתחילו בוכין, ורבי עקיבא משחק. אמרו לו: מפני מה אתה משחק? אמר להם: ואתם מפני מה אתם בוכים? אמרו לו: הללו גוים שמשתחוים לעצבים ומקטרים לעבודה זרה יושבין בטח והשקט, ואנו, בית הדום רגלי אלהינו "
+    },
+    {
+      "claim": "רבי אלעזר בן עזריה · ירושלים",
+      "kind": "personPlace",
+      "citationId": "db1b2180-6045-5fa1-a2f6-e360e482e083",
+      "classification": "WRONG_PERSON",
+      "ref": "Makkot 24b:2",
+      "excerpt": "שוב פעם אחת היו עולין לירושלים, כיון שהגיעו להר הצופים קרעו בגדיהם, כיון שהגיעו להר הבית ראו שועל שיצא מבית קדשי הקדשים, התחילו הן בוכין ורבי עקיבא מצחק. אמרו לו: מפני מה אתה מצחק? אמר להם: מפני מה אתם בוכים? אמרו לו: מקום שכתוב בו ״והזר הקרב יומת״, ועכשיו שועלים הלכו בו, ולא נבכה?!"
+    },
+    {
+      "claim": "רבי יוחנן בן ברוקא · פקיעין",
+      "kind": "personPlace",
+      "citationId": "f1bd1b27-a535-5a4a-b136-cacbcdc1920e",
+      "classification": "WRONG_PERSON",
+      "ref": "Tosefta Sotah.7.9",
+      "excerpt": "שבאו מיבנה ללוד והקבילו פני ר' יהושע בפקיעין"
+    },
+    {
+      "claim": "רבי יוחנן בן ברוקא · פקיעין",
+      "kind": "personPlace",
+      "citationId": "d60bfd1a-efe9-5e89-9ce0-e35cc339bd06",
+      "classification": "VALID_DIRECT",
+      "ref": "Chagigah.3a",
+      "excerpt": "תנו רבנן: מעשה ברבי יוחנן בן ברוקה ורבי אלעזר [בן] חסמא שהלכו להקביל פני רבי יהושע בפקיעין. אמר להם: מה חידוש היה בבית המדרש היום? אמרו לו: תלמידיך אנו ומימיך אנו שותין. אמר להם: אף על פי כן, אי אפשר לבית המדרש בלא חידוש."
+    },
+    {
+      "claim": "רבי אליעזר בן חסמא · פקיעין",
+      "kind": "personPlace",
+      "citationId": "2ed40b78-5658-5118-836b-ef8d0cb56277",
+      "classification": "WRONG_PERSON",
+      "ref": "Tosefta Sotah.7.9",
+      "excerpt": "מעשה בר' יוחנן בן ברוקה ור' לעזר חסמא שבאו מיבנה ללוד והקבילו פני ר' יהושע בפקיעין"
+    },
+    {
+      "claim": "רבי אליעזר בן חסמא · פקיעין",
+      "kind": "personPlace",
+      "citationId": "048b55c2-e460-510f-b2e2-5e968b5b5869",
+      "classification": "VALID_DIRECT",
+      "ref": "Chagigah.3a",
+      "excerpt": "מעשה ברבי יוחנן בן ברוקה ורבי אלעזר (בן) חסמא שהלכו להקביל פני רבי יהושע בפקיעין"
+    },
+    {
+      "claim": "רבי יהודה — אבות ד:יג · יבנה",
+      "kind": "personPlace",
+      "citationId": "e7536845-58be-5d35-a3fa-19fd8408daf0",
+      "classification": "AMBIGUOUS",
+      "ref": "Shabbat 33b:2",
+      "excerpt": "איבעיא להו: רבי אלעזר ברבי יוסי על לשון הרע קאמר, או דילמא אף על לשון הרע נמי קאמר? תא שמע: כשנכנסו רבותינו לכרם ביבנה היה שם רבי יהודה ורבי אלעזר ברבי יוסי ורבי שמעון נשאלה שאלה זו בפניהם: מכה זו, מפני מה מתחלת בבני מעיים וגומרת בפה? נענה רבי יהודה ברבי אלעאי ״ראש המדברים בכל מקום״ ואמר: אף על פי שכליות יועצות, ולב מב"
+    },
+    {
+      "claim": "רבי שמעון בן יוחאי · יבנה",
+      "kind": "personPlace",
+      "citationId": "1432439b-cfca-5dfe-8d4d-29d1195207d9",
+      "classification": "WRONG_PERSON",
+      "ref": "Shabbat.33b",
+      "excerpt": "כשנכנסו רבותינו לכרם ביבנה היה שם רבי יהודה ורבי אלעזר ברבי יוסי ורבי שמעון"
+    },
+    {
+      "claim": "שמעון הצדיק · ירושלים",
+      "kind": "personPlace",
+      "citationId": "717efd87-cc9b-5f26-99ec-1919f0f450d4",
+      "classification": "WRONG_CLAIM",
+      "ref": "Yoma.69a",
+      "excerpt": "באו והודיעו את שמעון הצדיק… לבש בגדי כהונה… אפשר בית שמתפללים בו עליך… להחריבו"
+    },
+    {
+      "claim": "שמעון הצדיק · ירושלים",
+      "kind": "personPlace",
+      "citationId": "349b0914-e898-5c9f-a465-61debd3c6590",
+      "classification": "WRONG_CLAIM",
+      "ref": "Pirkei Avot.1.2",
+      "excerpt": "שמעון הצדיק היה משיירי כנסת הגדולה; אינו מציין מקום גאוגרפי במפורש."
+    },
+    {
+      "claim": "שמעון הצדיק · אנטיפטריס",
+      "kind": "personPlace",
+      "citationId": "03843e6b-5ab4-5a02-8a6e-e331ab285e20",
+      "classification": "IRRELEVANT",
+      "ref": "Yoma.69a",
+      "excerpt": "כיון שהגיע לאנטיפטרס זרחה חמה ופגעו זה בזה"
+    },
+    {
+      "claim": "אנטיגנוס איש סוכו · סוכו",
+      "kind": "personPlace",
+      "citationId": "8c766914-3117-5557-ab2a-c562ea3e4b08",
+      "classification": "VALID_DIRECT",
+      "ref": "Pirkei Avot.1.3",
+      "excerpt": "אנטיגנוס איש סוכו קבל משמעון הצדיק"
+    },
+    {
+      "claim": "יוסי בן יועזר איש צרדה · צרדה",
+      "kind": "personPlace",
+      "citationId": "af8d050c-8f81-58c2-9ceb-56e643f579f2",
+      "classification": "VALID_DIRECT",
+      "ref": "Pirkei Avot.1.4",
+      "excerpt": "יוסי בן יועזר איש צרדה ויוסי בן יוחנן איש ירושלים קבלו מהם"
+    },
+    {
+      "claim": "יוסי בן יועזר איש צרדה · צרדה",
+      "kind": "personPlace",
+      "citationId": "46182abd-9963-59db-af9b-d390ba78beab",
+      "classification": "VALID_DIRECT",
+      "ref": "Mishnah Sotah.9.9",
+      "excerpt": "משרבו הרצחנים, בטלה עגלה ערופה, משבא אליעזר בן דינאי, ותחינה בן פרישה היה נקרא, חזרו לקרותו בן הרצחן. משרבו המנאפים, פסקו המים המרים, ורבן יוחנן בן זכאי הפסיקן, שנאמר (הושע ד) לא אפקוד על בנותיכם כי תזנינה ועל כלותיכם כי תנאפנה כי הם וגו'. משמת יוסי בן יועזר איש צרדה ויוסי בן יוחנן איש ירושלים, בטלו האשכולות, שנאמר (מי"
+    },
+    {
+      "claim": "יוסי בן יוחנן איש ירושלים · ירושלים",
+      "kind": "personPlace",
+      "citationId": "0d0c45d9-d080-5cbd-837d-dd63f0a83035",
+      "classification": "VALID_DIRECT",
+      "ref": "Pirkei Avot.1.4",
+      "excerpt": "יוסי בן יוחנן איש ירושלים"
+    },
+    {
+      "claim": "יוסי בן יוחנן איש ירושלים · ירושלים",
+      "kind": "personPlace",
+      "citationId": "08609841-4fb5-5614-b4eb-7fac0c94b859",
+      "classification": "VALID_DIRECT",
+      "ref": "Mishnah Sotah.9.9",
+      "excerpt": "יוסי בן יוחנן איש ירושלים"
+    },
+    {
+      "claim": "יהושע בן פרחיה · אלכסנדריה",
+      "kind": "personPlace",
+      "citationId": "be0a082d-adc9-5429-bd72-e10c13ffd9de",
+      "classification": "VALID_DIRECT",
+      "ref": "Sotah.47a",
+      "excerpt": "ר' יהושע בן פרחיה אזל ערק לאלכסנדריא של מצרים… שלח ליה שמעון בן שטח מני ירושלים…"
+    },
+    {
+      "claim": "יהושע בן פרחיה · אלכסנדריה",
+      "kind": "personPlace",
+      "citationId": "8b08b107-84b0-521c-a97a-7b31386173e9",
+      "classification": "VALID_DIRECT",
+      "ref": "Sanhedrin.107b",
+      "excerpt": "אזל יהושע בן פרחיה… לאלכסנדריא של מצרים"
+    },
+    {
+      "claim": "יהושע בן פרחיה · ירושלים",
+      "kind": "personPlace",
+      "citationId": "fa3f8e67-04d7-5dad-b1f3-fdad8e2dc95c",
+      "classification": "VALID_DIRECT",
+      "ref": "Sotah.47a",
+      "excerpt": "יהושע בן פרחיה מאי היא — כדהוה קא קטיל ינאי מלכא לרבנן, שמעון בן שטח (אטמינהו) [אטמרתיה] אחתיה, רבי יהושע בן פרחיה אזל ערק לאלכסנדריא של מצרים. כי הוה שלמא, שלח ליה שמעון בן שטח: מני ירושלים עיר הקודש לך אלכסנדריא של מצרים: אחותי! בעלי שרוי בתוכך, ואני יושבת שוממה! אמר: שמע מינה הוה ליה שלמא."
+    },
+    {
+      "claim": "יהושע בן פרחיה · ירושלים",
+      "kind": "personPlace",
+      "citationId": "ef3472b3-9f0e-52f9-bf2b-fe7da96a30e1",
+      "classification": "WRONG_CLAIM",
+      "ref": "Pirkei Avot.1.6",
+      "excerpt": "יהושע בן פרחיה ונתאי הארבלי קבלו מהם"
+    },
+    {
+      "claim": "נתאי הארבלי · ארבל",
+      "kind": "personPlace",
+      "citationId": "83d01ca7-77af-563b-8de6-e602cdfb7c83",
+      "classification": "VALID_DIRECT",
+      "ref": "Pirkei Avot.1.6",
+      "excerpt": "יהושע בן פרחיה ונתאי הארבלי קבלו מהם… נתאי הארבלי אומר"
+    },
+    {
+      "claim": "יהודה בן טבאי · ירושלים",
+      "kind": "personPlace",
+      "citationId": "ed2a8786-8e71-5b63-a61c-5660a8f946f7",
+      "classification": "VALID_DIRECT",
+      "ref": "Jerusalem Talmud Chagigah.2.2",
+      "excerpt": "יהודה בן טבאי… בעון ממניתיה נשיא בירושלם… מירושלם הגדולה לאלכסנדריאה הקטנה"
+    },
+    {
+      "claim": "יהודה בן טבאי · ירושלים",
+      "kind": "personPlace",
+      "citationId": "8534a7f3-0cb5-5cc7-8705-cf901a6fdf32",
+      "classification": "WRONG_CLAIM",
+      "ref": "Pirkei Avot.1.8",
+      "excerpt": "יהודה בן טבאי ושמעון בן שטח קבלו מהם"
+    },
+    {
+      "claim": "יהודה בן טבאי · אלכסנדריה",
+      "kind": "personPlace",
+      "citationId": "ad77d8ce-d79b-5122-a597-6b890092d072",
+      "classification": "IRRELEVANT",
+      "ref": "Jerusalem Talmud Chagigah.2.2",
+      "excerpt": "ערק ואזל ליה לאלכסנדריאה"
+    },
+    {
+      "claim": "שמעון בן שטח · ירושלים",
+      "kind": "personPlace",
+      "citationId": "20d72ea8-cd85-5d68-952a-c20e72a91d2c",
+      "classification": "VALID_DIRECT",
+      "ref": "Sotah.47a",
+      "excerpt": "שלח ליה שמעון בן שטח: מני ירושלים עיר הקודש…"
+    },
+    {
+      "claim": "שמעון בן שטח · ירושלים",
+      "kind": "personPlace",
+      "citationId": "9c204f28-3c8e-5311-b634-8fd12b550a09",
+      "classification": "WRONG_CLAIM",
+      "ref": "Pirkei Avot.1.8",
+      "excerpt": "שמעון בן שטח בשרשרת הזוגות ובמאמרו על חקירת העדים"
+    },
+    {
+      "claim": "שמעון בן שטח · ירושלים",
+      "kind": "personPlace",
+      "citationId": "baa7aadb-acb5-5f51-937c-0fa0ac3d4b8d",
+      "classification": "WRONG_CLAIM",
+      "ref": "Chagigah.16b",
+      "excerpt": "לדעת חכמים: שמעון בן שטח נשיא"
+    },
+    {
+      "claim": "שמעון בן שטח · אשקלון",
+      "kind": "personPlace",
+      "citationId": "930da94f-49d5-5389-ba5f-3665dcf28e13",
+      "classification": "VALID_DIRECT",
+      "ref": "Jerusalem Talmud Chagigah.2.2",
+      "excerpt": "מאן דאמר. שמעון בן שטח נשיא. עובדא דאשקלון מסייע ליה. תרין חסידין הוון באשקלון אכלין כחדא ושתיי כחדא ולעיי באוריתא כחדא. דמך חד מינהון ולא איתגמל ליה חסד. מית בריה דמעין מוכס ובטלת כל מדינתא מיגמול ליה חסד. שורי ההוא חסידא מצטער. אמר. ווי דלית לשנאיהון דישראל כלום. איתחמי ליה בחילמא ואמר ליה. לא תיבזי בני מריך. דין עבד"
+    },
+    {
+      "claim": "שמעיה · ירושלים",
+      "kind": "personPlace",
+      "citationId": "49ca9b0b-da0e-5b9a-ad87-075570d01296",
+      "classification": "VALID_DIRECT",
+      "ref": "Yoma.71b",
+      "excerpt": "מעשה בכהן גדול אחד שיצא מבית המקדש… כיון שראו לשמעיה ואבטליון"
+    },
+    {
+      "claim": "שמעיה · ירושלים",
+      "kind": "personPlace",
+      "citationId": "94bd843e-aba8-50c5-8ae6-76d6c24d35d2",
+      "classification": "WRONG_CLAIM",
+      "ref": "Pesachim.66a",
+      "excerpt": "לא שימשתם את שני גדולי הדור שמעיה ואבטליון"
+    },
+    {
+      "claim": "שמעיה · ירושלים",
+      "kind": "personPlace",
+      "citationId": "a6a206a5-9bcd-503c-8fc8-28f7fa91d90d",
+      "classification": "WRONG_CLAIM",
+      "ref": "Pirkei Avot.1.10",
+      "excerpt": "שמעיה ואבטליון קבלו מהם"
+    },
+    {
+      "claim": "אבטליון · ירושלים",
+      "kind": "personPlace",
+      "citationId": "ff128fa1-88a0-5e45-8b2b-29bc4d0280c7",
+      "classification": "VALID_DIRECT",
+      "ref": "Yoma.71b",
+      "excerpt": "שמעיה ואבטליון ליד יציאת הכהן הגדול מבית המקדש"
+    },
+    {
+      "claim": "אבטליון · ירושלים",
+      "kind": "personPlace",
+      "citationId": "35959424-a732-5dc9-8d88-f0d07ff8e372",
+      "classification": "WRONG_CLAIM",
+      "ref": "Yoma.35b",
+      "excerpt": "הלל… לשמוע דברי אלהים חיים מפי שמעיה ואבטליון"
+    },
+    {
+      "claim": "אבטליון · ירושלים",
+      "kind": "personPlace",
+      "citationId": "9a29bd0b-f8c4-5100-b02c-d92640cde31e",
+      "classification": "WRONG_CLAIM",
+      "ref": "Pirkei Avot.1.10",
+      "excerpt": "אבטליון בשרשרת הזוגות ובמאמרו"
+    },
+    {
+      "claim": "הלל · בבל",
+      "kind": "personPlace",
+      "citationId": "64af324c-108c-5988-85c5-4131dc4996ac",
+      "classification": "VALID_DIRECT",
+      "ref": "Pesachim.66a",
+      "excerpt": "אדם אחד יש כאן שעלה מבבל והלל הבבלי שמו"
+    },
+    {
+      "claim": "הלל · בבל",
+      "kind": "personPlace",
+      "citationId": "34c102c0-b847-5aa4-a4ef-4988542ef4db",
+      "classification": "VALID_DIRECT",
+      "ref": "Sukkah.20a",
+      "excerpt": "שכחוה… הלל הבבלי עלה ויסדה"
+    },
+    {
+      "claim": "הלל · ירושלים",
+      "kind": "personPlace",
+      "citationId": "b43e975f-9bbc-5363-ab6b-4717c1f2cffb",
+      "classification": "WRONG_PERSON",
+      "ref": "Pesachim.66a",
+      "excerpt": "יש כאן… שעלה מבבל… בירושלים; הושיבוהו בראש ומינוהו נשיא"
+    },
+    {
+      "claim": "הלל · ירושלים",
+      "kind": "personPlace",
+      "citationId": "5f16f034-12f1-5241-85ba-80e309aa94a1",
+      "classification": "VALID_DIRECT",
+      "ref": "Shabbat.15a",
+      "excerpt": "ואידך, הלל אומר: מלא הין מים שאובים פוסלים את המקוה — שחייב אדם לומר בלשון רבו. שמאי אומר: תשעה קבין. וחכמים אומרים: לא כדברי זה ולא כדברי זה. עד שבאו שני גרדיים משער האשפה שבירושלים והעידו משום שמעיה ואבטליון ששלשה לוגין מים שאובין פוסלים את המקוה, וקיימו חכמים את דבריהם."
+    },
+    {
+      "claim": "הלל · ירושלים",
+      "kind": "personPlace",
+      "citationId": "b863a97a-6808-502f-8002-e7347458e946",
+      "classification": "WRONG_CLAIM",
+      "ref": "Pirkei Avot.1.12",
+      "excerpt": "הלל ושמאי קבלו מהם; מאמרי הלל"
+    },
+    {
+      "claim": "שמאי · ירושלים",
+      "kind": "personPlace",
+      "citationId": "2899fdcf-7cdc-595f-b975-45edcd2c7cf7",
+      "classification": "WRONG_CLAIM",
+      "ref": "Mishnah Chagigah.2.2",
+      "excerpt": "הלל ומנחם לא נחלקו; יצא מנחם ונכנס שמאי"
+    },
+    {
+      "claim": "שמאי · ירושלים",
+      "kind": "personPlace",
+      "citationId": "c98390d9-6bf9-5731-a075-3ad0e34fc35e",
+      "classification": "VALID_DIRECT",
+      "ref": "Pesachim.66a",
+      "excerpt": "הלל מתועד בירושלים; שמאי אינו נזכר שם בשמו"
+    },
+    {
+      "claim": "שמאי · ירושלים",
+      "kind": "personPlace",
+      "citationId": "07072387-d5f1-546b-bef9-4f61923abcf0",
+      "classification": "WRONG_CLAIM",
+      "ref": "Pirkei Avot.1.15",
+      "excerpt": "הלל ושמאי כזוג; מאמר שמאי"
+    },
+    {
+      "claim": "רבן גמליאל — אבות א:טז · ירושלים",
+      "kind": "personPlace",
+      "citationId": "3b817816-50c6-5bff-a474-69fec5b38ecd",
+      "classification": "VALID_DIRECT",
+      "ref": "Mishnah Peah.2.6",
+      "excerpt": "מעשה… לפני רבן גמליאל ועלו ללשכת הגזית ושאלו"
+    },
+    {
+      "claim": "רבן גמליאל — אבות א:טז · ירושלים",
+      "kind": "personPlace",
+      "citationId": "5decd5c5-bd18-5480-b8d0-db14bc893d89",
+      "classification": "VALID_DIRECT",
+      "ref": "Mishnah Rosh Hashanah.2.5",
+      "excerpt": "חצר גדולה היתה בירושלים ובית יעזק היתה נקראת… התקין רבן גמליאל הזקן"
+    },
+    {
+      "claim": "רבן גמליאל — אבות א:טז · ירושלים",
+      "kind": "personPlace",
+      "citationId": "5f16f034-12f1-5241-85ba-80e309aa94a1",
+      "classification": "WRONG_CLAIM",
+      "ref": "Shabbat.15a",
+      "excerpt": "הלל ושמעון גמליאל ושמעון נהגו נשיאותן לפני הבית מאה שנה"
+    },
+    {
+      "claim": "רבן גמליאל — אבות א:טז · ירושלים",
+      "kind": "personPlace",
+      "citationId": "e5061f34-4187-57ab-b550-d7e213e98cb4",
+      "classification": "WRONG_CLAIM",
+      "ref": "Pirkei Avot.1.16",
+      "excerpt": "רבן גמליאל אומר — ללא מקום במשנה עצמה"
+    },
+    {
+      "claim": "שמעון בנו — אבות א:יז · ירושלים",
+      "kind": "personPlace",
+      "citationId": "0645d0d3-5f19-5dbe-8ac8-94fac9c94a05",
+      "classification": "WRONG_CLAIM",
+      "ref": "Pirkei Avot.1.17",
+      "excerpt": "שמעון בנו אומר… — ללא מקום"
+    },
+    {
+      "claim": "שמעון בנו — אבות א:יז · ירושלים",
+      "kind": "personPlace",
+      "citationId": "dd6bf90f-1f66-518c-be25-2baa57732a23",
+      "classification": "IRRELEVANT",
+      "ref": "Shabbat.15a",
+      "excerpt": "הלל ושמעון גמליאל ושמעון נהגו נשיאותן לפני הבית מאה שנה"
+    },
+    {
+      "claim": "רבן שמעון בן גמליאל — אבות א:יח · ירושלים",
+      "kind": "personPlace",
+      "citationId": "dd8eaa45-4127-5c5c-b34d-29da133ddb9c",
+      "classification": "WRONG_CLAIM",
+      "ref": "Pirkei Avot.1.18",
+      "excerpt": "רבן שמעון בן גמליאל אומר: על שלשה דברים העולם קיים… — ללא מקום"
+    },
+    {
+      "claim": "רבן שמעון בן גמליאל — אבות א:יח · ירושלים",
+      "kind": "personPlace",
+      "citationId": "d5bbab2a-7779-5536-9028-5b4e7b67f296",
+      "classification": "IRRELEVANT",
+      "ref": "Shabbat.15a",
+      "excerpt": "…גמליאל ושמעון נהגו נשיאותן לפני הבית"
+    },
+    {
+      "claim": "רבן גמליאל בנו של רבי יהודה הנשיא · ציפורי",
+      "kind": "personPlace",
+      "citationId": "581f797b-b50d-51a8-8fa4-43be37e25e47",
+      "classification": "WRONG_PERSON",
+      "ref": "Ketubot.103b",
+      "excerpt": "רבי מוטל בציפורי ומקום מוכן לו בבית שערים… רבי בבית שערים הוה אלא כיון דחלש אמטיוהי לציפורי"
+    },
+    {
+      "claim": "רבן יוחנן בן זכאי · ירושלים",
+      "kind": "personPlace",
+      "citationId": "577c6288-7f60-5322-960e-4743c42fa7f6",
+      "classification": "WRONG_PERSON",
+      "ref": "Gittin.56b",
+      "excerpt": "יציאה מירושלים; בקשת יבנה וחכמיה, שושלת רבן גמליאל ורפואת רבי צדוק."
+    },
+    {
+      "claim": "רבן יוחנן בן זכאי · ערב",
+      "kind": "personPlace",
+      "citationId": "fff653c0-5ce3-5ef5-8d0b-3590a52ed4f2",
+      "classification": "VALID_DIRECT",
+      "ref": "Jerusalem Talmud Shabbat.16.8",
+      "excerpt": "משנה: כופין קערה על גבי הנר בשביל שלא תאחוז בקורה ועל צואה של קטן ועל עקרב שלא תישך. אמר רבי יהודה מעשה בא לפני רבן יוחנן בן זכאי בערב ואמר חוששני אני לו מחטאת:"
+    },
+    {
+      "claim": "רבי יהושע בן חנניה · יבנה",
+      "kind": "personPlace",
+      "citationId": "d0ea38c3-1bac-50ea-a252-f44a1d531a77",
+      "classification": "WRONG_PERSON",
+      "ref": "Berakhot.28a",
+      "excerpt": "מחלוקת עם רבן גמליאל והדחה/פיוס בבית המדרש ביבנה."
+    },
+    {
+      "claim": "רבי יוסי הכהן · יבנה",
+      "kind": "personPlace",
+      "citationId": "dda386e8-b106-5823-ba42-ffa5fcd05f6e",
+      "classification": "WRONG_PERSON",
+      "ref": "Avot DeRabbi Natan.14.6",
+      "excerpt": "כשנפטר הלכו ליבנה… והוא לדמסית."
+    },
+    {
+      "claim": "רבי יוסי הכהן · יבנה",
+      "kind": "personPlace",
+      "citationId": "543af3e5-3268-5857-9e69-ede23fef9bed",
+      "classification": "WRONG_PERSON",
+      "ref": "Kohelet Rabbah.7.7",
+      "excerpt": "מקבילה: חברים ליבנה; בן ערך למקום מים יפים."
+    },
+    {
+      "claim": "רבי שמעון בן נתנאל · יבנה",
+      "kind": "personPlace",
+      "citationId": "dda386e8-b106-5823-ba42-ffa5fcd05f6e",
+      "classification": "WRONG_PERSON",
+      "ref": "Avot DeRabbi Natan.14.6",
+      "excerpt": "כשנפטר הלכו ליבנה… והוא לדמסית."
+    },
+    {
+      "claim": "רבי אלעזר בן ערך · אמאוס",
+      "kind": "personPlace",
+      "citationId": "016ca6cd-ec97-5f3f-8278-18147e55fbb2",
+      "classification": "WRONG_CLAIM",
+      "ref": "Shabbat.147b",
+      "excerpt": "רבי אלעזר בן ערך איקלע להתם (דיומסת)… איעקר תלמודיה."
+    },
+    {
+      "claim": "רבי אלעזר בן ערך · אמאוס",
+      "kind": "personPlace",
+      "citationId": "dda386e8-b106-5823-ba42-ffa5fcd05f6e",
+      "classification": "IRRELEVANT",
+      "ref": "Avot DeRabbi Natan.14.6",
+      "excerpt": "כשנפטר הלכו ליבנה… והוא לדמסית."
+    },
+    {
+      "claim": "רבי אלעזר בן ערך · אמאוס",
+      "kind": "personPlace",
+      "citationId": "543af3e5-3268-5857-9e69-ede23fef9bed",
+      "classification": "VALID_DIRECT",
+      "ref": "Kohelet Rabbah.7.7",
+      "excerpt": "חמשה תלמידים היו לו לרבי יוחנן בן זכאי, כל זמן שהיה קים היו יושבין לפניו, כשנפטר הלכו ליבנה, והלך רבי אלעזר בן ערך אצל אשתו לאמאוס, מקום מים יפים ונוה יפה, המתין להם שיבואו אצלו ולא באו, כיון שלא באו בקש לילך אצלם, ולא הניחתו אשתו, אמרה מי צריך למי, אמר לה הן צריכין לי. אמרה לו חמת העכברים מי דרכו לילך אצל מי, העכברים "
+    },
+    {
+      "claim": "רבי טרפון · לוד",
+      "kind": "personPlace",
+      "citationId": "c540c21f-b7b1-5bf1-97b4-9279f774c7cd",
+      "classification": "VALID_DIRECT",
+      "ref": "Kiddushin.40b",
+      "excerpt": "וכבר היה רבי טרפון וזקנים מסובין בעלית בית נתזה בלוד… תלמוד גדול או מעשה גדול."
+    },
+    {
+      "claim": "רבי טרפון · לוד",
+      "kind": "personPlace",
+      "citationId": "b09450a6-8c56-5dd5-82c1-850015ee76dd",
+      "classification": "VALID_DIRECT",
+      "ref": "Bava Metzia.49b",
+      "excerpt": "הורה רבי טרפון בלוד… ושמחו תגרי לוד."
+    },
+    {
+      "claim": "רבי טרפון · לוד",
+      "kind": "personPlace",
+      "citationId": "8ed4c439-d106-5a2b-b144-d384f3624380",
+      "classification": "VALID_DIRECT",
+      "ref": "Mishnah Taanit.3.9",
+      "excerpt": "מעשה שגזרו תענית בלוד… אמר להם רבי טרפון צאו ואכלו."
+    },
+    {
+      "claim": "עקביא בן מהללאל · ירושלים",
+      "kind": "personPlace",
+      "citationId": "9afb2111-8de9-5cca-a228-c80ab000b8ca",
+      "classification": "VALID_DIRECT",
+      "ref": "Mishnah Eduyot.5.6",
+      "excerpt": "מעשה בכרכמית שפחה… בירושלים; אין עזרה ננעלת… כעקביא בן מהללאל."
+    },
+    {
+      "claim": "רבי חנינא סגן הכהנים · ירושלים",
+      "kind": "personPlace",
+      "citationId": "6f3818ef-0f0f-525c-81b9-b3bb6e61fa24",
+      "classification": "WRONG_CLAIM",
+      "ref": "Pirkei Avot.3.2",
+      "excerpt": "רבי חנינא סגן הכהנים אומר…"
+    },
+    {
+      "claim": "רבי חנינא סגן הכהנים · ירושלים",
+      "kind": "personPlace",
+      "citationId": "5e947e62-2f11-5739-ab0c-cd5a04ed58a9",
+      "classification": "IRRELEVANT",
+      "ref": "Sotah.42a",
+      "excerpt": "למה סגן ממונה? שאם אירע פסול בכהן גדול…"
+    },
+    {
+      "claim": "רבי חנינא סגן הכהנים · ירושלים",
+      "kind": "personPlace",
+      "citationId": "7d9d4bac-1c94-5337-a5e0-e46f813155c9",
+      "classification": "IRRELEVANT",
+      "ref": "Pesachim.14a",
+      "excerpt": "עדות על מנהגי כהנים בטומאה/שריפת בשר."
+    },
+    {
+      "claim": "רבי שמעון בן יוחאי · תקוע",
+      "kind": "personPlace",
+      "citationId": "78668827-5d5a-55d3-8e8b-0e2e4c57498a",
+      "classification": "WRONG_PERSON",
+      "ref": "Shabbat.147b",
+      "excerpt": "אמר רבי: כשהיינו לומדין תורה אצל רבי שמעון בתקוע…"
+    },
+    {
+      "claim": "רבי שמעון בן יוחאי · טבריה",
+      "kind": "personPlace",
+      "citationId": "5e3472a0-e90b-5f65-a535-2e3af5714f67",
+      "classification": "IRRELEVANT",
+      "ref": "Shabbat.33b",
+      "excerpt": "איזיל אתקין מילתא… טיהר בן יוחי בית הקברות — בלי שם עיר בגרסת הבבלי שנבדקה"
+    },
+    {
+      "claim": "רבי נחוניא בן הקנה · אמאוס",
+      "kind": "personPlace",
+      "citationId": "c8e2239c-c36e-596d-9221-d0818fa266d0",
+      "classification": "WRONG_CLAIM",
+      "ref": "Midrash Tannaim on Deuteronomy.26.13",
+      "excerpt": "שאל תלמיד… את ר׳ נחוניה בן הקנה איש אמהום."
+    },
+    {
+      "claim": "רבי חלפתא בן דוסא איש כפר חנניה · כפר חנניה",
+      "kind": "personPlace",
+      "citationId": "c5c9f53e-9f36-57f1-96e9-49e01b776754",
+      "classification": "VALID_DIRECT",
+      "ref": "Pirkei Avot.3.6",
+      "excerpt": "רבי חלפתא בן דוסא איש כפר חנניה אומר…"
+    },
+    {
+      "claim": "רבי חלפתא בן דוסא איש כפר חנניה · כפר חנניה",
+      "kind": "personPlace",
+      "citationId": "bbbcbb1c-411b-534b-97e1-bd28fa044eb0",
+      "classification": "WRONG_PERSON",
+      "ref": "Mishnah Sheviit.9.2",
+      "excerpt": "מכפר חנניה ולמעלן… גליל העליון"
+    },
+    {
+      "claim": "רבי אלעזר איש ברתותא · ברתותא",
+      "kind": "personPlace",
+      "citationId": "84a732e5-c77d-5dc9-85d0-6e9a622f6315",
+      "classification": "VALID_DIRECT",
+      "ref": "Pirkei Avot.3.7",
+      "excerpt": "רבי אלעזר איש ברתותא אומר…"
+    },
+    {
+      "claim": "רבי מאיר · אסיא",
+      "kind": "personPlace",
+      "citationId": "0dc5392f-9f77-5df2-8810-067d605bc9a3",
+      "classification": "IRRELEVANT",
+      "ref": "Jerusalem Talmud Kilayim.9.3",
+      "excerpt": "הספד והעברה לבית שריי ביום הפטירה"
+    },
+    {
+      "claim": "רבי מאיר · אסיא",
+      "kind": "personPlace",
+      "citationId": "253ee2c5-bf21-5ed1-bf7a-6c007423d530",
+      "classification": "VALID_DIRECT",
+      "ref": "Jerusalem Talmud Ketubot.12.3",
+      "excerpt": "מקבילת צוואת רבי מאיר באסיא"
+    },
+    {
+      "claim": "רבי מאיר · אושא",
+      "kind": "personPlace",
+      "citationId": "24742414-0721-5691-8742-c5971809b4ae",
+      "classification": "VALID_DIRECT",
+      "ref": "Sanhedrin.14a",
+      "excerpt": "בין אושא לשפרעם וסמך שם חמישה זקנים… רבי מאיר ורבי יהודה ורבי שמעון ורבי יוסי ורבי אלעזר בן שמוע"
+    },
+    {
+      "claim": "רבי חנינא בן דוסא · ערב",
+      "kind": "personPlace",
+      "citationId": "b53ed370-cecb-50e1-903e-aa0113e5a137",
+      "classification": "VALID_DIRECT",
+      "ref": "Jerusalem Talmud Berakhot.4.1",
+      "excerpt": "דסלקון חומרייא מן ערב לציפורין ואמרין כבר שבת רבי חנינא בן דוסא בעירו."
+    },
+    {
+      "claim": "רבי אלעזר המודעי · מודיעים",
+      "kind": "personPlace",
+      "citationId": "be7c076f-ef61-5415-bd2c-2148e1107754",
+      "classification": "WRONG_CLAIM",
+      "ref": "Pirkei Avot.3.11",
+      "excerpt": "רבי אלעזר המודעי אומר…"
+    },
+    {
+      "claim": "רבי אלעזר המודעי · מודיעים",
+      "kind": "personPlace",
+      "citationId": "2ba44a0c-6c8b-54b8-8104-174b626c5aa1",
+      "classification": "IRRELEVANT",
+      "ref": "Shabbat.55b",
+      "excerpt": "עדיין אנו צריכים למודעי — שימוש בכינוי המקום."
+    },
+    {
+      "claim": "רבי אלעזר המודעי · ביתר",
+      "kind": "personPlace",
+      "citationId": "1892dee4-126c-5238-b417-049772dc50e7",
+      "classification": "WRONG_CLAIM",
+      "ref": "Jerusalem Talmud Taanit.4.5",
+      "excerpt": "והוה רבי אלעזר המודעי יושב… בביתתר… יהב ליה חד בעוט וקטליה."
+    },
+    {
+      "claim": "רבי ישמעאל — אבות ג:יב · כפר עזיז",
+      "kind": "personPlace",
+      "citationId": "aa849cb0-55f8-5341-aa86-2e49979bd8be",
+      "classification": "VALID_DIRECT",
+      "ref": "Mishnah Kilayim.6.4",
+      "excerpt": "מעשה שהלך רבי יהושע אצל רבי ישמעאל לכפר עזיז."
+    },
+    {
+      "claim": "רבי ישמעאל — אבות ג:יב · כפר עזיז",
+      "kind": "personPlace",
+      "citationId": "e51d20c9-c04d-5dd9-849e-76258289d8b0",
+      "classification": "WRONG_CLAIM",
+      "ref": "Mishnah Ketubot.5.8",
+      "excerpt": "רבי ישמעאל אומר: סמוך לאדום — תואם לדרום יהודה."
+    },
+    {
+      "claim": "רבי עקיבא · לוד",
+      "kind": "personPlace",
+      "citationId": "c540c21f-b7b1-5bf1-97b4-9279f774c7cd",
+      "classification": "VALID_DIRECT",
+      "ref": "Kiddushin.40b",
+      "excerpt": "וכבר היה רבי טרפון וזקנים מסובין בעלית בית נתזה בלוד. נשאלה שאילה זו בפניהם: תלמוד גדול או מעשה גדול? נענה רבי טרפון ואמר: מעשה גדול. נענה רבי עקיבא ואמר: תלמוד גדול. נענו כולם ואמרו: תלמוד גדול, שהתלמוד מביא לידי מעשה."
+    },
+    {
+      "claim": "רבי אלעזר בן עזריה · יבנה",
+      "kind": "personPlace",
+      "citationId": "d0ea38c3-1bac-50ea-a252-f44a1d531a77",
+      "classification": "WRONG_PERSON",
+      "ref": "Berakhot.28a",
+      "excerpt": "מחלוקת עם רבן גמליאל והדחה/פיוס בבית המדרש ביבנה."
+    },
+    {
+      "claim": "רבי אליעזר בן חסמא · יבנה",
+      "kind": "personPlace",
+      "citationId": "246d7d50-ee7c-57ca-bdbe-80a7bc8ec7c0",
+      "classification": "WRONG_PERSON",
+      "ref": "Tosefta Sotah.7.9",
+      "excerpt": "שבאו מיבנה ללוד… שבת של מי היתה? של ר' לעזר בן עזריה"
+    },
+    {
+      "claim": "שמעון בן זומא · ירושלים",
+      "kind": "personPlace",
+      "citationId": "e3674281-cdd3-5316-9c58-d42043bddaa0",
+      "classification": "WRONG_PERSON",
+      "ref": "Chagigah.15a",
+      "excerpt": "מעשה ברבי יהושע… שהיה עומד על גב מעלה בהר הבית וראהו בן זומא"
+    },
+    {
+      "claim": "שמעון בן עזאי · טבריה",
+      "kind": "personPlace",
+      "citationId": "0ef855c9-a4bb-547e-bbb5-8d3b6d681d34",
+      "classification": "WRONG_PERSON",
+      "ref": "Eruvin.29a",
+      "excerpt": "אמר רבא: הריני כבן עזאי בשוקי טבריא"
+    },
+    {
+      "claim": "שמעון בן עזאי · טבריה",
+      "kind": "personPlace",
+      "citationId": "71d45c06-00ae-5fd8-bc4a-e0f7cd532abe",
+      "classification": "WRONG_PERSON",
+      "ref": "Rashi on Eruvin.29a.4",
+      "excerpt": "כבן עזאי שהיה דורש בשוקי טבריא"
+    },
+    {
+      "claim": "שמעון בן עזאי · יבנה",
+      "kind": "personPlace",
+      "citationId": "3878785c-f2de-5b95-915a-a5d16541deb0",
+      "classification": "IRRELEVANT",
+      "ref": "Jerusalem Talmud Shekalim.5.1",
+      "excerpt": "בן עזאי בן זומא… (נוסח ירושלמי)"
+    },
+    {
+      "claim": "רבי לויטס איש יבנה · יבנה",
+      "kind": "personPlace",
+      "citationId": "18318565-6fd9-580c-9e19-ce318a357b01",
+      "classification": "VALID_DIRECT",
+      "ref": "Pirkei Avot.4.4",
+      "excerpt": "רבי לויטס איש יבנה אומר…"
+    },
+    {
+      "claim": "רבי יוחנן בן ברוקא · יבנה",
+      "kind": "personPlace",
+      "citationId": "b3ef48c6-94ba-5015-833d-3d3ef94b52cf",
+      "classification": "WRONG_PERSON",
+      "ref": "Tosefta Sotah.7.9",
+      "excerpt": "שבאו מיבנה ללוד"
+    },
+    {
+      "claim": "רבי יוחנן בן ברוקא · בית שערים",
+      "kind": "personPlace",
+      "citationId": "be19e510-b41c-5a7f-beec-fc21e5299087",
+      "classification": "VALID_DIRECT",
+      "ref": "Tosefta Terumot.7.14",
+      "excerpt": "מעשה שהלך ר' יוחנן בן ברוקה אצל ר' יוחנן בן נורי לבית שערים"
+    },
+    {
+      "claim": "רבי ישמעאל בנו של רבי יוחנן בן ברוקא · יבנה",
+      "kind": "personPlace",
+      "citationId": "1addfb5f-59de-5f86-9b15-2ce80a8bcf5c",
+      "classification": "WRONG_PERSON",
+      "ref": "Yevamot.42b",
+      "excerpt": "הקשר לחכמי יבנה בשמועותיו"
+    },
+    {
+      "claim": "רבי צדוק · ירושלים",
+      "kind": "personPlace",
+      "citationId": "98d28fbc-0b01-503c-8c7c-6aaa9f38628d",
+      "classification": "VALID_DIRECT",
+      "ref": "Gittin.56a",
+      "excerpt": "דרבי צדוק יתיב ארבעין שנין בתעניתא דלא ליחרב ירושלים."
+    },
+    {
+      "claim": "רבי צדוק · יבנה",
+      "kind": "personPlace",
+      "citationId": "2a447403-d07c-5baa-bd78-4be91f412d66",
+      "classification": "VALID_DIRECT",
+      "ref": "Gittin.56b",
+      "excerpt": "תן לי יבנה וחכמיה ושושילתא דרבן גמליאל ואסוותא… לרבי צדוק."
+    },
+    {
+      "claim": "רבי ישמעאל בנו של רבי יוסי · ציפורי",
+      "kind": "personPlace",
+      "citationId": "66256247-bac1-5da5-924c-979183839810",
+      "classification": "IRRELEVANT",
+      "ref": "Sanhedrin.32b",
+      "excerpt": "צדק צדק תרדף — הלך אחר רבי לבית שערים"
+    },
+    {
+      "claim": "רבי ישמעאל בנו של רבי יוסי · ציפורי",
+      "kind": "personPlace",
+      "citationId": "581f797b-b50d-51a8-8fa4-43be37e25e47",
+      "classification": "WRONG_PERSON",
+      "ref": "Ketubot.103b",
+      "excerpt": "רבי מוטל בציפורי ומקום מוכן לו בבית שערים… רבי בבית שערים הוה אלא כיון דחלש אמטיוהי לציפורי"
+    },
+    {
+      "claim": "רבי יוחנן הסנדלר · אלכסנדריה",
+      "kind": "personPlace",
+      "citationId": "af2ce4ab-f2e0-5b6e-a992-11b8ef59bc8e",
+      "classification": "VALID_DIRECT",
+      "ref": "Jerusalem Talmud Chagigah.3.1",
+      "excerpt": "רבי יוחנן הסנדלר אלכסנדרי"
+    },
+    {
+      "claim": "רבי יוחנן הסנדלר · צידן",
+      "kind": "personPlace",
+      "citationId": "65985634-49be-5ea1-9708-d7ed8aaa2a7e",
+      "classification": "VALID_DIRECT",
+      "ref": "Sifrei Devarim.80",
+      "excerpt": "רבי אלעזר בן שמוע ורבי יוחנן הסנדלר… הגיעו לצידן… חזרו"
+    },
+    {
+      "claim": "רבי אלעזר בן שמוע · אושא",
+      "kind": "personPlace",
+      "citationId": "24742414-0721-5691-8742-c5971809b4ae",
+      "classification": "VALID_DIRECT",
+      "ref": "Sanhedrin.14a",
+      "excerpt": "בין אושא לשפרעם וסמך שם חמישה זקנים… רבי מאיר ורבי יהודה ורבי שמעון ורבי יוסי ורבי אלעזר בן שמוע"
+    },
+    {
+      "claim": "רבי אלעזר בן שמוע · צידן",
+      "kind": "personPlace",
+      "citationId": "65985634-49be-5ea1-9708-d7ed8aaa2a7e",
+      "classification": "VALID_DIRECT",
+      "ref": "Sifrei Devarim.80",
+      "excerpt": "רבי אלעזר בן שמוע ורבי יוחנן הסנדלר… הגיעו לצידן… חזרו"
+    },
+    {
+      "claim": "רבי יהודה — אבות ד:יג · אושא",
+      "kind": "personPlace",
+      "citationId": "02ea1e70-c0ff-542f-8bd8-681c9f68888b",
+      "classification": "AMBIGUOUS",
+      "ref": "Tosefta Megillah.2.4",
+      "excerpt": "אמר רבי… קטן הייתי וקריתיה לפני רבי יהודה באושא והיו שם זקנים"
+    },
+    {
+      "claim": "רבי יהודה — אבות ד:יג · אושא",
+      "kind": "personPlace",
+      "citationId": "24742414-0721-5691-8742-c5971809b4ae",
+      "classification": "AMBIGUOUS",
+      "ref": "Sanhedrin.14a",
+      "excerpt": "בין אושא לשפרעם וסמך שם חמישה זקנים… רבי מאיר ורבי יהודה ורבי שמעון ורבי יוסי ורבי אלעזר בן שמוע"
+    },
+    {
+      "claim": "רבי יהודה — אבות ד:יג · לוד",
+      "kind": "personPlace",
+      "citationId": "02ea1e70-c0ff-542f-8bd8-681c9f68888b",
+      "classification": "AMBIGUOUS",
+      "ref": "Tosefta Megillah.2.4",
+      "excerpt": "הכל חייבין בקריאת [מגילה] כהנים לוים וישראלים [ועבדים] משוחררין חללין נתינים [וממזרים] סריס אדם וסריס חמה פצוע דכא וכרות שפכה כולן חייבין ומוציאין את הרבים י\"ח אנדרוגינוס מוציא מינו ולא את שאינו מינו טומטום אינו מוציא לא את מינו ולא את שאינו מינו מי שחציו עבד וחציו בן חורין אין מוציא לא את מינו ולא את שאינו מינו נשים ו"
+    },
+    {
+      "claim": "שמואל הקטן · יבנה",
+      "kind": "personPlace",
+      "citationId": "00b469ba-c5e0-5028-9991-0a4bb0062d58",
+      "classification": "VALID_DIRECT",
+      "ref": "Berakhot.28b",
+      "excerpt": "שמעון הפקולי… ביבנה… עמד שמואל הקטן ותיקנה."
+    },
+    {
+      "claim": "שמואל הקטן · יבנה",
+      "kind": "personPlace",
+      "citationId": "673f9fda-5a55-5b35-b034-de858469f0e2",
+      "classification": "VALID_DIRECT",
+      "ref": "Sotah.48b",
+      "excerpt": "היו מסובין בעלייה ביבנה… נתנו עיניהם בשמואל הקטן."
+    },
+    {
+      "claim": "רבי יוסי בר יהודה איש כפר הבבלי · כפר הבבלי",
+      "kind": "personPlace",
+      "citationId": "939bce82-64f4-55d0-9276-448a0d024d8d",
+      "classification": "VALID_DIRECT",
+      "ref": "Pirkei Avot.4.20",
+      "excerpt": "רבי יוסי בן יהודה איש כפר הבבלי אומר…"
+    },
+    {
+      "claim": "רבי אלעזר הקפר · חורבת דבורה",
+      "kind": "personPlace",
+      "citationId": "972169e8-f553-5f02-b7f3-57e86530fb40",
+      "classification": "UNVERIFIED",
+      "ref": "https://www.sefaria.org/topics/rabbi-elazar-ha-kappar",
+      "excerpt": "זה בית מדרשו של רבי אליעזר הקפר — עדות ארכאולוגית"
+    },
+    {
+      "claim": "רבי יהושע בן לוי · לוד",
+      "kind": "personPlace",
+      "citationId": "d10e8e3b-b638-5c40-92d5-72bde8aee41b",
+      "classification": "WRONG_PERSON",
+      "ref": "Jerusalem Talmud Taanit.3.4",
+      "excerpt": "הקשר דרום/לוד מול ציפורי — לאמת ניסוח מלא בעריכה"
+    },
+    {
+      "claim": "רבי יהושע בן לוי · לוד",
+      "kind": "personPlace",
+      "citationId": "1a268363-8dae-5acd-a013-f9efa30e3af0",
+      "classification": "WRONG_CLAIM",
+      "ref": "Pirkei Avot.6.2",
+      "excerpt": "מימרת רבי יהושע בן לוי — בלי מקום"
+    },
+    {
+      "claim": "רבי יהושע בן לוי · טבריה",
+      "kind": "personPlace",
+      "citationId": "65d1b9c1-22fb-5d12-9377-3ac7ab359b26",
+      "classification": "VALID_DIRECT",
+      "ref": "Jerusalem Talmud Shabbat.1.2",
+      "excerpt": "התחלת המרחץ אי זו היא. רבי זריקן בשם רבי חנינא אמר. משיתיר חגורו. רב אמר. משיתיר מנעלו. כהדא רבי יהושע בן לוי הוה יליף שמע פרשתה מן בר בריה בכל ערובת שובא. חד זמן אינשי. ועאל מיסחי בההן דימוסין דטיבריא. והוה מסתמיך על כתפתיה דרבי חייא בר בא. אינהר דלא שמע פרשתיה מן בר בריה וחזר ונפק ליה. מה הוה. רבי דרוסי אמר. סך הוה. "
+    },
+    {
+      "claim": "רבי יוסי בן קסמא · טבריה",
+      "kind": "personPlace",
+      "citationId": "ad69f442-0c46-57c2-8ea1-af26e5b6fbf8",
+      "classification": "WRONG_PERSON",
+      "ref": "Yevamot.96b",
+      "excerpt": "לא כך היה המעשה בבית הכנסת של טבריא… והיה שם רבי יוסי בן קיסמא"
+    },
+    {
+      "claim": "רבי יוסי בן קסמא · טבריה",
+      "kind": "personPlace",
+      "citationId": "e67f70f7-4992-5145-91e2-83b46ef7c91f",
+      "classification": "IRRELEVANT",
+      "ref": "Pirkei Avot.6.9",
+      "excerpt": "מעיר גדולה של חכמים ושל סופרים אני — בלי שם עיר"
+    },
+    {
+      "claim": "יוסף הבבלי · בבל",
+      "kind": "personPlace",
+      "citationId": "925c4ecb-f25a-5646-86c4-2b200e074091",
+      "classification": "VALID_DIRECT",
+      "ref": "Menachot.18a",
+      "excerpt": "מצאתי יוסף הבבלי יושב לפניו והיה חביב לו ביותר"
+    },
+    {
+      "claim": "יוסף הבבלי · בבל",
+      "kind": "personPlace",
+      "citationId": "eb7dbac2-0d29-5c4a-a187-27f3bb2fe46d",
+      "classification": "VALID_DIRECT",
+      "ref": "Pesachim.113b",
+      "excerpt": "הוא יוסף איש הוצל הוא יוסף הבבלי הוא איסי בן יהודה"
+    },
+    {
+      "claim": "ברוריא · לוד",
+      "kind": "personPlace",
+      "citationId": "11a60fd7-d4ae-5b37-8c11-6d876c652f47",
+      "classification": "VALID_DIRECT",
+      "ref": "Eruvin.53b",
+      "excerpt": "רבי יוסי הגלילי… אשכחה לברוריה אמר לה באיזו דרך נלך ללוד"
+    },
+    {
+      "claim": "הורקנוס אביו של רבי אליעזר · ירושלים",
+      "kind": "personPlace",
+      "citationId": "24cd4d22-7438-5537-9893-7231ac522007",
+      "classification": "WRONG_PERSON",
+      "ref": "Avot DeRabbi Natan.6",
+      "excerpt": "בא לנדותו מנכסיו… שמע את רבי אליעזר דורש בירושלים"
+    },
+    {
+      "claim": "הורקנוס בנו של רבי אליעזר · לוד",
+      "kind": "personPlace",
+      "citationId": "ce539cf7-a541-5010-940a-afa29bb9f6c9",
+      "classification": "IRRELEVANT",
+      "ref": "Sanhedrin.68a",
+      "excerpt": "כשחלה רבי אליעזר… נכנס הורקנוס בנו לחלץ תפיליו"
+    },
+    {
+      "claim": "הורקנוס בנו של רבי אליעזר · לוד",
+      "kind": "personPlace",
+      "citationId": "4f1bf4d9-a5ff-5c4f-a5fa-6c6cd1c768bd",
+      "classification": "WRONG_PERSON",
+      "ref": "Sanhedrin.32b",
+      "excerpt": "הולך אחר חכמה ללוד אחר רבי אליעזר"
+    },
+    {
+      "claim": "אימא שלום · לוד",
+      "kind": "personPlace",
+      "citationId": "01bfb13a-d753-5983-b5d3-bd468e73a1a0",
+      "classification": "WRONG_CLAIM",
+      "ref": "Bava Metzia.59b",
+      "excerpt": "ולא שביקא ליה אימא שלום למיפל על אפיה"
+    },
+    {
+      "claim": "אימא שלום · לוד",
+      "kind": "personPlace",
+      "citationId": "ae74eca0-8bb0-53ad-a441-c898abba6018",
+      "classification": "WRONG_PERSON",
+      "ref": "Sanhedrin.32b",
+      "excerpt": "הולך אחר חכמה ללוד אחר רבי אליעזר"
+    },
+    {
+      "claim": "רבי אלעזר בנו של רבי שמעון בן יוחאי · טבריה",
+      "kind": "personPlace",
+      "citationId": "9a3b0783-f49e-5f50-8572-4b22cd76ec64",
+      "classification": "WRONG_PERSON",
+      "ref": "Jerusalem Talmud Sheviit.9.1",
+      "excerpt": "רשב\"י ובנו יוצאים ומתרפאים בחמי טבריה"
+    },
+    {
+      "claim": "רבי אלעזר בנו של רבי שמעון בן יוחאי · עכברא",
+      "kind": "personPlace",
+      "citationId": "56202650-17f8-5970-8c1e-0bf12ec8ef1c",
+      "classification": "WRONG_PERSON",
+      "ref": "Bava Metzia.84b",
+      "excerpt": "אשכחוה דמנחא בעכברא"
+    },
+    {
+      "claim": "רבי שמעון בנו של רבי · ציפורי",
+      "kind": "personPlace",
+      "citationId": "8410a3c0-386b-5443-9d56-446a51c48cd6",
+      "classification": "WRONG_PERSON",
+      "ref": "Ketubot.103b",
+      "excerpt": "רבי מוטל בציפורי… לבני קטן… נכנס ר' שמעון"
+    },
+    {
+      "claim": "רבי שמעון בנו של רבי · בית שערים",
+      "kind": "personPlace",
+      "citationId": "3e6ee5ec-cd21-538f-8c19-6e76a8ef4303",
+      "classification": "WRONG_PERSON",
+      "ref": "Ketubot.103b",
+      "excerpt": "רבי מוטל בציפורי ומקום מוכן לו בבית שערים"
+    },
+    {
+      "claim": "נחום איש גם זו · גמזו",
+      "kind": "personPlace",
+      "citationId": "3c60f6ee-fdb3-53ec-bf19-5f848592e5d4",
+      "classification": "WRONG_CLAIM",
+      "ref": "Taanit.21a",
+      "excerpt": "ואמאי קרו ליה נחום איש גם זו? דכל מילתא… אמר גם זו לטובה."
+    },
+    {
+      "claim": "נחום איש גם זו · גמזו",
+      "kind": "personPlace",
+      "citationId": "bf1abf0c-92a5-5beb-8f5b-0e58972763f0",
+      "classification": "WRONG_PERSON",
+      "ref": "II Chronicles.28.18",
+      "excerpt": "גמזו כעיר בשפלה — בסיס לזיהוי הפרשנים (ר׳ חננאל/ערוך)."
+    },
+    {
+      "claim": "אבא חלפתא · ציפורי",
+      "kind": "personPlace",
+      "citationId": "b335720e-9b43-51d5-aed6-98dcd38110ad",
+      "classification": "VALID_DIRECT",
+      "ref": "Taanit.16b",
+      "excerpt": "כך היה נוהג רבי חלפתא בציפורי ורבי חנניה בן תרדיון בסכנין"
+    },
+    {
+      "claim": "אבא חלפתא · טבריה",
+      "kind": "personPlace",
+      "citationId": "bf24630f-c5af-5322-ab44-15f0104055a7",
+      "classification": "VALID_DIRECT",
+      "ref": "Shabbat.115a",
+      "excerpt": "מעשה באבא חלפתא שהלך אצל רבן גמליאל בריבי לטבריא"
+    },
+    {
+      "claim": "רבי חנינא בר חמא · ציפורי",
+      "kind": "personPlace",
+      "citationId": "0a1e7323-0f5b-5213-ab8c-b10389a39b7a",
+      "classification": "WRONG_CLAIM",
+      "ref": "Ketubot.103b",
+      "excerpt": "חנינא בר חמא ישב בראש… לא קיבל… מפני רבי אפס"
+    },
+    {
+      "claim": "רבי אפס · ציפורי",
+      "kind": "personPlace",
+      "citationId": "390efa72-8f7a-5d2a-9cbd-d638f89a3a55",
+      "classification": "WRONG_CLAIM",
+      "ref": "Ketubot.103b",
+      "excerpt": "מנו את רבי אפס ברישא"
+    },
+    {
+      "claim": "רבי ינאי תלמיד רבי — זיהוי פתוח · עכברא",
+      "kind": "personPlace",
+      "citationId": "f6b8ad2e-9b1c-5292-9d4e-5243a78d6409",
+      "classification": "IRRELEVANT",
+      "ref": "Sanhedrin.26a",
+      "excerpt": "רבי ינאי הכריז: פוקו וזרעו בשביעית משום ארנונא"
+    },
+    {
+      "claim": "רבי ינאי תלמיד רבי — זיהוי פתוח · עכברא",
+      "kind": "personPlace",
+      "citationId": "3259753c-6aaf-5989-ac87-2914cab0ee77",
+      "classification": "UNVERIFIED",
+      "ref": "https://www.daat.ac.il/encyclopedia/value.asp?id1=2844",
+      "excerpt": "מקום מושבו בעכברא; בי רבי ינאי"
+    },
+    {
+      "claim": "רבי חייא · בבל",
+      "kind": "personPlace",
+      "citationId": "6f3d8aa7-7b2a-5ba0-b749-395ba071e788",
+      "classification": "IRRELEVANT",
+      "ref": "Ketubot.62b",
+      "excerpt": "דיון בייחוס משפחות רבי ורבי חייא"
+    },
+    {
+      "claim": "רבי חייא · ציפורי",
+      "kind": "personPlace",
+      "citationId": "dd3efa97-bd09-5c54-9328-673633657ee6",
+      "classification": "IRRELEVANT",
+      "ref": "Ketubot.103b",
+      "excerpt": "כמה גדולים מעשה חייא"
+    },
+    {
+      "claim": "רבי חייא · טבריה",
+      "kind": "personPlace",
+      "citationId": "090f5c96-6308-5185-a302-cba1de1ddd70",
+      "classification": "IRRELEVANT",
+      "ref": "Jerusalem Talmud Taanit.4.2",
+      "excerpt": "נזקק לאימות נקודתי בנוסח"
+    },
+    {
+      "claim": "רבי אושעיא · קיסרין",
+      "kind": "personPlace",
+      "citationId": "9ae6fe0a-3c50-5d37-b82d-4c159a504ca0",
+      "classification": "WRONG_CLAIM",
+      "ref": "Chullin.141b",
+      "excerpt": "כל מתניתא דלא תניא בי רבי חייא ובי רבי אושעיא משבשתא היא"
+    },
+    {
+      "claim": "רבי אושעיא · קיסרין",
+      "kind": "personPlace",
+      "citationId": "7feac5ab-0f5d-5346-8d78-07169d56d109",
+      "classification": "VALID_INDIRECT",
+      "ref": "https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%90%D7%95%D7%A9%D7%A2%D7%99%D7%90",
+      "excerpt": "בית מדרשו של רבי אושעיא היה בקיסריה"
+    },
+    {
+      "claim": "בר קפרא · ציפורי",
+      "kind": "personPlace",
+      "citationId": "343e1ea1-7e01-531a-a3dc-8f82831db308",
+      "classification": "IRRELEVANT",
+      "ref": "Nedarim.51a",
+      "excerpt": "מעשי בדחנות בחצר רבי"
+    },
+    {
+      "claim": "לוי — תלמיד רבי · ציפורי",
+      "kind": "personPlace",
+      "citationId": "94fa0a64-990a-534e-8364-23be23395214",
+      "classification": "VALID_DIRECT",
+      "ref": "Ketubot.103b",
+      "excerpt": "תניא: רבי מוטל בציפורי, ומקום מוכן לו בבית שערים. והתניא: ״צדק צדק תרדף״ — הלך אחר רבי לבית שערים!"
+    },
+    {
+      "claim": "לוי — תלמיד רבי · ציפורי",
+      "kind": "personPlace",
+      "citationId": "14c4e844-741b-5a7c-8e76-26537341f11f",
+      "classification": "WRONG_CLAIM",
+      "ref": "Shabbat.59b",
+      "excerpt": "לוי לרבי אפס מיכף הוה כייף ליה"
+    },
+    {
+      "claim": "לוי — תלמיד רבי · נהרדעא",
+      "kind": "personPlace",
+      "citationId": "fbb117a4-aec2-5033-b89a-81b09c3d93f1",
+      "classification": "VALID_DIRECT",
+      "ref": "Ketubot.103b",
+      "excerpt": "נח נפשיה דרבי אפס ויתיב רבי חנינא ברישא, ולא הוה ליה ללוי איניש למיתב גביה, וקאתא לבבל. והיינו דאמרי ליה לרב: גברא רבה אקלע לנהרדעא ומטלע ודריש כלילא שרי. אמר: שמע מינה נח נפשיה דרבי אפס, ויתיב רבי חנינא ברישא, ולא הוה ליה ללוי איניש למיתב גביה, וקאתי."
+    },
+    {
+      "claim": "רב · סורא",
+      "kind": "personPlace",
+      "citationId": "8dc324e0-fe7f-53eb-ad68-cc10ef489163",
+      "classification": "UNVERIFIED",
+      "ref": "https://he.wikipedia.org/wiki/%D7%99%D7%A9%D7%99%D7%91%D7%AA_%D7%A1%D7%95%D7%A8%D7%90",
+      "excerpt": "מסורת הגאונים על ייסוד סורא"
+    },
+    {
+      "claim": "רב · סורא",
+      "kind": "personPlace",
+      "citationId": "1345c5ec-aeea-5f8c-bb00-636d6257b0b0",
+      "classification": "IRRELEVANT",
+      "ref": "Gittin.6a",
+      "excerpt": "הבחנה בין אתרא דרב לאתרא דשמואל"
+    },
+    {
+      "claim": "רב · נהרדעא",
+      "kind": "personPlace",
+      "citationId": "153e529a-29c9-552a-bb96-e6b71c275b75",
+      "classification": "UNVERIFIED",
+      "ref": "https://he.wikipedia.org/wiki/%D7%A8%D7%91_(%D7%90%D7%9E%D7%95%D7%A8%D7%90)",
+      "excerpt": "סיפור המעבר מנהרדעא לסורא"
+    },
+    {
+      "claim": "רב · ציפורי",
+      "kind": "personPlace",
+      "citationId": "ab12d63e-8919-5387-8677-b64bac74c69f",
+      "classification": "IRRELEVANT",
+      "ref": "Sanhedrin.5a",
+      "excerpt": "רב קיבל רשות מרבי"
+    },
+    {
+      "claim": "שמואל — האמורא · נהרדעא",
+      "kind": "personPlace",
+      "citationId": "14fad2db-a213-5afe-829a-b3aa84719b77",
+      "classification": "VALID_DIRECT",
+      "ref": "Bava Kamma.80a",
+      "excerpt": "קשרי שמואל לנהרדעא"
+    },
+    {
+      "claim": "שמואל — האמורא · נהרדעא",
+      "kind": "personPlace",
+      "citationId": "49ef85bb-f05f-5d4d-a78c-15efd66fd588",
+      "classification": "WRONG_CLAIM",
+      "ref": "Gittin.6a",
+      "excerpt": "הבחנה אתרא דרב / אתרא דשמואל"
+    },
+    {
+      "claim": "רבי יוחנן — האמורא · טבריה",
+      "kind": "personPlace",
+      "citationId": "8f8becae-63a2-53b0-abda-bc3fec645033",
+      "classification": "WRONG_PERSON",
+      "ref": "Rosh Hashanah.31a",
+      "excerpt": "מסורת עשר גלויות עד טבריה"
+    },
+    {
+      "claim": "רבי יוחנן — האמורא · ציפורי",
+      "kind": "personPlace",
+      "citationId": "bbe60bef-d8e9-5c70-aed9-621d4fd5afc9",
+      "classification": "UNVERIFIED",
+      "ref": "https://he.wikipedia.org/wiki/%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%97%D7%A0%D7%9F",
+      "excerpt": "בעקבות מחלוקת עם רבי חנינא בר חמא"
+    },
+    {
+      "claim": "רבן גמליאל — אבות א:טז · יבנה",
+      "kind": "personPlace",
+      "citationId": "1b204b96-6c11-534e-b45b-13b4c96a399d",
+      "classification": "VALID_DIRECT",
+      "ref": "Berakhot.28a",
+      "excerpt": "מעמד רבן גמליאל בבית המדרש ביבנה."
+    },
+    {
+      "claim": "רבן גמליאל — אבות א:טז · יבנה",
+      "kind": "personPlace",
+      "citationId": "caa272f1-5fe2-52f7-9a5f-6c5b1718b91b",
+      "classification": "VALID_DIRECT",
+      "ref": "Berakhot.27b",
+      "excerpt": "מחלוקת רבן גמליאל ורבי יהושע ביבנה."
+    },
+    {
+      "claim": "אירוע · יבנה · הבקשה לשמר את יבנה וחכמיה",
+      "kind": "event",
+      "citationId": "578d232d-f118-52c3-ae42-c71603eb154a",
+      "classification": "VALID_DIRECT",
+      "ref": "Gittin 56b:5",
+      "excerpt": "אמר ליה: מיזל אזילנא, ואינש אחרינא משדרנא; אלא בעי מינאי מידי דאתן לך. אמר ליה: תן לי יבנה וחכמיה, ושושילתא דרבן גמליאל, ואסוותא דמסיין ליה לרבי צדוק. קרי עליה רב יוסף, ואיתימא רבי עקיבא: ״משיב חכמים אחור ודעתם יסכל״, איבעי למימר ליה: לשבקינהו הדא זימנא."
+    },
+    {
+      "claim": "אירוע · ירושלים · רבי עקיבא וחבריו בירושלים החרבה",
+      "kind": "event",
+      "citationId": "d5db4683-eedb-5c02-a797-10a85bdc8121",
+      "classification": "IRRELEVANT",
+      "ref": "Makkot 24a:33",
+      "excerpt": "וכבר היה רבן גמליאל ורבי אלעזר בן עזריה ורבי יהושע ורבי עקיבא מהלכין בדרך, ושמעו קול המונה של רומי מפלטה [ברחוק] מאה ועשרים מיל, והתחילו בוכין, ורבי עקיבא משחק. אמרו לו: מפני מה אתה משחק? אמר להם: ואתם מפני מה אתם בוכים? אמרו לו: הללו גוים שמשתחוים לעצבים ומקטרים לעבודה זרה יושבין בטח והשקט, ואנו, בית הדום רגלי אלהינו "
+    },
+    {
+      "claim": "אירוע · ירושלים · רבי עקיבא וחבריו בירושלים החרבה",
+      "kind": "event",
+      "citationId": "db1b2180-6045-5fa1-a2f6-e360e482e083",
+      "classification": "VALID_DIRECT",
+      "ref": "Makkot 24b:2",
+      "excerpt": "שוב פעם אחת היו עולין לירושלים, כיון שהגיעו להר הצופים קרעו בגדיהם, כיון שהגיעו להר הבית ראו שועל שיצא מבית קדשי הקדשים, התחילו הן בוכין ורבי עקיבא מצחק. אמרו לו: מפני מה אתה מצחק? אמר להם: מפני מה אתם בוכים? אמרו לו: מקום שכתוב בו ״והזר הקרב יומת״, ועכשיו שועלים הלכו בו, ולא נבכה?!"
+    },
+    {
+      "claim": "מוסד · יבנה · יבנה וחכמיה",
+      "kind": "institution",
+      "citationId": "578d232d-f118-52c3-ae42-c71603eb154a",
+      "classification": "VALID_DIRECT",
+      "ref": "Gittin 56b:5",
+      "excerpt": "אמר ליה: מיזל אזילנא, ואינש אחרינא משדרנא; אלא בעי מינאי מידי דאתן לך. אמר ליה: תן לי יבנה וחכמיה, ושושילתא דרבן גמליאל, ואסוותא דמסיין ליה לרבי צדוק. קרי עליה רב יוסף, ואיתימא רבי עקיבא: ״משיב חכמים אחור ודעתם יסכל״, איבעי למימר ליה: לשבקינהו הדא זימנא."
+    },
+    {
+      "claim": "מוסד · יבנה · יבנה וחכמיה",
+      "kind": "institution",
+      "citationId": "e7536845-58be-5d35-a3fa-19fd8408daf0",
+      "classification": "VALID_DIRECT",
+      "ref": "Shabbat 33b:2",
+      "excerpt": "איבעיא להו: רבי אלעזר ברבי יוסי על לשון הרע קאמר, או דילמא אף על לשון הרע נמי קאמר? תא שמע: כשנכנסו רבותינו לכרם ביבנה היה שם רבי יהודה ורבי אלעזר ברבי יוסי ורבי שמעון נשאלה שאלה זו בפניהם: מכה זו, מפני מה מתחלת בבני מעיים וגומרת בפה? נענה רבי יהודה ברבי אלעאי ״ראש המדברים בכל מקום״ ואמר: אף על פי שכליות יועצות, ולב מב"
+    },
+    {
+      "claim": "מוסד · טבריה · מושב הסנהדרין",
+      "kind": "institution",
+      "citationId": "cd015b32-6c20-59a9-a971-cf4754f4534d",
+      "classification": "VALID_DIRECT",
+      "ref": "Rosh Hashanah 31b:1",
+      "excerpt": "ומיבנה לאושא, ומאושא ליבנה, ומיבנה לאושא, ומאושא לשפרעם, ומשפרעם לבית שערים, ומבית שערים לצפורי, ומצפורי לטבריא. וטבריא עמוקה מכולן, שנאמר: ״ושפלת מארץ תדברי״."
+    },
+    {
+      "claim": "מקום · לוד (sourceIds)",
+      "kind": "place",
+      "citationId": "4ff672f3-bd78-5c23-aaff-0aac4bbd1468",
+      "classification": "UNVERIFIED",
+      "ref": "https://isaw.nyu.edu/research/pliny-the-elder/pliny_database_ver_2.pdf",
+      "excerpt": ""
+    },
+    {
+      "claim": "מקום · יבנה (sourceIds)",
+      "kind": "place",
+      "citationId": "4ff672f3-bd78-5c23-aaff-0aac4bbd1468",
+      "classification": "UNVERIFIED",
+      "ref": "https://isaw.nyu.edu/research/pliny-the-elder/pliny_database_ver_2.pdf",
+      "excerpt": ""
+    },
+    {
+      "claim": "מקום · בני ברק (sourceIds)",
+      "kind": "place",
+      "citationId": "3d1db281-a05c-524e-a3a1-cefb1caef84c",
+      "classification": "UNVERIFIED",
+      "ref": "https://hadashot.iaa.org.il/Report_Detail_Eng.aspx?id=26683",
+      "excerpt": ""
+    },
+    {
+      "claim": "מקום · רומי (sourceIds)",
+      "kind": "place",
+      "citationId": "41d3852d-dfe2-5239-a7a9-1c722a89e080",
+      "classification": "UNVERIFIED",
+      "ref": "https://pleiades.stoa.org/places/423025",
+      "excerpt": ""
+    },
+    {
+      "claim": "מקום · ציפורי (sourceIds)",
+      "kind": "place",
+      "citationId": "ff75f614-eeeb-5c1d-a2c1-1d8a761e9115",
+      "classification": "UNVERIFIED",
+      "ref": "https://imperium.ahlfeldt.se/places/21663.html",
+      "excerpt": ""
+    },
+    {
+      "claim": "מקום · בית שערים (sourceIds)",
+      "kind": "place",
+      "citationId": "2ca1947e-0196-5928-a512-1754c6129862",
+      "classification": "UNVERIFIED",
+      "ref": "https://whc.unesco.org/en/list/1471/",
+      "excerpt": ""
+    },
+    {
+      "claim": "מקום · ירושלים (sourceIds)",
+      "kind": "place",
+      "citationId": "3dbde2de-9f19-50d9-a92e-723e4be7b0c6",
+      "classification": "UNVERIFIED",
+      "ref": "https://imperium.ahlfeldt.se/places/15896",
+      "excerpt": ""
+    },
+    {
+      "claim": "מקום · טבריה (sourceIds)",
+      "kind": "place",
+      "citationId": "4ff672f3-bd78-5c23-aaff-0aac4bbd1468",
+      "classification": "UNVERIFIED",
+      "ref": "https://isaw.nyu.edu/research/pliny-the-elder/pliny_database_ver_2.pdf",
+      "excerpt": ""
+    },
+    {
+      "claim": "מקום · סיכני (sourceIds)",
+      "kind": "place",
+      "citationId": "e90be459-854f-54cf-a5b6-d5c4d2be1183",
+      "classification": "UNVERIFIED",
+      "ref": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/sikhnin-or-sogane",
+      "excerpt": ""
+    },
+    {
+      "claim": "מקום · פקיעין (sourceIds)",
+      "kind": "place",
+      "citationId": "5f31c44d-e29e-5850-a91b-a573b315708d",
+      "classification": "VALID_DIRECT",
+      "ref": "Mishnat Eretz Yisrael on Mishnah Rosh Hashanah.2.9",
+      "excerpt": "נטל – רבי יהושע מקלו ומעותיו בידו – המקל היה ציוד הליכה רגיל, כפי שראינו לעיל 56 ראו לעיל, שם. , אך רבן גמליאל דרש שרבי יהושע ילך עם המקל והמעות כדי להבליט ולהגדיל את חילול החג. רבי יהושע חי בפקיעין, המצויה אי שם בין יבנה ללוד, ובאותו יום שהיה ערב יום הכיפורים לפי חשבונו של רבן גמליאל הלך ליבנה, והלך ליווונה אצל רבן גמ"
+    }
+  ]
+}

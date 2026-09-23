@@ -1,0 +1,846 @@
+[
+  {
+    "original_identity_key": "hyman-section:564fa80f4e95b13da093",
+    "reason": "Patronymic occurrence in the names Shimon/Yonatan ben Avtolmos does not independently establish identity with this Avtolmos.",
+    "evidence": {
+      "ref": "Bava Batra 68a:7",
+      "url": "https://www.sefaria.org/Bava_Batra_68a%3A7",
+      "book": "Bava Batra",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Bava%20Batra/Hebrew/merged.json",
+      "export_segment_key": "134_Daf, 6_Line",
+      "mention": "אבטולמוס",
+      "excerpt": "רבן שמעון בן גמליאל אומר: המוכר את העיר מכר את הסנטר. מאי \"סנטר\"? הכא תרגימו: בר מחווניתא. שמעון בן אבטולמוס אומר: באגי. מאן דאמר בר מחווניתא כל שכן באגי; מאן דאמר באגי אבל בר מחווניתא לא מיזדבן.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Hyman citation plus Hebrew subject-name occurrence",
+      "evidence_stratum": "primary_corpus",
+      "secondary_identity_anchor": "https://he.wikisource.org/w/index.php?oldid=977870",
+      "secondary_citation_template": "בבא בתרא סח א"
+    }
+  },
+  {
+    "original_identity_key": "hyman-section:564fa80f4e95b13da093",
+    "reason": "Patronymic occurrence in the names Shimon/Yonatan ben Avtolmos does not independently establish identity with this Avtolmos.",
+    "evidence": {
+      "ref": "Sanhedrin 87b:17",
+      "url": "https://www.sefaria.org/Sanhedrin_87b%3A17",
+      "book": "Sanhedrin",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/merged.json",
+      "export_segment_key": "173_Daf, 16_Line",
+      "mention": "אבטולמוס",
+      "excerpt": "נגעי בגדים בפלוגתא דרבי יונתן בן אבטולמוס ורבנן. דתניא: רבי יונתן בן אבטולמוס אומר, מנין",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Hyman citation plus Hebrew subject-name occurrence",
+      "evidence_stratum": "primary_corpus",
+      "secondary_identity_anchor": "https://he.wikisource.org/w/index.php?oldid=977870",
+      "secondary_citation_template": "סנהדרין פז ב"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rabbi-yitzhak",
+    "reason": "Topic profile identifies a Tanna but its tagged passages mix homonymous sages; passage attribution requires separate assessment.",
+    "evidence": {
+      "ref": "Arakhin 10b:6",
+      "url": "https://www.sefaria.org/Arakhin_10b%3A6",
+      "book": "Arakhin",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Kodashim"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Kodashim/Arakhin/Hebrew/merged.json",
+      "export_segment_key": "19_Daf, 5_Line",
+      "mention": "רבי יצחק",
+      "excerpt": "והא חנוכה דלא הכי ולא הכי, וקאמר! משום ניסא. פורים דאיכא ניסא, לימא! אמר רבי יצחק: לפי שאין אומרים שירה על נס שבחוצה לארץ.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rabbi-yitzhak",
+    "reason": "Topic profile identifies a Tanna but its tagged passages mix homonymous sages; passage attribution requires separate assessment.",
+    "evidence": {
+      "ref": "Arakhin 11a:18",
+      "url": "https://www.sefaria.org/Arakhin_11a%3A18",
+      "book": "Arakhin",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Kodashim"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Kodashim/Arakhin/Hebrew/merged.json",
+      "export_segment_key": "20_Daf, 17_Line",
+      "mention": "רבי יצחק",
+      "excerpt": "רבי יצחק אמר מהכא: \"שאו זמרה ותנו תף כנור נעים עם נבל\". רב נחמן בר יצחק אמר מהכא: \"הם ישאו קולם ירנו בגאון ה' צהלו מים\".",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rabbi-yitzhak",
+    "reason": "Topic profile identifies a Tanna but its tagged passages mix homonymous sages; passage attribution requires separate assessment.",
+    "evidence": {
+      "ref": "Arakhin 16b:22",
+      "url": "https://www.sefaria.org/Arakhin_16b%3A22",
+      "book": "Arakhin",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Kodashim"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Kodashim/Arakhin/Hebrew/merged.json",
+      "export_segment_key": "31_Daf, 21_Line",
+      "mention": "רבי יצחק",
+      "excerpt": "מר בריה דרבינא אמר: אפילו נהפך לו חלוקו. רבא, ואיתימא רב חסדא, ואיתימא רבי יצחק, ואמרי לה במתניתא תנא: אפילו הושיט ידו לכיס ליטול שלש ועלו בידו שתים.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rabbi-yitzhak",
+    "reason": "Topic profile identifies a Tanna but its tagged passages mix homonymous sages; passage attribution requires separate assessment.",
+    "evidence": {
+      "ref": "Arakhin 17a:17",
+      "url": "https://www.sefaria.org/Arakhin_17a%3A17",
+      "book": "Arakhin",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Kodashim"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Kodashim/Arakhin/Hebrew/merged.json",
+      "export_segment_key": "32_Daf, 16_Line",
+      "mention": "רבי יצחק",
+      "excerpt": "אמר רבי יצחק: כשהיה מדירו עני, ודלמא עליה דידיה חס רחמנא, אמדירו לא, דהכתיב: \"הוא\".",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rabbi-yitzhak",
+    "reason": "Topic profile identifies a Tanna but its tagged passages mix homonymous sages; passage attribution requires separate assessment.",
+    "evidence": {
+      "ref": "Avodah Zarah 3b:2",
+      "url": "https://www.sefaria.org/Avodah_Zarah_3b%3A2",
+      "book": "Avodah Zarah",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+      "export_segment_key": "5_Daf, 1_Line",
+      "mention": "רבי יצחק",
+      "excerpt": "מיד, הקדוש ברוך הוא יושב ומשחק עליהן, שנאמר: \"יושב בשמים ישחק וגו'\". אמר רבי יצחק: אין שחוק לפני הקדוש ברוך הוא אלא אותו היום בלבד.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rabbi-yitzhak",
+    "reason": "Topic profile identifies a Tanna but its tagged passages mix homonymous sages; passage attribution requires separate assessment.",
+    "evidence": {
+      "ref": "Avodah Zarah 3b:3",
+      "url": "https://www.sefaria.org/Avodah_Zarah_3b%3A3",
+      "book": "Avodah Zarah",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+      "export_segment_key": "5_Daf, 2_Line",
+      "mention": "דרבי יצחק",
+      "excerpt": "איכא דמתני להא דרבי יצחק אהא, דתניא: רבי יוסי אומר: לעתיד לבא באין אומות העולם ומתגיירין. ומי מקבלינן מינייהו? והתניא: אין מקבלין גרים לימות המשיח, כיוצא בו לא קבלו גרים לא בימי דוד ולא בימי שלמה!",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rabbi-yitzhak",
+    "reason": "Topic profile identifies a Tanna but its tagged passages mix homonymous sages; passage attribution requires separate assessment.",
+    "evidence": {
+      "ref": "Avodah Zarah 3b:6",
+      "url": "https://www.sefaria.org/Avodah_Zarah_3b%3A6",
+      "book": "Avodah Zarah",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+      "export_segment_key": "5_Daf, 5_Line",
+      "mention": "רבי יצחק",
+      "excerpt": "וכל אחד מנתק מצותו והולך, שנאמר: \"ננתקה את מוסרותימו וגו'\", והקדוש ברוך הוא יושב ומשחק, שנאמר: \"יושב בשמים ישחק וגו'\". אמר רבי יצחק: אין לו להקדוש ברוך הוא שחוק אלא אותו היום בלבד.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rabbi-yitzhak",
+    "reason": "Topic profile identifies a Tanna but its tagged passages mix homonymous sages; passage attribution requires separate assessment.",
+    "evidence": {
+      "ref": "Avodah Zarah 7b:1",
+      "url": "https://www.sefaria.org/Avodah_Zarah_7b%3A1",
+      "book": "Avodah Zarah",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+      "export_segment_key": "13_Daf, 0_Line",
+      "mention": "רבי יצחק",
+      "excerpt": "בפרהסיא אין מקבלין אותן. רבי שמעון ורבי יהושע בן קרחה אומרים: בין כך ובין כך מקבלין, שנאמר: \"שובו בנים שובבים\". אמר רבי יצחק איש כפר עכו אמר רבי יוחנן: הלכתא כאותו הזוג.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rabbi-yitzhak",
+    "reason": "Topic profile identifies a Tanna but its tagged passages mix homonymous sages; passage attribution requires separate assessment.",
+    "evidence": {
+      "ref": "Avodah Zarah 8b:12",
+      "url": "https://www.sefaria.org/Avodah_Zarah_8b%3A12",
+      "book": "Avodah Zarah",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+      "export_segment_key": "15_Daf, 11_Line",
+      "mention": "רבי יצחק",
+      "excerpt": "למאי הלכתא? אמר רבי יצחק בר אבדימי: לומר, שלא דנו דיני קנסות. דיני קנסות סלקא דעתך? והאמר רב יהודה אמר רב: ברם זכור אותו האיש לטוב, ורבי יהודה בן בבא שמו, שאלמלא הוא נשתכחו דיני קנסות מישראל! \"נשתכחו\"? לגרסינהו!",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic translated entity annotation; Hebrew alias must corroborate",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rabbi-yitzhak",
+    "reason": "Topic profile identifies a Tanna but its tagged passages mix homonymous sages; passage attribution requires separate assessment.",
+    "evidence": {
+      "ref": "Avodah Zarah 14a:4",
+      "url": "https://www.sefaria.org/Avodah_Zarah_14a%3A4",
+      "book": "Avodah Zarah",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+      "export_segment_key": "26_Daf, 3_Line",
+      "mention": "רבי יצחק",
+      "excerpt": "לבונה אמר רבי יצחק אמר רבי שמעון בן לקיש: לבונה זכה. תנא: ומכולן מוכרין להן חבילה, וכמה חבילה? פירש רבי יהודה בן בתירא: אין חבילה פחותה משלשה מנין.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rabbi-yitzhak",
+    "reason": "Topic profile identifies a Tanna but its tagged passages mix homonymous sages; passage attribution requires separate assessment.",
+    "evidence": {
+      "ref": "Avodah Zarah 24b:18",
+      "url": "https://www.sefaria.org/Avodah_Zarah_24b%3A18",
+      "book": "Avodah Zarah",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+      "export_segment_key": "47_Daf, 17_Line",
+      "mention": "ר' יצחק",
+      "excerpt": "רב אשי מתני לה להא דרבי יצחק, אהא \"ויהי בנסע הארן ויאמר משה קומה ה'\", ישראל מאי אמרו? אמר רבי יצחק: \"רוני רוני השיטה\" וכו'.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rabbi-yitzhak",
+    "reason": "Topic profile identifies a Tanna but its tagged passages mix homonymous sages; passage attribution requires separate assessment.",
+    "evidence": {
+      "ref": "Avodah Zarah 31b:4",
+      "url": "https://www.sefaria.org/Avodah_Zarah_31b%3A4",
+      "book": "Avodah Zarah",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+      "export_segment_key": "61_Daf, 3_Line",
+      "mention": "רבי יצחק",
+      "excerpt": "אתמר: מפני מה אסרו שכר של גוים? רמי בר חמא אמר רבי יצחק: משום חתנות, רב נחמן אמר: משום גילוי.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rabbi-yitzhak",
+    "reason": "Topic profile identifies a Tanna but its tagged passages mix homonymous sages; passage attribution requires separate assessment.",
+    "evidence": {
+      "ref": "Avodah Zarah 36b:3",
+      "url": "https://www.sefaria.org/Avodah_Zarah_36b%3A3",
+      "book": "Avodah Zarah",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+      "export_segment_key": "71_Daf, 2_Line",
+      "mention": "רבי יצחק",
+      "excerpt": "וגניבא משמיה דרב אמר: כולן משום עבודה זרה גזרו בהן, דכי אתא רב אחא בר אדא אמר רבי יצחק: גזרו על פיתן משום שמנן, מאי אולמיה דשמן מפת?",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rabbi-yitzhak",
+    "reason": "Topic profile identifies a Tanna but its tagged passages mix homonymous sages; passage attribution requires separate assessment.",
+    "evidence": {
+      "ref": "Avodah Zarah 52a:12",
+      "url": "https://www.sefaria.org/Avodah_Zarah_52a%3A12",
+      "book": "Avodah Zarah",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+      "export_segment_key": "102_Daf, 11_Line",
+      "mention": "לכדרבי יצחק",
+      "excerpt": "ואידך? ההוא מיבעיא ליה לכדרבי יצחק, דאמר רבי יצחק: מנין לעבודה זרה של ישראל שטעונה גניזה? שנאמר: \"ושם בסתר\".",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rabbi-yitzhak",
+    "reason": "Topic profile identifies a Tanna but its tagged passages mix homonymous sages; passage attribution requires separate assessment.",
+    "evidence": {
+      "ref": "Avodah Zarah 69a:11",
+      "url": "https://www.sefaria.org/Avodah_Zarah_69a%3A11",
+      "book": "Avodah Zarah",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+      "export_segment_key": "136_Daf, 10_Line",
+      "mention": "רב יצחק",
+      "excerpt": "מאי שנא רישא, ומאי שנא סיפא? אמר רב יצחק: רישא במטהר חמריו ופועליו לכך.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rabbi-yitzhak",
+    "reason": "Topic profile identifies a Tanna but its tagged passages mix homonymous sages; passage attribution requires separate assessment.",
+    "evidence": {
+      "ref": "Avodah Zarah 70a:8",
+      "url": "https://www.sefaria.org/Avodah_Zarah_70a%3A8",
+      "book": "Avodah Zarah",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+      "export_segment_key": "138_Daf, 7_Line",
+      "mention": "כרבי יצחק",
+      "excerpt": "ואי משום שבתא, האמר רבא: אמר לי איסור גיורא, כי הוינן בארמיותן אמרינן: יהודאי לא מנטרי שבתא, דאי מנטרי שבתא כמה כיסי קא משתכחי בשוקא. ולא ידענא דסבירא לן כרבי יצחק, דאמר רבי יצחק: המוצא כיס בשבת מוליכו פחות פחות מארבע אמות.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rabbi-yitzhak",
+    "reason": "Topic profile identifies a Tanna but its tagged passages mix homonymous sages; passage attribution requires separate assessment.",
+    "evidence": {
+      "ref": "Avodah Zarah 70b:4",
+      "url": "https://www.sefaria.org/Avodah_Zarah_70b%3A4",
+      "book": "Avodah Zarah",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+      "export_segment_key": "139_Daf, 3_Line",
+      "mention": "רבי יצחק",
+      "excerpt": "ההיא מסוביתא דמסרה לה איקלידא (מפתחה) לגויה, אמר רבי יצחק אמר רבי אלעזר: עובדא הוה בי מדרשא, ואמרו: לא מסרה לה אלא שמירת מפתח בלבד.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic translated entity annotation; Hebrew alias must corroborate",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rabbi-yitzhak",
+    "reason": "Topic profile identifies a Tanna but its tagged passages mix homonymous sages; passage attribution requires separate assessment.",
+    "evidence": {
+      "ref": "Zevachim 96b:2",
+      "url": "https://www.sefaria.org/Zevachim_96b%3A2",
+      "book": "Zevachim",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Kodashim"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Kodashim/Zevachim/Hebrew/merged.json",
+      "export_segment_key": "191_Daf, 1_Line",
+      "mention": "רב יצחק",
+      "excerpt": "רב יצחק בר יהודה הוה רגיל קמיה דרמי בר חמא, שבקיה ואזל לרב ששת. יומא חד פגע ביה, אמר ליה: אלקפטא נקטן, ריחא אתי לה ליד?! משום דאזלת לך לקמיה דרב ששת, הוית לך כי רב ששת?!",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rav-aha",
+    "reason": "Aha topic biography and tagged passages are inconsistent; preserve the Lod Amora profile but review the mixed passage assignments separately.",
+    "evidence": {
+      "ref": "Avodah Zarah 3b:9",
+      "url": "https://www.sefaria.org/Avodah_Zarah_3b%3A9",
+      "book": "Avodah Zarah",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+      "export_segment_key": "5_Daf, 8_Line",
+      "mention": "רב אחא",
+      "excerpt": "אמר ליה רב אחא לרב נחמן בר יצחק: מיום שחרב בית המקדש אין שחוק להקדוש ברוך הוא. ומנלן דליכא שחוק? אילימא מדכתיב: \"ויקרא ה' אלהים צבאות ביום ההוא לבכי ולמספד ולקרחה וגו'\", דלמא ההוא יומא ותו לא!",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rav-aha",
+    "reason": "Aha topic biography and tagged passages are inconsistent; preserve the Lod Amora profile but review the mixed passage assignments separately.",
+    "evidence": {
+      "ref": "Avodah Zarah 26b:4",
+      "url": "https://www.sefaria.org/Avodah_Zarah_26b%3A4",
+      "book": "Avodah Zarah",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+      "export_segment_key": "51_Daf, 3_Line",
+      "mention": "רב אחא",
+      "excerpt": "איתמר משומד, פליגי רב אחא ורבינא: חד אמר: לתיאבון משומד, להכעיס מין הוי, וחד אמר: אפילו להכעיס נמי משומד. אלא איזהו מין? זה העובד עבודה זרה.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rav-aha",
+    "reason": "Aha topic biography and tagged passages are inconsistent; preserve the Lod Amora profile but review the mixed passage assignments separately.",
+    "evidence": {
+      "ref": "Avodah Zarah 28a:8",
+      "url": "https://www.sefaria.org/Avodah_Zarah_28a%3A8",
+      "book": "Avodah Zarah",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+      "export_segment_key": "54_Daf, 7_Line",
+      "mention": "רבי אחא",
+      "excerpt": "מאי סימניה? רמי מידי בי ככי, ומייתי דמא מבי דרי. ממאי הוי? מקרירי קרירי דחיטי, ומחמימי חמימי דשערי, ומשיורי כסא דהרסנא. מאי עבדא ליה? אמר רבי אחא בריה דרבא: מי שאור ושמן זית ומלח, ומר בר רב אשי אמר: משחא דאווזא בגדפא דאווזא.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rav-aha",
+    "reason": "Aha topic biography and tagged passages are inconsistent; preserve the Lod Amora profile but review the mixed passage assignments separately.",
+    "evidence": {
+      "ref": "Avodah Zarah 33b:3",
+      "url": "https://www.sefaria.org/Avodah_Zarah_33b%3A3",
+      "book": "Avodah Zarah",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+      "export_segment_key": "65_Daf, 2_Line",
+      "mention": "רב אחא",
+      "excerpt": "אמר רב אשי: לא תימא עד דנתרן, אלא אפילו רפאי מירפא, אף על גב דלא נתר. קינסא פליגי בה רב אחא ורבינא, חד אסר וחד שרי, והלכתא כמאן דאסר.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rav-aha",
+    "reason": "Aha topic biography and tagged passages are inconsistent; preserve the Lod Amora profile but review the mixed passage assignments separately.",
+    "evidence": {
+      "ref": "Avodah Zarah 61a:7",
+      "url": "https://www.sefaria.org/Avodah_Zarah_61a%3A7",
+      "book": "Avodah Zarah",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+      "export_segment_key": "120_Daf, 6_Line",
+      "mention": "רב אחא",
+      "excerpt": "פסיק רישיה פליגי בה רב אחא ורבינא: חד אסר, וחד שרי. מאן דאסר למה ליה דסליק התם? ומאן דשרי זימנין דאבדה ליה בהמה, וסליק לעיוני בתרה.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rav-aha",
+    "reason": "Aha topic biography and tagged passages are inconsistent; preserve the Lod Amora profile but review the mixed passage assignments separately.",
+    "evidence": {
+      "ref": "Avodah Zarah 75b:15",
+      "url": "https://www.sefaria.org/Avodah_Zarah_75b%3A15",
+      "book": "Avodah Zarah",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+      "export_segment_key": "149_Daf, 14_Line",
+      "mention": "רב אחא",
+      "excerpt": "אמר רב אשי: הני כלי זכוכית, הואיל וכי נשתברו יש להן תקנה, ככלי מתכות דמו. קוניא, פליגי בה רב אחא ורבינא, חד אמר: כתחלתו, וחד אמר: כסופו, והלכתא כסופו.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rav-aha",
+    "reason": "Aha topic biography and tagged passages are inconsistent; preserve the Lod Amora profile but review the mixed passage assignments separately.",
+    "evidence": {
+      "ref": "Bava Batra 12b:5",
+      "url": "https://www.sefaria.org/Bava_Batra_12b%3A5",
+      "book": "Bava Batra",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Bava%20Batra/Hebrew/merged.json",
+      "export_segment_key": "23_Daf, 4_Line",
+      "mention": "רב אחא",
+      "excerpt": "קרי רב אחא אנפשיה: כל המריעין לו לא במהרה מטיבין לו, וכל המטיבין לו לא במהרה מריעין לו.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic translated entity annotation; Hebrew alias must corroborate",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rav-aha",
+    "reason": "Aha topic biography and tagged passages are inconsistent; preserve the Lod Amora profile but review the mixed passage assignments separately.",
+    "evidence": {
+      "ref": "Bava Batra 36b:2",
+      "url": "https://www.sefaria.org/Bava_Batra_36b%3A2",
+      "book": "Bava Batra",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Bava%20Batra/Hebrew/merged.json",
+      "export_segment_key": "71_Daf, 1_Line",
+      "mention": "ר' אחא",
+      "excerpt": "תנו רבנן: ניר אינו חזקה. ויש אומרים: הרי זה חזקה. מאן \"יש אומרים\"? אמר רב חסדא: רבי אחא היא דתניא: נרה שנה, וזרעה שתים, נרה שתים, וזרעה שנה אינה חזקה. רבי אחא אומר: הרי זו חזקה.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rav-aha",
+    "reason": "Aha topic biography and tagged passages are inconsistent; preserve the Lod Amora profile but review the mixed passage assignments separately.",
+    "evidence": {
+      "ref": "Bava Batra 36b:4",
+      "url": "https://www.sefaria.org/Bava_Batra_36b%3A4",
+      "book": "Bava Batra",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Bava%20Batra/Hebrew/merged.json",
+      "export_segment_key": "71_Daf, 3_Line",
+      "mention": "ר' אחא",
+      "excerpt": "שלחו ליה בני פום נהרא לרב נחמן בר רב חסדא: ילמדנו רבינו, נירא הוי חזקה, או לא הוי חזקה? אמר להו, רבי אחא וכל גדולי הדור אמרי: ניר הרי זה חזקה.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rav-aha",
+    "reason": "Aha topic biography and tagged passages are inconsistent; preserve the Lod Amora profile but review the mixed passage assignments separately.",
+    "evidence": {
+      "ref": "Bava Batra 75b:13",
+      "url": "https://www.sefaria.org/Bava_Batra_75b%3A13",
+      "book": "Bava Batra",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Bava%20Batra/Hebrew/merged.json",
+      "export_segment_key": "149_Daf, 12_Line",
+      "mention": "ר' אחא",
+      "excerpt": "לימא כתנאי כיצד במסירה? אחזה בטלפה, בשערה, באוכף שעליה, בשליף שעליה, בפרומביא שבפיה, בזוג שבצוארה קנאה. כיצד במשיכה? קורא לה והיא באה, או שהכישה במקל ורצתה לפניו כיון שעקרה יד ורגל, קנאה. רבי אחי ואמרי לה רבי אחא אומר: עד שתהלך מלא קומתה.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rav-aha",
+    "reason": "Aha topic biography and tagged passages are inconsistent; preserve the Lod Amora profile but review the mixed passage assignments separately.",
+    "evidence": {
+      "ref": "Bava Batra 75b:14",
+      "url": "https://www.sefaria.org/Bava_Batra_75b%3A14",
+      "book": "Bava Batra",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Bava%20Batra/Hebrew/merged.json",
+      "export_segment_key": "149_Daf, 13_Line",
+      "mention": "לרבי אחא",
+      "excerpt": "לימא רב דאמר כתנא קמא ושמואל דאמר כרבי אחא? אמר לך רב: אנא דאמרי אפילו לרבי אחא עד כאן לא קאמר רבי אחא אלא בבעלי חיים; דאף על גב דעקרה יד ורגל בדוכתה קיימא; אבל ספינה, כיון דנדה בה פורתא נדה לה כולה.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rav-aha",
+    "reason": "Aha topic biography and tagged passages are inconsistent; preserve the Lod Amora profile but review the mixed passage assignments separately.",
+    "evidence": {
+      "ref": "Bava Batra 93a:6",
+      "url": "https://www.sefaria.org/Bava_Batra_93a%3A6",
+      "book": "Bava Batra",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Bava%20Batra/Hebrew/merged.json",
+      "export_segment_key": "184_Daf, 5_Line",
+      "mention": "רבי אחא",
+      "excerpt": "לימא כתנאי: שור שהיה רועה, ונמצא שור הרוג בצדו; אף על פי שזה מנוגח וזה מועד ליגח, זה מנושך וזה מועד לישוך; אין אומרים: בידוע שזה נגחו וזה נשכו. רבי אחא אומר: גמל האוחר בין הגמלים, ונמצא גמל הרוג בצדו בידוע שזה הרגו.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rav-aha",
+    "reason": "Aha topic biography and tagged passages are inconsistent; preserve the Lod Amora profile but review the mixed passage assignments separately.",
+    "evidence": {
+      "ref": "Bava Batra 93a:7",
+      "url": "https://www.sefaria.org/Bava_Batra_93a%3A7",
+      "book": "Bava Batra",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Bava%20Batra/Hebrew/merged.json",
+      "export_segment_key": "184_Daf, 6_Line",
+      "mention": "כרבי אחא",
+      "excerpt": "סברוה דרובא וחזקה כי הדדי נינהו; לימא רב דאמר כרבי אחא, ושמואל דאמר כתנא קמא?",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rav-aha",
+    "reason": "Aha topic biography and tagged passages are inconsistent; preserve the Lod Amora profile but review the mixed passage assignments separately.",
+    "evidence": {
+      "ref": "Bava Batra 93a:9",
+      "url": "https://www.sefaria.org/Bava_Batra_93a%3A9",
+      "book": "Bava Batra",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Bava%20Batra/Hebrew/merged.json",
+      "export_segment_key": "184_Daf, 8_Line",
+      "mention": "ר' אחא",
+      "excerpt": "ושמואל אמר לך: אנא דאמרי אפילו לרבי אחא; עד כאן לא קאמר רבי אחא התם אלא דאזלינן בתר חזקה, דהוא גופיה מוחזק; אבל בתר רובא לא אזלינן.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rav-aha",
+    "reason": "Aha topic biography and tagged passages are inconsistent; preserve the Lod Amora profile but review the mixed passage assignments separately.",
+    "evidence": {
+      "ref": "Bava Batra 95b:6",
+      "url": "https://www.sefaria.org/Bava_Batra_95b%3A6",
+      "book": "Bava Batra",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Bava%20Batra/Hebrew/merged.json",
+      "export_segment_key": "189_Daf, 5_Line",
+      "mention": "רב אחא",
+      "excerpt": "איבעיא להו: \"מרתף של יין\" ולא אמר ליה למקפה, מאי? פליגי בה רב אחא ורבינא; חד אמר: מקבל, וחד אמר: לא מקבל.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rav-aha",
+    "reason": "Aha topic biography and tagged passages are inconsistent; preserve the Lod Amora profile but review the mixed passage assignments separately.",
+    "evidence": {
+      "ref": "Bava Batra 167a:7",
+      "url": "https://www.sefaria.org/Bava_Batra_167a%3A7",
+      "book": "Bava Batra",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Bava%20Batra/Hebrew/merged.json",
+      "export_segment_key": "332_Daf, 6_Line",
+      "mention": "רב אחא",
+      "excerpt": "ההוא שטרא דהוה חתים עליה רבא ורב אחא בר אדא. אתא לקמיה דרבא, אמר ליה: דין חתימות ידא דידי היא, מיהו קמיה דרב אחא בר אדא לא חתימי לי מעולם! כפתיה ואודי. אמר ליה: בשלמא דידי זייפת, אלא דרב אחא בר אדא, דרתית ידיה היכי עבדת? אמר: אנחי ידאי אמצרא. ואמרי לה: קם אזרנוקא וכתב.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic translated entity annotation; Hebrew alias must corroborate",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rav-aha",
+    "reason": "Aha topic biography and tagged passages are inconsistent; preserve the Lod Amora profile but review the mixed passage assignments separately.",
+    "evidence": {
+      "ref": "Bava Kamma 29a:9",
+      "url": "https://www.sefaria.org/Bava_Kamma_29a%3A9",
+      "book": "Bava Kamma",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Bava%20Kamma/Hebrew/merged.json",
+      "export_segment_key": "56_Daf, 8_Line",
+      "mention": "רב אחא",
+      "excerpt": "אמר רב אחא: כגון דעברה (במיא) דרך שרעתא דנהרא.",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rav-aha",
+    "reason": "Aha topic biography and tagged passages are inconsistent; preserve the Lod Amora profile but review the mixed passage assignments separately.",
+    "evidence": {
+      "ref": "Bava Kamma 50a:22",
+      "url": "https://www.sefaria.org/Bava_Kamma_50a%3A22",
+      "book": "Bava Kamma",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Bava%20Kamma/Hebrew/merged.json",
+      "export_segment_key": "98_Daf, 21_Line",
+      "mention": "רבי אחא",
+      "excerpt": "אמר רבי אחא: אף על פי כן, מת בנו בצמא. שנאמר: \"וסביביו נשערה מאד\" מלמד שהקדוש ברוך הוא מדקדק עם סביביו אפילו כחוט השערה. רבי נחוניא אמר מהכא: \"אל נערץ בסוד קדשים רבה, ונורא על כל סביביו\".",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rav-aha",
+    "reason": "Aha topic biography and tagged passages are inconsistent; preserve the Lod Amora profile but review the mixed passage assignments separately.",
+    "evidence": {
+      "ref": "Bava Kamma 54b:3",
+      "url": "https://www.sefaria.org/Bava_Kamma_54b%3A3",
+      "book": "Bava Kamma",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Nezikin"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Bava%20Kamma/Hebrew/merged.json",
+      "export_segment_key": "107_Daf, 2_Line",
+      "mention": "רב אחא",
+      "excerpt": "אמר ליה רב אחא לרבינא, והתניא: נפל לתוכו בר דעת פטור. מאי, לאו שור בר דעת? אמר ליה: לא, אדם. אלא מעתה, אדם בן דעת הוא דפטור, הא לאו בן דעת הוא דחייב? \"שור\" ולא אדם כתיב!",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  },
+  {
+    "original_identity_key": "sefaria:rav-aha",
+    "reason": "Aha topic biography and tagged passages are inconsistent; preserve the Lod Amora profile but review the mixed passage assignments separately.",
+    "evidence": {
+      "ref": "Zevachim 61b:5",
+      "url": "https://www.sefaria.org/Zevachim_61b%3A5",
+      "book": "Zevachim",
+      "corpus": [
+        "Talmud",
+        "Bavli",
+        "Seder Kodashim"
+      ],
+      "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Kodashim/Zevachim/Hebrew/merged.json",
+      "export_segment_key": "121_Daf, 4_Line",
+      "mention": "רב אחא",
+      "excerpt": "מתיב רב אחא בר אמי: אש שירדה מן השמים בימי משה לא נסתלקה מעל מזבח הנחושת אלא בימי שלמה, ואש שירדה בימי שלמה לא נסתלקה עד שבא מנשה וסילקה. ואם איתא, מעיקרא הוא דאיסתלק ליה!",
+      "excerpt_is_normalized": true,
+      "identity_attribution": "Sefaria topic Hebrew entity annotation",
+      "evidence_stratum": "primary_corpus"
+    }
+  }
+]

@@ -1,0 +1,416 @@
+{
+  "generated_at": "2026-09-17T23:44:20.195Z",
+  "merges": [
+    {
+      "target": "sefaria:avimi",
+      "from": "hewiki:872771",
+      "reason": "Second-generation Babylonian Amora and teacher of Rav Chisda; ten independently attributed shared passages including Bava Kamma 12a:4 and Ketubot 71b:7. Distinct from Hyman Avimi I (father of Ada bar Avimi)."
+    },
+    {
+      "target": "hewiki:2176997",
+      "from": "bonayich:2657",
+      "reason": "Same Ravnai, brother of Rabbi Hiyya bar Abba; matching Keritot 13a and Bava Batra 99a passages."
+    },
+    {
+      "target": "sefaria:rabbi-hizkiyah",
+      "from": "hewiki:1493473",
+      "reason": "Same Rabbi Hizkiyah in Yerushalmi Beitzah 1:2:2 and Berakhot 2:1:8; compatible fourth/fifth-generation Eretz Israel Amora profile."
+    },
+    {
+      "target": "sefaria:geniva",
+      "from": "heiman:381635",
+      "reason": "Hyman identifies Geniva as a leading pupil of Rav; four shared Berakhot and Yerushalmi passages."
+    },
+    {
+      "target": "sefaria:rebbi-yosana",
+      "from": "bonayich:1761",
+      "reason": "Same Rabbi Yosana speaking in Avodah Zarah 33b:6."
+    },
+    {
+      "target": "sefaria:antoninus1",
+      "from": "bonayich:520",
+      "reason": "Same Antoninus in the Avodah Zarah 10a–11a narratives and Berakhot 57b:17; seven shared primary passages."
+    },
+    {
+      "target": "sefaria:antoninus1",
+      "from": "heiman:333844",
+      "reason": "Hyman entry on Antoninus the Roman emperor, friend of Rabbi; shared Berakhot 57b:17 and Sanhedrin 91a passages with the Sefaria profile."
+    },
+    {
+      "target": "bonayich:2665",
+      "from": "heiman:1710092",
+      "reason": "Same Ronia in Bava Batra 5a and Bava Metzia 93b; Hyman biography matches the cited narratives."
+    },
+    {
+      "target": "bonayich:887",
+      "from": "heiman:1710512",
+      "reason": "Same Denku, money-changer in Rav Papa's time; shared Bava Kamma 99b passages."
+    },
+    {
+      "target": "bonayich:1012",
+      "from": "heiman:1710624",
+      "reason": "Same Zigod in the Tovya/Zigod proverb; shared Makkot 11a and Pesachim 113b."
+    },
+    {
+      "target": "bonayich:865",
+      "from": "heiman:1710480",
+      "reason": "Same Doratai family in Pesachim 70b; Hyman identifies Judah ben Doratai and his son."
+    },
+    {
+      "target": "bonayich:406",
+      "from": "heiman:333690",
+      "reason": "Same Alksa in Chagigah 18a; Hyman: great man in Lod in Rabbi Tarfon's time."
+    },
+    {
+      "target": "bonayich:517",
+      "from": "heiman:333838",
+      "reason": "Same Androlinai in Yevamot 115b; Hyman: contemporary of Samuel's father, not a Torah scholar."
+    },
+    {
+      "target": "bonayich:173",
+      "from": "heiman:333340",
+      "reason": "Same Ablat, gentile sage and friend of Samuel; shared Shabbat 129a passage."
+    },
+    {
+      "target": "bonayich:1009",
+      "from": "heiman:1710622",
+      "reason": "Same Zonin in Avodah Zarah 55a."
+    },
+    {
+      "target": "sefaria:herod",
+      "from": "heiman:1710566",
+      "reason": "Same Herod in Bava Batra 3b Temple narratives; two shared primary passages."
+    },
+    {
+      "target": "sefaria:rabbi-zakkai",
+      "from": "heiman:1710643",
+      "reason": "Same Rabbi Zakkai; shared Megillah 27b and Niddah 23b passages."
+    }
+  ],
+  "promoted_count": 1,
+  "promoted": [
+    {
+      "person_id": "a6eb4935-ff6c-5483-a870-406d535049be",
+      "identity_key": "sefaria:rebbi-yosana",
+      "canonical_name_he": "רִבִּי יוֹסָנָא",
+      "canonical_name_en": "Rebbi Yosana",
+      "aliases": [
+        {
+          "name": "Rebbi Yosana",
+          "language": "en",
+          "source": "https://www.sefaria.org/topics/rebbi-yosana"
+        },
+        {
+          "name": "רִבִּי יוֹסָנָא",
+          "language": "he",
+          "source": "https://www.sefaria.org/topics/rebbi-yosana"
+        },
+        {
+          "name": "רבי יוסנא",
+          "language": "he",
+          "source": "https://he.wikipedia.org/w/index.php?oldid=41384595"
+        },
+        {
+          "name": "Rabbi Yusna",
+          "language": "en",
+          "source": "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json"
+        },
+        {
+          "name": "רבי יוסנא",
+          "language": "he",
+          "source": "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json"
+        }
+      ],
+      "classification": "Amora",
+      "classification_assertions": [
+        {
+          "value": "Amora",
+          "source": {
+            "kind": "hebrew_wikipedia",
+            "url": "https://he.wikipedia.org/w/index.php?oldid=41384595",
+            "detail": "רבי יוסנא",
+            "pageid": 1493467,
+            "revision": 41384595,
+            "categories": [
+              "קטגוריה:הדור הרביעי לאמוראי ארץ ישראל",
+              "קטגוריה:קצרמר - כל הערכים",
+              "קטגוריה:קצרמר רבנים",
+              "קטגוריה:תלמידי רבי אמי"
+            ]
+          }
+        },
+        {
+          "value": "Amora",
+          "source": {
+            "kind": "sefaria_bonayich",
+            "url": "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json",
+            "detail": "BONAYICH:1761",
+            "original_type": "אמורא"
+          }
+        }
+      ],
+      "generation": [
+        {
+          "scheme": "Hebrew Wikipedia categories",
+          "value": "הדור הרביעי לאמוראי ארץ ישראל",
+          "source": "https://he.wikipedia.org/w/index.php?oldid=41384595"
+        }
+      ],
+      "region": "Eretz Israel",
+      "region_assertions": [
+        {
+          "value": "Eretz Israel",
+          "source": {
+            "kind": "hebrew_wikipedia",
+            "url": "https://he.wikipedia.org/w/index.php?oldid=41384595",
+            "detail": "רבי יוסנא",
+            "pageid": 1493467,
+            "revision": 41384595,
+            "categories": [
+              "קטגוריה:הדור הרביעי לאמוראי ארץ ישראל",
+              "קטגוריה:קצרמר - כל הערכים",
+              "קטגוריה:קצרמר רבנים",
+              "קטגוריה:תלמידי רבי אמי"
+            ]
+          }
+        }
+      ],
+      "teachers": [],
+      "students": [],
+      "family": [],
+      "locations": [],
+      "primary_chazal_evidence": [
+        {
+          "ref": "Jerusalem Talmud Bava Metzia 1:5:4",
+          "url": "https://www.sefaria.org/Jerusalem_Talmud_Bava_Metzia_1%3A5%3A4",
+          "book": "Jerusalem Talmud Bava Metzia",
+          "corpus": [
+            "Talmud",
+            "Yerushalmi",
+            "Seder Nezikin"
+          ],
+          "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Bava%20Metzia/Hebrew/merged.json",
+          "export_segment_key": "0_Chapter, 4_Halakhah, 3_Segment",
+          "mention": "רבי יוסנא",
+          "excerpt": "מציאת אשתו שגירשה. רבי יוסנא בשם רבי אחא. אדם שגירש אשתו ולא נתן לה כתובתה חייב במזונותיה עד שיתן לה פרוטה אחרונה. אמר רבי יוסי. מתניתא אמרה כן. מציאת אשתו שגירשה. אמר רבי הושעיה. שלא תאמר. הואיל וחייב במזונותיה עד שיתן לה פרוטה האחרונה תהא מציאתה שלו. לפום כן צרך מתניתא.",
+          "excerpt_is_normalized": true,
+          "identity_attribution": "Sefaria topic translated entity annotation; Hebrew alias must corroborate",
+          "evidence_stratum": "primary_corpus"
+        },
+        {
+          "ref": "Avodah Zarah 33b:6",
+          "url": "https://www.sefaria.org/Avodah_Zarah_33b%3A6",
+          "book": "Avodah Zarah",
+          "corpus": [
+            "Talmud",
+            "Bavli",
+            "Seder Nezikin"
+          ],
+          "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+          "export_segment_key": "65_Daf, 5_Line",
+          "mention": "רבי יוסנא",
+          "excerpt": "אמר רבי יוסנא אמר רבי אמי: כלי נתר אין (לו) [להן] טהרה עולמית. מאי כלי נתר? אמר רבי יוסי בר אבין: כלי מחפורת של צריף.",
+          "excerpt_is_normalized": true,
+          "identity_attribution": "Wikipedia citation plus Hebrew subject-name occurrence",
+          "evidence_stratum": "primary_corpus",
+          "secondary_identity_anchor": "https://he.wikipedia.org/w/index.php?oldid=41384595",
+          "secondary_citation_template": "{{בבלי|עבודה זרה|לג|ב}}"
+        },
+        {
+          "ref": "Jerusalem Talmud Bava Metzia 1:5:4",
+          "url": "https://www.sefaria.org/Jerusalem_Talmud_Bava_Metzia_1%3A5%3A4",
+          "book": "Jerusalem Talmud Bava Metzia",
+          "corpus": [
+            "Talmud",
+            "Yerushalmi",
+            "Seder Nezikin"
+          ],
+          "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Bava%20Metzia/Hebrew/merged.json",
+          "export_segment_key": "0_Chapter, 4_Halakhah, 3_Segment",
+          "mention": "רבי יוסנא",
+          "excerpt": "מציאת אשתו שגירשה. רבי יוסנא בשם רבי אחא. אדם שגירש אשתו ולא נתן לה כתובתה חייב במזונותיה עד שיתן לה פרוטה אחרונה. אמר רבי יוסי. מתניתא אמרה כן. מציאת אשתו שגירשה. אמר רבי הושעיה. שלא תאמר. הואיל וחייב במזונותיה עד שיתן לה פרוטה האחרונה תהא מציאתה שלו. לפום כן צרך מתניתא.",
+          "excerpt_is_normalized": true,
+          "identity_attribution": "Wikipedia citation plus Hebrew subject-name occurrence",
+          "evidence_stratum": "primary_corpus",
+          "secondary_identity_anchor": "https://he.wikipedia.org/w/index.php?oldid=41384595",
+          "secondary_citation_template": "{{ירושלמי|בבא מציעא|א|ה}}"
+        },
+        {
+          "ref": "Avodah Zarah 33b:6",
+          "url": "https://www.sefaria.org/Avodah_Zarah_33b%3A6",
+          "book": "Avodah Zarah",
+          "corpus": [
+            "Talmud",
+            "Bavli",
+            "Seder Nezikin"
+          ],
+          "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+          "export_segment_key": "65_Daf, 5_Line",
+          "mention": "רבי יוסנא",
+          "excerpt": "אמר רבי יוסנא אמר רבי אמי: כלי נתר אין (לו) [להן] טהרה עולמית. מאי כלי נתר? אמר רבי יוסי בר אבין: כלי מחפורת של צריף.",
+          "excerpt_is_normalized": true,
+          "identity_attribution": "Sefaria-Data pretagged bavli",
+          "evidence_stratum": "primary_corpus"
+        }
+      ],
+      "secondary_identity_evidence": [
+        {
+          "kind": "sefaria_identity",
+          "url": "https://www.sefaria.org/topics/rebbi-yosana",
+          "detail": "Sefaria person record; source metadata retained",
+          "properties": {
+            "dedup_needed": {
+              "value": "true",
+              "dataSource": "sefaria"
+            }
+          }
+        },
+        {
+          "kind": "hebrew_wikipedia",
+          "url": "https://he.wikipedia.org/w/index.php?oldid=41384595",
+          "detail": "רבי יוסנא",
+          "pageid": 1493467,
+          "revision": 41384595,
+          "categories": [
+            "קטגוריה:הדור הרביעי לאמוראי ארץ ישראל",
+            "קטגוריה:קצרמר - כל הערכים",
+            "קטגוריה:קצרמר רבנים",
+            "קטגוריה:תלמידי רבי אמי"
+          ]
+        },
+        {
+          "kind": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q30527573",
+          "detail": "Structured identity claims; retained separately from primary evidence"
+        },
+        {
+          "kind": "sefaria_bonayich",
+          "url": "https://github.com/Sefaria/Sefaria-Data/blob/master/research/knowledge_graph/named_entity_recognition/external_named_entities/sperling_named_entities.json",
+          "detail": "BONAYICH:1761",
+          "original_type": "אמורא"
+        }
+      ],
+      "notes": [
+        "Sefaria upstream marks dedup_needed; independently check aliases and external identifiers.",
+        "Research census only; not integrated into the Toladot live database."
+      ],
+      "review_reasons": [],
+      "external_ids": {
+        "hewiki_pageid": 1493467,
+        "wikidata": "Q30527573",
+        "sefaria_slug": "rebbi-yosana",
+        "bonayich": "BONAYICH:1761"
+      },
+      "traditional_identification": null,
+      "scholarly_disagreements": [],
+      "birth_year": null,
+      "death_year": null,
+      "identity_description": {},
+      "candidate_primary_occurrences": [
+        {
+          "ref": "Avodah Zarah 33b:6",
+          "url": "https://www.sefaria.org/Avodah_Zarah_33b%3A6",
+          "book": "Avodah Zarah",
+          "corpus": [
+            "Talmud",
+            "Bavli",
+            "Seder Nezikin"
+          ],
+          "export_source": "https://storage.googleapis.com/sefaria-export/cltk-flat/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/merged.json",
+          "export_segment_key": "65_Daf, 5_Line",
+          "mention": "רבי יוסנא",
+          "excerpt": "אמר רבי יוסנא אמר רבי אמי: כלי נתר אין (לו) [להן] טהרה עולמית. מאי כלי נתר? אמר רבי יוסי בר אבין: כלי מחפורת של צריף.",
+          "excerpt_is_normalized": true,
+          "identity_attribution": "ambiguous_shared_alias",
+          "evidence_stratum": "primary_corpus"
+        }
+      ],
+      "confidence": "high",
+      "identity_status": "resolved",
+      "lifecycle_status": "research_only",
+      "knowledge_state": "known",
+      "adjudicated_source_records": [
+        {
+          "identity_key": "bonayich:1761",
+          "person_id": "05ddfed8-fc1d-536f-a4c1-8a1d12d63311",
+          "external_ids": {
+            "bonayich": "BONAYICH:1761"
+          }
+        }
+      ],
+      "untransferred_source_fields": [
+        {
+          "identity_key": "bonayich:1761",
+          "teachers": [],
+          "students": [],
+          "birth_year": null,
+          "death_year": null,
+          "reason": "Assertion-level assessment remains separate; full source record retained in merged-source-records.json."
+        }
+      ]
+    }
+  ],
+  "separate_or_unresolved": [
+    {
+      "action": "separate_identity",
+      "batch": 4,
+      "identity_keys": [
+        "sefaria:avimi",
+        "heiman:333278"
+      ],
+      "status": "decided",
+      "reason": "Hyman Avimi I (father of Ada bar Avimi / Tachlifa bar Avimi in Eruvin 9b and Pesachim 107a) is a different person from the second-generation Babylonian Amora Avimi merged above.",
+      "primary_refs": [
+        "Eruvin 9b:12",
+        "Pesachim 107a:6"
+      ],
+      "sources": [
+        "https://he.wikisource.org/w/index.php?oldid=763241",
+        "https://he.wikisource.org/w/index.php?oldid=977897"
+      ]
+    },
+    {
+      "action": "insufficient_evidence",
+      "batch": 4,
+      "identity_keys": [
+        "sefaria:rabbi-hama-b-bisa",
+        "hewiki:2095590"
+      ],
+      "status": "unresolved",
+      "reason": "Three shared primary passages but conflicting Tanna (Wikipedia) vs Amora (Sefaria) classifications; cannot force merge without explicit source resolution.",
+      "shared_refs": [
+        "Ketubot 62b:13",
+        "Niddah 14b:4",
+        "Niddah 14b:8"
+      ]
+    }
+  ],
+  "counts_before": {
+    "tannaim": 213,
+    "amoraim": 597,
+    "amoraim_eretz_israel": 78,
+    "amoraim_babylonia": 127,
+    "amoraim_mixed_unknown": 392,
+    "total_unique_sages": 810,
+    "high_confidence_identities": 293,
+    "medium_confidence_identities": 517,
+    "manual_review_candidate_records": 3443,
+    "suspected_duplicate_pairs": 460,
+    "suspected_duplicate_candidate_records": 823,
+    "records_with_direct_primary_chazal_evidence": 810
+  },
+  "counts_after": {
+    "tannaim": 213,
+    "amoraim": 598,
+    "amoraim_eretz_israel": 79,
+    "amoraim_babylonia": 127,
+    "amoraim_mixed_unknown": 392,
+    "total_unique_sages": 811,
+    "high_confidence_identities": 294,
+    "medium_confidence_identities": 517,
+    "manual_review_candidate_records": 3425,
+    "suspected_duplicate_pairs": 439,
+    "suspected_duplicate_candidate_records": 794,
+    "records_with_direct_primary_chazal_evidence": 811
+  }
+}

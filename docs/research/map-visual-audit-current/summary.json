@@ -1,0 +1,274 @@
+{
+  "url": "http://127.0.0.1:3003/map",
+  "outDir": "C:\\Users\\Elazar\\Desktop\\פרוייקטים\\Toldot\\docs\\research\\map-visual-audit-current",
+  "auditFalsePositiveAnalysis": {
+    "domLabelCount": 10,
+    "strictHumanVisibleLabelsAfterLoad": 0,
+    "strictHumanVisibleLabelsAfterZoom": 0,
+    "hoverCardHumanVisible": true,
+    "detailPanelHumanVisible": true
+  },
+  "afterLoadSample": [
+    {
+      "text": "ירושלים",
+      "rect": {
+        "x": 2038.1328125,
+        "y": 684.578125,
+        "w": 43.734375,
+        "h": 15
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "block",
+        "color": "rgb(51, 81, 63)",
+        "fontSize": "12.5px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, -21.8672, 0)",
+        "pointerEvents": "none"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "BUTTON",
+          "class": "atlas-pin tier-major maplibregl-marker maplibregl-marker-anc",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "יבנה",
+      "rect": {
+        "x": 1963.4296875,
+        "y": 683.078125,
+        "w": 21.140625,
+        "h": 13.1875
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "block",
+        "color": "rgb(51, 81, 63)",
+        "fontSize": "11px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, -10.5703, 0)",
+        "pointerEvents": "none"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "BUTTON",
+          "class": "atlas-pin tier-important maplibregl-marker maplibregl-marker",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "text": "טבריה",
+      "rect": {
+        "x": 2106.1328125,
+        "y": 504.078125,
+        "w": 29.734375,
+        "h": 13.1875
+      },
+      "style": {
+        "opacity": "1",
+        "visibility": "visible",
+        "display": "block",
+        "color": "rgb(51, 81, 63)",
+        "fontSize": "11px",
+        "zIndex": "auto",
+        "transform": "matrix(1, 0, 0, 1, -14.8672, 0)",
+        "pointerEvents": "none"
+      },
+      "inViewport": false,
+      "coveredBy": {
+        "tag": "MAIN",
+        "class": "atlas"
+      },
+      "parentChain": [
+        {
+          "tag": "BUTTON",
+          "class": "atlas-pin tier-important maplibregl-marker maplibregl-marker",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "maplibregl-canvas-container maplibregl-interactive maplibreg",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-canvas maplibregl-map",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "atlas-stage",
+          "overflow": "hidden",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "MAIN",
+          "class": "atlas",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        },
+        {
+          "tag": "DIV",
+          "class": "",
+          "overflow": "visible",
+          "opacity": "1",
+          "visibility": "visible",
+          "zIndex": "auto"
+        }
+      ]
+    }
+  ],
+  "hoverCard": {
+    "text": "ירושליםמרכז ראשי · 21 חכמים · 1 מוסדותירושלים היא לב העולם התורני בימי בית שני: מקום המקדש והעבודה, מושב הסנהדרין בלשכת ",
+    "rect": {
+      "x": 663.125,
+      "y": 448.5625,
+      "w": 250,
+      "h": 202.375
+    },
+    "style": {
+      "opacity": "1",
+      "visibility": "visible",
+      "display": "block",
+      "zIndex": "6",
+      "transform": "matrix(1, 0, 0, 1, -125, -202.375)",
+      "left": "735.14px",
+      "top": "364.361px",
+      "pointerEvents": "auto"
+    },
+    "inViewport": true,
+    "coveredBy": null
+  },
+  "detail": {
+    "open": true,
+    "h2": "ירושלים",
+    "rect": {
+      "x": 71,
+      "y": 386.578125,
+      "w": 360,
+      "h": 510
+    },
+    "style": {
+      "opacity": "1",
+      "visibility": "visible",
+      "display": "block",
+      "zIndex": "5"
+    },
+    "inViewport": true,
+    "coveredBy": null
+  }
+}
